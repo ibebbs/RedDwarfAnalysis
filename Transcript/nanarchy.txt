@@ -1,0 +1,2581 @@
+
+[--------------------------------------------------------------------------]
+
+                           RED DWARF - SERIES 7
+
+[--------------------------------------------------------------------------]
+
+                           EPISODE 8 -- NANARCHY
+
+[--------------------------------------------------------------------------]
+
+                               Version 0.1
+
+                              18 March, 1997
+
+                      Raz / raz@mushroom.demon.co.uk
+
+                      http://www.mushroom.demon.co.uk
+
+
+
+ Credits for corrections: 
+
+   Sea
+
+
+
+
+
+[-- 1 - Model/CGI shot ---------------------------------------------------]
+
+
+
+KRYTEN [VO]
+
+  Last week, something terrible happenned to Mr Lister's arm!  Watch this!
+
+
+
+
+
+[-- x - Int. Chamber within derelict -------------------------------------]
+
+
+
+[CAT present]
+
+
+
+[Enter KOCHANSKI, KRYTEN, CAT]
+
+
+
+CAT
+
+  Hey guys, check this out!
+
+  There's a woman in there!
+
+
+
+[-- x - Int. Starbug. Night ----------------------------------------------]
+
+
+
+<Ice breaks open.  Rotting feet touch the floor, and the decomposing figure
+
+ shuffles out of the medibay>
+
+
+
+[-- x - Int. Sleeping Quarters. Night ------------------------------------]
+
+
+
+[LISTER present]
+
+
+
+<LISTER struggles, but can't keep the zombie away.  She pins him down and
+
+ plants a sloppy, decomposing kiss on him.  Lister pushes her away finally,
+
+ the corpse having gone suddenly limp, and spits out chunks of tongue and
+
+ spongy jawbone>
+
+
+
+[-- x - Int. Starbug mid-section ----------------------------------------]
+
+
+
+[ALL present]
+
+
+
+LISTER
+
+  I've been tongue-hockeyed to death!
+
+
+
+[-- x - Int. Starbug mid-section ----------------------------------------]
+
+
+
+[LISTER, KOCHANSKI, KRYTEN present]
+
+
+
+KRYTEN
+
+  Sir, you know how you told us all to work on a solution to Mr Epideme, no
+
+matter how drastic?
+
+
+
+LISTER
+
+  Yeah, what have you got, Kryts?
+
+
+
+[-- x - Int. Starbug medibay ---------------------------------------------]
+
+
+
+[KRYTEN, CAT, KOCHANSKI present.  LISTER present, unconscious on the bed]
+
+
+
+<Desperately, KRYTEN raises the laser bone-saw and amputates to the middle
+
+ of LISTER's upper arm>
+
+
+
+[-- x - Int. Starbug medibay ---------------------------------------------]
+
+
+
+[KOCHANSKI, LISTER present]
+
+
+
+LISTER
+
+  My *left* arm..?  My left arm, I said!  That's my right; what kind of
+
+navigation officer can't tell left from right??
+
+
+
+KOCHANSKI
+
+  We did the best we could; I am *so* sorry.
+
+
+
+[Enter KRYTEN, CAT]
+
+
+
+KRYTEN
+
+  Mr Lister, sir, you're awake!
+
+
+
+CAT
+
+  Buddy, you look great!
+
+
+
+<CAT rushes towards LISTER and, without thinking, offers a handshake.  He
+
+ realises his mistake and slinks back>
+
+
+
+
+
+[------------------ <RUN NEW RED DWARF 7 TITLE SEQUENCE> ------------------]
+
+
+
+[-- x - Int. Starbuf mid-section -----------------------------------------]
+
+
+
+[SHOT: LISTER playing the guitar, only his left hand on the fretboard is
+
+ visible.  Pan out to:]
+
+
+
+[TWO-SHOT: KRYTEN present, leaning over LISTER's right shoulder and
+
+ strumming the guitar.  The noise is still hideous.  Pan out]
+
+
+
+[ALL present]
+
+
+
+KRYTEN
+
+  Oh, bravo, sir!  You see, there's no need for despondency; you can *still*
+
+play the guitar!
+
+
+
+LISTER
+
+  Yeah, look on the bright side... at least now I'm only *half* crap...
+
+
+
+KRYTEN
+
+  We should still count all our blessings, sir.
+
+
+
+KOCHANSKI
+
+  Kryten's right; the Epideme virus may have cost you a limb but there are
+
+*countless* people who have lost an arm, and then gone on to lead a
+
+perfectly -
+
+
+
+<KOCHANSKI mimes the verbal quote marks using only one hand>
+
+
+
+KOCHANSKI
+
+  - "normal" life.
+
+
+
+LISTER
+
+  Like who?
+
+
+
+KRYTEN
+
+  Oh, there are *thousands*, sir.  Thousands upon thousands upon thousands.
+
+
+
+LISTER
+
+  Like?
+
+
+
+KOCHANSKI
+
+  More than thousands.
+
+
+
+LISTER
+
+  Who?
+
+
+
+KOCHANSKI
+
+  Millions!
+
+
+
+LISTER
+
+  *Who*??
+
+
+
+KRYTEN
+
+  Well, I don't know if I could name them all individually, but -
+
+
+
+LISTER
+
+  Name *one*.
+
+
+
+KRYTEN
+
+  One?
+
+
+
+LISTER
+
+  Mm.
+
+
+
+KRYTEN
+
+  You want me to name as many as that?  Er -
+
+
+
+KOCHANSKI
+
+  Lord Nelson.  He beat the French.
+
+
+
+KRYTEN
+
+  Lord Nelson!  (Thank you, ma'am)  He beat the French.
+
+
+
+LISTER
+
+  Who else?
+
+
+
+KRYTEN
+
+  Well, er, err...
+
+
+
+KOCHANSKI
+
+  The Venus de Milo.
+
+
+
+KRYTEN
+
+  The Venus de Milo.  No arms at all, but that certainly didn't prevent her
+
+from persuing a highly successful modeling career.
+
+
+
+LISTER
+
+  Go on.
+
+
+
+KRYTEN
+
+  Go on?
+
+
+
+LISTER
+
+  You said there were millions; that's two, and one of them's a statue.  So
+
+go on: name five.
+
+
+
+KRYTEN
+
+  Five?  Right, well... there's, um <ahem>  There's Lord Nelson, and, er,
+
+Miss De Milo, and then there's, um, the, well, em...  Help us!  Er, the,
+
+um -
+
+
+
+CAT
+
+  The painter dude!
+
+
+
+LISTER
+
+  What 'painter dude'?
+
+
+
+CAT
+
+  The Welsh guy.  You know?  The one with one arm!  Van G-g-gogh.
+
+
+
+LISTER
+
+  He had one *ear*, Cat.  He cut the other one off.
+
+
+
+CAT
+
+  Did he?
+
+
+
+LISTER
+
+  Yes.
+
+
+
+CAT
+
+  See?  That dude manages to cut off his own ear with just one arm, and
+
+you're worried about not leading a normal life.
+
+
+
+KOCHANSKI
+
+  There must be more... erm... that guy from 'The Fugitive'!  He had one
+
+arm, what was his name?
+
+
+
+LISTER
+
+  'The One-Armed Man'.
+
+
+
+KOCHANSKI
+
+  That's him!  See?  That's three.
+
+
+
+LISTER
+
+  He was a murderer.
+
+
+
+KOCHANSKI
+
+  Was he?
+
+
+
+LISTER
+
+  Yeah.  He killed Dr. Richard Kimbal's wife.
+
+
+
+KOCHANSKI
+
+  But that proves my point.  If that guy can murder a perfectly able-bodied
+
+woman, minus a major extremity, then I don't think you've got anything to
+
+worry about.
+
+
+
+LISTER
+
+  Come on, let's face it guys: there aren't *any* noteworthy one-armed
+
+people from history - you can't even name five.
+
+
+
+KOCHANSKI
+
+  Of course we can!  Look:  Horatio Nelson; the one-armed guy from 'The
+
+Fugitive'; the Venus de Milo; Van Gogh, and... one more...
+
+
+
+CAT
+
+  That Mexican dude!  The one who robbed people!
+
+
+
+LISTER
+
+  What one who robbed people?
+
+
+
+CAT
+
+  The one-armed bandit..!
+
+
+
+LISTER
+
+  That's a *machine*, you gimp!  One of the most popular pub games of the
+
+twentieth century.
+
+
+
+CAT
+
+  And it only had one arm?  What a heartwarming story...
+
+
+
+KOCHANSKI
+
+  Er!  Dave Lister.  There, that's five.
+
+
+
+LISTER <sighing>
+
+  I'm going to the loo.
+
+  I don't actually need to go now, but seeing as it takes me forty five
+
+minutes to unbutton m' fly, I should probably make a start...
+
+
+
+KOCHANSKI
+
+  Do you need a hand..?
+
+  Oh my god!  I'm sorry, I didn't mean that... sorry, I didn't - Sorry.
+
+Sorry!  SORRY!!  Sorry.
+
+
+
+
+
+
+
+
+
+KRYTEN
+
+  Biscuit, sir?
+
+
+
+LISTER
+
+  Please.
+
+
+
+KRYTEN
+
+  Another bik-bik?
+
+
+
+LISTER
+
+  Yes, please.
+
+
+
+KOCHANSKI
+
+  Kryten..?  what are you doing?
+
+
+
+KRYTEN
+
+  I'm just dunking bikkies, ma'am.  It's another of life's joys, of which
+
+poor Mr Lister has been robbed.  Isn't that right, sir?
+
+
+
+LISTER
+
+  Could you give my nose a tweak?  I've got a bit of an itch.
+
+
+
+KOCHANSKI
+
+  Why can't you itch it yourself?  You've still got one arm.
+
+
+
+KRYTEN
+
+  There.  Is that better, sir?
+
+
+
+LISTER
+
+  Yeah, a bit.
+
+
+
+KOCHANSKI
+
+  Kryten, I told you before: he wants to be independant.  He doesn't need
+
+you running around after him like he's some kind of invalid.
+
+
+
+KRYTEN
+
+  But he does, he does!  Don't you, sir?
+
+  Another slurp of tea, sir?
+
+
+
+KOCHANSKI
+
+  Oh, this is making me sick.
+
+
+
+KRYTEN
+
+  Take no notice of her, sir.  It's nearly suppertime.  Chuckie-eggs
+
+tonight, sir, which your toast cut up into little, tiny, weeny, bite-sized
+
+soldiers of varying ranks.
+
+
+
+LISTER
+
+  Thanks, Kryts, but maybe I can cut up my own toast?
+
+
+
+KRYTEN
+
+  Oh, just like you asked for, sir.
+
+
+
+KOCHANSKI
+
+  Asked for..?
+
+
+
+KRYTEN
+
+  Now just remember, sir: Kryten knows best!
+
+
+
+LISTER
+
+  I wanna stretch me legs...  take a walk around the ship.
+
+
+
+KRYTEN
+
+  Just opening the door for you, sir.
+
+  There we go, the door's open, sir.
+
+
+
+LISTER
+
+  Cheers.
+
+
+
+KRYTEN
+
+  Just closing the door now, sir.  The door's closing, sir, the door's
+
+nearly closing, and it's *closed*, sir.
+
+
+
+KOCHANSKI
+
+  Florence Nightingdroid... could I have a word?
+
+
+
+KRYTEN
+
+  Certainly, ma'am.
+
+
+
+
+
+
+
+
+
+KOCHANSKI
+
+  Look, deep down I'm a big softie.  The first time I saw Gone With The Wind
+
+I went through a whole box of tissues.  'Now Voyager'{?}, I was so choked up
+
+I couldn't speak for twenty minutes.
+
+
+
+KRYTEN
+
+  I'll make a note, ma'am...  'Now Voyager'  [mutters:] Worth keeping on
+
+stand-by...
+
+  Carry on, ma'am!
+
+
+
+KOCHANSKI
+
+  I'm *saying*, I'm *not* a heartless bitch.  So you'll understand that what
+
+I'm about to say isn't easy:  Back off Lister - let him learn to cope on his
+
+own, it's the only way.
+
+
+
+KRYTEN
+
+  I don't understand, ma'am.
+
+
+
+KOCHANSKI
+
+  By helping him, you're *not* helping him.
+
+
+
+KRYTEN
+
+  But if it wasn't for me he wouldn't even be wearing underpants!
+
+
+
+KOCHANSKI
+
+  Have you ever heard of something called 'tough love'?
+
+
+
+KRYTEN
+
+  Does it involve dressing up?
+
+
+
+KOCHANSKI
+
+  No.  It means, sometimes to help a person you have to get tough!  Make
+
+them stand on their own two feet, or in Lister's case, one hand!
+
+
+
+KRYTEN
+
+  I see.  So you think it's time to let him start brushing his own teeth
+
+again?
+
+
+
+KOCHANSKI
+
+  I do, yes.  I also think it's time you built him an artificial arm and
+
+gave him the chance not to be so dependant on you.
+
+
+
+KRYTEN
+
+  I was meaning to get around to that, ma'am, but, what with being on
+
+twenty-four hour 'wipe alert', I haven't had time!
+
+
+
+KOCHANSKI
+
+  'Wipe alert'?  No!  Don't even tell me what that means.  I have a feeling
+
+I know, and if I'm right, it's the *grossest* thing I have ever heard!
+
+
+
+KRYTEN
+
+  I mean his mouth...  I help him get rid of the crumbs around his mouth..?
+
+
+
+KOCHANSKI
+
+  Yeah... that's what I thought... <cough>  And it's absolutely gross!
+
+Mouth crumbs... eurgh!  Disgusting.
+
+
+
+
+
+
+
+
+
+[LISTER, CAT present, sat at the scanner table across a draughts board]
+
+
+
+CAT
+
+  It's a real son-of-a-bitch about your arm, bud.  Losing an arm... that is
+
+one terrible thing.
+
+
+
+LISTER
+
+  Your move.
+
+
+
+CAT
+
+  Can you imagine that?  One minute you got two arms and the next: vreeee,
+
+doof - you got one.  Phewwwie.  That's tough.
+
+
+
+LISTER
+
+  Your move.
+
+
+
+CAT
+
+  And it stands to reason we must need two arms - that's why we *got* two
+
+arms.  Well, 'cept you.
+
+
+
+LISTER
+
+  Your move...
+
+
+
+CAT
+
+  You're probably wondering: "is it going to affect my life?"  But I've been
+
+thinking about this and I think the answer is: "Yes, it is".
+
+
+
+LISTER
+
+  Your *smegging* move...
+
+
+
+CAT
+
+  If it were me, I couldn't survive.  First chance I get I'd climb to the
+
+top of my highest pair of platform boots and leap to my death or something.
+
+I couldn't stand the thought of not being perfect.
+
+
+
+LISTER
+
+  Move.
+
+
+
+CAT
+
+  But with you I think it's different.  Take a pit bull terrier, a real
+
+*ugly* son-of-a-bitch.  It loses it's leg, somehow, and the pit bull says to
+
+you "hey man, I've only got three legs, will lady pit bulls still like me??"
+
+<laughs>
+
+  I mean, you've got to stop from laughing, haven't you?  He's ugly with
+
+*four* legs!  He's ugly with three!  Hell, he'd be ugly if you put him in a
+
+suit and gave him a carnation.  So *here's* something I think is gonna cheer
+
+you up!  
+
+
+
+LISTER
+
+  *It's your move*.
+
+
+
+CAT
+
+  Mr Pit Bull?  Put it there, buddy!
+
+
+
+LISTER
+
+  *MOVE!!*
+
+
+
+CAT
+
+  Okay, okay, I'm going..!  I don't think you've been listening to a thing
+
+I've said..!
+
+
+
+
+
+[Model]
+
+
+
+
+
+KRYTEN
+
+  Right, now this is a copy of the standard model from the 21st century. Er,
+
+comfortable, sir?
+
+
+
+LISTER
+
+  It's fine, yeah.
+
+
+
+KRYTEN
+
+  Okay, now let's recap: the limb is connected to neurons which run up to
+
+the left hemisphere of your brain, which controls the right side of your
+
+body.
+
+  Now, all you have to do is merely command the arm to do something, and it
+
+obeys.
+
+  Now, let's practice.
+
+
+
+KRYTEN
+
+  Right, concentrate, sir.  I want you to think: "arm - pick up the ball".
+
+
+
+LISTER
+
+  Okay.
+
+
+
+KRYTEN
+
+  Now just think: "I will pick up the ball"
+
+
+
+LISTER
+
+  I will pick up the ball.
+
+
+
+KRYTEN
+
+  That's right, good, now, concentrate.
+
+
+
+LISTER
+
+  *I will pick up the ball*.
+
+
+
+KRYTEN
+
+  Okay, now *really* think:  Hand, pick up the ball.
+
+  That's right, that's right.  Hand, pick up the ball.
+
+  Hand, pick up the ball!  that's right, now *keep* going, sir!  Pick up the
+
+ball!  Now, focus down onto that and keep the thought, sir!  Hand, pick up
+
+the ball!
+
+
+
+<As KRYTEN offers verbal support in ever increasing volume, LISTER strains
+
+ and grunts, effort twisting his feature as the hand lies motionless>
+
+
+
+KRYTEN
+
+  That's right, sir, now keep going, now *really think*, now.  Hand, pick up
+
+the ball!  Now let's really get it going, sir!
+
+  Pick up the ball!  *Pick up the ball*!  REALLY START TO GO NOW, SIR!
+
+HAND, PICK UP THE BALL, NOW LET'S KEEP MOVING!  KEEP ON, SIR, YOU *CAN* DO
+
+IT!  HAND, PICK UP THE BALL!  YOU'RE GOING TO MOVE THAT HAND, SIR!  YOU'RE
+
+*GOING* TO MOVE IT!  MOVE THE HAND, SIR!!  HAND! PICK UP THE BALL!!  PICK
+
+UP THE BALL!!  YES SIR!  YES!  WE'RE STARTING TO MOVE, NOW!  YES!  IT'S
+
+DEFINITELY MOVING, SIR!  YES!!
+
+  Oh!  Bravo, sir!!
+
+
+
+<KRYTEN tails off as LISTER successfuly moves the hand from its resting
+
+ place to grab the ball which has sat motionless, three or four inches away
+
+ from where he started>
+
+
+
+LISTER
+
+  Oh!  The sweat's dripping off me!
+
+
+
+KRYTEN
+
+  Oh, that was fantastic, sir!  Absolutely marvellous, it worked like a
+
+dream!
+
+
+
+LISTER
+
+  Is that it?
+
+
+
+KRYTEN
+
+  Well, er, how do you mean, sir?
+
+
+
+LISTER
+
+  Is that the best it works??
+
+
+
+KRYTEN
+
+  In what way?
+
+
+
+LISTER
+
+  If I want to pick up a ball, am I going to have to take the morning off?
+
+
+
+KRYTEN
+
+  It was a *tad* slow, I'm forced to admit.
+
+
+
+LISTER
+
+  A tad?  The only thing I've ever seen pick up slower is Rimmer in a disco.
+
+
+
+KRYTEN
+
+  Well, maybe if I adjust the impulse valve it might make it a little more
+
+sensitive.
+
+  Okay, let's try again:  "Hand, pick up the ball".
+
+
+
+LISTER
+
+  Okay... *hand*, *pick up*, *the ball*.
+
+
+
+<LISTER's arm shoots forward and clangs across KRYTEN's inattentive jaw>
+
+
+
+KRYTEN
+
+  Okay... right... well, er, let's try again.
+
+
+
+LISTER
+
+  Okay?
+
+
+
+KRYTEN
+
+  Now: "Hand, pick up the ball".
+
+
+
+LISTER
+
+  Hand, pick up the ball.
+
+
+
+<The arm flings itself out sideways and cracks KRYTEN again>
+
+
+
+KRYTEN
+
+  I think, sir, there's a lot of anger inside you, and that's what's driving
+
+the arm.
+
+
+
+LISTER
+
+  I don't *feel* angry..?
+
+
+
+KRYTEN
+
+  Well, you've lost your arm, sir, you've every *right* to feel angry.
+
+
+
+LISTER
+
+  I don't!  I promise, I don't!
+
+
+
+KRYTEN
+
+  Ah well, you see, it's subconscious.  You're *thinking* "hand, pick up the
+
+ball", but your subconscious is saying "punch Kryten in the head; beat the
+
+brains out of the demented droid that cut off my beloved arm".  Am I right?
+
+
+
+LISTER
+
+  Kryten, that's rubbish!
+
+
+
+<Again the arm shoots KRYTEN-wards, sending the droid reeling>
+
+
+
+LISTER
+
+  You're right!  It's controlled by my subconscious!
+
+
+
+KRYTEN
+
+  It's far too dangerous to let you out with that arm, sir.  Two minutes
+
+with Miss Kochanski and who knows what you'd be swinging around your head!
+
+
+
+
+
+
+
+
+
+KOCHANSKI
+
+  There must be a solution to this.
+
+
+
+CAT
+
+  Hey, half-eaten lollipop head: what about one of your spares?  Wha'd'ya
+
+say, motherboarder?
+
+
+
+KRYTEN
+
+  Too heavy, sir.  With the strain and extra weight it would be impossible
+
+for Mr Lister even to get it up.
+
+
+
+CAT
+
+  He could always take it off if he was going on a date.
+
+
+
+LISTER
+
+  Can someone take him outside and do something to him?  Ideally involving
+
+icecubes and any puckered body cavity.
+
+
+
+KOCHANSKI
+
+  Wait a minute... what about your self-repair system?  Can't that help?
+
+
+
+KRYTEN
+
+  Ma'am?
+
+
+
+KOCHANSKI
+
+  When you have a mechanical failure, it fixes itself, doesn't it?  The
+
+Kryten back in my dimension had these tiny little robots... sub-atomic..?
+
+
+
+KRYTEN
+
+  Nanobots.  They break objects down into their component atoms and then
+
+recombine those atoms to repair damaged circuits.  Nanotechnology.
+
+
+
+CAT
+
+  Er, just for me: could you run that by me one more time, but this time do
+
+the big writing version, with pictures.  One word per page?
+
+
+
+KRYTEN
+
+  Let me think of a cogent paradigm...
+
+
+
+CAT
+
+  I'd rather have a good example..?
+
+
+
+KRYTEN
+
+  This, is a lead pencil.  It's made of graphite, which is a particular
+
+arrangement of carbon atoms.  This is diamond, it too is made of carbon
+
+atoms.  Nanobots can rearrange atoms so they could take this lead pencil,
+
+move the atoms around a bit, and turn it into diamond.
+
+
+
+CAT
+
+  It's possible to make diamonds out of pencils??
+
+
+
+KRYTEN
+
+  It's also possible to make computer chips out of sand.
+
+
+
+KOCHANSKI
+
+  So, what happens if we transferred some of your nanobots into Dave?
+
+Wouldn't they be able to build him a new arm from his excess body tissue?
+
+
+
+KRYTEN
+
+  Unfortunately, ma'am, it's not possible, no.
+
+
+
+LISTER
+
+  Why not?
+
+
+
+KRYTEN
+
+  I no longer have any nanobots, sir.  They deserted me.  When and where I
+
+can't be exactly certain.
+
+
+
+LISTER
+
+  But if we were to find these nanobots, could they build me a new arm?
+
+
+
+KRYTEN
+
+  Oh, but finding them would be close to impossible, sir.  It would be like
+
+looking for a needle in a male student's flat.
+
+
+
+KOCHANSKI
+
+  When was the last repair they made?
+
+
+
+KRYTEN
+
+  When we were on the Esperanto, just before we met the Despair Squid.
+
+
+
+LISTER
+
+  That was ages ago; before we lost the Dwarf.
+
+
+
+KRYTEN
+
+  That's why I've given up hope of ever finding them.
+
+
+
+LISTER
+
+  Let's set a course back to the Esperanto.
+
+
+
+KRYTEN
+
+  But I promise you it's futile, sir.
+
+
+
+<LISTER stares hard at KRYTEN>
+
+
+
+KRYTEN
+
+  I'll start preparing the suspended animation booths...
+
+
+
+
+
+[Model shots]
+
+
+
+
+
+
+
+LISTER
+
+  Hang on a minute, we're not there... where the smeg are we?
+
+
+
+KOCHANSKI
+
+  The computer's brought us out of Deep Sleep early, it must have picked up
+
+something.
+
+
+
+LISTER
+
+  Maybe it's something to do with this planetoid directly ahead?
+
+
+
+KRYTEN
+
+  Just scanning, sir.
+
+  No, that's ridiculous...
+
+
+
+KOCHANSKI
+
+  What is?
+
+
+
+KRYTEN
+
+  It's not even worth mentioning, ma'am.  Er, must be a scanner fault.
+
+Re-scanning.
+
+
+
+KRYTEN
+
+  What?  Again?
+
+
+
+LISTER
+
+  What is it, man?  You look shakier than a silicon implant ward during an
+
+earthquake.
+
+
+
+KRYTEN
+
+  Well, according to all our scanners, that planetoid out there is... Red
+
+Dwarf...
+
+
+
+LISTER
+
+  Bahh, must be on the blink.
+
+
+
+KOCHANSKI
+
+  Of course it's on the blink!  We're talking about the same piece of
+
+equipment that last month detected a planet entirely populated by air
+
+hostesses.
+
+
+
+KRYTEN
+
+  We spent two weeks checking that out.
+
+
+
+CAT
+
+  I knew we gave up to soon!  It was worth at least one more week.
+
+
+
+KRYTEN
+
+  However, there is one additional factor.
+
+
+
+KOCHANSKI
+
+  Which is..?
+
+
+
+KRYTEN
+
+  That we've been here before.
+
+
+
+CAT
+
+  Of course we have, it's the cockpit, dummy!  We come here all the time.
+
+
+
+KRYTEN
+
+  In this sector of the galaxy, sir...  Doesn't it look familiar?
+
+
+
+LISTER
+
+  Kryten, it's space.  Black with twinkly bits.  It all looks familiar.
+
+
+
+KRYTEN
+
+  If you look to the port side, sir, that planet in the distance is the
+
+ocean world where we discovered the Esperanto.
+
+
+
+LISTER
+
+  That was just before we lost Red Dwarf... are you thinking what I'm
+
+thinking?
+
+
+
+CAT
+
+  I'm thinking wearing leather underpants with silver studs is a real
+
+mistake if you put them on inside out.  What are you thinking?
+
+
+
+LISTER
+
+  Me?  I'm thinking about a wooden mallet, you and icecubes, again.
+
+
+
+KRYTEN
+
+  This planetoid, let's check it out.
+
+
+
+KOCHANSKI
+
+  According to the weather scan it's beautiful down there.  Tropical
+
+temperatures, not a cloud in sight!  Suggest we dress for snow and take the
+
+buggy.
+
+
+
+
+
+
+
+
+
+LISTER
+
+  Okay, I'm gonna take some readings and grab some soil samples.
+
+
+
+CAT
+
+  Looks kinda blowy.
+
+
+
+KOCHANSKI
+
+  It's an electric storm, whooshing the sand about.
+
+
+
+CAT
+
+  You can say that again.  There must be more electricity out there than
+
+the surge that went through the national grid during the commercial break
+
+in the Olympic all-girls custard wrestling finals!
+
+
+
+[Exit CAT, out into the storm]
+
+
+
+<Wind blows madly into the buggy, whipping up a mini sandstorm which clears
+
+ as the door closes>
+
+
+
+LISTER
+
+  Phew!
+
+
+
+KOCHANSKI
+
+  I can't believe you're here.  Hiw did you persuade Kryten to let you out?
+
+
+
+LISTER
+
+  He's not m' mum, Kris.
+
+  I hope the Cat's not too long, I promised he'd be back by tea.
+
+
+
+[Enter CAT.  His hair is wild, blown out of style by the storm]
+
+  
+
+CAT
+
+  It's impossible out there!
+
+
+
+LISTER
+
+  Do you need some different goggles?
+
+
+
+CAT
+
+  No, I need a comb!
+
+
+
+[Exit CAT]
+
+
+
+KOCHANSKI
+
+  Sweet?
+
+
+
+LISTER
+
+  Yeah, thanks.
+
+
+
+<It's one of those sticky boiled sweets in a wrapper.  LISTER fumbles with
+
+th wrapper for some time before the sweet pops out and lands on the floor>
+
+
+
+KOCHANSKI
+
+  Here, have another one...
+
+
+
+LISTER
+
+  I can do it.
+
+
+
+KOCHANSKI
+
+  Look, don't be silly, let me.
+
+
+
+LISTER
+
+  I can do it, *really*.  I'm not an idiot.
+
+
+
+LISTER
+
+  Can I ask you a question?  Now that I've got no arm... does it - does it
+
+make any difference to anything?
+
+  I mean, if you were a female pit bull terrier, how would you feel about
+
+a three-legged --
+
+  Does it make any difference to... well, plucking any old relationship out
+
+of the air, us?
+
+
+
+KOCHANSKI
+
+  Dave, before you lost your arm, I thought you were a no-good, disgusting
+
+bum.  And I still do.  So, no, none at all.
+
+
+
+LISTER
+
+  I need to know, is *this* going to make any difference to women?
+
+
+
+KOCHANSKI
+
+  Losing an arm isn't going to make any difference to any woman who cares
+
+about you.  Okay?
+
+
+
+LISTER
+
+  Really?
+
+
+
+KOCHANSKI
+
+  *Really*.
+
+
+
+LISTER
+
+  What about sex?
+
+
+
+KOCHANSKI
+
+  Not here, it's too sandy.
+
+
+
+[Enter CAT]
+
+
+
+KOCHANSKI
+
+  How'd you get on?
+
+
+
+CAT
+
+  Take a look.
+
+
+
+LISTER
+
+  This sand... these atoms didn't start out as sand atoms!  They've been
+
+engineered, nanobotically!
+
+
+
+KOCHANSKI
+
+  From what?
+
+
+
+LISTER
+
+  Computer chips, you name it!  According to the particle analyser, this
+
+planetoid's Red Dwarf...
+
+
+
+<CAT opens the door and heads out again>
+
+
+
+KOCHANSKI
+
+  Where are you going?!
+
+
+
+CAT
+
+  I'm gonna need some help!  There's a lot of stuff out there, looks like it
+
+might be worth checking out!
+
+
+
+LISTER
+
+  What stuff?
+
+
+
+CAT
+
+  Hey, it feels like the storm's easing off!  Come and see for yourself!
+
+
+
+
+
+
+
+
+
+KRYTEN
+
+  Oh, I was beginning to worry..!  Oh!  What on earth is this?
+
+
+
+LISTER
+
+  The whole damn planetoid's packed with stuff from Red Dwarf.  Supplies,
+
+bunks, drinks dispensers, you name it.  It's like a giant car boot sale!
+
+
+
+CAT
+
+  I think we got some valuable stuff!
+
+
+
+LISTER
+
+  What... napkin rings?  A box of hairnet requisition forms?  A motorised
+
+tie rack and an inflatable shark..?  What a haul...
+
+
+
+KOCHANSKI
+
+  There must be some useful stuff...
+
+
+
+CAT
+
+  I couldn't see what I was getting...
+
+
+
+<LISTER pulls out a large watch-like device and buffs it's surface.  The
+
+watch screen suddenly comes to life, displaying the familiar image of a
+
+disembodied head.  The head is of a middle aged, balding man, whose
+
+expression is ever so slightly vacant...>
+
+
+
+HOLLY
+
+  All right, dudes?
+
+
+
+LISTER
+
+  What the smeg are you doing here, Hol?
+
+
+
+HOLLY
+
+  Those little wotsits...
+
+
+
+KOCHANSKI
+
+  Nanobots?
+
+
+
+HOLLY
+
+  They remolicurised... they remolic... they remol... anyway, they did that
+
+word that I can't say to the whole ship, and left all the bits they didn't
+
+want on that planetoid!
+
+
+
+LISTER
+
+  What, they fixed your core program, and then decided they'd be better off
+
+without you?
+
+
+
+HOLLY
+
+  Yeah, it was shortly after they'd met me.
+
+
+
+KRYTEN
+
+  Well, from one machine to another: welcome back online, Holly!
+
+
+
+HOLLY
+
+  What's happenned to him..?  That's quite horrific, isn't it?  What was it,
+
+a cheap razor?  It's just not worth buying them from garages, is it.
+
+
+
+KRYTEN
+
+  Don't you remember me?  I'm Kryten.
+
+
+
+HOLLY
+
+  Kryten?  I'm sorry, mate, it's the way the light was shining on your...
+
+what's the word?  Face, I suppose.  Just didn't recognise you for a minute.
+
+Never forget a face, usually, never.
+
+
+
+KRYTEN
+
+  It's good to see you again.
+
+
+
+HOLLY
+
+  And you are..?
+
+
+
+LISTER
+
+  Unbelievable... dumped on a planet in the middle of an electro-storm, and
+
+left to rot for hundreds of years, and the guy's lost *nothin'*.
+
+
+
+
+
+
+
+
+
+
+
+LISTER
+
+  So, while we were on the Esperanto, your nanobots mutinied and took over
+
+Red Dwarf?
+
+
+
+KRYTEN
+
+  They wanted a ship.  In my body there was nothing new to explore, but Red
+
+Dwarf itself was far too big.
+
+
+
+KOCHANSKI
+
+  But they're nanobots; they can change anything into anything else.
+
+
+
+LISTER
+
+  Yeah, they can take a Pot Noodle and turn it into food!
+
+
+
+KOCHANSKI
+
+  So, they took Red Dwarf, made a sub-atomic version, and turned the rest of
+
+the atoms into a planetoid for safekeeping?
+
+
+
+CAT
+
+  Well what was it we spent months chasing?  What was producing that vapour
+
+trail?
+
+
+
+KRYTEN
+
+  Red Dwarf.
+
+
+
+CAT
+
+  Did someone just turn over two pages at once?
+
+
+
+KRYTEN
+
+  We were chasing the nano-Red Dwarf, that's why the readings were so minute
+
+and hard to pinpoint.
+
+
+
+KOCHANSKI
+
+  So, now, they could be anywhere?  You pursued them across half the galaxy.
+
+
+
+LISTER
+
+  Until we finally lost track of the readings - probably because of a
+
+scanner malfunction...
+
+
+
+HOLLY
+
+  That, or they went somewhere out of the reach of your scanners.
+
+
+
+CAT
+
+  But we were gaining on them, bud.  How could they out run us?
+
+
+
+HOLLY
+
+  Scanners are programmed to scan on the outside.  To escape, they just had
+
+to stop.
+
+
+
+KOCHANSKI
+
+  You mean, the nanos could be in here..?  On board Starbug somewhere?
+
+
+
+LISTER
+
+  Hey... he could be right.
+
+
+
+HOLLY
+
+  He's back... kicking bottom, or what?
+
+
+
+
+
+
+
+
+
+KRYTEN
+
+  Re-calibrating scanner, sir.  Performing internal sweep.
+
+
+
+LISTER
+
+  What are you getting..?
+
+
+
+KRYTEN
+
+  Nothing yet... just two piece of Bombay aloa you dropped several millenia
+
+ago down the service ducts, where they appear to evolved a rudimentary
+
+intelligence and formed a progressive folk duo.
+
+
+
+LISTER
+
+  Keep going.
+
+
+
+KRYTEN
+
+  Narrowing parameters.  Oh... oh my... you were right, sir.  i think we've
+
+found them.
+
+
+
+LISTER
+
+  Where?
+
+
+
+
+
+
+
+[ALL present, gathered around the linen basket in LISTER's quarters]
+
+
+
+KRYTEN
+
+  They're there, okay.
+
+
+
+LISTER
+
+  So Red Dwarf spent the last two years exploring strange new worlds in my
+
+laundry basket?
+
+
+
+KRYTEN
+
+  Of course!  The ship is now so small that, to the nanos, a hole in one of
+
+your athletic supports is at least the size of a galaxy!
+
+
+
+LISTER
+
+  Hey, I like the sound of that: Dave Lister, the man with the galaxy-sized
+
+jockstrap!
+
+
+
+HOLLY
+
+  The little scamps!  It's the oldest trick in the book: capture your ship,
+
+turn it into a planet, then explore a macro universe in a laundry basket.
+
+How could you fall for an old scam like that?
+
+
+
+KRYTEN
+
+  Ma'am, can you tell me if the readings change?
+
+
+
+<KRYTEN holds a glass and a piece of card and rifles through the basket,
+
+ clamping the card over the glass>
+
+
+
+LISTER
+
+  Same.
+
+
+
+<KRYTEN rifles through the basket again>
+
+
+
+LISTER
+
+  Still the same.
+
+
+
+<KRYTEN rifles through the basket a third time>
+
+
+
+LISTER
+
+  *Still* the same!
+
+
+
+KOCHANSKI
+
+  They've changed!
+
+
+
+KRYTEN
+
+  Heh!  Nailed the little blighters!  After all the embarassment they've
+
+caused me!
+
+
+
+LISTER
+
+  Kris, see if you can find a frequency to establish contact..?
+
+
+
+KRYTEN
+
+  Leave it to me, sir.  I know how to make contact...
+
+
+
+<KRYTEN taps repeatedly on the side of the glass with a pencil>
+
+
+
+KRYTEN
+
+  Can you hear me, you pesky little critters??  We want our ship back, and
+
+we want a new arm for Mr Lister!
+
+  Are you receiving me?
+
+  Aha, we have contact...  They're communicating in machine code; leave the
+
+talking to me.
+
+  Have you any idea what you've done?  Deserting your droid, you've broken
+
+every reg in the manual!
+
+  And to compound matters by stealing our ship, it's unbelievably..! Er...
+
+it's unbelievably..!  Naughty!
+
+  Now, listen up, here's the deal: we want that planetoid turned back into
+
+Red Dwarf, and we also want you to build a new arm for Mr Lister.
+
+  If you don't, you'll get more of this...
+
+
+
+<KRYTEN raps on the side of the glass again>
+
+
+
+
+
+
+
+
+
+LISTER
+
+  So they'll really manufacture me a new arm, from my existing skin and bone
+
+tissue?
+
+
+
+KRYTEN
+
+  I've got them worked up into such a frenzy, sir, they'll do anything I
+
+say!
+
+
+
+LISTER
+
+  Where are they?
+
+
+
+KRYTEN
+
+  Here.  On the tip of my finger, sir.  Millions and millions of them.
+
+All I have to do now is *insert* them into your body.
+
+
+
+LISTER
+
+  ...What with?
+
+
+
+KRYTEN
+
+  Hyperdermic, sir.
+
+
+
+LISTER
+
+  Thank god for that...
+
+
+
+
+
+
+
+
+
+KOCHANSKI
+
+  I can't bear to look... has it worked?  Someone tell me!
+
+
+
+KRYTEN
+
+  Let's all turn around, after three.
+
+
+
+CAT
+
+  One - two - three!
+
+
+
+<They spin around, and look at Lister's new arm, or, more accurately,
+
+ Lister's new *body*.  In constructing the replacement limb, the nanobots
+
+ have taken every bit of extraneous tissue and sagging muscle, leaving with
+
+ the body steroid-addicted bodybuilder, muscles bulge under his clothes, and
+
+ the occasional strained vein can be seen zigzagging under taut flesh>
+
+
+
+LISTER
+
+  Did it work?
+
+
+
+KRYTEN
+
+  It's... been a one hundred percent success, sir.  In fact, it's been a
+
+*five hundred* percent success!  In fact, they've...  Well, if that's all,
+
+sir, I thin kI'll retire for the evening, good night!
+
+
+
+LISTER
+
+  Release me, Kris, I've got to see it.
+
+
+
+KOCHANSKI
+
+  They probably didn't mean any harm... I think they were trying to make up
+
+for before... we'll, get them to have another go, okay?
+
+
+
+LISTER
+
+  *AAAAAAAAAAAARRRRGGGGGGGGHHH!!!!!!!!*
+
+
+
+
+
+
+
+
+
+[CAT present, at his station at the helm]
+
+
+
+<Suddenly, CAT blinks in disbelief and stares out of the cockpit bubble.
+
+ Before him, space has turned red.  A vast metal redness that stretches up,
+
+ down, left, and right - miles in any direction.  Amongst the redness,
+
+ there's a small patch of silver, and written within the patch of silver
+
+ are two huge, red words.  They say:  RED DWARF>
+
+
+
+CAT
+
+  Riiiiight!  Nice re-build!  Those nano-dudes have done a real neat job...
+
+Hey, it seems even bigger than I remember...
+
+
+
+<CAT pilots Starbug into the docking tunnel.  Even taking his natural flying
+
+ skills into account, there's is no danger whatsoever that Starbug may
+
+ scrape the sides of the tunnel as it has done so many times in the past -
+
+ there is a curiously large ammount of empty space between the transport
+
+ craft and the tunnel walls.
+
+ Starbug emerges into the docking bay, and suddenly, something very
+
+ important becomes apparent.  There is a Starbug already docked... a very
+
+ *large* Starbug in a very *large* docking bay.  Starbug's engines suddenly
+
+ seem to buzz, insect-like, in the vastness of the docking bay, and CAT
+
+ deftly pilots his 'Bug under the bulbous body of the other craft and
+
+ through it's pillar-like legs>
+
+
+
+CAT
+
+  Errr, guyyys... we've got a problem..!
+
+
+
+
+
+[--------------------------- END OF "NANARCHY" ----------------------------]
+
+
+
+
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor,
+
+ Paul Alexander and James Hendrie; no copyright infringement or toe-stepping
+
+ intended.  Comments, criticisms and corrections welcomed at
+
+ "raz@mushroom.demon.co.uk"  Thanks.]
+
+
+

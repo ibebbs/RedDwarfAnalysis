@@ -1,0 +1,2793 @@
+
+[--------------------------------------------------------------------------]
+
+                           RED DWARF - SERIES 7
+
+[--------------------------------------------------------------------------]
+
+                           EPISODE 7 -- EPIDEME
+
+[--------------------------------------------------------------------------]
+
+                               Version 0.7
+
+                            6 - 8 March, 1997
+
+                      Raz / raz@mushroom.demon.co.uk
+
+                      http://www.mushroom.demon.co.uk
+
+
+
+ Credits for corrections: 
+
+
+
+
+
+[-- 1 - Int. Starbug Cockpit ----------------------------------------------]
+
+
+
+[All present, at stations]
+
+
+
+CAT
+
+  What *is* that thing?
+
+
+
+KOCHANSKI
+
+  Astro-glacier.  Allotropically modified, surrounded by an envelope of
+
+luminous gases.
+
+
+
+CAT
+
+  Thanks!  That's most helpful!
+
+  [To LISTER:] What is it?
+
+
+
+LISTER
+
+  To you: a big iceberg.
+
+
+
+KOCHANSKI
+
+  I studied them in my first year in the Corps. but I've never seen one up
+
+this close before.  Isn't it incredible?  Look at those crystaline
+
+formations... they're fabbaroo!
+
+
+
+LISTER
+
+  You think all this sciency stuff's really interesting, don't you?  I bet,
+
+at school, you were always the one with the right coloured pencils, and the
+
+impossibly neat handwriting.  I bet even now you can probably tell us the
+
+average rainfall of the oil-rich coastal low-lands of Venezuela...
+
+
+
+KOCHANSKI
+
+  No I couldn't, I've no idea...
+
+  [BEAT]
+
+  Okay, three point four inches, so what?
+
+  Unlike you guys, my greatest accomplishment isn't a line on a loo wall
+
+somewhere marking my highest ever pee.
+
+
+
+KRYTEN
+
+  I'll have you know, ma'am, I too possess qualifications.
+
+
+
+CAT
+
+  What qualifications have you got, meat tenderiser head?
+
+
+
+KRYTEN
+
+  Why, I'm a fuly qualified Bachelor of Sanitation.  You may not know this,
+
+sir, but many years ago I completed my course at Toilet University, where I
+
+studied the lavatorial sciences.
+
+
+
+KOCHANSKI
+
+  Toilet University's just a piece of software, it's part of your core
+
+program.
+
+
+
+KRYTEN
+
+  I still had to complete a written examination to indicate the program was
+
+successfully installed.  Most interesting.  Did you know, for instance, that
+
+the first syphon-and-valve flushing system was patented in 1778 by Joseph
+
+Brehman, whose U-bend curvature equations are still --
+
+
+
+LISTER
+
+  Kryten!
+
+
+
+KRYTEN
+
+  Yes, sir?
+
+
+
+LISTER
+
+  Can this story maybe wait?  Ideally until after I'm dead?
+
+
+
+CAT
+
+  Well, speaking personally, I hardly didn't get no formal education at all.
+
+
+
+LISTER
+
+  No kidding, professor...
+
+
+
+CAT
+
+  No, it's true, bud.  That's why, sometimes, I don't know stuff.  Like...
+
+well, practically everything.
+
+
+
+KRYTEN
+
+  Was this because you brought yourself up, sir?
+
+
+
+CAT
+
+  Right.  There was no one else around, so I had to teach myself.  And
+
+seeing as I didn't know anything to begin with, lessons were long and slow;
+
+especially on Thursdays when I had double nothing.
+
+
+
+KOCHANSKI
+
+  So, what do we do about the ice..?
+
+
+
+KRYTEN
+
+  Well, water supplies *are* low, ma'am.  If the ice is uncontaminated, it
+
+might prove quite useful.
+
+
+
+KOCHANSKI
+
+  Okay, standard S.E.P. scan and log.
+
+
+
+KRYTEN
+
+  Locking on; scanning and logging.
+
+  Extraordinary...
+
+
+
+LISTER
+
+  What is it?
+
+
+
+KRYTEN
+
+  There's something buried deep in the heart of the astro-glacier - some
+
+kind of object...  it's huge; just processing.
+
+
+
+LISTER
+
+  Well?
+
+
+
+KRYTEN
+
+  It's a starship.
+
+
+
+
+
+[-- x - Int. Docking bay within derelict ---------------------------------]
+
+
+
+[ALL present]
+
+
+
+LISTER
+
+  This place is harder to get into than an airline chicken kiev!
+
+
+
+
+
+[-- x - Int. Chamber within derelict -------------------------------------]
+
+
+
+[ALL present]
+
+
+
+KRYTEN
+
+  It's the 'Leviathan', sir, a 23rd century JMC supply ship.  Engines are
+
+dead: power overload; looks like they were running from something.
+
+  Wait!  I'm picking up a lifesign.
+
+
+
+LISTER
+
+  Are you absolutely sure?
+
+
+
+KRYTEN
+
+  Certain.
+
+
+
+
+
+[-- x - Int. Chamber within derelict -------------------------------------]
+
+
+
+[ALL present]
+
+
+
+KOCHANSKI
+
+  I've never seen anything like this!
+
+
+
+LISTER
+
+  You weren't around for my last party, were you?
+
+
+
+KRYTEN
+
+  Look at their twisted, tortured faces!  The sheer blind terror.
+
+
+
+LISTER
+
+  Yaaaarggg!  Aarrrg!  Oh my god!
+
+
+
+KOCHANSKI
+
+  What is it?!
+
+
+
+LISTER
+
+  The back of my neck!  Great big gob of ice-water!
+
+  It was wet and horrible!
+
+
+
+[Exit KRYTEN, KOCHANSKI, CAT]
+
+
+
+LISTER
+
+  Went right down into m' crevice.
+
+
+
+[Exit LISTER]
+
+
+
+
+
+[-- x - Int. Chamber within derelict -------------------------------------]
+
+
+
+[CAT present]
+
+
+
+[Enter KOCHANSKI, KRYTEN, CAT]
+
+
+
+CAT
+
+  Hey guys, check this out!
+
+  There's a woman in there!
+
+
+
+KRYTEN
+
+  Just locating her JMC ident chip...  Ah.  Caroline Carmen.  According to
+
+the psi-scan, she was once a supply officer on Red Dwarf.
+
+
+
+LISTER
+
+  I remember her - she got re-posted to Titan.
+
+
+
+KOCHANSKI
+
+  You knew her?
+
+
+
+LISTER
+
+  Yeah - she made a pass at me once!
+
+
+
+KOCHANSKI
+
+  I don't believe you... a supply officer'd never go our with *you*.
+
+
+
+LISTER
+
+  She did, actually.  In fact, me and Karen had quite a thing going there
+
+for a really long time.
+
+
+
+KOCHANSKI
+
+  Caroline.
+
+
+
+LISTER
+
+  Caroline, yeah.  Karen's my *pet name* for her.
+
+
+
+KOCHANSKI
+
+  I don't believe a word.
+
+
+
+LISTER
+
+  Caroline Carmen and me, believe it!  Sexually, we're just *so* compatible.
+
+In fact, while I was dating her, the two women in the quarters next door
+
+nicknamed her Carmen Moans.  You could ask her if she was still alive.
+
+
+
+KRYTEN
+
+  She is, sir.  The lifesign appears to be coming from this very spot.
+
+
+
+LISTER
+
+  Does it?  Ah, well, she might not remember me *immediately*, she might
+
+have amnesia.
+
+
+
+CAT
+
+  Amnesia?
+
+
+
+LISTER
+
+  Yeah, ice does that.  Gives you amnesia.  Isn't that right, Kryts?
+
+
+
+KRYTEN
+
+  Er, I don't recall hearing that, sir.
+
+
+
+LISTER
+
+  Y'see?  It's affecting 'im already.
+
+  Okay, let's get her back to the bug.
+
+
+
+
+
+[-- x - Int. Starbug medibay ---------------------------------------------]
+
+
+
+[ALL present]
+
+
+
+KRYTEN
+
+  I've begun the water syphoning process from the Leviathan.  Any change
+
+here?
+
+
+
+CAT
+
+  It doesn't make sense, bud.  The ice won't melt, and this room's hotter
+
+than an English beer.
+
+
+
+LISTER
+
+  He's right.  The temperature's been a constant ninety degrees, and yet
+
+she's still completely cold and unresponsive.
+
+
+
+KRYTEN
+
+  Ah, what about Miss Carmen..?
+
+
+
+<KRYTEN turns away and shakes his shoulders, overplaying his joke>
+
+
+
+LISTER <smiling>
+
+  I was *talking* about Miss Carmen...
+
+
+
+KOCHANSKI
+
+  It's as if the body's generating the ice as a form of protection.
+
+
+
+LISTER
+
+  Maybe we should just laser it?
+
+
+
+KRYTEN
+
+  Reccommend we wait until the chemical analysis results are completed in
+
+the morning, sir.  Any hasty lasering could result in lasting damage to the
+
+body.
+
+
+
+CAT
+
+  Do you really think she's still alive in there?
+
+
+
+KOCHANSKI
+
+  She must be.
+
+
+
+
+
+[-- x - Int. Starbug. Night ----------------------------------------------]
+
+
+
+<Ice breaks open.  Rotting feet touch the floor, and the decomposing figure
+
+ shuffles out of the medibay.  Driven by an unknown force, the woman finds
+
+ herself outside the sleeping quarters.  Spotting LISTER, asleep in his
+
+ bunk, the woman lets out a sigh of satisfaction, approaches LISTER and
+
+ slips under his duvet.  LISTER half-wakes, and not only gets the wrong end
+
+ of the stick, but manages to get splinters in all four fingers and two in
+
+ his thumb>
+
+
+
+LISTER
+
+  Well, well, well, well... this is a bit of a turn up, isn't it..?  Eh?
+
+You just couldn't stay away, could you, Kris?
+
+  Hey, what're you doing?  Hey, wait!  What're you doing?? <Laughs>
+
+
+
+<The hideous spectre pulls out LISTER's longjohns and tosses them away>
+
+
+
+LISTER <mock offended>
+
+  And what makes you so damn sure I'm interested..?  *You* dumped *me*,
+
+remember?  You think you can just jump in m' bed and I'm yours?
+
+  Well, as it happens you're right, but let me tell you, it was a pretty
+
+close thing.
+
+
+
+<The ghastly creature begins to nibble at LISTER's ear>
+
+
+
+LISTER
+
+  Mmm.  It's good to feel your sweet breath against my neck again...
+
+
+
+<A knock issues from the hatchway>
+
+
+
+LISTER
+
+  Smeg!  It's Kryten!  It's Kryten!  Quick - quick, in the shower.  *In the
+
+shower*...
+
+
+
+<In the darkness, LISTER throws the blanket over 'Kris' and herds her into
+
+ the shower cubicle.  He grabs a towel and ties it around himself>
+
+
+
+LISTER
+
+  Smeg...
+
+
+
+<LISTER opens the hatch>
+
+
+
+[Enter KRYTEN]
+
+
+
+KRYTEN
+
+  Are you alone, sir?
+
+
+
+LISTER
+
+  Yeah.
+
+
+
+KRYTEN
+
+  Well, I just thought I'd come in and dust your quarters.
+
+
+
+LISTER
+
+  It's two o'clock in the mornin', man!
+
+
+
+KRYTEN
+
+  Ah, yes, well this *is* an *emergency* dust, you see, sir.  My sensors
+
+have picked up *vast* quantities of dust in this region and I simply *must*
+
+dust, right now!
+
+
+
+<LISTER blocks the hatway as KRYTEN tries to pass through>
+
+
+
+LISTER
+
+  I'll take the risk, man!
+
+
+
+KRYTEN
+
+  Ah, I simply can't allow that, sir.
+
+
+
+<KRYTEN feints left, right left and scurries past LISTER at high speed>
+
+
+
+KRYTEN
+
+  Ahh!  Double bed mode... hmm...
+
+  I'll just, ahem, dust inside your wardrobe, sir.
+
+
+
+<KRYTEN wrenches the door open>
+
+
+
+KRYTEN
+
+  Under your spare bunk duvet...
+
+
+
+<KRYTEN sends the cover flying>
+
+
+
+KRYTEN
+
+  Hmmm... in your other wardrobe.
+
+
+
+LISTER
+
+  Kryten, man, I'm trying to get some kip!
+
+
+
+KRYTEN
+
+  She's *in* here, isn't she!
+
+
+
+LISTER
+
+  I don't know what you mean, man...
+
+
+
+KRYTEN
+
+  You promised me you wouldn't like her more than me!  You promised!
+
+
+
+LISTER
+
+  Kryten... listen, erm, look it's like --
+
+
+
+KRYTEN
+
+  It's because she's got a better shaped head than me, isn't it!
+
+
+
+LISTER
+
+  Not again, man, no!  No!
+
+
+
+KRYTEN
+
+  It is!
+
+
+
+LISTER
+
+  I *like* your head!
+
+
+
+KRYTEN
+
+  Not as much as you like hers!
+
+
+
+LISTER
+
+  What are you talking about?  You've got one of the all-time great heads -
+
+it's attractive, it's functional, it - it's almost perfect for carving a
+
+sunday roast!
+
+
+
+[Enter KOCHANSKI]
+
+
+
+KRYTEN
+
+  She's in the shower, isn't she!  *ISN'T SHE*!?
+
+
+
+KOCHANSKI
+
+  Who?
+
+
+
+KRYTEN
+
+  Miss Kochanski!  Who'd you think!?  Madam Curie??
+
+
+
+KOCHANSKI
+
+  What is all this noise about?  I can't sleep!
+
+
+
+<KRYTEN does a double-, then a triple-take>
+
+
+
+KRYTEN
+
+  <Ahem>  Forgive me, sir.  Shame mode.  Excuse me, ma'am...
+
+
+
+[Exit KRYTEN]
+
+
+
+LISTER
+
+  How the hell did you *do* that..?  Of course!  You slipped out through the
+
+vent shaft, and dropped into the corridor - brilliant!
+
+
+
+KOCHANSKI
+
+  What?
+
+
+
+LISTER
+
+  You're a genius, an absolute genius!
+
+
+
+KOCHANSKI
+
+  What are you doing??
+
+
+
+LISTER
+
+  I'm unbuttoning your shirt...
+
+
+
+KOCHANSKI
+
+  What are you doing that for?!
+
+
+
+LISTER
+
+  'Cos we've got a little unfinished business!
+
+
+
+KOCHANSKI
+
+  That was a *long* time ago, things are very different now!
+
+
+
+LISTER
+
+  Look, he's gone - don't worry about Kryten; now come on, get y' kit off,
+
+and I'll go and slip into m' Batman outfit.
+
+
+
+KOCHANSKI
+
+  You really believe in being direct, don't you...
+
+
+
+LISTER
+
+  Aww, come on, rumpy-pumpy, Kris - let's hit the springs?
+
+
+
+<Not quite believing what she's hearing, KOCHANSKI pulls her arm back and
+
+delivers a direct and to-the-point Space Corps right cross straight across
+
+LISTER's jaw>
+
+
+
+KOCHANSKI
+
+  That's your idea of seduction, is it??  Well, forget it, Lister!  Not if
+
+you were the last man alive...
+
+
+
+LISTER
+
+  I *am* the last man alive.
+
+
+
+KOCHSNSKI
+
+  I rest my case...
+
+
+
+[Exit KOCHANSKI]
+
+
+
+LISTER
+
+  What did I do wrong..?  *What*?
+
+
+
+<LISTER dejectedly heads back to bed, and remembers the bed linen now
+
+ discarded in the shower cubicle>
+
+
+
+LISTER
+
+  Oh!  Duvet...
+
+
+
+<LISTER heads back to the shower cubicle, and suddenly finds that his duvet
+
+is not alone>
+
+
+
+LISTER
+
+  Oh my god!  Caroline!  You've really let yourself go...
+
+  You could audition for about nine hundred Clearasil commercials!
+
+
+
+<LISTER tries to push Carmen back, and a soggy ear comes off in his hand>
+
+
+
+LISTER
+
+  Sorry...
+
+
+
+<LISTER struggles, but can't keep the zombie away.  She pins him down and
+
+ plants a sloppy, decomposing kiss on him.  Lister pushes her away finally,
+
+ the corpse having gone suddenly limp, and spits out chunks of tongue and
+
+ spongy jawbone>
+
+
+
+LISTER
+
+  God!
+
+
+
+KRYTEN
+
+  Are you all right, sir!?
+
+
+
+LISTER <breathing heavily>
+
+  I've just been molested by Tutunkamun's<sp> horny grandma!  Of course
+
+I'm not smeggin' all right!
+
+  Eurgh!  The taste!  I need to to go and gargle with a toilet duck!
+
+
+
+KRYTEN
+
+  She's dead, sir - and, curious, it appears she's been dead for three
+
+million years...
+
+
+
+LISTER
+
+  Er, if she's been dead for three million years, where did the lifesigns
+
+come from?
+
+
+
+KRYTEN
+
+  Hmm, good point, sir; and, more to the point, where did they go..?
+
+
+
+<LISTER, hyperventilating now, keels over and faints>
+
+
+
+
+
+[-- x - Int. Starbug mid-section ----------------------------------------]
+
+
+
+[ALL present]
+
+
+
+LISTER
+
+  I feel really lousy...
+
+
+
+KOCHANSKI
+
+  Oh, you're probably just in shock, don't be such a baby.
+
+
+
+KRYTEN
+
+  Miss Kochanski, ma'am, if I may say so, your bedside manner leaves
+
+something to be desired.
+
+
+
+KOCHANSKI
+
+  Like what?
+
+
+
+KRYTEN
+
+  Well, like a bedside manner!
+
+
+
+LISTER
+
+  You think I'm a hyperchondriac?
+
+
+
+KOCHANSKI
+
+  You're a man, aren't you?  I mean, you all get the common cold and you
+
+think it's malaria.
+
+
+
+KRYTEN
+
+  Oh, and women, of course, are different?
+
+
+
+LISTER
+
+  They just have a different perspective on pain, Kryten.  As would you if,
+
+every summer, you had to pour hot wax on your crotch and rip out half your
+
+thatch.
+
+
+
+CAT
+
+  He's right, I hate doing that.
+
+
+
+KRYTEN
+
+  The tests are complete, and... there's, a foreign substance in your blood,
+
+and... well, I recognise the DNA, sir.
+
+
+
+CAT
+
+  Is that good or bad?
+
+
+
+KRYTEN
+
+  It's the epideme virus, sir.  Er, a man-made parasite created as a rival
+
+to the nicotine patch.  Epideme was an intelligent organism, designed to
+
+block all neural signals relating to nicotine craving, but in practice, it
+
+also blocked the signals telling the body it needed blood and oxygen.
+
+
+
+CAT
+
+  Is *that* why the Carmen chick looked like the centerfold from this
+
+month's Playzombie?
+
+
+
+KRYTEN
+
+  Precisely.  It's virtually unstoppable.  For the first forty-eight hours
+
+it consumes its host, then hijacks the corpse and goes looking for a new
+
+victim...  When it can't find one, it freezes the body and waits.
+
+
+
+CAT
+
+  So, the lifesigns on the Leviathan --
+
+
+
+KOCHANSKI
+
+  Didn't belong to Carmen, but to the parasite inhabiting her body...  Which
+
+passed to you the moment she... well...
+
+
+
+LISTER
+
+  Slipped her mouth-meat down m' gullet?  I've been tongue-hockeyed to
+
+death!  In forty-eight hours I'm going to be deader than a Saturday night in
+
+Salt Lake City!
+
+
+
+KRYTEN
+
+  There *is* one option, sir...  I believe you might have a chance if you,
+
+well, reason with it.
+
+
+
+LISTER
+
+  Reason with *what*?
+
+
+
+KRYTEN
+
+  The virus, sir.  After all, it is intelligent.
+
+
+
+LISTER
+
+  Kryten, are you neural circuits picking up interference from the tumble-
+
+drier again?
+
+
+
+KRYTEN
+
+  If we can patch in the universal translator, it might just be possible to
+
+talk to it.  I believe it's your only chance, sir.
+
+
+
+
+
+[-- x - Int. Starbug medibay ---------------------------------------------]
+
+
+
+[ALL present]
+
+
+
+KRYTEN
+
+  It's a long shot, I know, but if we can reason with it, we might pursuade
+
+it to leave.  Now, remember: be charming.
+
+
+
+LISTER
+
+  Be charming to my virus... right.
+
+
+
+KRYTEN
+
+  Patching in the U.T...
+
+
+
+<A floating, holographic screen spins into existance.  On it is rendered
+
+ something akin to a pulsating, animated Julia Set fractal, in colours of
+
+ red and green>
+
+
+
+EPIDEME
+
+  Aaaand a great big "Hi!" to all of you out there in flesh-and-blood land!
+
+And tonight, Dave Lister, assistant vending machine sub-operative, and spice
+
+food conneseur, this is your *death*!
+
+
+
+<The epideme virus has a loud, intimidatingly brash voice, and is somewhat
+
+ reminiscent of The Plant from Little Shop Of Horrors.  The fractal image
+
+ expands and contracts to match the virus's tone and inflections>
+
+
+
+EPIDEME
+
+  Your line...
+
+
+
+KRYTEN
+
+  I take it we're speaking with the epideme virus..?
+
+
+
+EPIDEME
+
+  Give that man an eyebrow!  Heyyy, I'm feeling generous, give him two!
+
+
+
+KRYTEN
+
+  Well, er, maybe we should, um, can I --
+
+
+
+EPIDEME
+
+  *Dave*... let's run down the rules.  If you win: *you* get to live; if I
+
+win: you get to die, and I take all your knowledge then I kill you...
+
+
+
+LISTER
+
+  What?  You absorb knowledge from every person you kill?
+
+
+
+EPIDEME
+
+  So, as you can appreciate, killing you ain't exactly a career highlight...
+
+No offence, but when you're a virus there's not much call for knowing how to
+
+open a lager bottle with your *anus*.
+
+
+
+LISTER
+
+  How can you justify killing another living being?
+
+
+
+EPIDEME
+
+  How about that chicken you *biriani'd* last night?  How can you justify
+
+killing that??
+
+
+
+LISTER
+
+  Me and the chicken... it was different.
+
+
+
+EPIDEME
+
+  How's that, David..?
+
+
+
+LISTER
+
+  Well, I'm a person, it was a curry.
+
+
+
+EPIDEME
+
+  He died so *you* could go on living; is that so different from what I'm
+
+doing?
+
+
+
+LISTER
+
+  Of course it is!  Totally!  I'm a human being, Ihave certain qualities
+
+that elevate me above poultry!  I can think; I can play the guitar --
+
+
+
+CAT
+
+  Better than a chicken?  Are you crazy?
+
+
+
+KRYTEN
+
+  We're losing the argument, sir!  You better move on to another
+
+subject.
+
+
+
+LISTER
+
+  I'm the last guy alive!
+
+
+
+EPIDEME
+
+  *And that gives you more right to exist than me..?*
+
+
+
+LISTER
+
+  Well, yeah... because --
+
+
+
+EPIDEME
+
+  Time for your species to check out, Davey.  Arevaderche, humies...
+
+
+
+
+
+[-- x - Int. Starbug mid-section ----------------------------------------]
+
+
+
+[LISTER present, patched into the universal translator.  EPiDEME virus
+
+ visible on it's screen]
+
+
+
+EPIDEME
+
+  David, come on... you've got a virus; it's fatal - it happens.  Doesn't
+
+mean we can't be friends!
+
+
+
+<Frustrated, LISTER reaches to disengage the translator>
+
+
+
+EPIDEME
+
+  Don't touch that dial!!
+
+
+
+[Exit EPIDEME]
+
+
+
+[Enter KRYTEN, KOCHANSKI]
+
+
+
+KRYTEN
+
+  Sir, you know how you told us all to work on a solution to Mr Epideme, no
+
+matter how drastic?
+
+
+
+LISTER
+
+  Yeah, what have you got, Kryts?
+
+
+
+KRYTEN
+
+  A solution, sir, but, er...
+
+
+
+LISTER
+
+  What?
+
+
+
+KRYTEN
+
+  It's too drastic.
+
+
+
+LISTER
+
+  Tell.
+
+
+
+KRYTEN
+
+  Well, what we thought was - you see -
+
+
+
+<KRYTEN's speech collapses into unintelligible babbling>
+
+
+
+KOCHANSKI
+
+  We want to cut off your arm.
+
+
+
+LISTER
+
+  You what??
+
+
+
+KRYTEN <hisses to KOCHANSKI>
+
+  It's a stupid idea!  I told you it was a stupid idea!
+
+
+
+KOCHANSKI <hisses back>
+
+  It was your idea!
+
+
+
+KRYTEN <to KOCHANSKI>
+
+  Are you saying I'm stupid?
+
+
+
+KOCHANSKI <hissing back>
+
+  No!  I'm saying it was your stupid idea!
+
+
+
+<KOCHANSKI recovers her dignity and addresses LISTER again>
+
+
+
+KOCHANSKI
+
+  It's our only chance to save you.  It could be worse...
+
+
+
+LISTER
+
+  What, you mean I could be planning a career in archery?
+
+
+
+KOCHANSKI
+
+  You could be *dead*.  Now, you said you'd consider anything, well, this is
+
+it.
+
+
+
+LISTER
+
+  Can I have some details?  Something a little bit more inspiring than "can
+
+I hack off your limb?"
+
+
+
+KRYTEN
+
+  The plan is to inject anti-virals in a precise pattern through your body,
+
+forcing epideme into your arm.
+
+
+
+LISTER
+
+  And then you cut it off.  Great plan.
+
+  What choice have I got...
+
+  Okay, but make it my left arm, okay.  'Cause my right arm does all my
+
+favourite things.
+
+
+
+KRYTEN
+
+  Okay, sir.
+
+
+
+KOCHANSKI
+
+  Let's go!  Chop-chop!
+
+
+
+<KOCHANSKI winces, hearing her badly-chosen words too late>
+
+
+
+KOCHANSKI
+
+  Sorry...
+
+
+
+
+
+[-- x - Int. Starbug medibay ---------------------------------------------]
+
+
+
+[KRYTEN, CAT, KOCHANSKI present.  LISTER present, unconscious on the bed]
+
+
+
+KRYTEN
+
+  Injecting anti-virals.
+
+
+
+KOCHANSKI
+
+  Okay, virus heading north.  Grid coordinate one-oh-nine point four.
+
+
+
+KRYTEN
+
+  Ah, the pancreas.
+
+
+
+KOCHANSKI
+
+  One-oh-four point two, on my mark...  Mark.
+
+  And heading for the left shoulder: Three-oh-nine point zero...
+
+  No, no, no, no!  Three-oh-eight!  Three-oh-eight!
+
+  It's heading away from his left arm - four-oh-six point nine... point
+
+eight... four-oh-six point five...
+
+  Virus heading into his right arm --
+
+
+
+KRYTEN
+
+  The right arm, it's our only chance.
+
+  Laser bone saw, sir, quickly!  Amputation mode: cut and cauterise!
+
+
+
+<KRYTEN raises the saw and slices off LISTER's hand>
+
+
+
+KOCHANSKI
+
+  It's not enough.
+
+
+
+<KRYTEN saws off another three inches>
+
+
+
+KOCHANSKI
+
+  Still not enough.
+
+
+
+<The saw buzzes again, and another two or three inches of forearm land in
+
+ the tissue disposal sack>
+
+
+
+KOCHANSKI
+
+  Still not enough!
+
+
+
+<KRYTEN slices off what is left of LISTER's entire right forearm>
+
+
+
+KOCHANSKI
+
+  Still not enough.
+
+
+
+<Desperately, KRYTEN raises the amputation to the middle of LISTER's upper
+
+ arm>
+
+
+
+KOCHANSKI
+
+  Okay!
+
+  If this doesn't work, we're out of options.
+
+
+
+CAT
+
+  Whether it works or not, it's gonna be a cold day in hell before touch
+
+barbecue wings again!
+
+
+
+
+
+[-- x - Int. Starbug medibay ---------------------------------------------]
+
+
+
+[LISTER present, asleep on the bed.  KOCHANSKI present, seated by the
+
+ bedside, reading]
+
+
+
+<LISTER wakes and peers at his left arm.  Seeing it still there he smiles
+
+ with relief.  Then, glancing to his right, he suddenly realises that *that*
+
+ arm has gone - he lets out an involuntary whimper>
+
+
+
+KOCHANSKI <speaking into a comm unit>
+
+  He's awake!
+
+
+
+LISTER
+
+  My *left* arm..?  My left arm, I said!  That's my right; what kind of
+
+navigation officer can't tell left from right??
+
+
+
+KOCHANSKI
+
+  We did the best we could; I am *so* sorry.
+
+
+
+LISTER
+
+  Where is it?
+
+
+
+KOCHANSKI
+
+  We flushed it into space, we had to.
+
+
+
+LISTER
+
+  Ohh, my right arm...  I did *everything* with that arm; we were
+
+inseperable!  At least, I thought we were.
+
+
+
+[Enter KRYTEN, CAT]
+
+
+
+KRYTEN
+
+  Mr Lister, sir, you're awake!
+
+
+
+CAT
+
+  Buddy, you look great!
+
+
+
+LISTER
+
+  Oh, it's not your fault.  You did what you had to do to save my life.
+
+
+
+<KRYTEN lets out his high-pitched, Stan Laurel-like whimpering>
+
+
+
+LISTER
+
+  You haven't saved my life...
+
+
+
+KOCHANSKI
+
+  Seven per cent of epideme's virions have found their way back into your
+
+body.  They're currently multiplying exponentially.
+
+
+
+LISTER
+
+  So, to sum up: all's I've got to look forward to now is death,
+
+zombification, and then a quick, after-death snog with either you or the
+
+Cat?  You've given my arm - *my* arm - for nothing?
+
+
+
+KRYTEN
+
+  Not nothing, sir!  Based on my calculations, it's bought you approximately
+
+fifty-eight minutes more life.
+
+
+
+LISTER
+
+  I - *What* am I gonna do with fifty-eight minutes more life??
+
+
+
+CAT
+
+  Have half a juggling lesson?
+
+
+
+LISTER
+
+  You're really not helping.
+
+
+
+
+
+[-- x - Int. Sleeping quarters -------------------------------------------]
+
+
+
+[KRYTEN, KOCHANSKI present, preparing LISTER's quarters for his return]
+
+
+
+<KOCHANSKI steps over to the bed, plumps the pillows and lays them out side
+
+ by side, then moves away to sort out some clothes.  KRYTEN, turning and
+
+ seeing the pillows, clucks to himself and re-arranges the two pillows one
+
+ atop the other.  As he moves away and KOCHANSKI turns back to the bed, she
+
+ sees the pillows and again lays them out side by side.  Annoyed now, KRYTEN
+
+ waits until she turns away and returns the pillows to the two-tier
+
+ formation>
+
+
+
+KOCHANSKI
+
+  Kryten, he doesn't like them like that.
+
+
+
+KRYTEN
+
+  Well, begging you pardon, ma'am, I've been with Mr Lister for many years
+
+now.  I don't need some 'Judy Come-Lately' advising me on his sleeping
+
+arrangements.
+
+
+
+KOCHANSKI
+
+  Kryten, in my dimension I co-habited with him...  I think I know what
+
+makes him happy in bed...
+
+
+
+KRYTEN
+
+  So do I.  A large packet of extra-spicy tortilla chips, and a really good
+
+horror movie - preferably featuring some scantily-clad, kung-fu fighting
+
+lady vampires.
+
+
+
+[Enter CAT]
+
+
+
+CAT
+
+  Hey, old five-fingers has checked out!
+
+
+
+KOCHANSKI
+
+  Oh my god, you mean..?
+
+
+
+CAT
+
+  No, not *dead*; checked out.  He's gone.  And about forty pounds of
+
+Incinerex blasting plastic has gone missing from supply bunker seven.
+
+  You think there could be a connection..?
+
+
+
+KOCHANSKI
+
+  Come on!
+
+
+
+
+
+[-- x - Int. Starbug cargo hold ------------------------------------------]
+
+
+
+[LISTER present, struggling to turn the airlock locking wheel and open the
+
+ heavy iron door]
+
+
+
+[ENTER KRYTEN, KOCHANSKI, CAT, onto the gantry above the deck]
+
+
+
+KOCHANSKI
+
+  What are you doing?
+
+
+
+LISTER
+
+  I'm just popping down the corner shop.  Does anyone want anything?
+
+
+
+KRYTEN
+
+  Sir, please, come back.  There is no reason to return to the Leviathan.
+
+
+
+LISTER
+
+  It's the only way, Kryten.  Get back over there, detonate this stuff, and
+
+destroy all traces of the virus.  At least I'll rob it of the satisfaction
+
+of killing me.
+
+
+
+KOCHANSKI
+
+  Dave, close the airlock.  What you're doing is *insane*.
+
+
+
+CAT
+
+  She's right.  You've already screwed up the ping-pong tournaments, now
+
+you're gonna mess up the yo-yo championships too.
+
+
+
+KOCHANSKI
+
+  Dave, don't go through that door!  If you go through that door, I'll never
+
+speak to you again as long as you --
+
+
+
+[Exit LISTER]
+
+
+
+KOCHANSKI
+
+  Oh my god, just how *stupid* am I?
+
+
+
+KRYTEN
+
+  According to my calculations, ma'am --
+
+
+
+KOCHANSKI
+
+  Kryten, shut up!
+
+
+
+
+
+[-- x - Int. Drive room aboard the Leviathan -----------------------------]
+
+
+
+[LISTER present]
+
+
+
+<LISTER has wired up the universal translator.  He activates it, and
+
+ EPIDEME's fractal visage appears on the holographic screen>
+
+
+
+EPIDEME
+
+  Hey baby, what's this?  The Christmas special?
+
+
+
+LISTER
+
+  That's right, man, yeah!  And look what I got you:  forty pounds of
+
+Incinerex.
+
+
+
+EPIDEME
+
+  It's macho, but it's not you.  You get what I'm sayin'?
+
+
+
+LISTER
+
+  Let's set the timer for five minutes, shall we?
+
+
+
+EPIDEME
+
+  Er, Dave, hel-looo?
+
+
+
+KRYTEN [VO]
+
+  Leviathan, this is Starbug.  Come in, sir.
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[KRYTEN, KOCHANSKI, CAT present]
+
+
+
+LISTER [Mic]
+
+  Kryten, get Starbug well away from here!  You've got five minutes.
+
+
+
+KOCHANSKI
+
+  Dave, listen to me.  Dave - my Dave - had a saying: "even the word
+
+'hopeless' has 'hope' in it"...
+
+
+
+CAT
+
+  Maybe you had to be there..?
+
+
+
+LISTER [Mic]
+
+  What the hell did that mean?
+
+
+
+KOCHANSKI
+
+  You *can't* give up!
+
+
+
+LISTER [Mic]
+
+  I'm dead already.  Use your eyes.  I look worse than the Grim Reaper's
+
+passport photo.
+
+
+
+KRYTEN
+
+  Please give us more time, sir?  The medicomp might still come up with an
+
+antidote.
+
+
+
+LISTER [Mic]
+
+  There's no point.  Look, I haven't... made a will... Kris?  Under my bunk,
+
+I want you to have the collection of songs I wrote about you.
+
+
+
+KOCHANSKI
+
+  Collection?
+
+
+
+LISTER [Mic]
+
+  Well, three.  There's only two things that rhyme with 'Kochanski'; I used
+
+'underpantski' twice...
+
+  Kryten, to you I leave all my laundry.  Hey, keep it clean for me man.
+
+
+
+KRYTEN
+
+  Oh, sir, you're too generous.
+
+
+
+LISTER [Mic]
+
+  Cat, you can have anything you want from my wardrobe.
+
+
+
+CAT
+
+  I can?  Great!  I need some hangers!
+
+
+
+
+
+[-- x - Int. Drive room aboard the Leviathan -----------------------------]
+
+
+
+LISTER
+
+  Sixty seconds left, epideme.
+
+
+
+EPIDEME
+
+  Davvve, your heart says 'blow' but your brain says 'no!'.  You're no
+
+quitter - hell! - the people of this ship kept searching for a solution
+
+right until the end!  *They* never gave up.
+
+
+
+LISTER
+
+  They didn't?
+
+
+
+EPIDEME
+
+  Hell, *no*!  They even overloaded their engines - so *sad*, 'cause they
+
+were *so near*...
+
+
+
+LISTER
+
+  So near...  They weren't running *from* something, but *to* something...
+
+  Son-of-a-gun...
+
+  Kryten, man, change of plan!
+
+
+
+
+
+[-- x - Int. Starbug medibay ----------------------------------------------]
+
+
+
+[LISTER, KRYTEN, EPIDEME present]
+
+
+
+KRYTEN
+
+  Er, sir, I've been meaning to ask: as you retain specialist knowledge from
+
+each of your victims, and as the two of us have no gripe, I was wondering if
+
+you'd be kind enough to fill in some gaps in *my* knowledge?
+
+
+
+EPIDEME
+
+  Sure, shoot!  I'm red hot in quantum mechanics, cell molecular biology and
+
+TV theme tunes!  Ask me *anything*...
+
+
+
+KRYTEN
+
+  Very well.  One thing I've always wanted to know: who on earth *was* the
+
+fourth Marx brother?
+
+
+
+EPIDEME
+
+  Zippo.  *Easy*!  Ask me a hard one.
+
+
+
+KRYTEN
+
+  A hard one?
+
+
+
+EPIDEME
+
+  A *HAAAAAAAARD* one... oouuugggh.
+
+
+
+KRYTEN
+
+  Very well.  How could Starbug's drive module be reconfigured to be made
+
+more efficient?
+
+
+
+EPIDEME <takes a deep beath>
+
+  Re-route the pulse relays by the auxilliary conductor node and transpose
+
+all the prime numbers in the first line of the alphabet to the energy
+
+equation.  Thhbptptpt.
+
+
+
+KRYTEN
+
+  And that would make Starbug more efficient?
+
+
+
+EPIDEME
+
+  Thrrrreeee hundred percent faster!
+
+
+
+LISTER
+
+  That's all we needed to know.  The Leviathan was heading for Delta 7 for
+
+the epideme cure.  Trouble was, by the time *we* reached Delta 7 I'd be
+
+dead.
+
+
+
+KRYTEN
+
+  Unless we could work out a way of making the ship go faster.
+
+
+
+LISTER
+
+  And now we have...
+
+
+
+EPIDEME
+
+  Well I'll be the son-of-a-bacteria...
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[CAT, KOCHANSKI present]
+
+
+
+KOCHANSKI
+
+  How're we doing?
+
+
+
+CAT
+
+  Like a speeding bullet stuck in the back end of a bat out of hell!
+
+  Going into orbit right now.
+
+
+
+KOCHANSKI
+
+  Scanning surface... oh my god...
+
+
+
+CAT
+
+  What is it?
+
+
+
+KOCHANSKI
+
+  The planet, it's been flamed - there's nothing down there!  Not a
+
+building, not a plant... nothing...
+
+
+
+
+
+[-- x - Int. Starbug medibay -------------------------------------------]
+
+
+
+[LISTER, KRYTEN, EPIDEME present]
+
+
+
+[Enter KOCHANSKI]
+
+
+
+KOCHANSKI
+
+  You knew, didn't you?
+
+
+
+EPIDEME
+
+  Heyyy, I had to do something to make Dave think there was hope.  The whole
+
+planet was flamed to get rid of me!  But I'd allrrrready left, in one of the
+
+Star Corps. medical engineers, who then made a housecall - to the Leviathan!
+
+
+
+<Angry and frustrated, KOCHANSKI opens her mouth to retort, then appears to
+
+ suddenly think of something.  She turns and rushes out>
+
+
+
+
+
+[-- x - Int. Starbug medibay -------------------------------------------]
+
+
+
+[LISTER, KRYTEN, EPIDEME present]
+
+
+
+[Enter CAT]
+
+
+
+CAT
+
+  How's it going?
+
+
+
+KRYTEN
+
+  Life signs almost gone, sir.
+
+
+
+EPIDEME
+
+  And in tomorrow's episode: Kris Kochanski has a nasty turn when Dave, her
+
+hilarious decomposing boyfriend, returns from the grave to infect her with a
+
+wacky, but charasmatic, virus!
+
+  Until then, good night...
+
+
+
+[Exit EPIDEME]
+
+
+
+[Enter KOCHANSKI]
+
+
+
+KOCHANSKI
+
+  Okay, last roll of the dice.  Dave, I'm gonna stop your heart, okay?
+
+
+
+KRYTEN/CAT
+
+  What!?
+
+
+
+KOCHANSKI [to LISTER]
+
+  It's the last chance to save you, *do you agree*?
+
+
+
+LISTER
+
+  You're gonna prevent epideme from killing me by killing me..?
+
+
+
+KOCHANSKI
+
+  I'll take that as a yes...
+
+
+
+<KOCHANSKI raises a hypo-spray device to LISTER's chest and pumps a shot
+
+ into his heart.  LISTER jolts then lies still>
+
+
+
+KOCHANSKI
+
+  Is he..?
+
+
+
+KRYTEN
+
+  Dead!?  Yes, ma'am!
+
+
+
+<KOCHANSKI gingerly moves her left arm over LISTER's body towards his head>
+
+
+
+KRYTEN
+
+  Er, careful Miss Kochanski, don't get too close to him!
+
+
+
+<As her hand approaches LISTER's mouth, his torso suddenly spasms.
+
+ Epideme's laughter rings out as LISTER sinks his teeth into KOCHANSKI's
+
+ hand, and LISTER falls back, unmoving>
+
+
+
+KRYTEN
+
+  The epideme virus hass transferred to you!  It's infected your hand!
+
+
+
+EPIDEME
+
+  And the big showbiz news today is that, as expected, the long-running
+
+virus, epideme, has been renewed for *another season*!
+
+
+
+KOCHANSKI
+
+  Wrong, bug-head!  You're *axed*!
+
+
+
+<Her voice grating, KOCHANSKI picks up the laser saw and raises it over the
+
+ infected arm>
+
+
+
+EPIDEME
+
+  No... no!  Yaaaaagggghhh!
+
+
+
+<Swiftly and unemotionally, KOCHANSKY drops the saw over the arm, severing
+
+it at the elbow>
+
+
+
+CAT
+
+  Oh - my - god!  Did you see that!?  She - she -
+
+
+
+<Unable to get a grip on what he's just seen, CAT serenely keels over,
+
+ rigid>
+
+
+
+KRYTEN
+
+  Miss Kochanski, ma'am!  What - I mean - what - have you gone completely
+
+insane?!?
+
+
+
+KOCHANSKI
+
+  Kryten..!
+
+
+
+<sounding much too cheerful for a woman who's just cut off her own arm,
+
+ KOCHANSKI reveals the bare and unblemished left arm of her own from behind
+
+ her back and flashes both triumphantly.  KRYTEN gasps, eyes flashing
+
+ between the two arms attached to KOCHANSKI's body, and the arm lying on the
+
+ floor>
+
+
+
+KOCHANSKI
+
+  It was Caroline Carmen's - I injected it with blood and adreneline!
+
+
+
+KRYTEN
+
+  That really is quite extraordinary...
+
+
+
+<KOCHANSKI heads to ward the exit hatch, KRYTEN following.  They pass out of
+
+ sight, and KRYTEN's voice can be heard as they walk away:
+
+
+
+KRYTEN
+
+  D'you know, I had you marked down as a bit of a madam, but I really have
+
+to except that I'm going to have to get to like you at that.  I mean, you do
+
+annoy me to some degree but, really, that --
+
+  **MR LISTER**!!!!
+
+
+
+[Enter KRYTEN, KOCHANSKI, sprinting in from the corridor]
+
+
+
+<KRYTEN squeals something, most likely a request to KOCHANSKI to pass him
+
+ the high voltage cardiac arrest pads>
+
+
+
+KRYTEN
+
+  Clear!
+
+
+
+<KRYTEN places the pads on LISTER's chest and fires a jolt of electricity
+
+through LISTER's body.  LISTER arches off the bed, but falls back lifeless.
+
+
+
+KRYTEN
+
+  Clear!
+
+
+
+<Again the pads fire, and again LISTER arches.  As he falls back to the bed,
+
+ we hear him draw in a shuddering breath>
+
+
+
+KRYTEN
+
+  Clear!
+
+
+
+<One more jolt from the pads sends LISTER off the bed, and coughs and
+
+ splutters his way back to life>
+
+
+
+LISTER
+
+  Ohh, where have I been?
+
+
+
+KRYTEN
+
+  Well, for the last few minutes, sir, you've been dead...
+
+
+
+LISTER
+
+  Wow...
+
+
+
+KOCHANSKI
+
+  How did it feel?
+
+
+
+LISTER
+
+  Ever been to Swindon?
+
+
+
+<Unexpectedly, KOCHANSKI's leans forward and places a gentle kiss on
+
+ LISTER's forehead>
+
+
+
+LISTER
+
+  What's that for?
+
+
+
+KOCHANSKI
+
+  For not staying dead!
+
+
+
+<As she steps back, KRYTEN fussily moves in and, with a duster, dabs at
+
+ LISTER's forehead.  He turns back to KOCHANSKI as he dabs, explaining:>
+
+
+
+KRYTEN
+
+  Germs.
+
+
+
+
+
+[---------------------------- END OF "EPIDEME" ----------------------------]
+
+
+
+
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor
+
+ and Paul Alexander; no copyright infringement or toe-stepping intended.
+
+ Comments, criticisms and corrections welcomed at "raz@mushroom.demon.co.uk"
+
+ Thanks.]
+
+
+

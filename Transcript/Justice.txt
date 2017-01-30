@@ -1,0 +1,766 @@
+From: fraserdk@dcs.glasgow.ac.uk (David K Fraser)
+Subject: script: Justice
+
+------------------------------------------------------------------------------
+
+                  RED DWARF Season IV Episode 3, "Justice"
+
+1 Int. Medical unit. Morning.
+
+LISTER is in the medical bed.  His head is swollen to the size and shape
+of the Mekon's.  KRYTEN wheels in a breakfast trolley.
+
+KRYTEN: How are you feeling, sir?
+LISTER: (Weakly) Ohhh, much better, thanks, man.
+KRYTEN: You certainly look better.  I can't believe how much the swelling
+  has gone down overnight.
+LISTER: You reckon?
+KRYTEN: Definitely.  It was almost interfering with the ceiling fan
+  yesterday afternoon.  You're nearly back to your old self.  In fact,
+  you can hardly tell you've got space mumps at all.
+LISTER: Can I have a mirror?
+
+KRYTEN takes out enormous head-measuring device.
+
+KRYTEN: I don't think you're quite ready for a mirror yet, sir.  Let's
+  take it one step at a time.
+
+Measures LISTER's head.
+
+KRYTEN: What did I tell you?  It's gone down eight inches overnight.
+  You'll be up and about in no time.
+LISTER: I don't know what I would have done without you this last three
+  weeks.  Florence Nightingdroid.  Did you bring me breakfast?
+KRYTEN: Yes, sir.  Hot lager with croutons, just the way you asked.
+
+LISTER lifts the lid of the soup bowl and starts to spoon up the lager.
+
+LISTER: Well, you certainly find out who your mates are when you 've got
+  an unsightly, disfiguring ailment.
+KRYTEN: Oh, I wouldn't say "unsightly," sir.
+LISTER: Oh, come on, Kryten.  I've got a head like a hot-air balloon.  I
+  look like the Human Lightbulb.  And how many times have they dropped in
+  with a word of comfort or a bunch of grapes?
+KRYTEN: It's just not been possible, sir.  Mr Rimmer has been on
+  vacation.
+LISTER: The world's most charismatic man?  Where did he go?
+KRYTEN: On a rambling holiday through the diesel decks.  A ten-day hike
+  through the ship's combustion engines with two of the skutters.  He
+  said he'd pop in later and show you the slides.
+LISTER: (Worried) He didn't, did he?
+KRYTEN: He's been loading the projection carousel for twenty-four hours
+  now.
+LISTER: You've got to stop him.  A slide show of the diesel decks -- that
+  could finish me.  (Sighs.) I'd have thought the Cat might have dropped
+  in, though.
+KRYTEN: Well, he's been a little preoccupied of late with this pod
+  business.  (Curses himself.) Oh, srew down my diodes and call me Frank!
+  I wasn't supposed to mention that.
+LISTER: What pod?
+KRYTEN: Sir, you're not well -- just forget I mentioned it.
+LISTER: Come on, what pod?
+KRYTEN: Yesterday evening we came across an escape pod floating in the
+  local asteroid belt.  It contains the survivor of some space crash,
+  apparently cryogenically frozen.
+LISTER: Oh, yeah?
+KRYTEN: All the signs are she's in suitable condition for revival.
+LISTER: She?
+KRYTEN: As far as we can tell, she's a she.
+LISTER: Oh that's great, isn't it?  That's just typical.  The first
+  female company in three million years, and I look like something that
+  belongs up a whale's nose.
+
+LISTER gets up.
+
+KRYTEN: You can't get up, sir.  What are you doing?
+LISTER: There's a woman on board -- what d'you think I'm doing?  I'm on
+  the cop.
+
+2 Int. Sleeping quarters. Morning.
+
+Space-worn escape pod, just large enough for a person.  LISTER is
+examining the pod.
+
+LISTER: (Reading) "Barbra Bellini." What a beautiful name.  There's no
+  justice.  How could this happen to me?
+
+CAT comes in.
+
+LISTER: Maybe I could wear a turban and pretend I'm from India.
+CAT: Maybe you could stick a spike in your head and pretend you're the
+  Taj Mahal.
+LISTER: Oh, it's you.  Well, thanks for visiting me.  Thanks a lot.
+CAT: You know what you look like?  You could go out double-dating with
+  the Elephant Man, and he would be the looker.
+LISTER: (Examining pod) Why isn't it activated?  How come no one's
+  started the thaw process?
+CAT: What?  I thought Alphabet Head did it.
+
+CAT presses a few buttons on the keypad, and lights begin to glow.  On
+the pod the display reads "29 hrs 59 mins 57 secs to revival" and the
+seconds count down.
+
+LISTER: So who is she?  Where did she come from?
+CAT: (Caressing pod) Who cares?  At last -- a date.
+LISTER: Who says she's going to be interested in you?
+CAT: I see what you're saying.  All that time alone in Deep Space could
+  have driven her insane.
+LISTER: No.  Say she's just an ordinary woman who doesn't go for your
+  type.
+CAT: No -- I'd have heard about her.  She'd have appeared in Ripley's
+  Believe It or Not.
+LISTER: Say she prefers someone else?
+CAT: Like who?
+LISTER: I dunno.  Like me?
+CAT: (Smiles) Buddy, you've got a head like a watermelon.  What are you
+  going to do?  Paint it with orange and black stripes and tell her you
+  play quarterback with the Bengals?
+LISTER: I just think you're a bit cocky for a guy who's never actually
+  met a real woman before.
+CAT: I've seen mirrors.  I have eyes.  Face it, buddy -- I have a body
+  that makes men sweat.  Have you ever heard of an animal called the
+  Iranian jerd?  it can do 150 pelvic thrusts a second.
+LISTER: So?
+CAT: That's me in slo-mo.  Put a Black and Decker drill on the end, I can
+  make it through walls.
+
+RIMMER enters with KRYTEN.
+
+RIMMER: Listy, what are you doing up?  Shouldn't you be in the greenhouse
+  with the rest of the cantaloupes?  (Notices pod.) Who started the
+  R.P.?!
+CAT: What's the problem?  She's in there, let's get her out.
+RIMMER: The problem, pussycat Willum, is this capsule was ejected from a
+  prison ship, on which the convicts mutinied.  There was a pitched
+  battle, with only two survivors:  one prisoner and one guard -- the
+  erstwhile Ms Bellini.  One of those two got into this pod and escaped.
+  But, of course, you'll know all this, having familiarised yourself
+  thoroughly with the black-box recording.
+LISTER: So, if it's not Bellini in there, who is it?
+RIMMER: One of the prisoners.  And considering the ship was transporting
+  forty psychotic, half-crazed, mass-murdering, super-strong androids, we
+  thought it prudent to find out who the smeg was in there before we woke
+  them up.
+KRYTEN: With respect, sir, they're not androids.  They're simulants.
+CAT: What's the difference?
+KRYTEN: Well, the basic difference is that an android would never rip off
+  a human's head and spit down his neck.
+LISTER: Can we stop it, Hol?
+HOLLY: No.  One-way process.
+LISTER: Can't we find out who's inside by x-raying the pod?
+HOLLY: No.  Lead lining.  Has to survive in space.
+LISTER: there must be some way.
+HOLLY: Oh, there is:  all you have to do is hang around here for twenty-
+  four hours.  Then, if you suddenly turn round and find your limbs are
+  scattered around Deep Space and your necks are full of saliva, you can
+  take it as read it probably wasn't Babs.
+CAT: Why not tool up with bazookoids, wait for the pod to open, and if
+  it's one of these bad-ass android dudes, let it eat laser?
+KRYTEN: {Simulant}s are almost indestructible, sir.  It could easily
+  withstand a volley of bazookoid fire at close range.  It would
+  certainly survive long enough to make balloon animals out of your lower
+  intestines.
+RIMMER: Well, I see no other option.  Let's blast it back into space.
+LISTER: Say it isn't a simulant?  We can't just shoot an innocent woman
+  into space.
+CAT: What a dilemma!  Inside that pod is either death or a date.
+  Personally, I'm prepared to take the risk.
+RIMMER: Meanwhile, the pod is defrosting, and we still haven't decided
+  what to do.  Any ideas, Holly?
+HOLLY: Here's a possibility:  the black box contains the coordinates of
+  the penal colony the prison ship was heading for.  There are bound to
+  be facilities there to contain any hostile form.  If it turns out to be
+  Bellini, we release her.  If it 's the simulant, we can bung him in a
+  cell and leave him to rot.
+RIMMER: If the colony's still there, and if it's still operational.
+KRYTEN: There's an old android saying, which, I believe,has particular
+  relevance here.  Goes like this:  "If you don't gosub a program loop,
+  you'll never get a subroutine."
+LISTER: We have a human saying that means the same thing:  nothing
+  ventured, nothing gained.
+KRYTEN: I think the android one is punchier.
+
+3 Model shot. Starbug in space.
+
+4 Int. Starbug cockpit section.
+
+The CAT is piloting.  LISTER is beside him, still with his swollen head.
+
+CAT: You have to sit up here?
+LISTER: It's warmer in the front.  Seems to help my gunge.
+CAT: I can't see anything.  You're head keeps getting in the way of the
+  mirror.  In fact, your head keeps on getting in the way of the
+  windscreen.
+
+From the rear section we hear:
+
+RIMMER: (VO) Next!  Ah, now, this one...
+
+5 Int. Starbug rear section.
+
+Blank screen.  Shot of RIMMER in hiking gear, standing next to an
+incredibly boring piece of machinery with a Skutter, slides into view.
+
+RIMMER: We reached this beauty on the evening of the fourth day.  The
+  Cameron-Mackintosh forty-valve, air-cooled diesel -- the 184 -- it's
+  almost identical to the 179, but have you noticed the difference?  Can
+  you see the refinement in the funnel edgings?
+
+Reaction:  KRYTEN watching, obviously in pain.
+
+RIMMER: I thought:  we're not going to get another chance to see one of
+  these, so we bivouacked down under the fuel pump for the night.
+  There's a funny story about that, which I'll tell you later.  But we're
+  not going to get to any of the class fives unless we push along.  Next!
+
+Another slide.
+
+KRYTEN: Sir, can we just take a break for a while?  My intelligence
+  circuits appear to have melted.
+RIMMER: Well, we're not going to get through them all if we have a second
+  break.
+KRYTEN: Sir, that's a gamble I'm willing to take.
+
+From the front section we hear a sort of soggy explosion.  There is a
+pause.
+
+CAT: (Revolted) Oh my godddd!
+LISTER: Ah!  That's better.
+
+CAT staggers in, covered in yellow slime.
+
+CAT: His... head... burst!
+
+LISTER wanders in behind him.  His hair is all matted, and skin is
+dangling from his head.  He tears off a bit and grins amiably.
+
+LISTER: Oh, man, that is so much better.  I feel great.  Talk about a
+  weight off your mind.
+CAT: I don't want to live.  Someone, please.  Shoot me in the head.
+
+6 Model shot.
+
+Penal colony space station.  Starbug approaching.  Typist's note:  The
+space station is a nice example of humour in the special effects
+department.  Imagine a pair of scales (a traditional symbol of law and
+order) about a mile wide and made out of silvery metal...
+
+7 Int. Starbug cockpit.
+
+Everyone is crowded around LISTER, seated in drive seat.
+
+LISTER: Anything down there, Hol?
+HOLLY: No life forms, not according to heat scan.
+KRYTEN: Any mechanical intelligence?
+HOLLY: Yes, the mainframe's still operational.  Just initiating
+  interface.  Hang about.  Here we go.  Getting a message.
+
+HOLLY's voice changes to deep, husky male.
+
+JUSTICE: Welcome to Justice World.  Please state your clearance code and
+  prison officer ident.
+LISTER: We're not a prison ship.  We don't have a clearance code.  We
+  just want to use your facilities.
+JUSTICE: State Life-form inventory.
+RIMMER: Four:  one hologram, one mechanoid, two humanoid.
+JUSTICE: Transfer ship navicomp to my jurisdiction.
+
+LISTER flips a switch.
+
+JUSTICE: On landing, please disembark and proceed through neutral area to
+  the clearance zone.
+
+8 Model shot.
+
+Starbug swoops towards the colony.
+
+9 Int. Corridor on colony.
+
+CAT, KRYTEN, RIMMER and LISTER walk along derilict corridor.  Sign on
+wall reads "Neutral Area."
+
+JUSTICE: (Over) Until you are granted a clearance code, please observe
+  all security requirements.  Your party will be met by a consgnment of
+  escort boots.
+
+They exchange glances.  From around the corner, four pairs of disembodied
+boots walk down the corridor towards them.  The boots look like metal
+versions of concrete boots.  Electronic lights decorate them.  The boots
+walk up to them, split open.
+
+JUSTICE: Please step into the boots.
+
+LISTER stands inside one pair of the boots, and they close around his
+feet.  The CAT steps into his boots.
+
+CAT: I'm supposed to wear these?  They look like Frankenstein's hand-me-
+  downs.  You haven't got anything with a cuban heel or a crepe sole?
+RIMMER: I can't use these -- I'm a hologram.
+JUSTICE: That has been accounted for.
+
+RIMMER and KRYTEN step into their boots.
+
+LISTER: Now what?
+
+The boots light up, and all four of them lurch forward as the boots
+escort them down the corridor, in a variety of funny walks.
+
+10 Int. Another corridor on Justice World.
+
+They file down a corridor.  Each of them pauses under a cone of blue
+light.
+
+LISTER: What's this?
+KRYTEN: Relax, sir.  It's just a mind-probe.
+
+And the boots lead them on.
+
+11 Int. Clearance Zone.
+
+The boots escort them into the middle of the room.
+
+LISTER: What's a mind-probe?
+KRYTEN: The computer was merely searching our minds -- presumably for any
+  evidence of criminal activity.
+LISTER: Whu-what d'you mean, "criminal activity?"
+KRYTEN: I shouldn't worry, sir.  It's just a routine clearance procedure.
+LISTER: So when you say "criminal activity," whu-whu-what exactly do you
+  mean by "criminal activity?" How criminal do you mean by "criminal?"
+RIMMER: What are you bleating on about, Lister?
+LISTER: Just define "criminal activity" for me.
+KRYTEN: Well, imagine a situation where someone had commited a crime and
+  concealed it from the law, the mind-probe would be able to uncover that
+  crime and sentence the person accordingly.
+LISTER: Why didn't nobody tell me about this before we put the smegging
+  boots on?
+RIMMER: Oh, Listy, Listy.  Is that a small sewage plant you're carrying
+  in your trousers, or do I detect you're a tad concerned?
+LISTER: Well, come on, guys -- everyone has done something in their past
+  that's a little bit illegal.
+RIMMER: I haven't.  I've never so much as got a parking fine.
+LISTER: Yeah, but most people...I mean, everyone I knew...Aw, smeggin'
+  hell.
+CAT: So what did you do?
+LISTER: Well, I mean, like scrumping.  I mean, when I was a kid, back in
+  Liverpool, we all used to go scrumping.
+KRYTEN: Stealing apples?  That's hardly a crime.
+LISTER: Yeah, but me and me mates -- we went scrumping for cars.
+RIMMER: Did you get caught?
+LISTER: All the time.  I was stupid.
+KRYTEN: Well, that's no problem then.  You've served your punishment.
+LISTER: Yeah, but there was other stuff as a kid.  Stuff I didn't get
+  caught for.
+RIMMER: Like what?
+LISTER: There was one time at this hotel...
+KRYTEN: Oh, lots of people take towels from hotels.
+LISTER: I took the bed.  Winched it out of the window to my mate outside.
+  I was renting this flat.  It was unfurnished.
+RIMMER: So you went to a hotel and stole the bed?
+LISTER: I stole the entire room, actually.  Armchair, dressing-table,
+  carpet.  Even the fitted wardrobe.  The only thing I didn't take were
+  the towels.  I'm not proud of it.
+RIMMER: Absolutely despicable.  You are a common thief.
+LISTER: I'm not making excuses, but everyone was doing it.  I wasn't
+  strong enough to go against the flow.
+CAT: Well, I wouldn't like to be in your boots right now, buddy.
+LISTER: What's going to happen to me?
+KRYTEN: I wouldn't worry anout it, sir.  I'm sure they're not interested
+  in a minor misdemeanour you committed as an adolescent over three
+  million years ago.
+LISTER: Seriously, Kryten:  you reckon?
+KRYTEN: (Brightens) Boy, I'm really getting the hang of this "lie mode."
+  That was totally convincing, wasn't it?
+JUSTICE: The mechanoid Kryten:  clearance granted.  You are free to go
+  about the complex.
+
+KRYTEN's boots release him.  He steps free.
+
+JUSTICE: The creature known as Cat:  clearance granted.
+
+The CAT's boots release him.
+
+JUSTICE: The human known as Lister:  despite a number of petty criminal
+  acts:  clearance granted.
+
+LISTER closes his eyes.  We hear boots release him.
+
+JUSTICE: The hologrram known as Rimmer.  Guilty of second-degree murder.
+  One thousand, one hundred and sixty-seven counts.
+RIMMER: No...There's some mistake, surely...
+JUSTICE: Each count carries a statuatory penalty of eight years penal
+  servitude.  In the light od your hologrammatic status, these sentences
+  are to be seved consecutively, making a total sentence of nine
+  thousand, three hundred and twenty-eight years.
+RIMMER: I've never so much as returned a library book late.  Second-
+  degree murder?  A thousand people?  I would have remembered.
+JUSTICE: Your wilful negligence in failing to reseal a drive plate
+  resulted in the deaths of the entire crew of the Jupiter Mining
+  Corporation vessel the Red Dwarf.
+RIMMER: (Pause.) Oh, that.
+JUSTICE: Sentence to commence immediately.
+
+RIMMER's boots light up, and he is frogmarched out of the room.
+
+12 Int. Another corridor on the colony.
+
+RIMMER is being marched along in his escort boots.  He passes under a
+strange archway bathed in a strange light.
+
+JUSTICE: You are now leaving the Neutral Area and entering the Justice
+  Zone.  Beyond this point, it is impossible to commit any act of
+  injustice.
+RIMMER: (Quietly) Help.
+
+13 Model shot. Justice World.
+
+14 Int. Rimmer's apartment. Day.
+
+A white room -- fairly spartan, but it certainly doesn't look like a
+prison cell.  Bed, table, etc.  RIMMER is sitting forlornly on the bed in
+some futuristic prison garb.  LISTER comes in.
+
+LISTER: Hi, Killer.
+RIMMER: Nine thousand years.  Nine!
+LISTER: I brought you a book.
+
+LISTER tosses book on bed.
+
+RIMMER: Oh, thanks.  That'll help the centuries fly past.
+LISTER: Look, don't panic, man.  We're going to get you out of here.
+RIMMER: Why bother?  I'll be up for parole in a couple of Ice Ages.
+LISTER: Kryten reckons you've got right of appeal.  He's trying to get a
+  case together.  (Looks round.) This isn't a bad place for a prison.
+  How come there are no locks or bars or guards or anything?
+RIMMER: There doesn't need to be.  The whole prison is covered by
+  something called a Justice Field.  I had to sit through this lecture.
+  Apparently it's physically impossible to commit any kind of crime here.
+LISTER: What d'you mean?
+RIMMER: Try and commit a crime.  You'll see.
+LISTER: Like what?
+RIMMER: I don't know.  Anything...Arson.  Try and set fire to those
+  blankets.
+LISTER: Eh?
+RIMMER: Just try it.
+
+LISTER crosses to the blankets, takes out his Zippo and holds the flame
+under the blanket.  The blanket doesn't ignite, but LISTER's jacket
+starts smoking at the back without him realizing it.
+
+RIMMER: Whatever crime you try and commit, the consequences happen to
+  you.
+LISTER: I'm not with you.
+
+Feels the heat from the back of his flaming jacket.
+
+LISTER: Smegging hell!
+
+Takes his jacket off and jumps up and down on it.
+
+LISTER: Nice example, Rimmer!  You couldn't just have explained that to
+  me verbally?
+RIMMER: Same with stealing.  Same with everything.
+LISTER: With you.  So if you nick something, something of yours goes
+  missing?
+RIMMER: Right.  Try it.
+LISTER: (Pause while he thinks about it.) No.
+RIMMER: See?  It's the perfect system.  It forces the inmates to adhere
+  to the law.  And when they get out, it's become second nature.
+
+KRYTEN enters, followed by the CAT.
+
+KRYTEN: Good news.  The Justice Computer has sanctioned a re-trial.  I
+  think we have a very strong case.
+RIMMER: You do?
+KRYTEN: It's a question of differentiating between guilt and culpability,
+  sir.  What the mind-probe detected was your own sense of guilt about
+  the accident.  In a way, you tried and convicted yourself.  I simply
+  have to establish you're a neurotic, under-achieving emotional retard
+  whose ambition far outstrips his miniscule abilities and who
+  consequently blames himself for an accident for which he could not
+  possibly have been responsible.
+RIMMER: You're going to try to prove that I was innocent of negligence on
+  the grounds that I'm a half-witted incompetent?
+CAT: Man, there ain't a jury in the land that won't buy a plea like that.
+KRYTEN: Not a half-wit, exactly -- more a buffoon.
+RIMMER: (Thinks about it.  He's quite impressed.) Right, I see.  But how
+  would you even begin to build such a case?  Where would you conjure up
+  the evidence?
+KRYTEN: Sir, providing I can have completely free access to your personal
+  data files, I think I can come up with the outline of a winning case by
+  lunchtime.
+
+15 Model shot.
+
+Starbug at rest in the Justice World landing bay.  Mix to:
+
+16 Int. Clearance zone. Day.
+
+LISTER and CAT look on.  RIMMER is seated in his dress uniform with long-
+service medals.  KRYTEN addresses the court.
+
+KRYTEN: The mind-probe was created to detect guilt, yet in the case of
+  Arnold Judas Rimmer the guilt it detected attaches to no crime.  He
+  held a position of little or no authority on Red Dwarf.  He was a lowly
+  grease-monkey, a nothing, a piece of sputum floating in the toilet bowl
+  of life.
+
+Shot:  RIMMER, unsure how to react.
+
+KRYTEN: Yet he could never come to terms with a lifetime of under-
+  achievement.  His absurdly inflated ego would never permit it.  He's
+  like the security guard on the front gate who considers himself head of
+  the corporation.  So, when the crew were wiped out by a nuclear
+  accident, Arnold Rimmer accepted the blame:  it was his ship, ergo his
+  fault.  I ask the court:  look at this man.  This man who sat and
+  failed his astronavigation exam on no less than thirteen occasions.
+  This sad man, this pathetic man, this joke of a man...
+RIMMER: (Discreetly) Kryten.  You're going over the top.  The computer
+  will never buy it.
+KRYTEN: Trust me, sir.  My whole case hinges on proving you're a dork.
+RIMMER: (Reluctantly) Understood.
+KRYTEN: (Aloud) I call my first witness.
+
+LISTER crosses to stand, wearing some sort of apology for a tie.
+
+KRYTEN: Name?
+LISTER: Dave Lister.
+KRYTEN: Occupation?
+LISTER: (Thinks about it.  Shrugs.) Bum.
+KRYTEN: Would you desribe the accused as a friend?
+CAT: (Calls) Take the Fifth!
+KRYTEN: Answer the question, please.  Remember, you're under polygraphic
+  surveillance.  Would you describe the accused as a friend?
+LISTER: No, I would describe the accused as a git.
+KRYTEN: Who would you say, then, is the person who thinks of him most
+  fondly?
+LISTER: (Thinks about it, and answers truthfully) Me.
+KRYTEN: And there are no others who've shared moments of intimacy with
+  him?
+LISTER: Only one.  But she's got a puncture.
+RIMMER: Objection.
+JUSTICE: Overruled.
+KRYTEN: So you wouldn't describe him as a man with a good social life?
+LISTER: He partied less than Rudolf Hess.  He was totally dedicated to
+  his career.  He was in charge of Z shift, and it occupied his every
+  waking moment.
+KRYTEN: And what was Z shif's most important duty?
+LISTER: Well, we had lots of duties around the ship, but I suppose our
+  most vital responsibility was making sure the vending machines didn't
+  run out of fun-size Munchie Bars.
+KRYTEN: Can you envisage a situation where the lack of honeycomb-centered
+  chocolate bars might be the direct cause of a lethal radiation leak?
+LISTER: Not off the top of my head, no.
+KRYTEN: (Turns) I ask the court one key question:  would the Space Corps
+  have allowed this man (Poits at RIMMER) ever to be in a position where
+  he might endanger the ship?  A man so petty and small-minded he would
+  while away his evenings sewing name labels on to his ship-issue
+  condoms?  A man of such awsome stupidity...
+RIMMER: Objection.
+JUSTICE: Objection overruled.
+KRYTEN: A man of such awsome stupidity, he even objects to his own
+  defence counsel.  An over-zealous, trumped up little squirt...
+RIMMER: Objection.
+JUSTICE: Overruled.
+KRYTEN: An incompetent vending-machine repairman with a Napoleon complex,
+  who commanded as much respect and affection from his fellow crew
+  members as Long John Silver's parrot...
+RIMMER: Objection.
+JUSTICE: If you object to your own counsel once more, Mr Rimmer, you'll
+  be in contempt.
+KRYTEN: Who would put this man, this joke of a man, a man who couldn't
+  outwit a used tea bag, in a position of authority where he could wipe
+  out an entire crew?  Who?  Only a yoghurt.  This man is not guilty of
+  manslaughter.  He's only guilty of being Arnold J.  Rimmer.  That is
+  his crime.  It is also his punishment.  Defence rests.
+
+He sits down next to RIMMER, and stares fixidly ahead.  RIMMER shoots him
+a little look, not quite sure what to think.
+
+JUSTICE: The defendant will stand for the verdict.
+
+RIMMER stands.
+
+JUSTICE: In the view of your counsel's eloquent defence, together with
+  the reams of material evidence he submitted on computer card, this
+  court accepts that, in your case, the mind-probe is not anadequate
+  method of assessing guilt.  It is not possible for you to have
+  committed the crimes for which you blame yourself, and you may
+  therefore go free.
+RIMMER: Objection!
+KRYTEN: Sir, what are you objecting to?
+RIMMER: I want an apology.
+
+17 Int. Starbug rear.
+
+KRYTEN and RIMMER come up the ramp, followed by LISTER and CAT.
+
+RIMMER: Brilliant, Kryten.  What can I say.  You were brilliant.  You
+  even had me believing it.  The way you twisted the facts to make them
+  seem to fit that pattern.
+CAT: Come on, let's get out of here.  I don't know what made us want to
+  come to this hell-hole in the first place.
+LISTER: I do.
+
+They all look at the pod.  It is open.  And it's empty.
+
+CAT: (Smiles) CAn I smell perfume?
+
+The SIMULANT lurches into the doorway from the cockpit area, brandishing
+a bazookoid and an evil-looking handgun.
+
+SIMULANT: I doubt it.
+
+LISTER grabs a bazookoid by the door and starts backing out.
+
+CAT: Are you by any chance Barbra Bellini?  I didn't think so.
+
+18 Int. Corridor on colony.
+
+Red Dwarf crew fleeing down corridor.
+
+CAT: To think I carressed his pod!
+
+They leap over the escort boots and run on.
+
+19 Same corridor on colony.
+
+The SIMULANT running along.  A pair of escort boots shuffles towards him.
+He blasts the left one.  The right boot turns and starts hopping for its
+life.  The SIMULANT takes careful aim and blasts it in the back of the
+heel
+
+20 Int. Another corridor on the colony.
+
+The CREW race under the archway bathed in strange light.
+
+JUSTICE: You are now entering the Justice Zone.  Beyond this point, it is
+  impossible to commit any act of injustice.
+
+LISTER and RIMMER dash off one way, CAT and KRYTEN go the other.
+
+21 Int. Corridor on colony.
+
+SIMULANT walking along, looking for them.
+
+SIMULANT: Hey, my friends, I don't want any trouble.  I just want your
+  space craft.  Give me the start-up code.  Look!  (Holds up his gun.) I
+  have no weapon.  (Throws gun aside.)
+
+22 Int.
+
+Cut to:  RIMMER and LISTER on metal walkway.  As he walks under them
+LISTER has the SIMULANT in his sights.
+
+RIMMER: What are you waiting for?  Gloop him.
+LISTER: I can't.  He's not armed.
+RIMMER: Lister, this isn't a Scout meeting.  We're not trying to win the
+  Best- Behaved Troop flag.  Gloop him.
+LISTER: What?  In the back?
+RIMMER: Of course in the back.  It's only a pity he's awake.
+LISTER: You mean you could happily kill him if he was asleep?
+RIMMER: I could happily kill him if he was on the job.  Gloop him.
+LISTER: It's immoral.
+SIMULANT: Come on, you wouldn't shoot an unarmed droid.  Come out and
+  let's discuss it.
+
+LISTER sets aside his gun.
+
+LISTER: I'm going to talk to him.
+
+23 Int. Metal gangway.
+
+SIMULANT stands, unarmed, as LISTER drops into shot.
+
+LISTER: You want to talk?  Let's talk.
+SIMULANT: You have no weapon?
+LISTER: No.  You have no weapon?
+SIMULANT: No.
+
+They walk towards each other.
+
+SIMULANT: Guess what?  (Pulls out hunting knife.) I lied.
+LISTER: Guess what?  (Allows pole to slide from the arm of his jacket.)
+  So did I.
+SIMULANT: But I lied twice.  (Pulls out a handgun.)
+LISTER: I didn't think of that.
+SIMULANT: I'm very glad you didn't.
+LISTER: What did you want to talk about?
+SIMULANT: Your death.  (Cocks the gun.) Your imminent death.
+
+Fires at LISTER's chest.  LISTER looks down at his chest.  There's no
+wound.  The SIMULANT fires ahain.  Still no wound.  And again.  No wound.
+Suddenly three bullet wounds appear in the SIMULANT's chest.  He staggers
+forwards, bewildered.  LISTER hits the SIMULANT over the head with his
+pole.  Then LISTER reels back, dazed and half-conscious and falls to his
+knees.  The SIMULANT fires again.  Another bullet wound appears in the
+SIMULANT's body, this time in his shoulder.  LISTER staggers to his feet,
+swings the club again, sideways, catching the SIMULANT in the midriff,
+but it's LISTER who feels the impact of the blow and flies out of shot.
+He is lying in a crumpled heap.
+
+LISTER: What the smeg is going on?
+
+The SIMULANT looks at his gun, casts it aside.  Staggers a bit.  Takes
+out the knife again and hurls it at LISTER.  The dagger appears in the
+SIMULANT's chest.  He pulls it out, slightly bemused, and hurls it at
+LISTER again.  This time, it appears in the SIMULANT's head.  LISTER
+grins.  Enlightenment spreads over his features.  He grabs a nearby
+bottle and hands it to the staggering SIMULANT.
+
+SIMULANT: Zzzzzt.  Does not compute.  Zzzzzt.  Error.  Zzzzzt.
+  Malfunction.
+
+SIMULANT smashes it over LISTER's head.  The SIMULANT staggers and shakes
+his head.  LISTER hands more bottles to the SIMULANT, who smashes them
+over LISTER's head, staggering and growling with each blow.  Finally,
+LISTER grabs the SIMULANT's hands, puts them around his neck, and the
+SIMULANT tries to throttle him but, obviously, is really strangling
+himself.  Nearly choking to death, he releases his grip and staggers
+back.  LISTER takes out an indelible pen and marks a target on his groin.
+He walks towards the almost beaten SIMULANT, thrusting his groin forward
+as he goes.  The SIMULANT kicks LISTER in the groin.  LISTER stands
+there, grinning, as the SIMULANT flies backwards and collapses into a
+defeated heap.  The CAT runs up brandishing a huge snow shovel.
+
+CAT: I've got him, buddy.  Leave this to me.
+LISTER: Cat!  No!
+CAT: Better late than never.
+
+CAT raises the shovel high over his head, and slams the SIMULANT over the
+head.  The CAT laughs triumphantly.  Suddenly, the smile freezes on his
+face, and he falls backwards out of shot.
+
+24 Model shot. Starbug landing in Red Dwarf cargo bay.
+
+25 Int. Red Dwarf corridor. Day.
+
+LISTER, RIMMER, KRYTEN and CAT, walking back.
+
+LISTER: Makes you think, doesn't it?  Mankind's history has been one long
+  search for justice.  That's what all religions are about:  they accept
+  life as being basically unfair but promise everyone will get their just
+  deserts later:  heaven, hell, karma, reincarnation, whatever.  Those
+  guys who built the penal colony tried to give some order to the
+  universe by creating the Justice Field.  But when you're living in an
+  enviroment where justice does exist, there's no free will.  That's why
+  in our universe there can never be true, eternal justice -- good things
+  will happen to bad people, and bad things will happen to good people.
+  It's the way it's got to be.  Life, by it's very nature, has to be
+  cruel, unkind and unfair.
+
+LISTER falls down an open manhole cover.
+
+CAT: Thank god for that.
+
+CAT puts the lid on, and they walk off.
+
+
+                                  The End
+
+------------------------------------------------------------------------------
+David K Fraser                 | "It will be happened; it shall be going to be 
+Computing Science Student      | happening; it will be was an event that could 
+Glasgow University             | will have been taken place in the future."
+e-mail: fraserdk@dcs.gla.ac.uk | --time travel explained by Rimmer (Red Dwarf)
+
+

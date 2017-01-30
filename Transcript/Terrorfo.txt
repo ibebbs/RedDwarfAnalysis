@@ -1,0 +1,908 @@
+                 RED DWARF Series V Episode 3, "Terrorform"
+
+1 Ext. Crash site. Night.
+
+Fires are burning.   KRYTEN is trapped in some wreckage.  He's injured,
+with one eye dangling from some wires to his eye socket, his left arm
+mangled, etc.
+
+2 KRYTEN's View. Static.
+
+Words and lettering are superimposed over the static:
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | ERROR FINDING SERVER................      |
+               | ERROR FINDING SERVER................      |
+               | ERROR FINDING SERVER................      |
+               | ERROR FINDING SERVER................      |
+               | ERROR FINDING SERVER................      |
+               | ERROR FINDING SERVER................      |
+               |                                           |
+               | NO PANACEA                                |
+               *-------------------------------------------*
+CPU: Remain calm Kryten.  This is your CPU speaking.  There has been an
+  accident.  Both your legs have been crushed beyond repair.
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | DAMAGE ASSESSMENT:                        |
+               |                                           |
+               | OVERVIEW:    72%                          |
+               | OPTICALS:    35%                          |
+               | AMBULATION: 100%                          |
+               | SCANNING...................               |
+               |                                           |
+               | CONDITION:  MAUVE                         |
+               *-------------------------------------------*
+CPU: Your ambulatory system has been destroyed, and your life expectancy
+  is currently estimated at 67 minutes.
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | POSSIBLE RESPONSES:                       |
+               |                                           |
+               | REFER TO QUALIFIED SERVICE PERSONNEL.     |
+               | LIMITED FRONT LINE REPAIR ROUTINE:        |
+               | CANNIBALISE AND RECONFIGURE,              |
+               | CHECK TRADE-IN PRICE AGAINST A SERIES 5000|
+               |  MODEL.                                   |
+               |                                           |
+               | CONDITION:  MAUVE                         |
+               *-------------------------------------------*
+CPU: If there is any further news we will keep you updated.  In the
+  meantime, here is a little music.
+
+Light muzak plays and KRYTEN goes offline.
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               |                                           |
+               |                                           |
+               |         OFFLINE                           |
+               |                                           |
+               |                                           |
+               *-------------------------------------------*
+CPU: Your auto-repair systems are now able to restore visuals.
+
+3 The Crash Site. Later.
+
+We see KRYTEN half buried under the remains of Starbug, talking into a
+small microphone.
+
+KRYTEN: Kryten personal blackbox recording.  Time:  unknown.  Location:
+  unknown.  Cause of accident:  unknown.  Should someone find this
+  recording perhaps it will shed light as to what happened here.
+
+  My short term memory has been erased.  This I ascribe to the proximity
+  of the magnetic coils from Starbug's rear engine.
+
+He pauses to look around a bit.
+
+KRYTEN: Secondly, due to the proximity of the magnetic coils, my short-
+  term memory appears to have been erased.  This, combined with the
+  erasure of my short-term memory, has has left me a little disoriented,
+  disoriented, disoriented.
+
+A reminder visual flashes in front of his eyes:
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | POSSIBLE RESPONSES:                       |
+               |                                           |
+               | REFER TO QUALIFIED SERVICE PERSONNEL.     |
+               | LIMITED FRONT LINE REPAIR ROUTINE:        |
+               | CANNIBALISE AND RECONFIGURE,              |
+               | CHECK TRADE-IN PRICE AGAINST A SERIES 5000|
+               |  MODEL.                                   |
+               |                        STOCHASTC ANALYSIS |
+               |                    FUEL TANKS WILL XPLODE |
+               |                                      67   |
+               |                                     MINS  |
+               |                     OUTLOOK: OBLITERATIVE |
+               *-------------------------------------------*
+KRYTEN: 67 minutes!! I'd better get out of here!
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | DAMAGE ASSESSMENT:                        |
+               |                                           |
+               | OVERVIEW:    80%                          |
+               | OPTICALS:    35%                          |
+               | AMBULATION: 100%                          |
+               | SCANNING...........                       |
+               |                                           |
+               |                REMEDIAL ACTION REQUIRED   |
+               |                                           |
+               | CONDITION:  MAGENTA                       |
+               *-------------------------------------------*
+
+KRYTEN tries to lift the metal beam that covers him but fails.  He pauses
+to think.
+
+KRYTEN: Of course.
+
+KRYTEN takes a torch cutter and cuts off his damaged left hand.
+Whistling, he takes the hand, places it on his chest, removes his
+dangling right eye and places it on the middle finger.
+
+KRYTEN: Can you hear me?
+
+The hand "nods".
+
+KRYTEN: Find an ore sample pod.  There should be plenty strewn around the
+  crash site.  Initiate the homing procedure and bring help.  OK?  Good
+  Luck boy.  Go on.
+
+The hand crawls off his chest and KRYTEN waves goodbye.
+
+4 SFX Shot.
+
+From KRYTEN's POV we see the hand crawl away over the remains of Starbug,
+then KRYTEN returns offline.
+
+5 Model Shot.
+
+Shot of pod flying towards Red Dwarf.
+
+6 SFX Shot. Int. Red Dwarf.
+
+The hand is trundling down a corridor.
+
+7 Int. Red Dwarf Drive Room.
+
+A sleepy LISTER enters, wearing a robe.
+
+LISTER: OK.  I'm here... What's the beef?
+HOLLY: We've got a visitor.
+LISTER: What?
+HOLLY: A pod arrived about 20 minutes ago.  Something was in it, but it's
+  broken free.
+LISTER: Any ideas?
+HOLLY: Well, I don't want to spread any panic or alarm.
+LISTER: Whaddya mean, you don't wanna spread panic and alarm?
+HOLLY: Well, you've always had this thing against tarantulas, haven't
+  you?
+LISTER: (Worried) Tarantulas?
+HOLLY: I mean that you've never been overly fond of them as a species,
+  have you?
+LISTER: Well, no.
+HOLLY: And the prospect of waking up and finding one crawling over your
+  clammy, naked, helpless body has always filled you with a kind of cold
+  dread?
+LISTER: Well, yeah.  Wotya trying to say to me, Holly?
+HOLLY: I'm saying it might not be your night.  Look at this.  This is the
+  best shot the security cameras could get.
+
+Shot of the hand crawling up a corridor.
+
+LISTER: Where is it now?
+HOLLY: We lost it.
+LISTER: What does Kryten think?
+HOLLY: Kryten's off moon-hopping with Rimmer.  Radio link's down.  I'll
+  keep trying.
+
+The hand crawls into the drive room and obviously starts using LISTER's
+leg as a ladder.  LISTER tenses up.  The CAT wanders in.
+
+CAT: So what's the problem?  Hey, you OK?  You look tense.
+LISTER: (Typing) > HELP
+  > Something is crawling up my leg.  I think it's a taranshula
+CAT: You're playing that dumb adventure game.
+LISTER: > It's in my boxers.  It's making a nest
+CAT: Then buy a potion from Gandalf, the master wizard.  That's what I
+  usually do.
+LISTER: > I'm SERIOUS.
+
+CAT looks down, then looks up again, a rather tense expression on his
+face.
+
+CAT: (Typing also) > It has an eye the size of a meatball
+LISTER: > Kill it
+CAT: > How?
+LISTER: > I can't think straight.  I've got a taranshula with an eye the
+  size of a meatball setting up home in my joy department.  Help me.
+CAT: > I'm scared
+LISTER: > YOU'RE scared.  How d'you think I feel?
+CAT: > You haven't SEEN it!!
+LISTER: > The lower half of my body has gone numb.
+CAT: > That's probably for the best.
+LISTER: > It's moving
+  > Oh *#%^**!!!!
+
+KRYTEN's hand climbs up onto the desk and goes to the computer terminal.
+
+HAND: (Typing) > Hello.
+  > Kryten in danger.  No time to explain.  Follow.
+
+The hand crawls off.  LISTER and the CAT exchange relieved looks.
+
+8 Model Shot.
+
+Starbug flying through space.
+
+9 Crash Site.
+
+As seen through KRYTEN's eyes.  LISTER is leaning over him, concerned.
+
+LISTER: Kryten man, take it easy.  I'm gonna getcha out of there.
+KRYTEN: My legs, I can't feel them.
+LISTER: Yeah, they're trapped under this stanchion.  I'm gonna have to
+  cut you in two.
+KRYTEN: Begging your pardon, sir?
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | DAMAGE ASSESSMENT:                        |
+               | 72%                                       |
+               |                                           |
+               |                                           |
+               |                                           |
+               | CONDITION:  TAUPE                         |
+               *-------------------------------------------*
+LISTER: Kryten, man.  Keep still.  I'm trying to draw a line here.  I
+  don't want it to go all wonky.  I want as much of you as possible.
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | DAMAGE ASSESSMENT:                        |
+               | 72%                                       |
+               |                                           |
+               |                                           |
+               |                                           |
+               | CONDITION:  MARIGOLD                      |
+               *-------------------------------------------*
+
+KRYTEN sees LISTER light a welder's torch and lower a visor over his
+head.
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | DAMAGE ASSESSMENT:                        |
+               | 72%                                       |
+               |                                           |
+               |                                           |
+               |                                           |
+               | CONDITION:  HELIOTROPE                    |
+               *-------------------------------------------*
+KRYTEN: Sir, a couple of brief points.  Firstly, you are not a qualified
+  service engineer and consequently sawing me in two will invalidate my
+  guarantee.  Secondly, I wouldn't trust you to open a can of sardines
+  that was already open.
+
+LISTER hits him with a hammer and KRYTEN display goes blank.
+
+10 Int. Starbug Mid-section.
+
+We see the CAT's face through KRYTEN's eyes.
+
+                MODEL:  KRYTEN                (C) DIVADROID
+                SERIES: 4000                      INT. 2340
+               *-------------------------------------------*
+               | DAMAGE ASSESSMENT:                        |
+               | 27%                                       |
+               |                                           |
+               |                                           |
+               |                                           |
+               | CONDITION:  TANGERINE                     |
+               *-------------------------------------------*
+CAT: Oops.  You're right.  He really isn't dead.  I owe you twenty.
+
+Cut to show scene from more normal perspective:  KRYTEN is lying on a
+couple crates.  LISTER slides out from underneath him (between the
+crates) just like a car mechanic.
+
+LISTER: Kryten, you OK?
+KRYTEN: (Twisting his fixed left arm) I think so, sir.
+LISTER: There's a few bits and bobs left over, but it's always the same
+  when you try a bit of do-it-yourself, isn't it?
+KRYTEN: Where's Mr. Rimmer?
+CAT: We were just gonna ask you that.
+
+With a grunt LISTER and CAT lift KRYTEN to his feet.
+
+LISTER: What happened?
+KRYTEN: Well, there are gaps.  I remember Mr. Rimmer spotted an S3 planet
+  on the scope and wanted to claim it on behalf of the Space Corps.  As
+  usual the ceremony consisted of planting the flag and singing all 23
+  stanzas of the Space Corps Anthem.  Then the planet started to erupt
+  around us, which, frankly, came as something of a relief.
+LISTER: A moon quake?
+KRYTEN: Worse.  It was as if the entire planet was reshaping,
+  terraforming itself as we watched.
+LISTER: And then?
+KRYTEN: Then things got a bit sketchy.  I remember an explosion and then
+  blackness.  And then I remember Mr. Rimmer screaming.  I have an image
+  of his face twisted with fear, pain, anguish, dread -- absolutely
+  mortified.
+CAT: Did someone suggest he pick up the tab for lunch?
+KRYTEN: Something took him.  Something awful.
+LISTER: Can we track him, Holly?  Can you get a trace on his lightbee?
+HOLLY: Got 'im.  Click and a half due south.
+KRYTEN: Suggest we continue the journey by land, sir.  I'll lower the
+  caterpillar tracks.
+
+He starts walking backwards towards the cockpit.
+
+KRYTEN: I think I've just worked out what that missing circuit board is
+  for, sir.
+
+11 Model Shot.
+
+Shot of Starbug from the outside as it moves across the surface of the
+planetoid, through a forest.
+
+12 Int. Starbug Cockpit.
+
+CAT: This is one weird place.  Strange animal noises, unbearable stench,
+  squelchy underfoot.  (To LISTER) It's just like your laundry basket at
+  the end of the month.
+LISTER: Get anything?
+KRYTEN: My guess:  this is a Psi-moon.
+CAT: Psi-moon?
+KRYTEN: An artificial planetoid.  It tunes into an individual psyche and
+  adapts its terrain to mimic his mental state.  In this instance I
+  believe it reconfigured itself using Mr. Rimmer's subconscious as a
+  template.
+LISTER: What are you saying to me, Kryten?
+KRYTEN: We are interlopers inside Mr. Rimmer's mind.
+
+A loud roar erupts from outside of Starbug.
+
+CAT: This sounds like a 12-change-of-underwear trip.
+LISTER: If this planet's Rimmer's mind, what is it that took him?
+KRYTEN: All his neuroses.  All his personal demons will be incarnated
+  here -- made flesh.
+LISTER: Example?
+KRYTEN: Well, each person's mindscape is unique but we could well
+  encounter, say, Mr. Rimmer's lust personified as some kind of
+  slobbering, rampaging beast.
+LISTER: Rimmer's lust monster?! Urrgh.
+KRYTEN: Every individual's mental landscape is dominated by one drive.
+  In some cases it might be ambition, in others greed, envy, or the
+  desire to please.  Whatever it is that took Mr. Rimmer, we can only
+  pray that its intentions are benign.
+LISTER: Aw, c'mon, he can't be in that much danger.  I mean, he's a
+  hologram.
+KRYTEN: Not here.  Here he will have a physical form until he leaves and
+  any danger he may be in will be very real indeed.
+
+13 Ext. Psi-moon. Night.
+
+RIMMER is dressed in robes, wearing a crown of thorns, strung up on a
+cross.  The cross is in a cart which is being dragged along by little
+druid-like people with red eyes who are wearing black robes.
+
+RIMMER: Look, I don't know who you are, or what you think you're doing,
+  but I demand my right to a phone call.
+
+The procession stops.
+
+RIMMER: Yes, I thought that would stop you.  I thought the threat of
+  legal action would have you running for cover.
+
+RIMMER is now being dragged along by the arms.
+
+RIMMER: Look, I'm trying to keep my temper, but you really are pushing
+  your luck now, my laddins.
+
+14 Int. Dungeon.
+
+RIMMER is chained to the wall.
+
+RIMMER: Is this the British Embassy?  Does it even look the remotest bit
+  like the British Embassy?  I want to know who you are, what I'm doing
+  here, and I want to know now!
+DRUID: In accordance with the appetites of the Dark One, the viscous
+  ruler of this domain, we, the hooded legions, proffer up this sacrifice
+  to slake the vile depraved thirstings of the Unspeakable One.
+RIMMER: Well that's cleared that one up.
+
+Two blonde maidens, wearing very little and carrying little pitchers,
+walk in.
+
+RIMMER: Ohhh!  Thank God.  Thank God.  There were some very, very strange
+  men running around in black hoods with drums and rather unconvincing
+  red eyes.  Thank God you're here.  You know, I actually thought I was
+  in the most awful danger.
+
+They rip his robe off and leave him standing there wearing nothing more
+than sack cloth to cover his private parts.
+
+RIMMER: Is it me or has it suddenly got rather hot in here?
+
+15 Int. Starbug Cockpit.
+
+LISTER: What's happening?  Why have we stopped?
+KRYTEN: I don't like the look of that swamp, sir.  I don't think it will
+  support the 'Bug.  I suggest we continue the journey on foot.
+LISTER: You mean go out there?
+CAT: Out into Rimmer's subconscious?
+HOLLY: According to the signal we're almost on top of him.  Shouldn't be
+  more than 2 or 3 hundred meters.
+LISTER: Remember, it's Rimmer's mind out there.  (Throws a bazookoid up
+  and catches it.) Expect sickness.
+
+16 Int. Dungeon.
+
+RIMMER is being caressed and covered with oil.
+
+RIMMER: I'm a second technician in the Space Corps.  I'm briefed to give
+  you my name and number and nothing more.  I don't know who you are or
+  what you think you're playing at, but I'm not going to give you
+  anything else.
+
+  You can oil me all you like, you can use your tongues and your full
+  sensual lips to caress my erogenous zones onto a plateau of sexual
+  ecstasy.  But I'll tell you now.  This nut's not for cracking.
+
+  However, far be it for me to change your game plan, if you absolutely
+  insist on using erotic persuasion to achieve your devious ends, then so
+  be it.  Just have a large Quatrofamagio pizza with extra olives ready
+  at the end.
+
+The maidens start to leave and walk up a set of stairs to a gong.
+
+RIMMER: Err, where are you going?  Err, what are you doing?  My God!  Are
+  you going to take a flying leap?
+MAID: We are going to summon the Master.
+RIMMER: The Master?
+MAID: You have been prepared for him.
+RIMMER: This Master character -- and I acknowledge that I may not want to
+  know the full answer to this one -- but why does he want me oily in
+  particular?  Obviously, whatever he has in mind is facilitated by my
+  being slippery and pliant, yes?
+MAID: He always likes his victims to be oiled.  An oiled body is so much
+  better for conducting electricity.
+RIMMER: Not the best news, but it could have been worse.
+
+The MAID sound the gong.
+
+17 Ext. Swamp Of Despair. Night.
+
+The Boys from the Dwarf are paddling across a bubbling swamp.  Gas fires
+burn around them and they are being watched by the hooded legions.
+
+18 Ext. Outside the Fortress Of The Unspeakable One. Night.
+
+They land the boat at a crumbling jetty and climb up onto the beach.
+
+LISTER: Why I ever agreed to go for a stroll in Rimmer's psyche I will
+  _never_ know.
+
+They come upon a sign that reads:  SWAMP OF DESPAIR.
+
+CAT: Aw terrific.  This gets better and better.
+LISTER: Is it just me or are those frogs saying, "Useless?"
+FROGS: Useless, useless, Rimmer, Rimmer.
+CAT: Hey look at this!  You've got a huge great blood sucking leech on
+  your neck.
+
+He pulls it off and examines it, and shows it to LISTER.
+
+CAT: It's got a human face.
+LISTER: It's Rimmer's mum!
+KRYTEN: Here, come quickly.  I think I've found a metaphor.
+LISTER: A what?
+KRYTEN: Look at all these gravestones.
+LISTER: "HERE LIES SELF-RESPECT, DIED AGE 24".
+KRYTEN: They're all aspects of Mr. Rimmer's personality which are dead.
+  "GENEROSITY, DIED AGE NINE." "SELF-CONFIDENCE TAKEN FROM US, AGE
+  TWENTY-TWO."
+LISTER: "HONOUR, GONE BUT NOT FORGOTTEN, DIED AGE TWELVE."
+
+CAT has found a small one that reads CHARM.
+
+CAT: Look at this.  This one's minute.
+LISTER: Check this one.  This one's freshly dug.
+KRYTEN: Who's it for?
+
+The tombstone for an unfilled grave reads, HOPE.
+
+KRYTEN: Oh! Psychologically speaking, Mr. Rimmer may be in far bigger
+  trouble than any of us ever suspected.  If we don't get to him before
+  this grave is filled, we may never get out of this nightmare.
+
+19 Int. Dungeon.
+
+The UNSPEAKABLE ONE emerges from a pit in the floor.  We never more than
+a glimpse of it, but its breathing sounds just like Darth Vader's.
+
+RIMMER: Boy, am I glad to see you.  You must be the Unspeakable One.
+  Just to fill you in, there's been a gigantic administrative cockup.
+  Some of your staff have _somehow_ mistaken me for a virgin.
+UNSPEAKABLE ONE: Stop your putrid whining you dact tuft of rectal pubic
+  hair.
+RIMMER: Sorry.  Yes, I do tend to jabber on a bit when I'm nervous.
+
+The UNSPEAKABLE ONE gets a branding iron from a fire.  The brand is 'H'.
+
+RIMMER: I've never been partial to physical torture.  It's actually
+  always been one of my... worst nightmares actually.
+UNSPEAKABLE ONE: Now, all your nightmares will come true here.  All of
+  them.
+
+20 Int. Tunnel.
+
+LISTER: He's got to be somewhere near here.  We should be right on top of
+  him.
+
+A loud roar disturbs them.
+
+CAT: Whatever it was, let's hope it's had lunch.
+KRYTEN: It's right below us.
+RIMMER: (VO, from below) Who are you?
+LISTER: (Lister finds a grate) Here.
+
+They crouch down and peer through a grate on the tunnel floor.  Through
+the holes, they can see RIMMER, chained to the dungeon wall.
+
+RIMMER: (VO) And why are you being so horrible to me?
+
+21 Int. Dungeon.
+
+UNSPEAKABLE ONE: It is you who created me, nurtured me, help me grow
+  strong.  I am the part of you that hates yourself.  I am your self-
+  loathing.
+RIMMER: My self-loathing?
+UNSPEAKABLE ONE: Is it not true that you despise yourself?  That you
+  detest your own incompetence and stupidity?  That you hold yourself in
+  contempt for your countless failures and disappointments?  Is it not
+  true that you feel nothing but the deepest, blackest rancor for that
+  walking vomit stain the world calls Arnold Rimmer?  Is it not true?
+RIMMER: (Weakly) Yes.
+
+22 Int. Tunnel.
+
+LISTER: Look, we've got two choices.  Either we go in with bazookoids
+  blazing and try and somehow get him out of there or we sit here like
+  lemons and watch him get tortured.
+CAT: Anybody got any opera glasses?
+LISTER: Set bazookoids to kill-stuff-and-mount -- we're going in.
+  (Signaling to KRYTEN to help him with the grate) Kryten?
+
+23 Int. Dungeon.
+
+The UNSPEAKABLE ONE is approaching RIMMER, weilding the burning brand.
+Suddenly, the posse arrives, bazookoids blazing.  They pound the
+UNSPEAKABLE ONE with wave upon wave of bazookoid fire.  The roof starts
+to collapse around them.
+
+UNSPEAKABLE ONE: Is it my turn now?
+
+The UNSPEAKABLE ONE has seemingly suffered no ill effects from the
+bazookoid fire.
+
+LISTER: (Panicky) Reload!
+KRYTEN: But sir, another barrage of bazookoid fire could start a
+  rockslide and bury us all!
+LISTER: Reload!
+RIMMER: You'd risk your lives for _me_?
+KRYTEN: Of course.  You're part of the crew.
+
+The UNSPEAKABLE ONE roars as if in pain and disappears back down into the
+hole.
+
+RIMMER's chains disappear and his uniform returns.
+
+RIMMER: What happened?
+LISTER: Weird.
+CAT: Where'd he go?
+KRYTEN: There's an old android saying which I believe is peculiarly
+  appropriate here.
+
+The others, unnoticed by KRYTEN, sneak up the stairs to leave.
+
+KRYTEN: In binary language it goes something like this:
+  001100111011000111100, which roughly translated means, "Don't stand
+  around jabbering when you're in mortal danger."
+
+He looks around, realises that he needs to follow his own advice, and
+makes off after them.
+
+24 Ext. Outside The Fortress Of The Unspeakable One. Night.
+
+RIMMER: Which way?
+KRYTEN: Well, we go right at the Swamp of Despair, straight past the Wood
+  of Humiliation and then hard left at the Chasm of Hopelessness.
+CAT: You're a weird guy, you know that?
+
+25 Ext. Swamp Of Despair. Night.
+
+A shot of the boys paddling back across the swamp to Starbug.
+
+26 Int. Starbug Mid-section.
+
+The boys enter.  The others are glaring at RIMMER.
+
+RIMMER: Why're you all looking at me like that?  Like, as if this is all
+  my fault?  Have you any idea what kind of day I've had?  I've been
+  kidnapped, stripped, oiled, menaced, manacled, licked, nibbled,
+  chained, tortured, humiliated, and I nearly had a knobbly thing the
+  size and shape of a Mexican agabe cactus jammed up where only customs
+  men dare to probe.
+CAT: Don't you know what this place is?
+RIMMER: Yes, it's a hell hole.  It's a nightmare.  It's a stinking
+  infested pit of putridness.
+LISTER: Rimmer, it's _your mind_.
+KRYTEN: He's right, sir.  This is a psi-moon.  It's terrain was
+  landscaped by _your psyche_.
+RIMMER: So... So what are you saying to me?  That thing... that, that
+  beast... that lives inside my mind?
+KRYTEN: Metaphorically, yes, sir.
+RIMMER: Self-loathing?  I don't loathe myself.  What is there one could
+  possibly loathe about me?
+KRYTEN: Would you like the list, sir?
+RIMMER: What list?
+KRYTEN: Well.  There's the fact that you were despised by your parents
+  for failing to achieve their standards; the fact that your three
+  brothers were all such high flyers in the Space Corps and you ended up
+  servicing chicken soup machines; there's your inability to form long
+  term relationships with anyone; your cowardliness; your lack of charm,
+  honour, or grace; and the awful knowledge that throughout your entire
+  life no one has truly liked you because you are so fundamentally
+  unlikeable.
+RIMMER: Oh, that!
+KRYTEN: Please don't interrupt, sir.  I'm only halfway through my list.
+  Now where was I?  Oh yes--
+LISTER: I think he's got the point, Kryten.
+RIMMER: God, I'm such a mess.
+
+Starbug shudders.
+
+LISTER: What's that?
+HOLLY: Trouble.  We've hit quicksand.  We're being sucked down.
+LISTER: Hit the retros.
+HOLLY: Can't get any lift, but they're keeping us stable.  Ten minutes
+  before they burn out.
+CAT: OK.  I say get into the jet-powered rocket pants and junior-birdman
+  the hell out of here.
+KRYTEN: An excellent and inventive suggestion, sir, with just two tiny
+  drawbacks:  A.  We don't have any jet-powered rocket pants; and B.
+  There's no such thing as jet-powered rocket pants outside the ...
+  outside the fictional serial Robbie Rocket Pants.
+CAT: Well that's put a crimp an otherwise damn fine plan.
+HOLLY: Hang on.  I'm getting a powerful energy emission.
+
+27 Int. Starbug Cockpit.
+
+The group hurries in from the back.
+
+UNSPEAKABLE ONE: (VO) Hand over the worm and your lives will be spared.
+  My quarrel is not with you.  It's with that excremental smear who
+  cowers amongst you.  If you attempt to shield him, then I shall unleash
+  the full terrible fury of my hooded hordes against you.  You have ten
+  minutes.
+
+28 Int. Starbug Mid-section.
+
+RIMMER walks out of the cockpit, followed by LISTER.
+
+LISTER: Where are you going?
+RIMMER: Where do you think I'm going?  You heard him!  If I don't hand
+  myself over he's going to throw everything he's got at Starbug.
+LISTER: What?  You're really going to give yourself up?
+RIMMER: No. I'm going down to the engine room to cower behind one of the
+  boilers.  And I suggest you all find ingenious places to tremble behind
+  too.
+HOLLY: If you want my opinion the only way anyone's to get out of here
+  alive is by working out some way of killing that thing.
+KRYTEN: How?  Bazookoids were totally ineffective against it.  It's
+  invulnerable.
+RIMMER: We're finished.
+
+Starbug shudders again and sinks some more.
+
+HOLLY: Increasing retros to max.  Now stable.
+KRYTEN: Now wait a minute.  Hmmm.  (Clears throat, then turns to RIMMER.)
+  This is all your fault, you know, you little glob of terburculatic
+  sputum.
+
+Starbug shudders again and sinks even further.
+
+KRYTEN: Ah hah!  Interesting.  (Laughs) Sir, you are a cruddy little scud
+  ball with all the innate lovability of an itchy veruka.
+
+Starbug shudders again.
+
+KRYTEN: Excellent.  Mr. Lister, Cat -- confabulation in the cockpit.
+
+They leave for the cockpit and RIMMER gets up to follow.
+
+KRYTEN: (To RIMMER) Ah, not you, sir.
+
+29 Int. Cockpit.
+
+KRYTEN: Sirs, I think I have it.  The real enemy is not out there, it is
+  in Starbug with us.  The real enemy is inside Mr. Rimmer's head.
+CAT: Nice plan.  So we remove his head and everything's cool, right?
+LISTER: No, wait a minute.  That's gone right up my flagpole, that has,
+  Kryten.  I'm saluting that one.
+CAT: What?
+LISTER: When we first drove back the beast in the cavern, it wasn't the
+  bazookoid fire the forced him into the pit.  It was when you told
+  Rimmer we wouldn't desert him.
+KRYTEN: Precisely.
+LISTER: So if we can make Rimmer feel wanted, feel cared about...
+KRYTEN: If we can make him feel good about himself, somehow restore his
+  self-esteem and his pride, that would automatically vanquish the self-
+  loathing beast, or at least debilitate it long enough for us to break
+  free of this quicksand and get off this God forsaken psi-moon.
+CAT: How do we make him feel good?  What is there about him to feel good
+  about?
+LISTER: We've got to tell him we love him.
+CAT: Arrrrgh, you're sick!  I want no part of this depravity!
+KRYTEN: He must not suspect we are insincere.  Our lives depend on it.
+  Ready?
+CAT: I'll never be ready.
+
+30 Int. Mid-section.
+
+RIMMER is sitting slumped on a packing crate, his face a rictus of shame,
+fear, and self-pity.  The door to the cockpit slides open.  CAT, KRYTEN
+and LISTER, framed in the doorway, put on what they probably believe are
+sincere-looking smiles.  They look constipated.
+
+LISTER: Listen, we've been talking and the three of us have decided to
+  stay with you and face the danger.  All for one and that, you know?
+RIMMER: Really?
+KRYTEN: Sir, I'd just like to take this opportunity to say that you are a
+  very beautiful person.
+LISTER: What he means is, that we're all facing certain death here and I
+  think it's about time we let each other know exactly how we feel about
+  each other.
+RIMMER: You think that's a good idea?
+
+They all gather round RIMMER.  LISTER sits down beside him, and KRYTEN
+sits on an adjoining crate.  CAT stays standing at a safe distance.
+
+LISTER: Its just that guys generally aren't terrific at ... you know...
+KRYTEN: Expressing their feelings.
+LISTER: Yeah.  They kid around and insult each other and stuff.  And what
+  they really mean is... Well, they can't tell you the stuff they really
+  mean.
+RIMMER: What are you trying to tell me?
+LISTER: Just trying to say that whatever happens here, I want you to know
+  I really care about you.
+
+LISTER puts his hand on RIMMER's knee and RIMMER looks at it, rather
+surprised.
+
+KRYTEN: We _all_ do, sir.
+
+KRYTEN puts his hand on RIMMER's other knee and RIMMER looks almost
+disgusted.
+
+CAT: It's true.  _They_ really do care about you.
+RIMMER: Only this morning you referred to me as a cancerous polyp on the
+  anus of humanity.
+LISTER: In an affectionate way.  In a kidding around, joking, friendly,
+  affectionate way.
+KRYTEN: Sir, what he's trying to say is that we may never get another
+  opportunity to articulate our feelings and I, for one, would just like
+  to take this opportunity to say that you're a splendant man and a much-
+  respected colleague and a -- gosh darn it -- damn good friend.
+HOLLY: We're getting some lift.
+RIMMER: Wait a minute.  I know why you're doing this.
+HOLLY: Going down.
+RIMMER: You're trying to make me feel guilty, aren't you?  It's a
+  transparent attempt to shame me into doing the honourable thing.
+LISTER: (Protesting) No, it's not that at all.
+KRYTEN: (With LISTER) What gave you that idea?
+RIMMER: Well, why is it then?
+LISTER: Our number is up here and I don't want to go out without setting
+  the record straight.  It's not easy saying this one man to another,
+  but, I love you, man.  I really, really love you.
+HOLLY: Going up.
+KRYTEN: I think it might be a good idea at this time if we try and get
+  into a kind of a four-way hug situation.
+RIMMER: What's wrong with you?
+KRYTEN: I don't think people touch enough, sir.  I think people should
+  touch more.
+
+LISTER and KRYTEN grab CAT, and they all start to hug RIMMER.  CAT looks
+about as disgusted as it is possible to get.
+
+LISTER: I love you, Arnie.  This is a beautiful man.  Big Man.
+KRYTEN: This is a beautiful moment, isn't it?
+LISTER: You're a big man.  We love you, A.J.!
+RIMMER: God.  Oh...
+HOLLY: Quick, get into the cockpit.  There's something very strange
+  happening out there.
+
+31 Ext. Graveyard.
+
+We see RIMMER's SELF-RESPECT and his SELF-CONFIDENCE rise from the dead,
+looking like two members of the three musketeers.
+
+UNSPEAKABLE ONE: Charge, my hordes of darkness!  Bring me the head of the
+  Despicable One.
+
+But SELF-RESPECT and SELF-CONFIDENCE bar their way, blades flashing.
+
+SELF-RESPECT: Have at you, Bitterness!
+SELF-CONFIDENCE: Take that, Self-doubt!
+SELF-RESPECT: Die like the dog you are, Mistrust!
+SELF-CONFIDENCE: Feel my blade, Loneliness.  May your foulness rot in
+  hell!
+
+32 Int. Starbug Cockpit.
+
+HOLLY: We're getting some lift.
+KRYTEN: Twenty metres.  That's enough for liftoff.
+HOLLY: We're almost clear.
+
+33 Model Shot.
+
+Starbug lifting off.
+
+34 Int. Cockpit.
+
+RIMMER: It was all baloney, wasn't it?
+LISTER: What was?
+RIMMER: All that hugging stuff back there.  It was just a way of
+  escaping, wasn't it?  I mean you didn't really feel that deep down I'm
+  an OK sort of bloke; I'm not such a bad old stick once you get to know
+  me.  You didn't really mean any of that, did you?
+
+The others pause briefly to glance at each other and then respond
+together.
+
+OTHERS: (Matter-of-factly) No.
+
+                              Credits:
+
+                                Rimmer  Chris Barrie
+                                Lister  Craig Charles
+                                   Cat  Danny John-Jules
+                                 Holly  Hattie Hayridge
+                                Kryten  Robert Llewellyn
+                           Handmaidens  Sara stockenridge
+                                        Francine Walker-Lee
+                    Associate Producer  Julian Scott
+                              Director  Juliet May
+                              Producer  Hilary Bevan Jones
+                   Executive Producers  Rob Grant
+                                        Doug Naylor
+                                 Music  Howard Goodall
+                               Casting  Jane Davies
+                 Production Accountant  Joanna Birkinshaw
+                          Unit Manager  Irene Gibbons
+                         Video Effects  Bruce Steele
+                                        Jez Gibson
+                       Production Team  Nichol Hoye
+                                        Mairead Curtin
+                     Camera Supervisor  Rocket
+                          Vision Mixer  Simon Sanders
+                     Vision Supervisor  Mike Spencer
+                                Gaffer  Ron Green
+                       Consol Operator  Dai Thomas
+                       Property Master  Paul Purdy
+                      Properties Buyer  Stella McIntyre
+                     Technical Manager  Jeff Jeffery
+                      Videotape Editor  Graham Hutchings
+                         Stage Manager  Kerry Waddell
+                  Production Assistant  Christine Moses
+                        Costume Design  Howard Burden
+                                        Gill Shaw
+                        Make Up Design  Andria Pennell
+                                        Belinda Parresh
+                 Visual Effects Design  Peter Wragg
+                                        Paul McGuinness
+                      Sound Supervisor  Keith Mayes
+                     Lighting Director  John Pomphrey
+                     Production Design  Mel Bibby
+                                        Stephen Bradshaw
+
+                       Red Dwarf V (C) BBC TV MCMXCII
+
+

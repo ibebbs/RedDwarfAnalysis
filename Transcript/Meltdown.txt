@@ -1,0 +1,801 @@
+Subject: MeltDown (Script)
+Organization: BASTARDS INCORPORATED
+From: starman@crash.wanganui.gen.nz (Robin Halligan)
+Reply-To: starman@crash.wanganui.gen.nz
+Date: Thu, 7 Jul 94 23:53:44 +1200
+
+Here is a Tided up and some correctons thanks.
+
+Typed in by Robin Halligan
+starman@crash.wanganui.gen.nz
+With help from
+              jbaker@sirius.uvic.ca (Krenn)              
+              Mark West <markw@jsb.co.uk>  
+
+--------------------------------------------------------------------------
+
+                 RED DWARF Series IV episode 6, "Meltdown"
+
+1 Int. Sleeping Quarters.
+
+CAT, LISTER and RIMMER are sitting round a table in the sleeping
+quarters.  CAT and LISTER are playing a card game and RIMMER is regaling
+them with tales of his youth.  As the scene opens we see that CAT and
+LISTER seem to be in some kind of pain.
+
+RIMMER: So there we were at 2:30 in the morning; I was beginning to wish
+  I had never come to cadet training school.  To the south lay water --
+  there was no way we could cross that.  To the east and west two armies
+  squeezed us in a pincer.  The only way was north; I had to go for it
+  and pray the Gods were smiling on me.  I picked up the dice and threw
+  two sixes.  Caldecott couldn't believe it.  My go again; another two
+  sixes!
+LISTER: Rimmer, what's wrong with you?  Don't you realize that no one is
+  even slightly interested in anything you're saying?  You've got this
+  major psychological defect which blinds you to the fact that you're
+  boring people to death!  How come you can't sense that?
+RIMMER: Anyway I picked up the dice again... Unbelievable!  Another two
+  sixes!
+LISTER: Rimmer!
+RIMMER: What?
+LISTER: No one wants to know some stupid story about how you beat your
+  Cadet School Training Officer at Risk.
+RIMMER: Then -- disaster!  I threw a two and a three; Caldecott picked up
+  the dice and threw snake eyes -- I was still in it.
+LISTER: Cat, can you talk to him?.
+
+CAT is sitting with big pieces of cotton wool plugged in to his ears.  As
+LISTER talks to him he takes one of the pieces.
+
+CAT: What?
+RIMMER: Anyway, to cut a long story short I threw a five and a four which
+  beat his three and a two, another double six followed by a double four
+  and a double five.  After he'd thrown a three and a two I threw a six
+  and a three.
+CAT: Man, this guy could bore for his country!
+LISTER: What I want to know, is how the smeg can you remember what dice
+  you threw at a game you played when you were seventeen?
+RIMMER: I jotted it down in my Risk campaign book.  I always used to do
+  that so I could replay my moments of glory over a glass of brandy in
+  the sleeping quarters.  I ask you, what better way is there to spend a
+  Saturday night?
+CAT: Ya got me.
+RIMMER: So a six and a three and he came back with a three and a two.
+LISTER: Rimmer, can't you tell the story is not gripping me?  I'm in a
+  state of non-grippedness, I am completely smegging ungripped.  Shut the
+  smeg up.
+RIMMER: Don't you want to hear the Risk story?
+LISTER: That's what I've been saying for the last fifteen minutes.
+RIMMER: But I thought that was because I hadn't got to the really
+  interesting bit...
+LISTER: What really interesting bit?
+RIMMER: Ah well, that was about two hours later, after he'd thrown a
+  three and a two and I'd thrown a four and a one.  I picked up the
+  dice...
+LISTER: Hang on Rimmer, hang on... the really interesting bit is exactly
+  the same as the dull bit.
+RIMMER: You don't know what I did with the dice though, do you?  For all
+  you know, I could have jammed them up his nostrils, head butted him on
+  the nose and they could have blasted out of his ears.  That would've
+  been quite interesting.
+LISTER: OK, Rimmer.  What did you do with the dice?.
+RIMMER: I threw a five and a two.
+LISTER: And that's the really interesting bit?
+RIMMER: Well it was interesting to me, it got me into Irkutsk.
+
+Still the sleeping quarters but KRYTEN just appears out of nowhere.
+
+Buzzzt -- the teleport paddle pops KRYTEN into the room.
+
+KRYTEN: Hmmm, curious...
+
+Buzzzt -- he pops into a different spot.
+
+KRYTEN: Extraordinary!
+
+Buzzzt.
+
+KRYTEN: What a truly copacetic piece of machinery.
+LISTER: What is it?
+KRYTEN: Well, basically it appears to be a device that converts an
+  individual into digital information and then transmits him as light
+  beams to another point in space.  Essentially it's a matter--
+
+Buzzzt.
+
+KRYTEN: --transporter.  It's pretty neat.
+
+Buzzzt.
+
+KRYTEN: Ha!
+CAT: Where'd you get it from?
+KRYTEN: I think it must be a prototype.  I found it in the Research Labs
+  down on Z deck.  I managed to cobble together the missing circuitry and
+  it appears to be fully functional.  Theoretically it can transport
+  several people at once.  (To LISTER) Would you like to grip a paddle,
+  sir?
+
+LISTER stands and grips a paddle.
+
+KRYTEN: We'll meet you by the NaviComp in Starbug.
+
+Buzzzt -- they both vanish.
+
+RIMMER: (To CAT) Let's go.
+
+RIMMER and CAT get up and head off out the door.  We stay focused on the
+room as a door in the background opens and we hear running water and see
+steam billowing out the door a wet LISTER and KRYTEN come out of the
+shower.
+
+KRYTEN: I'm sorry about that, sir.  I neglected to engage the depth
+  function.
+LISTER: We'll walk, Kryten.  We'll walk.
+
+2 Int. Starbug.
+
+The gang is sitting round chatting.
+
+CAT: So, besides cutting down on shoe leather, what good is it?
+HOLLY: Exploration:  it can take you anywhere.  It can home in on
+  atmosphere bearing planets within a radius of 500,000 light years.  If
+  there are any lifeforms in the local systems this thing'll take you
+  straight to 'em.
+RIMMER: So are there any planets with an atmosphere in range?
+KRYTEN: Well, several according to the paddle's scanners, but the most
+  interesting prospect appears to be 200,000 light years away.  In the
+  normal course of things it would take Starbug several billion years to
+  reach it.
+LISTER: It wouldn't be so bad -- Rimmer could finish his Risk story.
+KRYTEN: Traveling subspace via the paddle we would reach it almost
+  instantaneously.
+LISTER: Well, what are we waiting for?
+CAT: Ah ah ah!  Nobody's rearranging _my_ molecules.
+KRYTEN: It's perfectly safe, sir, but I do suggest that Mr Rimmer and I
+  go on ahead as a scout party.
+RIMMER: What?
+KRYTEN: Well, if the atmosphere isn't breatheable we won't be affected.
+  If it is, we can send the paddle back to pick you up.
+RIMMER: The thing is, Kryters, I would love to be in the advanced scout
+  party facing all those thrilling unknown dangers with you, fighting a
+  frontierman's path through a jungle of discovery, but you're forgetting
+  one thing.
+KRYTEN: No sir, I've taken your congenital cowardliness into
+  consideration.
+RIMMER: I'm a hologram.  I can't touch the thing.  How could it transport
+  me?
+HOLLY: Well, of course, you do have a small physical presence.
+KRYTEN: Precisely.  Holly, would you give me Mr Rimmer's light-bee,
+  please.
+RIMMER: Wait a minute.
+
+A view of RIMMER then he whites out and is gone.  KRYTEN is holding the
+light-bee.
+
+RIMMER: (In a high pitched voice) Where am I?
+LISTER: This is Rimmer?.
+
+LISTER gets up, walks over to KRYTEN and takes the light-bee from him.
+
+HOLLY: Yeah, it buzzes around inside him and projects his image.
+
+LISTER tosses the light-bee up in the air and catches it in his mouth
+then spits it out and catches it.
+
+RIMMER: My God, that was disgusting!
+KRYTEN: Please sir, that's a very sophisticated piece of hardware--
+LISTER: Really?  Anyone fancy a game of squash?
+KRYTEN: Sir!
+
+LISTER hands the light-bee back to KRYTEN.
+
+KRYTEN: Thank you.  Now, if all goes well the paddle will re-materialise
+  here.  Simply press this green key and you'll be transported down to
+  the planet, a safe distance from us.
+LISTER: OK.
+
+Buzzzt -- they're gone.
+
+3 Ext. A Typical Field.
+
+There's plenty of green grass, trees in the background, etc.  RIMMER
+appears out of nowhere and staggers, then looks around.
+
+RIMMER: What is this place?
+KRYTEN: Well I can't pinpoint our location precisely but, ah, the
+  atmosphere is indeed breathable I'll return the paddle.
+
+Buzzzt -- the paddle vanishes.
+
+RIMMER: What now?
+
+KRYTEN is looking off camera and up he looks a little worried.
+
+KRYTEN: Well, I suggest we start to run, sir.  I suggest we ambulate as
+  fast as the local gravity will allow.
+RIMMER: Why?
+KRYTEN: Because of them, sir.
+
+We see something that looks like a T-rex with feathers, wings, a bird's
+head and all the believability of an old Star Trek monster.
+
+KRYTEN: Sir?
+
+We see KRYTEN looking very worried and RIMMER running full tilt off into
+the distance.
+
+4 Int. Starbug.
+
+Buzzzt -- the paddle re-appears.
+
+LISTER: Must be safe, let's go.
+
+Buzzzt -- they vanish.
+
+5 Int. A large room.
+
+Cut to an old-fashioned room with a chandelier and a big Nazi flag on the
+wall.  There is a large table in the room with a fireplace in the
+background.  There are three people in the room.  The table is set out as
+a war planning map.  The people appear to be HITLER and two of his aids.
+
+HITLER: This vill be ze final push, mine Komrades.  Zair resources are
+  poor zair vill ist veek!
+
+Buzzzt -- LISTER and CAT appear in the background.
+
+HITLER: Ve can crush zem, Ve can grind zem into zer dirt, Ve can chew up
+  zair bodies and spit zem out as if zey are Sauerkraut!
+
+LISTER is trying to get the paddle to work but hasn't got the settings
+right yet
+
+HITLER: Intruders!  Seize zem!
+LISTER: So long--
+
+Buzzzt -- LISTER and CAT teleport on to the table.
+
+LISTER: --Suckers!
+HITLER: Dummkopfs!  Arrest zem!
+CAT: Get us out of here.
+LISTER: Don't panic me, man!  I'm doing my best!
+
+6 Int. Dark Space.
+
+Buzzzt -- LISTER and CAT teleport to a place that is dark and small.
+
+CAT: Where are we?
+LISTER: Don't know.
+
+LISTER flicks on his lighter.
+
+LISTER: Stone; We're in some kind of narrow stone passage way.
+CAT: So what do we do?
+LISTER: I can see daylight.  I don't know, we could just stand around
+  here I suppose, 'til we work out were we are.
+
+7 Int. Large Room.
+
+For a couple of seconds we are in the room with HITLER and all the men in
+the room are looking at the fireplace in which we see two pairs of legs,
+LISTER's and CAT's.
+
+8 Int. Dark Chimney.
+
+LISTER: At least we're out of trouble.
+CAT: Who were those guys?
+LISTER: Well the short one with the stupid 'tache was Hitler, and the
+  jerky one with the child molester glasses that was Goebbels; suppose
+  the fat bastard must've been Goering.  Must've been.  He was a cocaine
+  addict and a transvestite {some thing}.  If things'd worked out
+  different he had the makings of a major movie star.
+HITLER: (VO) Hands up, pig dogs!
+LISTER: Think I've just worked out were we are.
+HITLER: Get the machine!
+
+9 Int. Large Room.
+
+LISTER and CAT are led out of the room.
+
+CAT: You seriously telling me he's a transvestite?
+LISTER: Yeah...
+CAT: With those hips?
+
+10 Ext. Forest.
+
+A brief scene of the monsters from earlier stamping across the screen
+then we switch to RIMMER and KRYTEN walking down a tree covered path.
+
+RIMMER: I think we've lost them.
+KRYTEN: I can't tell you how feeble and improbable those creatures were,
+  sir.  I've seen more convincing dinosaurs given away free with a packet
+  of Wheaty Flakes.  There's something wrong here...
+
+ELVIS leaps in behind them with a machine gun.
+
+ELVIS: Reach for the sky, boys.  Thank-you-very-much {something}.
+POPE GREGORY: Lets take ita nice and easy.  No funny business or I
+  splasha your guts around likea da communion wine.
+ELVIS: OK, now get moving.  Thank-you-very-much.
+RIMMER: Which way?
+ELVIS: (Doing a classic move, he points) Thataway.
+
+11 Int. Prison Cell.
+
+LISTER and CAT are in a prison cell with bars on the window, one bed and
+a large metal cabinet in the corner.
+
+CAT: What do you think these guys are gonna do to us?
+LISTER: What ever it takes to find out about the paddle.
+CAT: Hey, if you mean torture, then say the word torture -- I can take
+  it!
+LISTER: OK, then, they'll torture us.
+CAT: Waaaaah!  Torture us!  Waaaaaah!
+LISTER: Probably won't, man.  They're probably not even interested in the
+  paddle.  They'll probably just take us outside and execute us.
+CAT: You're just saying that to make me feel better.  It's just those
+  guys are fiends.  They instantly know your weak spots.  As soon as they
+  see me they only have to force me into platform shoes and flared
+  trousers and I'll sing like Tweety Pie.
+LISTER: Dunno what the smeg went wrong.  Kryten never said anything about
+  the paddle taking us back in time.  Just supposed to transport us to
+  the nearest planet with a breathable atmosphere.  How the smeg did we
+  wind up in the middle of the Third Reich?
+CAT: What are those guys doing out there?.
+LISTER: Building something.
+CAT: What?
+LISTER: Oh nothing, nothing.  Just a sculpture, you know, a modern art
+  job.  The kind you get in shopping malls.
+CAT: What's it made of?
+LISTER: Wood.  It's a sort of inverted L shape in wood.
+CAT: Does it have a kind of rope motif?.
+LISTER: There's a sort of noose theme to it, yeah.
+CAT: Its gallows, right?  Look, if it's gallows, say it's gallows -- I
+  can take it.
+LISTER: OK, it's gallows.
+CAT: Waaaaah!  They're building a gallows!  They're hanging us!  Waaaaah!
+LISTER: Look man, don't panic.  We're gonna escape.
+CAT: How?
+LISTER: Just... hijack the guards when they come in, nick their uniforms
+  and stroll out.
+CAT: Are you insane?  Do you seriously expect me to wear grey out of
+  season?  I'd rather hang.
+LISTER: Hang on, hang on.  Something's happening.  Some kind of parade or
+  drill but...
+CAT: But what?
+LISTER: Hang on.  These guys aren't Nazis -- they're all wearing
+  different period costumes.  There's one looks like Al Capone, there's
+  another like Mussolini, Richard III, Napoleon.  Smeg, it's like all the
+  worst people in history have been brought together in one place.  Oh my
+  God, there's James Last!  I recognize him from Rimmer's record
+  collection.
+CAT: What are they doing?.
+LISTER: Well, just lining up in ... in some kind of firing squad.  Woah
+  Woah!  Hang on, hang on.  Someone's being brought out, they're tying
+  him to a stake.  It's Winnie the Pooh.
+CAT: What?
+LISTER: Winnie the Pooh, I swear!  He's refusing the blindfold.
+CAT: They're tying Winnie the Pooh to a stake?
+
+Sound fx of gun shots.
+
+LISTER: That's something no one should ever have to see.
+
+Door opens and LINCOLN is thrown in the room.
+
+LINCOLN: My God, sirs, you may break our bones but you will never break
+  our spirits!  Good day, good sirs, the name's Lincoln, Abraham Lincoln.
+
+12 Int. House.
+
+We switch to a room with 4 people in it -- EINSTEIN, PYTHAGORAS, STAN
+LAUREL and Marilyn Monroe.  Marilyn is putting on makeup.  EINSTEIN is
+sitting at a desk.  PYTHAGORAS is standing at a blackboard.  STAN LAUREL
+is just standing.
+
+EINSTEIN: We have to face facts:  the war is lost.
+STAN LAUREL: But what are we gonna do?
+PYTHAGORAS: I don't know.  I still feel there's a solution probably
+  involving triangles.
+EINSTEIN: Pythagoras, what is it with you?  Always with the triangles,
+  your solution to everything is triangles!  There are problems in that
+  can't be solved by triangles.
+
+Enter POPE GREGORY and ELVIS with RIMMER and KRYTEN.
+
+POPE GREGORY: Hey, we got us some prisoners.
+ELVIS: Anybody got a burger?  I haven't eaten in 5 minutes.  Thank-you-
+  very-much.
+RIMMER: Errr, could someone tell me what's going on here?
+PYTHAGORAS: Who are these people?  They're not wax droids.
+RIMMER: Wax droids?
+KRYTEN: Of course!  This whole place, the entire complex, is a colossal
+  wax droid theme park.  (Looks at a map.) See Prehistoric World?  That
+  must be where we materialized, and on either side Villain World and
+  Hero World.
+RIMMER: But I thought wax droids were programmed to repeat a simple
+  sequence of routines over and over again.
+KRYTEN: Well, they must have broken their programming, and now they're
+  running amok.
+STAN LAUREL: You see, we've been left here all alone for millions of
+  years, an...bu...we..
+PYTHAGORAS: You see we learned to break our programs.
+EINSTEIN: And we've been fighting this idiotic, futile war ever since.
+KRYTEN: A war?
+MARILYN MONROE: Good versus evil, sugar.
+RIMMER: Where's the rest of your army?
+STAN LAUREL: They've all been killed.
+ELVIS: All our best warriors are gone, man:  John Wayne, Sir Lancealot,
+  Joan of Arc, Nelson, Wellington.  Hell, baby, even Doris Day.  They've
+  all died in battle, man.
+RIMMER: And you're all that's left.  Just a smattering of intellectuals,
+  pacifists, and celebrities.
+EINSTEIN: We number less than 20.
+PYTHAGORAS: If only we numbered 21, then at least we could form an
+  equilateral triangle.
+EINSTEIN: Will you shut up already with the triangles!  Everything is
+  triangles, you're driving me crazy!
+RIMMER: Ah.  Who do the enemy have?
+PYTHAGORAS: The cream of evil:  Hitler, Napoleon, Mussolini, Caligula,
+  the Boston Strangler, dozens of them.
+STAN LAUREL: And we don't even have a leader.   We... haven't even got a
+  chance.
+RIMMER: My God, Kryten, this is my destiny!  I was born for this moment!
+KRYTEN: I'm not sure I'm following you, sir.
+RIMMER: Across that valley lies an army of darkness such as mankind has
+  never seen.  The only thing between them and total victory is this
+  pathetic pocket of resistance without a leader, without a plan, and
+  into this bleak arena steps a man; the man for the moment.
+KRYTEN: Who?
+RIMMER: _Me!_ Who did you think, Pat Boone?
+RIMMER: Gentlemen!  Ladies!  Assemble your troops for inspection at 1500
+  hours!  Together with my valiant adjutant, Kryten, I'm gonna turn you
+  into the meanest, fittest fighting machine that ever graced a
+  battlefield.  Come on, Kryten.
+STAN LAUREL: I don't want to fight.  I might get killed.
+
+13 Int. Prison Cell.
+
+LINCOLN has been talking to LISTER and CAT.
+
+LINCOLN: And we've been fighting the Wax War ever since.
+LISTER: What's the point of this war?
+LINCOLN: They want our wax so they can melt us down, insert new programs
+  and turn us into their own kind.  That's why we're becoming so
+  hopelessly outnumbered.
+
+Two men enter the cell.
+
+CALIGULA: On your feet, pigs!
+CAT: Hey, buddy, we just {something}.
+CALIGULA: Silence, scum!  (Wack -- he hits LISTER in the face.) Do you
+  not sink to your knees and bow in the presence of the emperor,
+  Caligula?
+CAT: Who is this guy?
+LISTER: I think he was a famous Roman Emperor.  He slept with his mother,
+  both his sisters, and ended up eating his son.
+CAT: Hey, a little advice, bud:  we all feel peckish after making love
+  but most of us settle for pizza.
+CALIGULA: You are an impudent fool!  (Wack -- he slaps LISTER again.)
+LISTER: Dunno who the other one is.
+LINCOLN: That's Rasputin, the most hated, loathed and despised man of his
+  era.
+CALIGULA: This machine -- how does it work?
+LISTER: Don't know.  If I did, I wouldn't be here.
+CALIGULA: Very well, if that's the way you want to play it.  Rasputin,
+  bring in the bucket of soapy frogs and remove his trousers!
+LISTER: Hang on, it's got something to do with travelling across sub
+  space.
+CALIGULA: Demonstrate.
+LISTER: Well, like I said, I don't really know.
+CALIGULA: Very well.  Rasputin, bring hither the skin-diving suit with
+  the bottom cut out and unleash the rampant wildebeest.
+LISTER: Hang on, I'll try my best!  I'll try my best!  Just give it here.
+CALIGULA: Aah, you think I'm insane?
+CAT: Shall we take a quick vote?
+CALIGULA: Silence, scum!  (Wack -- he slaps LISTER, not CAT.)
+LISTER: (To CAT) Shut up!
+CALIGULA: We will all hold on to it.
+
+Everyone holds on to the paddle.  LISTER, CAT and LINCOLN look at each
+other -- when LISTER speaks the three of them let go.
+
+LISTER: Now!
+
+Buzzzt -- only CALIGULA vanishes.
+
+LISTER: Come on, let's get out of here.
+
+They leave the cell.  Just after they go, the door to the metal cabinet
+opens and CALIGULA and Rasputin exit.
+
+CALIGULA: Rasputin, I'm very cross indeed!  Guards!
+
+14 Ext. Field.
+
+LISTER, CAT and LINCOLN are running across a field.
+
+LINCOLN: This way!  If we make good time, we should be back at HQ by
+  sunset.
+
+15 Int. House.
+
+Back at Headquarters.
+
+RIMMER: What a challenge -- the greatest minds in military history
+  against me!  Let's pray they're up to it.
+KRYTEN: Are you sure your sanity chip is fully screwed in, sir?  Have you
+  any conception of what's lining up outside for your inspection?
+RIMMER: I'll soon shake them up.  By God, I only wish the guys from the
+  Io Amateur Wargamers and Recreaters of the Battle of Neasden Society
+  could see me now.  They'd choke on their pikestaffs.
+
+Enter ELVIS.
+
+ELVIS: Thank-you-very-much, sir, thank-you.
+RIMMER: As you were, Sergeant Presley.
+ELVIS: Guys are outside, sir, awaiting inspection.  Thank-you-very-much.
+RIMMER: Well done, Presley.
+ELVIS: Uh huh huh...
+ELVIS: You lead, sir.  {Not sure about this too much laughing.}
+RIMMER: Kryten, let's see what we've got, eh?
+
+16 Ext. House.
+
+Outside the Headquarters the troops are lined up.   The ones not
+mentioned by name:  EINSTEIN, PYTHAGORAS, STAN LAUREL, POPE GREGORY, and
+MARILYN MONROE.
+
+RIMMER: What's your name, soldier?
+KRYTEN: His name's Gandhi, sir, Mahatma Ghandi.
+RIMMER: Well, get him out of that damm nappy and into a uniform.  Have
+  you no pride man?  Don't you want to win this war?  Don't eyeball me,
+  Ghandi.  Get on the floor and give me 50, NOW!!.
+
+They move on down the line.
+
+KRYTEN: Theresa, sir, Mother Theresa.
+KRYTEN: Assisi, sir, Saint Francis of Assisi
+RIMMER: There's only two kinds from Assisi, steers and queers -- which
+  are you, boy?
+KRYTEN: Ah!  Moving hastily on, sir.
+
+They come upon Santa.
+
+RIMMER: What's *he* doing here?
+KRYTEN: He was posted here from the fiction section.
+
+Moving on down the line.
+
+KRYTEN: The Dalai Lama.
+KRYTEN: Queen Victoria.
+KRYTEN: Mr Noel Coward.
+NOEL COWARD: Delighted to meet you, dear boy.
+RIMMER: Shut up.
+KRYTEN: Ah, Monsieur Jean-Paul Sartre, sir.
+RIMMER: Who?
+KRYTEN: He's a philosopher, sir -- an existentialist.
+RIMMER: Well, Sartre, we don't like existentialists around here, and we
+  certainly don't like French philosophers poncing around in their black
+  polo necks filling everyone's heads with their theories about the
+  bleakness of existence and absurdity of the cosmos, clear?
+
+  Well, you're quite the worst bunch of famous historical wax droids I've
+  ever had the misfortune to clap my eyes on!  You're a total bloody
+  shambles, and if we're going to win this war, someone is gonna have to
+  turn you into soldiers, and that someone, ladies and gentlemen, is ME.
+  Over to you, Kryten.
+RIMMER: (To Gandhi) I'm watching you, Gandhi.
+
+17 Ext. A Dirt Road.
+
+Arnies Army jogging down the road in step, singing.
+
+ELVIS: We are tough and we are mean!
+TROUPS: Arnie Rimmer's death machine.
+ELVIS: All we do is kill and slay.
+TROUPS: Don't care if we get blown away.
+ELVIS: A R Hay Hi He
+TROUPS: A R Hay Hi He
+ELVIS: Arnie Rimmer's Death machineeeeen aeeeen aeeeen.
+
+18 Int. House.
+
+Back at HQ.  Rimmer is in a general's outfit with a tin hat.
+
+KRYTEN: You're driving them too hard, sir.
+RIMMER: It's my job to drive them hard, Kryten.
+KRYTEN: Three of them have melted from exhaustion.
+RIMMER: Perhaps I have been a bit too tough, but it's for their own good.
+KRYTEN: You're killing them for their own good?
+RIMMER: Look, when they get out on that battlefield, don't they think the
+  enemy are going to try and kill them?
+KRYTEN: They won't need to -- you will have wiped them all out first.
+RIMMER: I know what I'm doing, Kryten.  We attack tomorrow under cover of
+  daylight.
+KRYTEN: Daylight, sir?
+RIMMER: It's the last thing they'll be expecting -- a daylight charge
+  over the minefield.
+KRYTEN: The what-field?
+RIMMER: Obviously, I'll have to coordinate things from back here.  Now,
+  this is the plan.
+
+ELVIS brings in LISTER and CAT.
+
+LISTER: Rimmer!
+ELVIS: Thank-you-very-much, sir.  People say they know you, sir.  Thank-
+  you-very-much.
+RIMMER: Listy!  Welcome to command centre.
+LISTER: Rimmer, what's going on out there?  Isn't that Mahatma Gandhi?
+  And what's he doing practising hand to hand combat with a nun?
+RIMMER: That's not a nun, Listy, that's Lieutenant Colonel Mother
+  Theresa.  She's a soldier now.
+CAT: What are you doing, buddy?
+RIMMER: I'm winning this war, that's what I'm doing, buddy.  You won't
+  believe what a ragamuffin bunch of lefty, wishy-washy liberals they
+  were, before I knocked some good old fashinoned death-or-glory
+  bloodlust into them.
+LISTER: Rimmer, you've taken a group of holy men and pacifists and turned
+  them into the Dirty Dozen!
+RIMMER: Oh, I can't take *all* the credit -- couldn't have done it
+  without Kryten here.
+KRYTEN: I'm sorry, sirs, I had no choice.  I'm programmed to obey, no
+  matter how psychotic and deranged the human order.
+LISTER: Rimmer, you're gonna get these guys wiped out, they're not
+  soldiers!
+CAT: He's flipped.
+KRYTEN: With all respect, sir, he's right.  I beg you to reconsider.
+RIMMER: They're only wax droids.
+LISTER: But Rimmer, they've broken their programming; they're capable of
+  independent thought.  That makes them alive, makes them practically
+  people -- I'm not gonna let you do it.
+RIMMER: Pardon me?
+LISTER: You 'eard me!  If you can talk them into it, I can talk them out
+  of it.
+RIMMER: I see.  Sar'nt Presley?
+ELVIS: Thank-you-very-much, sir.
+RIMMER: Place these gentlemen under arrest until further notice.  If they
+  resist, shoot them.
+ELVIS: Reach for the sky, boys.  Let me see them understains.
+RIMMER: Come on, Kryten.
+KRYTEN: Oh.  He's been acting strangely ever since we landed here, sir.
+  I think it might have affected his mind when you chewed his light bee.
+LISTER: I'll do more than chew his light bee when we get out of here.
+RIMMER: KRYTEEEEN!
+ELVIS: Thank-you-very-much, you've been wonderful prisoners, you really
+  have.
+
+19 Ext. Mine Field.
+
+We see Arnie's army spread out on a field RIMMER rides up behind them on
+a motor bike.
+
+RIMMER: Well... Don't know about the enemy, but you certainly scare the
+  hell out of me.  Let's get this show on the road.
+ELVIS: Companayyy! ... Advance!
+
+Arnie's army climb out of a dugout and advance on the enemy, machine guns
+blazing, everyone in a mad charge.
+
+RIMMER: Kryten, you know what you have to do.
+
+KRYTEN is standing with Queen Victoria when RIMMER talks to him he walks
+off with Vic.
+
+RIMMER: Let's go, Holly.
+
+HOLLY is in the headlight of the bike.
+
+HOLLY: OK, matey.
+
+20 Ext. Carnage.
+
+We see the army advancing across the minefield -- mines are exploding and
+we can hear lots of gun fire.  Cut to a scene of Gandhi coming towards us
+then he steps on a mine and explodes leaving only a pair of smoking
+boots.  More scenes of Arnie's army advancing then we see Lieutenant
+Colonel Mother Theresa running across the field, yelling, and running
+straight into a mine and exploding again leaving smoking boots.  Cut to a
+scene of RIMMER shaking his head.  Cut to Santa blasting away with a
+machine gun.  Cut to the Dalai Lama charging across the screen he also
+steps on a mine and blows up.  His robe floats down.  Cut to Jean-Paul
+Sartre; he gets shot in the chest (all shots produce a white waxy liquid
+and the shot droid dies) Cut to St.Francis of Assisi; he also is shot in
+the chest.  Cut to Noel Coward; he is shot in the leg.
+
+NOEL COWARD: Well shot.
+
+We see the army advancing and either being shot or blown up.
+
+21 Int. Enemy HQ.
+
+HITLER, Goebbels, Goering, a hooded KKK member and some unknowns are
+shooting out of the window.
+
+HITLER: Destroy them!  Keep shooting them!
+
+The door opens and Queen Victoria comes in with a machine gun and blasts
+away at them -- they all die, but as he is dying, HITLER shoots Queen
+Victoria and they both die.  Moments after they die KRYTEN looks round
+the door; seeing them all dead he enters and pulls out a radio.
+
+KRYTEN: Iron Duke.  Iron Duke.  This is Pawn Sacrifice.  Come in, please.
+RIMMER: (Over the radio) Kryten -- how's it going?
+KRYTEN: I'm in the Third Reich building, minimal resistance.  Just as you
+  planned, the decoy charge has drawn their fire.
+RIMMER: OK.  Now find the boiler room and hit the thermostat -- they'll
+  melt once it hits 100 degrees.
+KRYTEN: I'm on my way, sir.
+
+22 Int. House.
+
+Back in the Good Guys' HQ.  LISTER and CAT are sitting with their hands
+tied behind them.  RIMMER and KRYTEN enter.
+
+RIMMER: Victory, gentlemen!  The fascists have fallen!
+KRYTEN: May I untie them now, sir.
+RIMMER: Rejoice!  We conquer!  Victory on Waxworld!  It's VW day!
+LISTER: So you took the HQ Wiped them all out.
+RIMMER: To a droid.
+KRYTEN: It's true, all melted.
+LISTER: What about Arnie's army?
+CAT: Yeah, how many of them made it back?
+RIMMER: There are always casualties in war, gentlemen.  Otherwise it
+  wouldn't be war, just be a rather nasty argument with a lot of pushing
+  and shoving.
+LISTER: So how many survived?
+RIMMER: Well we haven't had time to make a full official estimate, but at
+  a rough guess, and obviously this is subject to alteration pending
+  information updates, roundabout none of them.
+LISTER: So you wiped out the entire population of this planet.
+RIMMER: You make it sound so negative, Lister.  Don't you see, the
+  deranged menace that once threatened this world is vanquished!
+LISTER: No it isn't, pal.  You're still here.
+RIMMER: I brought about peace.  Peace, freedom and democracy.
+LISTER: Yeah, Rimmer.  Right.  Absolutely.  Now all the corpses that
+  litter that battlefield can just lie there safe under the knowledge
+  that they snuffed it under a flag of peace and can now happily
+  decompose in a land of freedom.  Ya smeg head.
+RIMMER: There really is no pleasing some people, is there?
+KRYTEN: Well, at least we got the matter paddle back.
+LISTER: Well, there's nothing to stay here for.  Let's get back.
+RIMMER: Shouldn't we go out onto the battlefield and bask in the glow of
+  victory?
+LISTER: Holly?  Give me his light bee.  See ya, Rimmer.
+
+LISTER swallows the light bee
+
+KRYTEN: Sir!  What are you thinking of?
+LISTER: It's OK.  He'll come out in a couple a days and he'll have been
+  through what he put us through.  Does any one fancy a vindaloo?
+
+                                  The End
+
+       Closing song sung by Elvis.
+
+       Cast:
+                                Rimmer  Chris Barry
+                                Lister  Craig Charles
+                                   Cat  Danny John Jules
+                                 Holly  Hatty Hayridge
+                                Kryten  Robert Llewellyn
+                                 Elvis  Clayton Mark
+                                Hitler  Kenneth Hadley
+                              Einstein  Martin Friend
+                            Pythagoras  Stephen Tiller
+                       Abraham Lincoln  Jack Klaff
+                              Caligula  Tony Hawks
+                          Pope Gregory  Michael Burrell
+                           Stan Laurel  Forbes Masson
+                           Noel Coward  Roger Blake
+                        Marilyn Monroe  Pauline Bailey
+
+---------------------------------------------------------------------------
+starman@crash.wanganui.gen.nz (Robin Halligan)
+Amigans Public Access UUCP Node Wanganui New Zealand
+
+"A man that expects to train lobsters to fly in a year is called a lunatic
+ and is locked up. But a man that thinks people can be turned into angels by
+ legislation is called a reformer and allowed to walk free"
+
+

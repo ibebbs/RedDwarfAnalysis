@@ -1,0 +1,846 @@
+From: GRS00042@CONRAD.APPSTATE.EDU (Dov Sherman)
+Subject: Altered Script: Camille
+
+Jeff Lee did a fantastic job transcripting "Camille" and it is nice to
+ see someone using proper script format which is easier to read but some
+ people seem to have had problems with the control characters and size
+ it took up so here's Jeff's transcript reformatted, taking up 32k,
+ with no control characters or page numbers, and minimal spacing for
+ the minimalists on the newsgroup.
+Please don't be offended by this, Jeff.  You did a great job on the
+ transcript and I hope we can see more transcripts from you.  I only did
+ this because (a) some people prefer convenience to professionalism and
+ (b) I have no life and nothing better to do.
+
+--- Dov Sherman
+    GRS00042@Stat.Appstate.Edu
+
+---------------------------< Sever Here >---------------------------
+
+                  RED DWARF Season IV Episode 1, "Camille"
+
+1 Int. Sleeping quarters.
+
+KRYTEN and LISTER are seated at the table.  There is a collection of
+fruit on the table between them; on the viewscreen, electronic fish are
+swimming.
+
+LISTER: (Holding up a banana) Okay, let's try again.  What is it?
+KRYTEN: It's a banana.
+LISTER: No, it isn't.  Try again.  What is it?
+KRYTEN: It's a banana?
+LISTER: (Exasperated) No, it isn't!  What is it?
+KRYTEN: It's an urrrr.... It's an urrrr....
+LISTER: It's an orange!  Go on, say it.  It's an orange!  This!  Is!  An
+  orange!
+KRYTEN: It's an orrrr... It's an orrrr... It's a banana!  It's no good,
+  sir, I just can't do it!
+LISTER: You CAN do it, I'm gonna teach you how!  (Holding up an apple)
+  Okay, what's this?
+KRYTEN: It's an ap--
+LISTER: No, no, no, what is it?
+KRYTEN: Oh, it's no good sir, I just can't lie!  I'm programmed always to
+  tell the truth.
+LISTER: Kryten, it's easy!  (Holding up the apple) Look:  an orange.
+  (Holding up the orange) A melon.  (Holding up the banana) A female
+  aardvark!
+KRYTEN: Oh!  Oh, that is just so superb, sir!  How DO you do that?
+  Especially calling a banana an aardvark?  An aardvark isn't even a
+  fruit!  It's total genius!
+LISTER: (Beat) Let's start again.
+KRYTEN: Oh, sir, my head is spinning.  We've been doing this all morning!
+LISTER: Kryten, I'm gonna teach you how to lie and cheat if it's the last
+  thing I do.  I want you to be unpleasant, cruel, and sarcastic; it's
+  the only way to break your programming, man -- make you independent!
+KRYTEN: Well, I'm truly grateful, sir.  Don't you think I'd love to be
+  deceitful, unpleasant, and offensive?  Those are the human qualities I
+  admire the most!  But I just can't do it.
+LISTER: You CAN!
+KRYTEN: I CAN'T!
+LISTER: (Picks up the banana again.) Look!  What's this?!
+KRYTEN: No!
+LISTER: What is it?
+KRYTEN: Please!
+LISTER: Come on, what is it?
+KRYTEN: It's a b... It's a b... It's a small, off-duty Czechoslovakian
+  traffic warden!  (He looks stunned.)
+LISTER: Yes, you did it, you did it!  (Holding up the orange) What's
+  this?
+KRYTEN: It's a red-and-blue striped golfing umbrella!
+LISTER: Kryten!  Yes!  (Holding up the apple) What's this?
+KRYTEN: It's an apple.
+LISTER: No!  What is it?
+KRYTEN: It's a -- it's a -- it's, it's, it's the Bolivian Navy on
+  manoeuvres in the South Pacific!
+LISTER: Well, Kryten, man -- you can do it!
+KRYTEN: (Proud of himself) No, I can't.
+LISTER: Yes, you -- whoa, whoa, nice one!
+KRYTEN: Well, I can't hang around here; I better go away and take the
+  penguin for a walk.  I can do it!  I did it again, I can lie!
+LISTER: Cat, Cat!  C'mere, c'mere -- check this, check this, check this!
+
+CAT enters.
+
+CAT: Check what?
+LISTER: Concentrate, Kryten.  What's this?  (He holds up the banana.)
+KRYTEN: It's a banana.
+LISTER: (Disappointed) What's this?  (He holds up the orange.)
+KRYTEN: It's an orange.
+LISTER: (Holding up the apple) What's THIS?
+KRYTEN: (Almost crying) Apple?
+CAT: You taught him that?  That's terrific!  You two should audition for
+  "What's My Fruit?!"
+LISTER: He did it wrong, man.
+CAT: (Having fun at their expense) Oh, it gets better!
+KRYTEN: I just can't do it.
+LISTER: You CAN; you just did it!
+KRYTEN: I just can't do it, not when there's someone else there.  What's
+  a suitable human analogy?  It -- it's like trying to urinate in a
+  public lavatory when you're standing next to a man two foot taller than
+  you.  It's just not possible!
+CAT: Look, what are you trying to do, exactly?
+KRYTEN: He's trying to teach me how to lie, sir.
+CAT: Any particular reason?
+LISTER: Yeah!  Lyin's a vital part of your psychological defence system;
+  you're naked without it.  If you can't lie, then you can't conceal your
+  true intentions from other people; sometimes that's essential.  I mean,
+  like, take Nelson.  (He holds the banana to his eye like a telescope.)
+  When he put the telescope to his blind eye and said, "I see no ships!"
+  Or like Humphrey Bogart, at the end of Casablanca, when he lies to
+  Victor Lazslo to protect the guy's feelings.
+KRYTEN: I understand the theory, sir.  How many times have you made me
+  watch that movie?  I understand that it can be noble to lie; I just
+  can't do it.
+LISTER: But Kryten, you CAN do it.  (Waving the banana) Look, what's
+  THIS?
+KRYTEN: It's a banana.
+
+CAT leaves in disgust.
+
+KRYTEN: It always HAS been a banana, it always WILL be a banana.  It's a
+  yellow fruit that you unzip and eat the white bits; it's a banana!
+
+The fish fade from the viewscreen and are replaced by RIMMER's annoyed
+face.
+
+RIMMER: (On viewscreen) Lister, have you got Kryten there with you?
+LISTER: Yeah, what's the prob?
+RIMMER: The problem is, I've been waiting fully twenty minutes for him in
+  the hangar.
+KRYTEN: Oh, spin my nipple nuts and send me to Alaska!  I'm supposed to
+  take him asteroid-spotting!  I'll be right down, sir!
+RIMMER: You'd better be.
+
+RIMMER fades and is replaced by the electronic fish.
+
+LISTER: Now, Kryten, remember yesterday's class?  Our instructions on
+  insults?
+KRYTEN: Oh, I'm not sure I --
+LISTER: Now, how do we describe the gentleman who's just been on the
+  screen?
+KRYTEN: He's Mister --
+LISTER: No no no, come on, he's a --
+KRYTEN: He's a smeee...
+LISTER: Yeah, come on!
+KRYTEN: He's a smeee...
+LISTER: He's a --
+KRYTEN: He's a smeee...
+LISTER: He's a --
+
+LISTER holds up a "flash card" which reads "SMEG."
+
+KRYTEN: He's a smeeeg...
+
+LISTER holds up another card, next to the first one, which reads "HEAD."
+
+KRYTEN: ... Heeaaaad!  I did it!
+LISTER: Brutal!  Now the ultimate test:  can you say it to him in person?
+
+2 Int. Hangar deck (optical).
+
+RIMMER is standing next to Starbug.  KRYTEN enters as RIMMER checks his
+watch.
+
+RIMMER: Ah, Kryten.  At last.  Glad you could make it this millennium.
+KRYTEN: Smeerrrrg!
+RIMMER: I beg your pardon?
+KRYTEN: Smerrrrg heeeeed!
+RIMMER: What?
+KRYTEN: You're a smeerrrrg heeeee... Oh, forget it!
+
+3 Ext. Red Dwarf and Starbug.
+
+Red Dwarf is receding as Starbug passes by the camera.
+
+RIMMER: (VO) Kryten, is there any possibility we could go just a little
+  bit faster?
+
+4 Int. Starbug cockpit.
+
+KRYTEN and RIMMER are seated, with KRYTEN piloting.
+
+RIMMER: I mean, so we're not being overtaken by stationary objects?
+KRYTEN: Sir, you're a smeeeee...
+RIMMER: A smee.
+KRYTEN: A smeee heeee...
+RIMMER: A smee hee.
+KRYTEN: A complete and total one.
+HOLLY: (On the console) Hang about, I'm picking something up.  Some kind
+  of distress beacon.
+KRYTEN: I copy that, Holly.  Quadrant four niner seven.  (He begins
+  pressing buttons.)
+RIMMER: What is it?
+HOLLY: Hard to tell.  But whatever it is, it appears to be marooned on a
+  planet in decaying orbit.
+KRYTEN: What's the safety margin?
+HOLLY: Planet'll explode in about two hours.
+RIMMER: Forget it.  It's too dangerous.  Kryten, head for home.
+KRYTEN: We can't just leave them there, sir!  There may be survivors!
+RIMMER: Leave it, Kryten.  That's an order.  Kryten presses more buttons.
+RIMMER: What are you doing?
+KRYTEN: I am not plotting a course, sir; neither am I taking her down.
+RIMMER: Yes, you are!
+KRYTEN: Neither am I rendezvousing with the crashed vessel, nor seeking
+  for survivors.
+RIMMER: Kryten, you're committing an act of mutiny!  I could have you
+  dismantled for this!
+KRYTEN: Smeeeeg heeeed!  Oh, damn my programming!
+
+Sudden acceleration presses them into the chairs.
+
+5 Ext. Starbug.
+
+Starbug accelerates away from the camera.
+
+6 Ext. Red Dwarf. Establishing shot.
+
+7 Int. Sleeping quarters.
+
+LISTER is seated at a desk.  CAT enters.
+
+LISTER: They're not back yet?  They've been hours!
+CAT: (Sitting next to LISTER) No sign.  What're you watching?
+LISTER: Ah, just a vid.  This is a classic, man!
+CAT: What is it?
+LISTER: Tales of the Riverbank:  The Next Generation.
+CAT: Oh, right!  I've seen this!  It's not as good as the original.
+LISTER: Well, they never really found anyone to replace Hammy Hamster,
+  did they?
+CAT: How could they?  The dude was a diva!  He smouldered; the camera
+  loved him!
+LISTER: Yeah.  He was the rodent equivalent of Marlon Brando.
+CAT: Whatever happened?  Whatever happened to old Hammy?  One minute he's
+  a huge star, running around on his own personalised gold wheel, with as
+  much Edam as he could hold in his little cheeks; the next:  obscurity!
+LISTER: Well, he went on the slide, the series ended, couldn't find any
+  more work, and then the ultimate humiliation:  Hamstergrams.
+
+The electronic fish fade away, and RIMMER's angry face replaces them.
+
+RIMMER: (On screen) Well, thanks a bunch.  Thanks a smegging buncharoony.
+LISTER: Rimmer, where ARE you?
+RIMMER: That idiot droid has endangered this entire vessel by landing on
+  a planet that's about to explode, thanks to your foundation course in
+  advanced rebellion.
+LISTER: Why?
+RIMMER: So he can go and search some starship escape vessel because
+  there's a million-to-one chance there may be a survivor.
+LISTER: What, and you let him go off on his own?
+RIMMER: Of course I let him go on his own!  I was glad to get rid of him;
+  he's flipped!  He's got mad droid disease; he kept waving a banana in
+  front of me and calling it a female aardvark!
+LISTER: Ah, well, hrmmm, you'd better get after him, then, hadn't you,
+  man?  I mean, he might need some help!
+RIMMER: Lister, this is all your fault.
+
+8 Ext. Starbug and crashed escape vessel. Establishing shot.
+
+9 Int. Escape vessel entry corridor.
+
+The escape vessel has emergency power only; debris chokes the corridors.
+KRYTEN enters with an electric torch.
+
+KRYTEN: Hello?  Is there anyone here?  Can anyone read me?  Oh!  Oh dear,
+  what a terrible mess!
+
+He comes to a pit, and accidentally drops his torch.  Leaning out, he
+rests his hand on a beam, which gives way.  He loses his balance and
+falls forward, hanging over the pit and clinging to the beam.
+
+KRYTEN: Help!  Mister Rimmer, sir!  Sir?  A hand reaches down and pulls
+  him up.  We see that it is attached to another mechanoid -- a female
+  one.
+
+10 Int. Escape vessel different corridor.
+
+KRYTEN and CAMILLE enter, walking towards the camera.
+
+KRYTEN: I thank you from the very bottom of my rehydration unit!  You
+  saved my life!
+
+They stop walking.
+
+CAMILLE: You responded to my distress call; you saved mine.
+KRYTEN: Ah, my name is Kryten.
+
+He offers his hand; she shakes it.
+
+CAMILLE: They call me Camille.  Pleased to make your acquaintance.
+KRYTEN: Are you a four thousand series?
+CAMILLE: Yes, I'm a four thousand series GTI.
+KRYTEN: GTI!  Oh, wow!  I'm just a plain old four thousand series.
+  You've got all the luxury extras like realistic toes and a slide-back
+  sunroof head!  Why are you looking at me like that?  Is there something
+  wrong?
+CAMILLE: Sorry, stare mode cancel!  It's just you have really amazing
+  eyes.
+KRYTEN: Well, eh-heh, yeah, they're just the old five seven nines with
+  the automatic 15 f-stop cornea.  If you like, I could pop them out and
+  you could borrow them.  Oh, heck, what a jerky thing to say!
+CAMILLE: I don't believe you would ever say anything which I would
+  consider jerky.
+KRYTEN: Really?
+CAMILLE: Really.
+KRYTEN: Wow.  Uh, listen, I -- I know this is going to sound like a corny
+  line, but has anyone ever told you that the configuration and
+  juxtaposition of your features is extraordinarily apposite?
+CAMILLE: (Slapping him on the shoulder) You really know all the lines,
+  don't you?
+KRYTEN: No, I really mean it!  The way the light catches the angles in
+  your head:  it's enchanting!  My name is Kryten.
+
+KRYTEN offers his hand again; she shakes it.
+
+CAMILLE: You already said.
+KRYTEN: Oh, yes.  Gosh.  You must think me as stupid as a photocopier.
+  So, where are the crew?  What happened here?
+CAMILLE: Kryten, do you believe in advanced mutual compatibility on the
+  basis of a primary initial ident?
+KRYTEN: You mean what humans call "love at first sight?"
+CAMILLE: That would be an adequate synonym, yes.
+KRYTEN: Well, up until a few moments ago, I would have said it had a
+  probability of zero squared.
+CAMILLE: And now?
+KRYTEN: Uh -- this -- this gantry is unstable.  I suggest you hang on to
+  me.
+
+They begin walking again.
+
+KRYTEN: Oh, what IS that fragrance?  It smells divine!
+
+They stop walking.
+
+CAMILLE: WD-40.
+KRYTEN: I knew it!  That's what I use on MY neck hinges, too.
+CAMILLE: Kryten, this shouldn't be happening.  Do you feel it too?
+KRYTEN: You mean the ninety-three point seven two percent compatibility
+  factor?
+CAMILLE: I make it ninety-three point seven five.
+KRYTEN: Oh, yes, I forgot to carry the three.
+CAMILLE: Then say it.  I want to hear the words.
+KRYTEN: Oh, but it sounds so ridiculous coming from a mechanoid.
+CAMILLE: Then say them in machine language.
+KRYTEN: Okay.  In Z80012, using hex rather than binary, and converting to
+  a basic ASC-2 code:  Camille, I think I E5 A9 08 B7 you.
+CAMILLE: You really mean that?
+KRYTEN: Camille, I'd do anything for you.  I'd compute a three million
+  digit prime number with prime roots if I thought it would make you
+  happy; I'd evaluate pi to infinity if it would make you smile.
+CAMILLE: Oh, Kryten.  You make the most romantic calculations.
+
+They start to kiss.  Their lips almost touch when a burst of static comes
+over KRYTEN's communicator, and they pull away.
+
+RIMMER: (On communicator) Kryten, can you read me?  What's happening?
+CAMILLE: (Backing away) There are others?
+KRYTEN: Yes, why?  What's wrong?
+CAMILLE: I can't meet them.
+KRYTEN: What do you mean?
+CAMILLE: The two of us alone, we could make that work.  Please don't ask
+  me to explain.
+KRYTEN: (Going after her) But, Camille, this whole planet is about to
+  blow!  There isn't time!
+CAMILLE: Please!  I can't meet your shipmates.  Trust me.
+KRYTEN: But you don't know them!  You'll like them!  Well, SOME of them.
+  Well, ONE of them.  Maybe.  (Into communicator) Sir!  I'm making my way
+  back.
+RIMMER: (On communicator) What's kept you?
+KRYTEN: I've found a survivor, sir.  We're coming in!
+
+He takes her by the arm and leads her away.
+
+11 Ext. Starbug and escape vessel. Establishing shot.
+
+12 Int. Starbug rear.
+
+KRYTEN and CAMILLE enter.
+
+CAMILLE: Kryten, please don't make me do this.  I'm begging you!
+KRYTEN: Now just relax; everything's going to be fine!  Mister Rimmer,
+  sir?
+RIMMER: (Off-screen) Where the smeg have you been?
+KRYTEN: Mister Rimmer, sir, this is Camille.  Camille, this is Second
+  Tech Rimmer.  She saved my life, sir!
+
+RIMMER enters.  We see CAMILLE from his point of view:  she appears as a
+beautiful, if slightly vacuous,hologram.
+
+RIMMER: (Smitten by her) Yes, well.  Howdy.
+CAMILLE: Howdy.
+KRYTEN: (Still seeing her as a mechanoid) You see?  I knew you'd get
+  along.  Didn't I tell you?  Well, we haven't got much time.  I've got
+  to go and start up the engines, and get us clear of the impact zone.
+CAMILLE: I'll come with you.
+KRYTEN: No no no no, you wait here and get acquainted.
+
+KRYTEN exits into the cockpit.
+
+RIMMER: Can I get you anything?  Or anything?
+CAMILLE: (Smiling at him) No, no no, I'm fine, thanks.
+RIMMER: I just can't believe I've met another hologram after all these
+  years.
+CAMILLE: (Giggles) Yes.  I was Second Technician aboard that crate.
+RIMMER: Second Technician!  That's what I am!
+CAMILLE: I always wanted to go further, but I'm a real dope when it comes
+  to exams.
+RIMMER: Me too.
+CAMILLE: So, ah, what do they call you?
+RIMMER: Well, my first name is Arnold, but the guys just generally call
+  me... Duke.
+CAMILLE: Duke?
+RIMMER: Yes, well, they don't call me "Duke" absolutely all the time.  In
+  fact, sometimes months can elapse and they won't call me "Duke" at all.
+  So don't call me "Duke" in front of anyone.  Because they might have
+  forgotten.  You know that they call me "Duke." Sorry, I'm blabbering.
+  I'm not very good at small talk.
+CAMILLE: Oh, I think you're perfectly charming.
+RIMMER: (Astounded) Do you?  Well, thank you.  No-one's ever said I was
+  charming before.  They've said, "Rimmer, you're a total git." But never
+  charming, no.
+CAMILLE: Well, I think you're VERY charming.
+RIMMER: Really?
+CAMILLE: Very, VERY charming.
+RIMMER: Well, thank you.  Umm, thank you.  I'd just better go and see
+  how, uh, Kryten's getting on.  Excuse moi!
+
+RIMMER turns around, rubs his hands delightedly, and runs lightly up the
+steps into the cockpit.  CAMILLE smiles after him.
+
+13 Ext. Starbug. Establishing shot.
+
+14 Int. Starbug cockpit.
+
+KRYTEN and RIMMER seated; through the door we can see CAMILLE, who looks
+like a mechanoid whenever KRYTEN looks at her, and like a hologram
+whenever RIMMER sees her.
+
+KRYTEN: She's quite something, isn't she, sir?
+RIMMER: She's enchanting.
+KRYTEN: You think so?
+RIMMER: She's got everything!  Style, taste, poise... She's absolutely
+  lovely.
+
+He turns and waves at her.  She smiles and waves back.
+
+KRYTEN: Oh, I'm SO glad you think so, sir.  I don't mind telling you, I
+  think there's some romance in the air.
+RIMMER: You sly old dog, Krytie, I think you're right!
+KRYTEN: Oh, sure, her -- her nose is a little loose, but to me, that's
+  just cute.
+
+RIMMER looks puzzled for a moment, then dismisses the comment.
+
+RIMMER: I'll tell you something.  She's so like my sister-in-law Jannine,
+  it's untrue.
+KRYTEN: (Amazed) Camille looks like your sister-in-law?  What happened?
+  Was she involved in some kind of horrific car accident?
+RIMMER: Who, Jannine?  No, of course not; she was a model.
+KRYTEN: And she looked like Camille?
+RIMMER: Absolutely; the resemblance is uncanny.
+KRYTEN: What did she model?  Spark plugs?
+RIMMER: I happen to think she's very attractive.
+KRYTEN: You do?
+RIMMER: Certainly.
+KRYTEN: Do you think I'M attractive?
+RIMMER: You?  Of course not.  I think you look like a giant half-chewed
+  rubber-tipped pencil.
+KRYTEN: (Offended) Well!  Well, you can think what the HECK you like.
+  Because there are SOME people in this big ol' wide cosmos who happen to
+  think I'm pretty amazing-looking.  Especially in the eye department, I
+  thank you so very much!
+
+15 Ext. Red Dwarf and Starbug.
+
+Starbug enters the hangar.
+
+16 Int. Hangar.
+
+Starbug sets down.
+
+17 Int. Medical unit.
+
+CAMILLE, looking like a mechanoid, is sitting on the examination table.
+As KRYTEN checks her leg's range of motion, LISTER enters.
+
+LISTER: You're back.  I heard.
+KRYTEN: Ah!  Sir!  You haven't met our visitor, Camille.
+
+To LISTER, CAMILLE looks and sounds like a saucy Liverpool girl.  She
+bears a striking resemblance to Kristine Kochanski.
+
+CAMILLE: Hi!
+KRYTEN: Well, if you'll excuse me, I'll go and prepare your quarters.
+  The penthouse suite on A Deck should suffice.
+
+KRYTEN exits.
+
+LISTER: (Consulting a chart) Yeah, well, this looks fine.  If you'd just
+  like to remove your clothes, we'll begin the examination.  Sorry!  Dave
+  Lister, ship's surgeon.
+CAMILLE: (Skeptical) You're a surgeon?
+LISTER: Well, I'm not fully qualified.  But I've seen every episode of
+  St.  Elsewhere.  Still, if it makes you feel uncomfortable, y'know, we
+  can completely dispense with the physical examination and go straight
+  for the malpractice.  So just lie back, relax, and I'll go and turn on
+  the laughing gas.  What d'you want, giggles or guffaws?  It's all the
+  same to me.
+CAMILLE: Something tells me you're not really a doctor.
+LISTER: What gave it away?  The fact that I've gone fully ten seconds
+  without patronising you?  This is weird, y'know.  The last two human
+  beings in an infinite cosmos and we have to bump into each other.
+CAMILLE: Yeah, it is weird, innit?
+LISTER: And you realise we have an awesome responsibility?
+CAMILLE: We do?
+LISTER: Yeah!  Sure we do!  We've gotta rebuild the human race.  As
+  quickly as possible.  D'you wanna start now, or d'you wanna clean your
+  teeth first?
+CAMILLE: (Looking less than thrilled) And they say romance is dead.
+LISTER: Hey.  The prospect of making love to a complete and total
+  stranger is just as galling to me, y'know?  We gotta be completely
+  professional about this.  Totally clinical and unemotional.  So just
+  lie back, relax and I'll go and slip into my Spiderman costume.
+
+RIMMER enters.
+
+RIMMER: Ah, Listy.  I see you've met our ravishing guest.  Camille, have
+  you seen Kryten?
+CAMILLE: (RIMMER's POV) He went up to the Penthouse Suite on A Deck.
+RIMMER: Thanks muchly.  (He turns to go, then back again.) Oh, Camille.
+  It's just a silly thought, really, but I thought perhaps after you've
+  settled in and you're feeling up to it, we could pop up to the
+  projection room and I could talk you through my photo collection of
+  twentieth-century telegraph poles.
+LISTER: Yeah, or if you fancy a slightly more entertaining evening, you
+  can just let him take you outside and shoot you through the head.
+RIMMER: As it happens, Listy, Camille is into telegraph poles every bit
+  as much as I am.  Especially the 1952 Phase Fours with the triple-
+  reinforced wire.
+LISTER: What, you're into telegraph poles?
+CAMILLE: (LISTER's POV) Of course not!
+RIMMER: You see?  What did I tell you?  And she's also a big fan of
+  Reggie Wilson.
+LISTER: What, you -- you like Hammond Organ music?
+CAMILLE: (LISTER's POV) It's mindless pap.
+RIMMER: Absolutely amazing, eh?  Reggie Wilson, telegraph poles -- it's
+  uncanny how much we've got in common.
+LISTER: Are you okay, Rimmer?
+RIMMER: Never better.  Where is he -- A Deck.  Ciao for now!
+
+From RIMMER's POV, the hologrammatic CAMILLE waves and mouths "Ciao" back
+at him.  RIMMER exits.
+
+LISTER: What was all that about?
+CAMILLE: (Looking innocent) What about?
+LISTER: You know.  You were saying one thing, and Rimmer was hearing
+  another.  How d'you DO that?
+CAMILLE: (Giving up) Well, you'd probably have worked it out eventually.
+  I'm a Pleasure GELF.
+
+LISTER heaves a big sign of disappointment.
+
+18 Ext. Red Dwarf. Establishing shot.
+
+19 Int. Corridor outside medical unit.
+
+LISTER enters from the medical unit; CAT meets him, coming from the other
+direction.
+
+CAT: Hey!  What's going on, buddy?  Eraserhead tells me she's a
+  mechanoid, and Captain Sadness makes out she's a hologram.
+LISTER: Oh, well, she's BOTH of those, and NEITHER of those.  She's a
+  GELF.
+CAT: (Uncomprehending) GELF?
+LISTER: Yeah.  A Genetically Engineered Life Form.  She's a Pleasure
+  GELF.  Created to be everyone's perfect companion.  Everyone who looks
+  at her perceives her differently.  You see what you wanna see, guy.
+  What you most desire.
+CAT: (Intrigued) Are you telling me, if I go into that room, I'll see my
+  perfect mate?
+LISTER: Mmm.  Yeah.  And she'll fall instantly in love with you.
+CAT: (Considering) Ooh.  What exquisite treasure of loveliness lies
+  behind those doors?
+LISTER: Well, knowing you, a six foot Valkyrie warrior maiden in scanty
+  armour with a cleavage you could ski down.
+
+LISTER walks away, but stops and hides in the shadows.
+
+CAT: Stop, you're making me dribble!  Well, here goes!
+
+20 Int. Medical unit.
+
+CAT enters, stops in amazement.  Cut to CAMILLE lying on the examination
+table, looking exactly like CAT.
+
+CAMILLE: Hi, buddy!
+CAT: You're me!
+CAMILLE: Who else?
+CAT: (Confused) I'm the object of my own desire?
+CAMILLE: Can you think of anyone more deserving?
+CAT: Well, if you put it like THAT, I guess you're right!  Damn my
+  vanity!
+CAT and CAMILLE: (Slapping hands) OWWWWW!
+
+CAT exits.
+
+21 Int. Corridor outside medical unit.
+
+LISTER is trying to look nonchalant as CAT enters from the medical unit.
+Move with them as they walk towards the camera, down the corridor.
+
+LISTER: What did you see?
+CAT: (Having fun with LISTER) Oh, just some gorgeous chunk of loveliness.
+LISTER: Come on, what did you see?
+CAT: Ooh, what a body!
+LISTER: What did you see?!?!
+CAT: My legs are still shaking!
+LISTER: CAT!  What did you see?!?!
+CAT: Someone get me a brandy!
+
+22 Ext. Red Dwarf. Establishing shot.
+
+23 Int. Sleeping quarters.
+
+KRYTEN, RIMMER, LISTER, HOLLY and CAT are in various positions --
+sitting, lying down, standing, on screen.
+
+RIMMER: Well, I should'a' guessed.  It was all a mighty bit too strange.
+  I mean, actually meeting someone who didn't want to vomit all over me
+  in complete loathing and disgust.
+KRYTEN: I shouldn't take it so personally, sir; it's the same for all of
+  us.  We've all been made to feel foolish, used, chewed up and spat out.
+LISTER: Look, she didn't mean us any harm.  She can't control how we see
+  her.  She's -- a mirror for our obsessions.
+KRYTEN: Holly, what did you see?
+HOLLY: I didn't see anything.  I don't think I've got any desires.
+  Either that, or me screen was foggy.
+
+CAMILLE enters, from KRYTEN's POV.
+
+CAMILLE: I guess I owe you all an apology.
+CAMILLE: (LISTER's POV) Sorry, Dave.
+
+LISTER looks melancholy.
+
+CAMILLE: (RIMMER's POV) Sorry, Duke.
+
+RIMMER looks offended.
+
+CAMILLE: (CAT's POV) Sorry, buddy.
+CAT: Heartbreaker!
+CAMILLE: (KRYTEN's POV) I told you it wouldn't work, Kryten, if there
+  were others.  You're the one who's hurt the most; you're not used to
+  these emotions.
+KRYTEN: Why did you lie to me?
+CAMILLE: Because I felt something really special for you -- something I'd
+  never felt before.  I knew if you saw me as I really was, you'd be
+  repelled.
+KRYTEN: Well -- try me!
+CAMILLE: Turn away and I'll change.  I'll change to what I really am.
+
+KRYTEN turns away.  With a hideous noise, CAMILLE turns into what she
+really is -- a huge, pulsing green blob with a single eye on a thick
+stalk.
+
+CAMILLE: I'm ready.
+
+KRYTEN turns around, but doesn't say anything.
+
+CAMILLE: This is what I really look like.
+KRYTEN: (Being gallant) Oh.
+CAMILLE: What do you think?
+KRYTEN: Well, I -- I think you look... really nice.
+CAT: Nice?  She looks like something that dropped out of the Sphinx's
+  nose!
+CAMILLE: He's right!  I'm just a huge green blob!
+KRYTEN: True, but as huge green blobs go, I think you're really cute.
+CAMILLE: I don't believe you.
+KRYTEN: Huh!  Okay, so you're never going to get on the cover of Vogue,
+  but -- hey, neither am I!  I think you're really sweet.
+CAMILLE: You're lying.
+KRYTEN: I CAN'T lie; I'm a mechanoid.
+CAMILLE: (Astonished) You really don't think I'm repulsive?
+KRYTEN: Of course not!  There's some HUMANS not as attractive as you!
+  Take Karl Malden!  And he was a famous actor!  You think this changes
+  anything?  Camille, I'd be really grateful if you would join me for
+  dinner tonight.
+CAMILLE: You mean that?
+KRYTEN: Parrot's Bar on G Deck.  I'll meet you there at eight.
+CAMILLE: Flats or heels?
+
+24 Ext. Red Dwarf. Establishing shot.
+
+25 Int. Sleeping quarters.
+
+CAT and RIMMER are in the quarters.  LISTER enters and gets something out
+of the fridge.
+
+CAT: I can't believe he's really going through with this.
+RIMMER: Look, if Kryten wants to take an amorphous green blob for a
+  discreet tete-a-tentacle, I say good luck to him.
+LISTER: (Sitting down) I mean, me too.  I mean, we all react differently,
+  don't we?  When Steve McQueen met The Blob, he tried to kill it.  It
+  probably never crossed his mind to try and take it out to a restaurant.
+CAT: I have a great idea.  They should go to a sushi bar.  At least that
+  way, the food won't look better than his date!
+
+KRYTEN enters, dressed in a full tuxedo.
+
+KRYTEN: (To CAT) Sir.  I respect your sense of dress more than anything,
+  and I'd really appreciate your opinion of this outfit.
+CAT: Kryten, if I was going out with a large ball of green slime, that's
+  how I'd dress!
+KRYTEN: Thank you, sir.  That means a lot to me.  Well -- (uses some
+  "breath freshener") -- don't wait up!
+
+KRYTEN exits.
+
+26 Int. Parrot's bar.
+
+Close-up of a Parrot's menu, on a table with what appear to be two bowls
+of gazpacho soup.  Pull back to show KRYTEN and CAMILLE seated at the
+table, surrounded by stuffed parrots, monitors playing videotapes of
+parrots, etc.
+
+CAMILLE sticks a tentacle into her soup and begins drinking it with
+hideous slurping noises.
+
+KRYTEN: Isn't this enchanting?
+CAMILLE: Oh, Kryten.  Do you think we could make it, you and I?
+KRYTEN: It's the old, old story.  Droid meets droid.  Droid becomes
+  chameleon.  Droid loses chameleon, chameleon becomes blob, droid gets
+  blob back again.  It's a classic tale.
+CAMILLE: A toast, my love.  To us.
+
+They clink glasses.
+
+27 Int. Parrot's bar.
+
+Later.  The lights are dimmed, chairs are piled up along the walls, and
+KRYTEN and CAMILLE are dancing to disco music.
+
+28 Ext. Starbug.
+
+Starbug is heading towards the planet, doing a barrel roll as we hear the
+strains of the "Blue Danube" waltz.
+
+29 Int. Starbug cockpit.
+
+KRYTEN and CAMILLE are seated.  KRYTEN's jacket is off and his tie is
+loose.  CAMILLE caresses him with her eyestalk.
+
+30 Int. Cinema.
+
+KRYTEN and CAMILLE are seated.  KRYTEN is holding a box of popcorn.
+CAMILLE sticks in a tentacle.  We hear "As Time Goes By" being played.
+
+KRYTEN: Casablanca.  What a movie.  I must have seen it a thousand times.
+  Lister used to use it as part of my course.  It's littered with
+  examples of how lying can be noble.
+CAMILLE: From now on, my angel, Casablanca will be our movie, and --
+HOLLY: Sorry to gooseberry, Kryten, but we've got a visitor down in the
+  hangar.  He wants to see Camille.
+
+KRYTEN reacts; he is flabbergasted.
+
+CAMILLE: I was going to tell you, Kryten.  Truly I was.
+KRYTEN: (Stunned) You have a husband?
+CAMILLE: We're androgynous, but I suppose you could call him my husband.
+  Hector has a brilliant mind.  He's been working on an antidote for our
+  condition for years.
+KRYTEN: Hector's a blob, too?
+CAMILLE: We're both blobs, Kryten.  I left him a long time ago.  I
+  thought he'd given up looking.
+KRYTEN: He must really think a lot of you.
+CAMILLE: I guess.
+KRYTEN: So what are you going to do?
+CAMILLE: I'm going to tell him I met someone else.  I'm going to tell him
+  I'm staying here with you.
+
+KRYTEN looks miserable.
+
+31 Int. Hangar.
+
+There is a ship on the pad, dimly seen through the steam.
+
+32 Int. Corridor outside hangar.
+
+KRYTEN, CAMILLE, and LISTER enter.
+
+KRYTEN: Mister Lister, sir, would you be so kind as to take Camille's bag
+  on board?
+LISTER: (Taking the bag) Certainly, Kryten.  Anything you say.
+
+LISTER exits.
+
+CAMILLE: Why MY bag, Kryten?
+KRYTEN: Because you're getting on that craft with Hector, where you
+  belong.
+CAMILLE: No, Kryten.
+KRYTEN: Now you've got to listen to me.  Do you have any idea what you've
+  got to look forward to if you stay here?
+CAMILLE: You're saying this only to make me go.
+KRYTEN: We both know you belong to Hector -- you're part of his work;
+  you're what keeps him going.  If you're not on that craft when it
+  leaves the hangar, you'll regret it -- maybe not today, maybe not
+  tomorrow -- but soon, for the rest of your life.
+CAMILLE: What about us?
+KRYTEN: We'll always have Parrot's.
+CAMILLE: Oh, Kryten.
+KRYTEN: I'm no good at being noble, kid, but it's pretty obvious the
+  problems of two blobs and a droid don't amount to a hill of beans in
+  this crazy cosmos.
+
+33 Int. Hangar at spacecraft hatch.
+
+Medium shot on HECTOR BLOB.  There appears to be another blob behind him.
+
+HOLLY: Are you ready, Camille?
+
+34 Int. Corridor.
+
+Close-up on CAMILLE.
+
+CAMILLE: I'm ready.  Goodbye, Kryten.  Bless you.
+
+HECTOR and CAMILLE exit as LISTER enters.
+
+LISTER: You were lying, Kryten.
+KRYTEN: Yes; it hurt to do it, but it was her best shot at happiness.
+  It's the old, old story.  Droid meets droid.  Droid becomes chameleon.
+  Droid loses chameleon, chameleon turns into blob, droid gets blob back
+  again, blob meets blob, blob goes off with blob, and droid loses blob,
+  chameleon and droid.  How many times have we seen that story?
+LISTER: I suppose you're gonna blame me for all of this, aren't you?
+KRYTEN: Yes, I am.  Without your lessons -- without your bananas and your
+  movies and your aardvarks -- none of this could have happened.  You're
+  a complete and total smeghead.
+LISTER: Brutal, Kryten!  You just insulted me!
+KRYTEN: Yes; I can lie, cheat, AND be offensive now.
+
+They begin walking away, arm in arm.
+
+LISTER: Kryten, this could be the start of a beautiful friendship.
+
+                                  The End
+
+

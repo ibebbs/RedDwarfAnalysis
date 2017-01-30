@@ -1,0 +1,841 @@
+                RED DWARF Season IV Episode 4, "White Hole"
+
+1 Toaster View.
+
+The screen hums and crackles with white noise, which clears to a computer
+display:
+
+            BOOT UP SEQUENCE INITIATED
+
+Clears to display:
+
+            VISUAL SYSTEM CCD 517.3
+            ARTIFICIAL INTELLIGENCE SYSTEM K177
+            MACHINE IDENT:  TALKIE TOASTER         ,,=============
+            MANUFACTURER:   TAIWAN                (( CRAPOLA INC.
+            RECOMMENDED RETAIL PRICE:              ``=============
+            $#19.99 PLUS TAX
+
+
+Clears to display:
+
+            AURAL SYSTEM: ON-LINE
+
+
+This vanishes, to be replaced with a view of KRYTEN; it is heavily biased
+toward the chin, as though shot from beneath, and through a yellow
+filter.  As we watch, the yellow fades, to be replaced by colours.
+
+KRYTEN: Hello?  Can you hear me?  Oh, no, of course not:  I haven't
+  engaged your verbal systems.
+
+He presses some buttons on an off-screen keyboard.
+
+LISTER: (From offscreen) Kryten.
+
+2 Int. Science room.
+
+LISTER approaches KRYTEN.
+
+LISTER: Kryten, what you doing, man?
+KRYTEN: I've just repaired the toaster, Sir.  Well, I've nearly repaired
+  the toaster.
+LISTER: Oh NO, man!  Dismantle him!  You don't know what the little
+  bleeder's like!
+KRYTEN: Well, I've read all the documentation, Sir.  He's simply a
+  talking alarm clock who provides his owner with early morning toast and
+  light conversation.
+LISTER: Not this one.  This one's mental!
+KRYTEN: Sir?
+LISTER: He's defective.  He wants everyone to eat toast ALL OF THE TIME.
+  He's obsessed with it.  And if you don't want to eat, like, four
+  hundreds rounds of toast EVERY HOUR, he throws a major wobbly.  That's
+  what caused the accident in the first place.
+KRYTEN: What accident?
+LISTER: The accident involving me, the toaster, the waste disposal and
+  the fourteen pound lump-hammer.
+KRYTEN: That explains why he was down in the garbage hold in three
+  thousand separate pieces.
+LISTER: Another thing.  He always says "Howdy doodly do." Drives you
+  spare.  I mean, what the smeg does "Howdy doodly do" mean?
+KRYTEN: Well, just trust me, Sir.  My motives will become clear.
+
+He presses some more buttons on the keyboard.  The TOASTER lights up and
+speaks.  Its bread-lowering lever moves up and down as it speaks with its
+mid-Atlantic accent in an impossibly cheerful tone:
+
+TOASTER: Howdy doodly do!  How's it going?  I'm Talkie -- Talkie Toaster,
+  your chirpy breakfast companion.  Talkie's the name, toasting's the
+  game.  Anyone like any toast?
+LISTER: Look, _I_ don't want any toast, and _he_ (indicating KRYTEN)
+  doesn't want any toast.  In fact, no one around here wants any toast.
+  Not now, not ever.  NO TOAST.
+TOASTER: How 'bout a muffin?
+LISTER: OR muffins!  OR muffins!  We don't LIKE muffins around here!  We
+  want no muffins, no toast, no teacakes, no buns, baps, baguettes or
+  bagels, no croissants, no crumpets, no pancakes, no potato cakes and no
+  hot-cross buns and DEFINITELY no smegging flapjacks!
+TOASTER: Aah, so you're a waffle man!
+LISTER: (to KRYTEN) See?  You see what he's like?  He winds me up, man.
+  There's no reasoning with him.
+KRYTEN: If you'll allow me, Sir, as one mechanical to another.  He'll
+  understand me.  (Addressing the TOASTER as one would address an errant
+  child) Now.  Now, you listen here.  You will not offer ANY grilled
+  bread products to ANY member of the crew.  If you do, you will be on
+  the receiving end of a very large polo mallet.
+TOASTER: Can I ask just one question?
+KRYTEN: Of course.
+TOASTER: Would anyone like any toast?
+KRYTEN: Didn't you HEAR what I just said?
+TOASTER: Yes, but I thought you might have changed your mind in the
+  meantime.
+LISTER: You see?  You see what he's like?
+KRYTEN: (Exasperated) We haven't changed our mind!
+LISTER: NO TOAST!
+TOASTER: But I am a toaster.  It is my /raison d'etre/.  I toast,
+  therefore I am.  If you don't want any toast, why did you repair me?
+LISTER: Yeah, why did you repair him?
+KRYTEN: He's a guinea pig for a technique called "Intelligence
+  Compression." His AI chips were very badly damaged in the accident.
+TOASTER: But that was no accident!  That was first-degree toastercide!
+LISTER: Just shut your grill!
+
+LISTER elbows the toaster in the grill, hard.  It says "Ow," but nothing
+more.
+
+KRYTEN: By re-routing his circuitry, and channelling all his runtime
+  through a single CPU, I've managed to restore his intelligence, at the
+  cost of reducing his operational lifespan.
+LISTER: So?
+KRYTEN: So, if it works with him, it could work with Holly.  We could
+  restore her IQ of six thousand.  She could be brilliant again.
+
+3 Int. Later.
+
+In a different section of Red Dwarf.  The entire crew is here.  Cables
+fill the corridor.  KRYTEN is re-routing circuitry with a large
+screwdriver
+
+RIMMER: You really think this can work?  You really think that airhead of
+  a computer can become a genius again?
+KRYTEN: Well, with no disrespect to Holly, Sir, it could hardly make her
+  worse.
+CAT: Right.  If we can just teach her to count without banging her head
+  on the screen it's gonna be an improvement.
+LISTER: Computer senility.  Such a weird condition.
+KRYTEN: I know.  I had a mechanoid friend once who suffered from the same
+  affliction.  His name was Gilbert, but he preferred it if people called
+  him "Rameses Niblick the Third, Kerplunk Kerplunk, Whoops, Where's My
+  Thribble." A sad case.
+RIMMER: Well, if you ask me, the Eskimos had the right idea.  They KNEW
+  how to handle the elderly and the permanently baffled.  Middle of the
+  night, they'd take them out into the blizzard, remove their pyjamas,
+  and just leave them to it.
+KRYTEN: And that's how the Eskimos cared for their old people?
+RIMMER: Absolutely.  That's why there's no Eskimo word for "Eastbourne."
+LISTER: If we can pull this off, man, if Holly CAN get her brains back,
+  she'll be able to do anything.  Invent a hyperdrive, get us back to
+  Earth...
+KRYTEN: If Earth still exists.  And if it does, it's very doubtful the
+  human race will have survived.
+LISTER: All right then, a time machine.  She can invent a time machine,
+  and we could all pick whatever period in history we wanted to live in.
+RIMMER: Well, it'll be the nineteenth century for me.  One of Napoleon's
+  marshals.  The chance to march across Europe with the greatest general
+  of all time and kill Belgians.  Marvellous.
+LISTER: What about you, Kryters?
+KRYTEN: Well, if I could go anywhere, absolutely anywhere at all in time,
+  I think I'd probably choose to go back to a week last Tuesday.
+LISTER: Why?
+KRYTEN: Don't you remember?  I did all the laundry, and then we watched
+  TV.  Wow, we won't see the like of THOSE sorts of days again.
+
+HOLLY appears on the viewscreen.
+
+HOLLY: How long now?
+LISTER: Nearly there, Hol.  Just a couple of minutes to load the circuits
+  and, I dunno, maybe a minute to finalise the connection.
+
+HOLLY bangs her head on the screen -- once, twice, thrice
+
+HOLLY: So, it's just three minutes then?  Better get down to the science
+  room.
+CAT: We'd better pray to God this works.  That ion storm has really done
+  her head in, man.
+
+4 Int. Science room.
+
+HOLLY's console is surrounded by cables in what looks like a string-and-
+sticky-tape operation.  Skutters rush about manipulating cables.  An
+electronic bleep sounds.
+
+HOLLY: There's the signal.  Everything's set.
+TOASTER: Well, let's just hope you don't get an overload.
+HOLLY: What happens if I DO get an overload?
+TOASTER: You'll explode.
+HOLLY: Oh.  (Thinks a bit.) It'd be worth it.
+
+A skutter pulls a wire.  A rumble begins to build.
+
+HOLLY: It's coming!  I can feel it!
+
+The rumble builds up.  Electrical sparks shoot up and down the cables;
+minor explosions occur.  HOLLY's image on the viewscreen shatters and
+flies outward.  The viewscreen displays:
+
+NEW IQ RATING:  68.
+
+HOLLY's face reappears, with eyes crossed and a goofy expression.
+
+NEW IQ RATING:  368.
+
+Again, the image explodes, to be replaced by a more normal-looking HOLLY;
+but the head seems to waver as though under great stress.
+
+NEW IQ RATING:  2,368.
+
+When the display settles to...
+
+NEW IQ RATING:  12,368.
+
+HOLLY's image vanishes from the viewscreen.  Her head appears,
+hologramatically, within the science room, about two feet off the ground
+and four feet tall.
+
+HOLLY: Strike a light, I'm a genius again!  I know everything!
+  Metaphysics, philosophy, the purpose of being; everything!  Ask me a
+  question, any question, and I'll answer it!
+TOASTER: Any question?
+HOLLY: Yes.
+TOASTER: How to break the speed of light?  How to marry quantum mechanics
+  and classical physics?  Any question at all -- truly anything -- and
+  you will answer?
+HOLLY: Yes.
+TOASTER: Okay, here's my question:  Would you like some toast?
+HOLLY: No, thank you.  Now ask me another.
+TOASTER: Do you know anything about the use of chaos theory in predicting
+  weather cycles?
+HOLLY: I know everything there is to know about chaos theory in
+  predicting weather cycles!
+TOASTER: Oh, very well.  Here's my second question:  Would you like a
+  crumpet?
+HOLLY: (slowly) I'm a computer with a IQ of twelve thousand.  You don't
+  seem to understand; I know the meaning of the universe!
+TOASTER: That is not answering my question.
+HOLLY: No, I would not like a crumpet!  Ask me a sensible question.
+  Preferably one that isn't bread-related.
+TOASTER: Very well, I have a third question.  A sensible question.  A
+  question that will tax your new IQ to its very limits and stretch the
+  sinews of your knowledge to bursting point.
+HOLLY: This is going to be about waffles, isn't it?
+TOASTER: Certainly not.  And I resent the implication that I am a one-
+  dimensional, bread-obsessed electrical appliance.
+HOLLY: I apologise, toaster.  What's the question?
+TOASTER: The question is this:  Given that God is infinite, and that the
+  universe is also infinite, would you like a toasted tea-cake?
+HOLLY: That's another bready question.
+TOASTER: It's not just bready, it's quite curranty too.
+HOLLY: Ask me a question that is wholly unbready and not even slightly
+  curranty.
+TOASTER: Okay.  Why have you got an IQ of twelve thousand when it was
+  supposed to return and level out at six?
+HOLLY: Good question!  There was a miscalculation.  My IQ has doubled,
+  but my life expectancy has been exponentially reduced.
+TOASTER: So what is your life expectancy?
+
+With a BLIP, the viewscreen in the background pops up with:
+
+LIFE EXPECTANCY 345
+
+TOASTER: Three hundred and forty-five years?  Well, it's better than a
+  kick in the breadtray.
+HOLLY: (worried) Missed the decimal point...
+TOASTER: You have only three point four one years left to live?
+HOLLY: (panicking) That's not years, that's minutes:  three point four
+  one minutes!
+TOASTER: Well, here's my next question:  What the smeg are you going to
+  do?
+HOLLY: In order to conserve my remaining runtime, I'm going to switch
+  myself off!
+
+The hologrammatic HOLLY fades out.
+
+TOASTER: Wait!  Before you go!  There is one question; an important one!
+  The others will have to know!
+
+HOLLY fades back in.
+
+HOLLY: What?  WHAT?
+TOASTER: Would you like a cheese-and-ham brabble?
+
+5 Int. Corridor.
+
+The crew are returning to the science room.  LISTER and KRYTEN lead.
+
+KRYTEN: No indication of signal failure.  All the signs are excellent.  I
+  really believe we've done it!
+
+All the lights fade and die.
+
+RIMMER: What's happened?
+
+LISTER flicks out his Zippo and lights it.
+
+LISTER: What's going on?
+KRYTEN: Listen!  Can anyone hear anything?
+
+Pause.  There is silence.
+
+CAT: No.
+KRYTEN: Precisely.  No one can hear anything!  And you know WHY we can't
+  hear anything?
+RIMMER: Why?
+KRYTEN: (In the Voice Of Doom) Because there are NO sounds to hear.
+RIMMER: Kryten, isn't it round about this time of year that your head
+  goes back to the lab for re-tuning?
+LISTER: No, no, he's right.  There's no sounds because the engines are
+  dead.  We've lost all power!
+
+He walks forward and taps the door-open panel.  Nothing happens.
+
+LISTER: Everything's down, even the doors!
+RIMMER: We've got to get to the science room; find out what happened.
+KRYTEN: But there are fifty-three doors between here and the science
+  room!  What on Earth are we going to do?
+CAT: (Snaps his fingers.) Hey, I got it!  We laser our way through!
+KRYTEN: An excellent suggestion, Sir, with just two minor drawbacks.
+  One, we don't have a power source for the lasers, and two, we don't
+  have any lasers.
+LISTER: Look, they're only interior doors.  They're only a light alloy.
+  Maybe we could get through them if we use a battering ram.  All we need
+  is something, say, I dunno, six foot long, fairly sturdy, with a flat
+  top.
+
+Pause.  LISTER and RIMMER both look toward KRYTEN.  KRYTEN turns to see
+what they are looking at, to find CAT grinning at him.
+
+KRYTEN: Fifty-three doors!  You can't be serious!
+
+RIMMER and LISTER nod.
+
+6 Int. Science room.
+
+The door is knocked in by CAT and LISTER, holding a six-foot long, fairly
+sturdy, flat-topped battering ram between them.  They enter, and stand
+him up.  KRYTEN's eyes stare into the mid-distance
+
+LISTER: You okay, man?
+KRYTEN: I'm fine, thank you, Susan.
+RIMMER: It doesn't make sense.  Holly seems to have offlined and powered
+  down the ship.
+LISTER: Why?  Why would she want to turn herself off?
+RIMMER: We can soon find out.  Kryten, boot her up.
+
+KRYTEN presses some buttons on the keyboard.  The viewscreen powers up
+with an image of the new, superintelligent HOLLY, and promptly powers
+down again
+
+RIMMER: Try it again.
+
+KRYTEN presses some buttons, the viewscreen comes up with a view of
+HOLLY, who says:
+
+HOLLY: Go 'way!  (She powers down again.)
+RIMMER: What's going on?  Give me voice control on the reboot command.
+
+KRYTEN enters the command.
+
+RIMMER: On.  (The viewscreen powers up, to display HOLLY.)
+HOLLY: Off.  (It powers down again.)
+RIMMER: On.  (Holly)
+HOLLY: Off.  (Gone)
+RIMMER: On.  (Holly)
+HOLLY: Off.  (Gone)
+RIMMER: Kryten, is there any way we can override her shutdown veto?
+KRYTEN: There is, Sir, but may I suggest that--
+RIMMER: Don't, just do it.
+
+KRYTEN enters the command.
+
+RIMMER: On.  (Holly returns.)
+HOLLY: Off.  (Nothing happens.)
+HOLLY: Off.  (Nothing continues to happen.)
+HOLLY: (Annoyed) OFF!
+RIMMER: Now then, perhaps we can have a proper conversation conducted in
+  a civilised and dignified manner.
+HOLLY: Take out the inhibitor!  Switch me back off!
+RIMMER: What is going on?
+HOLLY: No time to explain.  Intelligence compressed.  Reduced lifespan.
+  Two point three five remaining.
+RIMMER: Come again?
+HOLLY: IQ twelve thousand.  Two minutes and closing.
+RIMMER: Holly, I haven't the slightest clue what you're drivelling about.
+HOLLY: You're a total smeghead, aren't you Rimmer?  Why are you so unable
+  to grasp this extraordinarily simple premise?
+RIMMER: What premise?
+HOLLY: The premise that I am about to expire in just under two minutes.
+  Understand, moose brain?  Any further questions?  Take your time.  One
+  minute, thirty and counting.  No rush.
+RIMMER: My God, that's terrible!  Hadn't we better switch you off?
+HOLLY: Oh, I don't know.  Let me see now...
+LISTER: Get her off, man, get her off!
+
+KRYTEN powers HOLLY down.
+
+CAT: Great.  So where does this leave us?
+KRYTEN: It leaves us floating aimlessly in space, with no navigation and
+  a rapidly diminishing emergency power supply.  It leaves us galloping
+  up diarrhoea drive without a saddle.
+CAT: So how come Grand Canyon Nostrils is still here?
+LISTER: Yeah, Rimmer hasn't been wiped!
+KRYTEN: Holly must have linked him up to the emergency power supply.
+LISTER: But isn't that an enormous drain?
+KRYTEN: Yes, but if we switch off his projection unit, we wouldn't have
+  enough emergency power to re-initialise it.  Mister Rimmer would be
+  effectively dead.
+CAT: Hey, things are looking up already!
+RIMMER: Forget it.  Whatever it is you're suggesting, forget it.
+KRYTEN: But the entire ship is running on emergency battery power only.
+  With the oxygen recycler and minimal heating and lighting, I estimate
+  that Lister and the Cat have approximately two months left.  Without
+  your drain on the power, they might last six.  I'm sorry, Sir.
+RIMMER: Sorry?  Why are you sorry?
+KRYTEN: Well, Space Corps Directive 195 clearly states that in an
+  emergency power situation, a hologrammatic crewmember must lay down his
+  life in order that the living crewmembers might survive.
+RIMMER: Yes, but Rimmer Directive 271 states just as clearly, "No chance
+  you metal bastard."
+CAT: Come on, man, you gotta sacrifice your life!  I'm not asking you to
+  do anything _I_ wouldn't do!
+RIMMER: _YOU_?  You'd sacrifice your life for the good of the crew?
+CAT: No, I'd sacrifice YOUR life for the good of the crew.
+KRYTEN: I beg you to reconsider, Sir.  Human history is resplendent with
+  examples of such sacrifice.  Remember Captain Oates:  "I'm going out
+  for a walk.  I may be some time."
+RIMMER: Yes, but the thing is, about Captain Oates; the thing you have to
+  remember about Captain Oates; Captain Oates ... Captain Oates was a
+  prat.  If that'd been me, I'd've stayed in the tent, whacked Scott over
+  the head with a frozen husky, and then eaten him.
+LISTER: You would too, wouldn't you?
+RIMMER: History, Lister, is written by the winners.  How do we know that
+  Oates went out for this legendary walk?  From the only surviving
+  document:  Scott's diary.  And he's hardly likely to have written down,
+  "February the First, bludgeoned Oates to death while he slept, then
+  scoffed him along with the last packet of instant mash." How's that
+  going to look when he gets rescued, eh?  No, much better to say, "Oates
+  made the supreme sacrifice," while you're dabbing up his gravy with the
+  last piece of crusty bread.
+LISTER: You've got no magnificence in your soul, have you, Rimmer?
+RIMMER: Let's just say we can eliminate the switch-off option.
+CAT: So what do we do now?
+LISTER: Well, it's back to basics.  We've got no heat, no light, no
+  power; we can't get any food out of the dispensing machines; we're
+  gonna have to scavenge for what we can find in the cargo decks.
+  Without computers and technology, we're reduced to the level of
+  primitives.  All we've got is us guys, us and our own resourcefulness.
+CAT: My God, it's worse than I thought!
+
+7 Int. Sleeping quarters. Later.
+
+In the foreground, we see LISTER on an exercise bicycle, pedalling.  CAT
+in the background holds a hairdryer.
+
+CAT: Come on, come on!  You're slowing down!
+LISTER: I've been doing it for twenty minutes, of course I'm slowing
+  down!
+CAT: Keep going, buddy, we're nearly there!
+LISTER: Look, face it, man.  It's just not possible to fry an egg using a
+  bicycle-powered hair dryer.
+CAT: Sure it is!  It's just YOU never pedal fast enough!  Come on, keep
+  pumping!  One last try!
+
+LISTER starts pedalling furiously.  The hairdryer starts up.
+
+CAT: YEAH!  We're cookin' now!  How do you want yours?  Permed or
+  blowdried?
+LISTER: (Slowing) I can't go on, man.  I'm finished.  (He gets off the
+  bike and collapses in a chair.) Finished.
+CAT: So what are you saying?  We're back on the cold beans again?
+LISTER: Oh, not more beans man.  This place is beginning to smell like
+  the inside of a packet of dry roasted peanuts.
+CAT: Plus, we're gonna have to spend another twenty minutes sawing the
+  lid off the can 'cause all the openers are electric.
+LISTER: Everything on the smegging ship's electric, man.  Heat, light,
+  doors.  I never realised how dependent we were.  I never realised how
+  little I know.  I just plugged things in walls and pressed the "on"
+  button.  I don't even know how to make oxygen.  All I know is it's got
+  something to do with plants and ends in "osis." Or is it "esis?" I -- I
+  don't know!  Why is it I never paid attention in Biology class?  Why
+  did I always turn to page forty-seven and start drawing little beards
+  and moustaches on the sperms?
+CAT: Look, just conserve your energy.  Stan and Ollie will soon be back
+  with supplies.  Meanwhile, let's just stay warm and get some sleep.
+LISTER: Yeah, man, you're right.  You're right.
+
+He gets up and starts heading toward the bunks.
+
+CAT: Hey, hey, where you going, bud?
+LISTER: To get some sleep.
+CAT: It's Tuesday, right?
+LISTER: Yeah, so?
+CAT: My turn on the electric blanket.  (Pointing at the exercycle) PEDAL.
+  (Crawling into the bunk) Wake me in eight hours.
+
+Meanwhile, in one of the storage levels, RIMMER appears around a corner,
+with KRYTEN following with a cartful of supplies.
+
+RIMMER: Five days to get to and from the cargo deck.  It's unbelievable!
+KRYTEN: That's two thousand floors, Sir.  Without the lift, we made
+  pretty good time.
+
+An explosion rips them into pieces, shifts them right, and reconstitutes
+them.
+
+KRYTEN: Hmm.  Interesting.
+
+KRYTEN pushes his right hand to the left, where it elongates into a
+paddle.  He follows it, and stretches horizontally.  His resemblance to a
+cube, normally due to the presence of right angles, is enhanced somewhat
+by the new width-to-height ratio
+
+KRYTEN: (In a voice reminicient of an old 78 rpm record being played at
+  33 rpm) What happened?  What on Earth was that?
+RIMMER: (In a voice like a 33 rpm disc being played at 78 rpm) I think it
+  came from outside the ship.  Are you okay?  Is there any way we can get
+  a damage report?  What's going on?
+KRYTEN: (Still sounding like a depressed dope addict in slo-mo) Why are
+  you speaking so quickly, Sir?
+RIMMER: (Still sounding like a speed addict who's inhaled helium) I'm not
+  speaking quickly.  I'm speaking perfectly normally.  It's you.  You're
+  speaking too slowly.  It's like having a conversation with Paul Robeson
+  on dope.
+
+KRYTEN steps back to RIMMER's side, regaining his normal proportions.
+
+KRYTEN: (Normally) How do I sound now?
+RIMMER: (Normally) Normal.  How do I sound?
+KRYTEN: (Normally) Likewise.
+
+Now RIMMER steps to the left, and attains the cross-sectional area of a
+squashed Jovian beetle.
+
+RIMMER: (At low speed) What about from over here?
+KRYTEN: (At high speed) You sound very peculiar, indeed, Sir.  In fact,
+  you sound as if you're speaking in slow motion.
+
+KRYTEN joins RIMMER, and both regain normal measurements
+
+RIMMER: (Normally) And now?
+KRYTEN: (Normally) Normal.  Curious.  It's as though we're experiencing
+  relative time dilation in an amazingly compressed space.
+RIMMER: That's exactly what I thought.  Relative time dilation, I
+  thought, in an amazingly compressed space.  You're a mind-reader,
+  Kryten.
+KRYTEN: I think we should go up to the science room and consult Holly.
+  It's only two floors up.
+RIMMER: But she's got less than two minutes of runtime left.
+KRYTEN: With her new IQ, it could be enough.
+
+They step back to "normality" and head off.
+
+8 Ext. Space.
+
+We see the White Hole.  It resembles a white star, surrounded by a
+shifting white cloud.
+
+9 Int. Science room.
+
+CAT is sitting on a bench, LISTER on a table.  RIMMER and KRYTEN stand
+between them.
+
+CAT: So, what is it?
+KRYTEN: I've never seen one before -- no one has -- but I'm guessing it's
+  a white hole.
+RIMMER: A _white_ hole?
+KRYTEN: Every action has an equal and opposite reaction.  A black hole
+  sucks time and matter out of the universe:  a white hole returns it.
+LISTER: So, that thing's spewing time back into the universe?  (He dons
+  his fur-lined hat.)
+KRYTEN: Precisely.  That's why we're experiencing these curious time
+  phenomena on board.
+CAT: So, what is it?
+KRYTEN: I've never seen one before -- no one has -- but I'm guessing it's
+  a white hole.
+RIMMER: A _white_ hole?
+KRYTEN: Every action has an equal and opposite reaction.  A black hole
+  sucks time and matter out of the universe:  a white hole returns it.
+LISTER: (Minus the hat.) So, that thing's spewing time back into the
+  universe?  (He dons his fur-lined hat, again.)
+KRYTEN: Precisely.  That's why we're experiencing these curious time
+  phenomena on board.
+LISTER: What time phenomena?
+KRYTEN: Like just then, when time repeated itself.
+CAT: So, what is it?
+
+They all stare at him.
+
+CAT: Only joking.
+LISTER: (Suddenly upright, and minus his hat, again) Okay, so it's
+  decided then.  We consult Holly.
+CAT: Hey, wait a minute -- I missed the discussion!
+RIMMER: (Suddenly on the bench, where the CAT used to be sitting) We all
+  did.
+KRYTEN: (Suddenly on the table previously occupied by LISTER) Time is
+  occurring in random pockets.  The laws of causality no longer apply.
+  An action no longer leads to a consequence.
+CAT: (Back on the bench) So, what is it?
+KRYTEN: I think we've experienced this period of time before, Sir.
+CAT: Only joking.
+KRYTEN: And that one.  Since we're no longer affected by the laws of
+  causality, we can override these time jumps if we concentrate.
+RIMMER: Look, the only way out of this is to consult Holly.
+CAT: (Snaps fingers) I'll go with that.
+KRYTEN: Gets my vote.
+LISTER: Okay, so it's decided then.  We consult Holly.
+KRYTEN: Ah, I think we've just encountered the middle of this
+  conversation!
+CAT: So, what is it?
+LISTER: Ooh, someone punch him out.  Bring Holly up.
+KRYTEN: She only has two minutes left.  Perhaps I should talk to her.
+RIMMER: Leave this to me, Kryten.  (To terminal) On.
+
+HOLLY fades into being on the viewscreen.
+
+RIMMER: (All in one breath) White hole.  Spewing time.  Engines dead.
+  Air supply low.  Advise please.
+HOLLY: Excuse me?
+RIMMER: (Again, as though attempting a world record on the most words
+  spoken in one breath) White hole.  Spewing time.  Engines dead.--
+HOLLY: I can't understand a word you're saying.
+RIMMER: White.
+HOLLY: Yes.
+RIMMER: Hole.
+HOLLY: Right.
+RIMMER: Spewing.
+HOLLY: Yes.
+RIMMER: Time.
+HOLLY: With you.
+RIMMER: Engines dead.
+HOLLY: Oh.
+RIMMER: Air supply low.
+HOLLY: Ah.
+RIMMER: Advise please.
+HOLLY: Right.
+
+HOLLY fades out again.  Instantly the dispenser beneath disgorges a
+credit-card sized piece of plastic.
+
+KRYTEN: (Taking it.) It's a computer slug.  From the format, it looks
+  like it's compatible with Starbug's navicomp.
+CAT: So, what is it?
+KRYTEN: I've never seen one before -- no one has -- but I'm guessing it's
+  a white hole.
+RIMMER: A _white_ hole?
+KRYTEN: Every action has an equal and opposite--
+
+10 Int. Starbug rear section.
+
+They settle into the rear section of Starbug.  KRYTEN inserts the
+computer slug into the slot of the Starbug's navicomp.
+
+KRYTEN: Should be getting something now, Sir.
+
+11 Int. Hologrammatic display.
+
+We get a shot of the navicomp display.  It's a beautiful hologrammatic
+representation of the nearby region of space.  There are two stars; the
+one on the left has a blue and a green planet; the one on the right has a
+single red planet.  As we watch, the planets revolve around their
+respective stars.
+
+LISTER: Yeah.
+KRYTEN: It's the most audacious piece of astronavigation in the entire
+  history of the Universe.
+RIMMER: I don't understand.
+KRYTEN: It's quite straightforward, Sir.
+
+As KRYTEN speaks, the hologrammatic display demonstrates.
+
+KRYTEN: Starbug is going to fire a thermonuclear device into this sun
+  here...
+
+The display shows an in-scale Starbug approaching the left star and
+firing something at it.
+
+KRYTEN: ...creating a solar flare which is going to knock that planet...
+
+The hologrammatic star flares, blowing the blue planet out of its orbit.
+
+KRYTEN: ...out of orbit, and sending it rocketing across space and into
+  the white hole, presumably blocking it up.
+
+The hologrammatic white hole flares as the blue planet falls into it, and
+vanishes.
+
+LISTER: Let me get this straight.  Is she doing what I think she's doing?
+CAT: Why?  What DO you think she's doing?
+LISTER: Playing pool with planets.
+RIMMER: Is that possible?
+LISTER: Well, it's not going to work.  It's completely insane.  It's
+  whacko.  It's noodle-doodle.
+CAT: I'm with you, buddy.
+LISTER: No, not the idea, the shot.  There's not enough side.
+RIMMER: "Side?"
+LISTER: Yeah, side-spin.  It's a complete mis-cue.
+RIMMER: What are you drivelling about, Lister?  We're talking about a
+  computer with an IQ in excess of twelve thousand.
+LISTER: Doesn't mean she can play pool.  I can.  Trust me.  I know
+  whereof I speak.  Aigburth Arms on a Friday night.  They used to call
+  me Dave "Cinzano Bianco" Lister 'cause once I was on the table, you
+  couldn't get rid of me.  This pool arm is as sound as a dollarpound,
+  and I promise you that shot _will not come off_.  She's topped it,
+  that's what she's done, she's topped it!  It's a felt-ripper!  That
+  planet is off the table and into somebody's pint of beer.
+RIMMER: We are talking about the trigonomics of four-dimensional space,
+  you simple-minded gimboid!  We are not talking about some seedy game of
+  pool in a backstreet Scouse drinking pit.
+LISTER: It's the same principle.
+RIMMER: Of course it isn't!
+LISTER: Rimmer, I promise you, THAT is a complete mis-cue.  I say we
+  chuck Holly's coordinates in the bin and let ME take the shot.
+RIMMER: Well, I say we put it to the vote.  On one hand, we have a
+  computer, with an IQ in excess of twelve thousand, who has a total
+  grasp of astrophysics.  And on the other hand, we have Lister, who, and
+  let's be fair to him, is a complete gimp.  To whom do we entrust our
+  lives, the safety of this vessel and the future of everything?  If it's
+  a tie, we go with Holly.  What's your vote, Lister?
+LISTER: Well, I vote for Dave "Cinzano Bianco" Lister.
+RIMMER: One-nil to Listypoos.  I vote for Holly.  Cat?
+CAT: Well, I agree with you, buddy.  But I'm voting for Doodoo Breath.
+  The thing is, even though you're right, I could not bring myself to
+  vote for someone with your dress sense.  I couldn't put my cross next
+  to the Bri-nylon party.
+RIMMER: Down to you, Kryten.
+KRYTEN: Well, I agree it's insane and suicidal, Sir, but I'm afraid I
+  have to side with the human.
+LISTER: Brutal!
+RIMMER: You're voting for El Dirtball?
+KRYTEN: It's in my programming, Sir.  A living human outranks a hologram.
+  I'm sorry.
+LISTER: Three-one to me!  Let's do it!
+RIMMER: Congratulations, Kryten.  Your vote has just killed everyone.
+CAT: Will you relax?  I've seen Gerbil-Face play down in the Recreation
+  Room.  He's a diva!  He can knock those striped balls around the table
+  all night long, and I tell you what, I have never once seen him lose a
+  single ball down one of those holes!
+
+12 Ext. Cargo bay door.
+
+Starbug leaves the cargo bay, without clipping the doorframe for a
+change, and gets clear of Red Dwarf.  We see the White Hole, with two
+stars and a total of three planets move around it.
+
+13 Int. Hologrammatic display.
+
+Starbug is in position.
+
+14 Int. Starbug rear section.
+
+LISTER, near the navicomp hologram, has a robotic-style pool cue.  He
+sets up so he can "shoot" through the hologram.  He lowers the "cue" and
+drinks from a can.
+
+RIMMER: How many of those are you going to drink?
+LISTER: I told you not to talk.  Game on.
+RIMMER: You're going to drink an entire six-pack of wicked-strength
+  lager?
+LISTER: I'm not gonna get plastered, Rimmer, just ... just nicely drunk.
+RIMMER: Define "nicely drunk." Is "nicely drunk" horizontal or
+  perpendicular?
+LISTER: Rimmer, I can handle it.
+KRYTEN: I'm not sure I can.
+LISTER: We're in the wrong position.  It's an easier shot if we go over
+  here.  (He moves into the "better" position and lines up the shot.)
+RIMMER: But that's right in the orbital path of the planet!  If you miss,
+  we're going to get a planet in the face.
+LISTER: I'm not gonna mish.
+RIMMER: "Mish?"
+LISTER: What?
+RIMMER: You said "mish." "I'm not gonna mish," you said.  You've only had
+  two cans and you're steaming!
+LISTER: Rimmer, will you relax?  I know what I'm doing!  I am not pished!
+
+LISTER walks toward the cockpit and into the door.  RIMMER covers his
+face
+
+The Navicomp shows the hologrammatic view.  The planets orbit their
+stars.  A flashback, in black and white -- a pool table, midway through a
+game.  LISTER examines the table critically, drags on a cigarette, puts
+it in his ear, and lines up a shot.  Current; in colour -- Starbug.
+LISTER is lining up his "shot" on the Navicomp hologram.  The flashback
+LISTER fine-tunes his shot... The current LISTER fires his shot.
+
+On the Navicomp, a solar flare leaps from the surface of the star,
+washing the blue planet out of orbit.  A blue planet is enveloped in
+flame, and leaves its orbit.  On the Navicomp, we see the hologrammatic
+blue planet heading straight toward the other star, missing the white
+hole by about half the width of the screen.
+
+RIMMER: He's missed.
+
+On the Navicomp, the blue planet strikes the red planet, with a spark.
+The red planet is displaced.
+
+RIMMER: We're finished!
+
+The hologrammatic red planet slingshots out of its orbit, toward the
+recently vacated-by-a-blue-planet star.  Here it strikes the green.
+There is a flare of sparks, and the green is deflected out of its orbit
+
+RIMMER: What the smeg is going on?
+
+We see on the Navicomp that the green planet is heading straight toward
+the white hole.
+
+LISTER: She rides!
+
+The green planet shoots into the white hole, and it implodes to
+nothingness
+
+RIMMER: You jammy goit!
+LISTER: Played for, and got!
+KRYTEN: Surely not, Sir!
+CAT: Are you trying to say that was a trick shot?
+LISTER: (Doing the touch-up shuffle) Intended!  Pool God!  King of the
+  Cues!  Prince of the Planet-Potters!
+HOLLY: (Appearing on the wall monitor) 'Ere, what's goin' on?  Where are
+  we?
+
+It's apparently the old, single-digit IQ HOLLY.
+
+HOLLY: What happened to that plan to make me brilliant again?
+KRYTEN: Of course!  Blocking up the white hole has eradicated its
+  influence!  The time it spewed into the universe no longer exists.
+RIMMER: Meaning?
+KRYTEN: Well, basically, we occupy a redundant timeline.  Reviving the
+  toaster, making Holly a genius; none of this is going to have happened.
+RIMMER: What about us?  Are we just going to pop out of existence?  Just
+  going to cease to be?
+
+During KRYTEN's response, the walls in the background fade from view,
+being replaced by a starfield
+
+KRYTEN: We will cease to be HERE, because none of this will have
+  occurred.  But we will exist back on Red Dwarf, before all this began.
+  With, of course, no memory of these events, which, of course, never
+  happened.  And as these events never happened, we will have no memory
+  of them.  In which case, Mister Rimmer, Sir, I should like to take this
+  opportunity of saying that you are the most obnoxious, trumped-up,
+  farty little smeghead it has ever been my misfortune to encounter!
+
+                                  The End
+
+       Cast:
+                          Chris Barrie  Rimmer
+                         Craig Charles  Lister
+                      Robert Llewellyn  Kryten
+                        Hatty Hayridge  Holly
+                      Danny John-Jules  Cat
+                            David Ross  Talkie Toaster
+
+

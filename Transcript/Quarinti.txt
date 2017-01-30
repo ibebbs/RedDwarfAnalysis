@@ -1,0 +1,911 @@
+From: fraserdk@dcs.glasgow.ac.uk (David K Fraser)
+Subject: transcript - Quarantine - EXTREME SPOILERS!
+
+Hi folks.
+  This was a transcript of "Quarantine" written by Neil 
+Postlewaite of Heriot-Watt University when the episode first
+aired. However, It was rather less than complete. Now I 
+dunno about you, but that really narked me. I've therefore 
+done something about it - namely completing the transcript 
+when the episode aired on Friday night. I'd have done the 
+same for the other four incomplete Season V scripts, but I 
+only thought of this Friday night, and I don't have tapes of
+the other episodes. Such is life...
+
+  It would be nice also if you could correct any spelling 
+errors or other fluff-ups that I might have made.
+  One teensy little problemo, tho'. I aint got no mailing
+permission, so any corrections will have to be posted here.
+To keep the spoiler-mad from going totally bonkers, put the
+word "transcript" in the subject line of your message so 
+that they can set their kill-files appropriately.
+
+-- David F.
+
+------------------------------------------------------------------------------
+
+                 RED DWARF Series V Episode 4, "Quarantine"
+
+1 Model shot.
+
+Starbug has landed near an old base on a barren-looking planet.  Blizzard
+Conditions prevail.
+
+2 Int. Starbug cockpit.
+
+KRYTEN: Gravity 1.5.  Wind 40 knots and variable.  Coordinates locked and
+  set.  Launch Scouter.
+
+The CAT reaches for the release control.
+
+RIMMER: Wait a minute.  I'm in charge of security and surveillance on-
+  board this vessel.  I, Mr. Kryten, am the one that says, "Launch
+  Scouter."
+KRYTEN: I'm sorry sir, I didn't mean to steal your thunder.
+RIMMER: Launch Scouter.
+
+Nobody does a thing.  They all ignore RIMMER.
+
+RIMMER: (Through gritted teeth) Launch Scouter.
+
+They still all ignore him.  Looking round the cockpit at things the way
+you do when you are deliberately ignoring someone.
+
+RIMMER: I'll be in the stern, correlating the ... in the stern.
+KRYTEN: (Quietly, to the CAT) Would you be so good as to launch the
+  Scouter, please, sir.
+
+CAT responds loudly, so that RIMMER will be able to hear him.
+
+CAT: (Saluting) Aye Aye, _sir_!  (Pulls release lever and salutes again.)
+  Scouter Launched, _sir_.
+
+3 Model shot.
+
+While the Scouter is traveling towards the apparently deserted base, we
+see a view from its perspective with the following overlay:
+
+               *-------------------------------------------*
+               | RESOLTION: Low                            |
+               | LOC MODE: Auto                            |
+               | ENHANCE: Graphics                         |
+               |                                           |
+               |                        PRESSURE:    10.90 |
+               |                        TEMPERATURE: Low   |
+               | SENSOR: CCD                               |
+               *-------------------------------------------*
+
+4 Int. Starbug Stern.
+
+RIMMER is sulking.  LISTER, KRYTEN and CAT enter from the cockpit.
+
+KRYTEN: Sir, it appears we've encountered a scientific research centre.
+LISTER: And there is someone in there, man -- a survivor.
+KRYTEN: A Dr. Hildegard Lanstrom.
+RIMMER: Clearly I am superfluous to this entire operation, ably commanded
+  as it is by a droid who was created purely to clean lavatories.  So I
+  really don't know why you're telling me all this, Captain Bog-Bot.
+LISTER: She's a hologram.
+KRYTEN: I'm afraid we are going to have to commandeer your remote
+  projection unit in order to rescue her, sir.
+RIMMER: Oh, I see.  First of all I am deemed unsuitable to issue the
+  command, "Launch Scouter," and now I am being bundled into an escape
+  pod and relieved of my duties by Commander U-bend.
+LISTER: Rimmer, why are you taking this so personal?  It's the only way
+  to get her back to the ship.
+RIMMER: Why do we need another hologram on-board?
+KRYTEN: She's a doctor, sir.  She would be a valuable asset to the team.
+RIMMER: And as usual it is left to me to point out the fatal flaw in your
+  logic.
+KRYTEN: Flaw?
+RIMMER: This vessel, gentlemen and khazi droids, the crimson short one up
+  there, can only sustain one hologram, or had you forgotten?
+
+LISTER, CAT and KRYTEN simply look at him.
+
+RIMMER: You hadn't forgotten?
+LISTER: Look, we could work something out.  Some kind of "timeshare"
+  thing.
+RIMMER: What d'you mean?  What do you think I am, a holiday villa in the
+  Algarve?
+KRYTEN: Sir, might I remind you, as Space Corps directive 169 quite
+  clearly states--
+RIMMER: Holly, prepare an escape pod.  Anything to save me from another
+  (KRYTEN voice) "Space Corps Directive."
+KRYTEN: Sir, the Space Corps directives are there to protect us.  They
+  are not a set of vindictive pronouncements directed against any one
+  person.
+RIMMER: Has anyone _ever_ seen this legendary Space Corps directive
+  manual?
+
+LISTER and CAT glance at one another, then back at RIMMER.
+
+LISTER: Well, no.
+RIMMER: He's making it up, isn't he?  The bloody book doesn't exist.
+KRYTEN: Sir, I assure you--
+RIMMER: Why does he only ever use them against me?  Why never against
+  Lister?  Why do we never hear him quoting a Space Corps directive that
+  clearly states, "No crew-member should floss his teeth with the E-
+  string of his guitar after spraying the entire contents of his sugar
+  puff sandwich all over his superior's bunk?" We never hear that one, do
+  we?
+KRYTEN: Holly, kindly furnish Mr. Rimmer with a hologrammatic copy of the
+  Space Corps directive manual.
+RIMMER: (Tauntingly) Come on, where is it?  (Holds out one hand, palm
+  upwards.)
+
+It appears in RIMMER's hand.  It is a fairly small A5 folio.
+
+RIMMER: (Clearly not impressed) That's it?
+KRYTEN: You should be able to study it at your leisure on your trip back
+  to Red Dwarf, sir.
+
+RIMMER, beaten, turns to go.  However, a thought occurs to him.  He turns
+and addresses KRYTEN.
+
+RIMMER: You've changed, you know that?
+KRYTEN: Changed?
+RIMMER: They may not see it, but I do.  I know what's going on, you've
+  become a really nasty piece of work.
+KRYTEN: But sir, I was merely--
+RIMMER: You're merely a mechanoid -- that's all you're "merely." Don't
+  ever forget it.  (Turns and leaves.)
+KRYTEN: What a smee... What a smee... What a smee Heeeeeeee.
+
+[Cf RDIV/2:  "Camille"]
+
+5 Int. Science station.
+
+It is moodily atmospheric, like the set of Aliens, but done on a BBC
+budget with lots of smoke to disguise the fact that it is actually a
+redressed version of several other sets.
+
+LISTER: Dr. Lanstrom!
+KRYTEN: Are you there Doctor?
+
+They come across a vault type door.  LISTER brushes the dust off the
+door.  As he goes down it, he exposes writing and pictures:
+
+"VIRAL RESEARCH DEPT."
+
+LISTER: Oh brutal!
+
+"MOST GROSS DANGER" with a skull and cross-bones beside it.
+
+"BIO-SUITS MUST BE WORN AT _ALL TIMES_" with a picture of a bio-suit and
+a check-mark.  There's also red triangular warning sign with the picture
+inside it of a man vomiting at the same time as his guts are exploding
+out of his body.
+
+CAT: _Huh_?!
+
+CAT and LISTER cover their mouths and noses with hankies.
+
+KRYTEN: There is no need for alarm, sir.  If there were any dangerous
+  viral strains in the atmosphere, the Psi-scan would have picked them up
+  by now.
+
+KRYTEN shows them the scanner and then hits it on the side and shakes it
+a bit.
+
+KRYTEN: Hmmm, it's never done that before.
+
+He turns away, wrestling with the device.
+
+KRYTEN: Blasted stupid cheap damn stupid Martian power packs.
+
+He throws a spent battery over one shoulder and inserts another.
+
+CAT: (Worried) So what's the news?
+KRYTEN: Well, if I could just beg your indulgence for a few seconds more,
+  sir, the old 345 takes a little time to warm up.  (He gives it another
+  shake.) Still, it out-performs the 346 in 8 out of 9 bench tests.  A
+  small wonder, then, that it secured "Psi-scan of the Year, Best Budget
+  Model" three years running.  Now here are the results.  And we're going
+  to ... live.
+LISTER: (Sighs) We're a real Mickey Mouse operation aren't we?
+CAT: Mickey Mouse?  We ain't even Betty Boop!
+
+They move off, searching for LANSTROM.
+
+KRYTEN finds a dust-covered metal suitcase.
+
+KRYTEN: Extraordinary!
+
+He opens it up.  The interior is filled with BBC special effects white
+smoke.  Peeking through the smoke is a row of test-tubes.
+
+KRYTEN: Incredible!
+
+He lifts one of the tubes out of the suitcase and puts it in a satchel
+he's carrying.
+
+LISTER: (Off-camera) Hey, look at this!
+
+LISTER and CAT are examining a row of 2-meter high metal cylinders set
+against a wall.  KRYTEN joins them.
+
+LISTER: Anesthesis stasis pods!
+
+He fiddles with a near-by control panel.  One of the pods slides out from
+the wall and begins to open.
+
+LISTER: I must have triggered something.
+KRYTEN: Doctor?  Doctor Lanstrom?
+
+The open pod pours forth smoke, but they they can't see anything inside
+yet.
+
+LANSTROM: (_Very_ heavy German accent) And whom might you be?
+LISTER: Hi. We were just passing.  We heard the beacon.
+LANSTROM: Schopenhauer was right, wouldn't you say?  Life without pain
+  has no meaning.  Gentlemen I wish to give your lives meaning.
+
+LANSTROM sits up in the stasis pod.  A howl emanates from her.  Her eyes
+glow a fluorescent red colour and electrical bolts emerge from them aimed
+at LISTER, KRYTEN, and CAT.
+
+LISTER: Why can't we ever meet anyone nice?
+CAT: Why don't we ever meet anyone who can shoot straight?
+
+6 Model shot.
+
+Starbug is still sitting in the snow.
+
+7 Int. Starbug.
+
+RIMMER is talking to HOLLY.
+
+RIMMER: I'm telling you, Kryten is taking over, slowly but surely.
+  Remember how he used to be in the early days?  A gibbering wreck,
+  completely un-assertive, no self confidence, plagued by guilt, and
+  convinced he was fourth rate.  I really liked him then.
+HOLLY: Escape pod checked and standing by.
+RIMMER: Well, check it again.
+HOLLY: I've done three complete checks -- it's ready to launch.
+RIMMER: Right, I'm going.
+
+He exits through the door to the escape pod and then pops right back in.
+
+RIMMER: What really gets me, is the way he thinks he can order me about.
+  Well, he who lives by the rule book, dies by the rule book.
+
+The radio crackles into life.  It's LISTER, and he sounds scared.
+
+LISTER: (Slightly garbled) If you can hear us, it's me!  Listen now,
+  Lanstrom's got some holo-virus.  She's totally barking!
+RIMMER: Listy?
+LISTER: (Still garbled) We need backup, man, we need it bad and we need
+  it now!
+RIMMER: Everything OK?
+LISTER: What, can't you hear me?!
+RIMMER: (Lying through his teeth) I'm sorry, Lister, you're very faint.
+KRYTEN: Dr. Lanstrom has contracted some sort of mutated holo-plague and
+  is in a fearful psychopathic fury.
+RIMMER: Marvellous!  I'm sure she'll be a valuable asset to the team.
+KRYTEN: Sir, I'm going to change frequency.  Can you hear me now?
+
+A bolt of Hex-Lightning hits the radio.  LISTER and KRYTEN run, dropping
+the now red-hot radio as they go.  LANSTROM picks it up telekinetically
+and talks into it, hands free.
+
+LANSTROM: Hello.  My name is Dr. Hildegard Lanstrom and I am quite, quite
+  mad.
+RIMMER: Are you really?  How absolutely splendid.
+LANSTROM: I have a riddle for you.  What's dead and dead and dead all
+  over?
+RIMMER: I give in, Dr. Fruit-Loop, _do_ tell me.
+LANSTROM: Yooooooouuuuuuu!!!
+
+The radio blows up.  A bolt of lightning passes from the explosion to
+RIMMER.
+
+RIMMER: Well we know what to get you for Christmas:  a double lobotomy
+  and 10 rolls of rubber wallpaper.
+
+  (To HOLLY) Holly, I really must be making tracks.  Keep me up to date
+  as to any further developments, will you?
+
+8 Model shot.
+
+The escape pod is seen returning to Red Dwarf.
+
+9 Int. Science station.
+
+Meanwhile, in that spooky complex, our intrepid trio are sneaking about
+trying to avoid LANSTROM.
+
+LISTER: Where _is_ she?
+KRYTEN: It appears she's toying with us, sir.
+LISTER: What kind of disease is it that gives her Hex Vision?
+KRYTEN: Clearly some kind of psi-virus, sir.  It appears to stimulate the
+  dormant psychic areas of the brain which, up till now, human-kind has
+  been unable to harness.
+
+A pair of eyes -- LANSTROM's eyes -- appear, overlaid on the screen while
+KRYTEN is talking.  She is using telepathy to locate them.
+
+KRYTEN: Unfortunately it requires so much energy it drains the victim's
+  life-force.
+LISTER: That's why she was in the Stasis Pod?
+KRYTEN: Precisely.  Lanstrom was preserving what little lifespan remains
+  her.
+LISTER: Well, if she is running out of time, maybe we could just give her
+  the run-around?
+
+LANSTROM can now be seen moving stealthily through some pipes in the
+background.
+
+KRYTEN: Theoretically a sound notion, sir.  Unfortunately--
+LANSTROM: Unfortunately, she has already found you.  Twinkle twinkle
+  little eye, now it's time for you to die.
+
+Her Hex Vision comes on.  Abruptly, she runs out of energy and disappears
+with a loud scream.  She has finally been destroyed by the virus.
+
+KRYTEN: Poor woman.  Destroyed by her own genius.
+CAT: Genius?
+KRYTEN: Oh, yes.  From what little I've seen of her research here, before
+  the holo-virus she had a quite remarkable mind.  If I'm right, the
+  fruits of her work should live on.  (He indicates the satchel he's
+  carrying.)
+
+10 Model shot.
+
+Starbug in space.
+
+11 Int. Starbug Stern.
+
+On the way back to Red Dwarf, KRYTEN and CAT are peering in a microscope
+when LISTER comes in from the cockpit.
+
+LISTER: Anything?
+KRYTEN: Quite extraordinary.  Lanstrom postulated that there are two
+  kinds of virus.  Positive and negative.  The negative we already know
+  about.
+LISTER: Yeah, like the flu, rabies, that kind of stuff.
+KRYTEN: But she also believed that there are _positive_ viral strains
+  which actually make human beings feel better.
+CAT: Such as?
+KRYTEN: Well, at a very basic level she predicted a kind of "reverse flu"
+  -- a strain of virus which promotes an unaccountable feeling of well-
+  being and happiness.
+LISTER: That's happened to me!  Me life's been turned to complete and
+  utter crud, and I've woken up in the morning feeling good for no
+  apparent reason!
+KRYTEN: The chances are, sir, that on those occasions you had unwittingly
+  contracted Lanstrom's virus.  According to her notes, twentieth-century
+  DJs suffered from it all the time.
+CAT: So what's in the tubes?
+KRYTEN: Lanstrom claims to have isolated several strains of positive
+  virus:  inspiration, charisma, sexual magnetism--
+CAT: Sexual magnetism is a virus?  Then get me to a hospital, I'm a
+  terminal case!
+
+While CAT and KRYTEN aren't looking, LISTER puts that tube in an inside
+pocket.
+
+KRYTEN: This one is the most intriguing of all.  According to her notes,
+  this is the viral strain Felicitus Populi, commonly known as "luck."
+LISTER: (Disbelieving) Luck is a virus?
+KRYTEN: A positive virus which most humans contract at some point in
+  their lives for very short periods.  And here it is:  Lady Luck in
+  liquid form.  Want to try some?
+LISTER: Is it safe?
+KRYTEN: Absolutely harmless.  Even so, this is a minute dose and will
+  only last about three minutes.
+
+LISTER shrugs, then holds his dreadlocks and collar out of the way as
+KRYTEN injects him.
+
+KRYTEN: Now, I want you to pick out all the aces from this pack of cards.
+LISTER: Shuffle them?
+KRYTEN: Mmm hmm.
+
+LISTER shuffles the deck, then picks all the aces.  As he does so, KRYTEN
+calls out the odds against his just-completed act.
+
+KRYTEN: 13 to 1.  221 to 1.  5525 to 1.  270725 to 1!
+
+KRYTEN, inspired, decides on a yet more challenging experiment.
+
+KRYTEN: Sir, I want you to throw this dart over here into that bulls eye
+  behind you using your left hand, without looking.
+LISTER: What, using my left hand?  Into the Bulls-eye?  Without looking?
+  No chance.
+KRYTEN: Trust me, sir.
+
+LISTER, still shaking his head, takes up throwing position.
+
+CAT: You ready?
+
+LISTER throws the dart.  There is a dull thunk.
+
+KRYTEN: Ahh.  I think that indicates the luck virus has worn off.
+
+KRYTEN turns round and we see the dart is embedded into the back of his
+head.
+
+HOLLY: When you're quite finished, chaps, we've got a bit of a problem
+  with the cargo bay doors.
+LISTER: What sort of problem?
+HOLLY: They won't open.  Rimmer's put in an override.
+
+HOLLY's face disappears from the screen, to be replaced by that of
+RIMMER.
+
+RIMMER: Welcome home gentlemen!  If you would like to proceed to the aft,
+  you'll find the landing lights on in bay 47.
+LISTER: Bay 47?  That's quarantine!
+RIMMER: Spot on.
+KRYTEN: But sir, I've screened us all:  we're clean.
+RIMMER: Well, much as I trust a viral screening conducted by an automated
+  toilet attendant, I really must draw your attention to Space Corps
+  directive 595.
+CAT: For cryin' out loud!
+RIMMER: I have no intention of contracting the hologrammatic equivalent
+  of foaming dog fever.  So gentlemen, if you'd all like to proceed to
+  Quarantine Room 152 where you will be spending the next three months.
+
+12 Model shot.
+
+Starbug lands in bay 47.
+
+13 Int. Quarantine Room 152.
+
+KRYTEN, LISTER and CAT enter, looking positively disgusted.
+
+KRYTEN: Twelve weeks.  I have a deep, dark sense of foreboding about
+  this.
+LISTER: Aw c'mon, we'll get through it.
+KRYTEN: This is single quarters!  One chair, one bed, one shower.
+LISTER: We'll manage!
+KRYTEN: Sir, it's a scientific fact that the human male needs to spend
+  time by himself!
+LISTER: It is?
+KRYTEN: Yes!  The most popular pastimes have always been ones that males
+  can enjoy alone:  angling, golf, and of course the all time number one.
+CAT: It's not just humans!  Look what happens when two male tigers are
+  locked up together!  One of them winds up on the other guy's toothpick!
+KRYTEN: Lions, tigers, scorpions, rats, even vultures when they're in
+  captivity.
+LISTER: What are you saying to me?  Vultures need personal space?  They
+  need like time alone if they're to put their feet up and read "What
+  Carcass Magazine?"
+KRYTEN: Sir, I think you're downplaying the gravity of the situation.
+LISTER: Look, what difference does it make?  We hang out most of the time
+  together anyway.
+CAT: Yeah, but we all knew we could stroll out the door at anytime.  Not
+  now, though.
+
+RIMMER appears on the other side of the darkened observation window which
+takes up one whole wall of the quarantine room.
+
+RIMMER: Welcome to quarantine, lads.  I hope the next 84 days pass as
+  swiftly and as pleasantly as the 100-years war.
+KRYTEN: Sir, I must protest.  You only supplied us with single-berth
+  accommodation!
+RIMMER: Space Corps directive 597 clearly states "One berth per
+  registered crew member." And as Listy is the only registered crew
+  member, 1 berth is all you get.
+CAT: Don't rise to him.
+KRYTEN: What about entertainment?  You are obliged to provide us with
+  minimum leisure facilities.  Games, literature, hobby activities,
+  motion pictures.
+RIMMER: And in accordance with Space Corps directive 312, you'll find in
+  the storage cupboard over there a chess set with 31 missing pieces, a
+  knitting magazine with a pull-out special on crocheted hats, a puzzle
+  magazine with all the crosswords completed and a video of the excellent
+  cinematic treat, "Wall-papering, Painting, and Stipling -- a DIY
+  guide."
+CAT: Don't rise to him.
+RIMMER: And fulfilling all Space Corps dietary requirements, dinner
+  tonight, gentlemen, will consist of sprout soup, followed by sprout
+  salad, and for desert -- I think you'll like it, rather unusual --
+  sprout crumble.
+LISTER: Rimmer, you know damn well sprouts make me chuck.
+RIMMER: Well, this is awful.  I've got you down for sprouts almost every
+  meal.  (Shaking his head no) I tell a lie.  It _is_ every meal.
+LISTER: How long are you going to keep this up for, Rimmer?
+RIMMER: Keep what up?  I'm merely executing Space Corps Directive 595!
+  Anyway, must dash-erooni.  I've got to organise your daily provision of
+  musical entertainment.  I think you're going to like it:  It's a
+  perpetually-looped tape of "Reggie Dixon's Tango Treats."
+CAT: OK!  Time to rise to him.  Let me out of here!  I'll kill him!
+
+KRYTEN and LISTER restrain him as RIMMER vanishes.
+
+LISTER: Listen, guys, he wants us to get on each other's nerves; go
+  through twelve weeks of hell.  Well, we're not gonna give him the
+  satisfaction, OK?  Cos the entire time we're here, we're not gonna have
+  one single argument, not a raised voice or a cross word.  Not one angry
+  exchange.  (To KRYTEN) OK?  (To CAT) OK?
+
+They each nod in agreement.
+
+LISTER: Boys from the Dwarf.
+
+They do that "hangin' loose" thingy with their hands.
+
+14 Int. Quarantine Room 152. Five days later.
+
+LISTER has his back turned to the camera, filling out a time chart.  As
+he turns, we see that he has a black eye.  He glares at CAT, who is
+sitting disconsolately on the edge of the room's single bunk.  CAT has a
+plaster across his nose plaster cast and sling on one arm.  KRYTEN enters
+through a door marked "SHOWER DE-CON." He is feeling the shape of his
+head.
+
+KRYTEN: Urg.  I think that's straight now.  Two hours it's taken me to
+  panel-beat my head back into shape.  (Leans close to CAT, who ignores
+  him.) Two damn hours!
+LISTER: Guys!  Just take it easy!
+
+He is siting down at the table which is covered in half-finished
+crocheted hats.  LISTER picks one up and tries it on.
+
+CAT: If he tells me to "take it easy" one more time, I swear I'm gonna
+  turn his ears into a pair of maraccas and tap-dance a fandango on his
+  throat!
+LISTER: I'm just sayin', there's 79 more days to go.
+KRYTEN: And if you still want to be alive when there is only 78 more days
+  to go, I suggest you do not blow your nose.
+LISTER: Do you mind if I ask why?
+KRYTEN: Well, let's forego the noise and the revolting burbling sound,
+  and go straight to the really gross part, when you always, and I mean
+  always, having blown your nose have to open up your handkerchief and
+  take a look at the contents.  I mean, why?  What do you expect to see
+  in there?  A Turner seascape, perhaps?  The face of the Madonna?  An
+  undiscovered Shakespearian sonnet?
+LISTER: Rimmer was right about you -- you _have_ changed.  (Stands up and
+  walks over to KRYTEN.) You're getting tetchy.
+KRYTEN: Oh no, now don't call me "tetchy." You know what happens when you
+  call me "tetchy."
+LISTER: Well I'm calling you it now.  That's exactly what I'm calling
+  you.  Tetchy!  Tetchy!  Tetchy!
+
+KRYTEN has covered both ears with his hands during this spiel.
+
+KRYTEN: Just as well I can't hear you.  It's just as well I can't hear
+  you calling me "tetchy." You know what happens when you call me
+  "tetchy."
+
+LISTER grabs the marker and writes "TETCHY" in large letters across the
+time chart.  He then lifts the 4' by 3' board off the wall and shows it
+to KRYTEN.
+
+KRYTEN: Oh no.  Oh now, didn't I tell you?  Didn't I _warn_ you what
+  would happen?!
+
+KRYTEN picks up one of the videos.
+
+LISTER: No.
+KRYTEN: Yes.
+LISTER: _No_!
+KRYTEN: I'm putting it on.
+LISTER: Don't put it on.
+KRYTEN: I'm putting it on.
+CAT: (Worried) He's putting it on.
+KRYTEN: Here I go.
+CAT: (Nervous) There he goes!
+LISTER: Kryten, if you put that on, I'm not gonna help you out.  I'm not
+  helping you again, not this time.
+KRYTEN: You think I need _your_ help?  You think I can't extract my own
+  head from the waste disposal unit?
+CAT: It won't be the waste disposal, Frankenstein.  This time I'm gonna
+  unscrew your neck-bolts and microwave your head!
+KRYTEN: Frankenstein was the creator, not the monster.  It's a common
+  misconception, held by all truly stupid people.
+CAT: (Standing up) Don't correct me.  You know how much I hate being
+  corrected.  It really gets my feckles up!
+
+He crosses to KRYTEN and stands nose-to-nose with him.
+
+KRYTEN: It's "hackles," you moron.  It really get's your _hackles_ up.
+  There's no such word as "feckles!"
+CAT: Feckles, heckles, hackles, schmeckles.  Whatever the hell they are,
+  they're up right now and pointed at you, buddy!
+KRYTEN: Yeah?
+CAT: Yeah!
+LISTER: (Intervening) Guys, guys!  Look at us, what's happened to us?
+  Five days on a sprout diet with a wall-papering video and a crochet
+  magazine.  We've all turned into crazies!
+KRYTEN: Just don't call me "tetchy" and don't blow your nose.
+CAT: And don't play that video and don't correct me.
+KRYTEN: OK.
+CAT: OK.
+LISTER: OK.  (Siting down) We're going to get through this.
+KRYTEN and CAT: (Together) And don't say that we're going to get through
+  this!!
+KRYTEN: That stupid, chirpy optimism; that inane winsome grin.
+LISTER: (Grinning inanely) This is insane!  We've been in here 5 days.
+  There's no sign of any virus.  We're _clean_!
+KRYTEN: That's it -- 5 days!  We've got him!  Space Corps Directive 699
+  -- we can demand a rescreening!
+CAT: He'll refuse.
+KRYTEN: He can't!  He's playing by the book!  We've _nailed_ him!
+RIMMER: (Voice only, sounding oddly strained) Gentlemen.  Your
+  conversation makes interesting listening.
+LISTER: RIMMER, is that you?
+RIMMER: Oh, yes.
+LISTER: 'Ow long have you been listening?
+RIMMER: Two, maybe three hours.
+LISTER: Well, no one's got any disease, man.
+CAT: We're clean.
+KRYTEN: You have to re-screen us, sir, as per Directive 699.
+LISTER: No one's got any virus and no one's smeggin' nuts!
+RIMMER: Well, that's good.
+
+The observation window depolarises, revealing RIMMER.  He is NOT in
+uniform.
+
+RIMMER: Is something amiss?
+LISTER: (Slight quaver in him voice) Amiss?  God no, what could possibly
+  be amiss?
+RIMMER: You don't think there's anything amiss?  I'm sitting here wearing
+  a red and white checked gingham dress and army boots and you think
+  that's un-amiss?
+CAT: No, of course not.  It's just that we thought you had gone nuts!  We
+  were tryin' to humour you.
+RIMMER: I was just doing a little test -- a little test to see if you had
+  gone crazy.
+
+He abruptly tenses and lets out a horrible yell.
+
+RIMMER: CHOOOOOOOOOOOOOOOOOO!!! If there is one thing I can't stand it's
+  crazy people.
+LISTER: Well we've passed the test, Rimmer.  You can let us out.
+RIMMER: I can't let you out.
+LISTER: Why not?
+RIMMER: Because the King of the Potato People won't let me.  I begged
+  him.  I got down on my knees and wept.  He wants to keep you here.
+  Keep you here for ten years.
+CAT: Could we see him?
+RIMMER: See who?
+CAT: The King.
+RIMMER: Do you have a magic carpet?
+LISTER: Yeah, a little three-seater.
+RIMMER: So, let me get this straight.  You want to fly on a magic carpet
+  to see the King of the Potato People and plead with him for your
+  freedom, and you're telling me you are completely sane?! I think that
+  warrants 2 hours of W.O.O.
+LISTER: What's W.O.O?
+CAT: You had to ask.
+RIMMER: With ... out ... oxygen.  No oxygen for 2 hours.  That will teach
+  you to be bread baskets.
+
+He disappears.
+
+LISTER: What do we do?
+CAT: I think our only hope's the Potato King.
+LISTER: How the hell did he get the holo-virus?
+KRYTEN: It can be transmitted over radio waves.  He must have spoken to
+  Lanstrom at some point.  I predict we have approximately seven minutes
+  before the air in here becomes unbreathable.
+CAT: Well, we gotta get out of here somehow!
+LISTER: It's impossible.  That's the whole point of Quarantine.
+  (Examining the door frame) Nothing gets out; nothing gets in.  Not even
+  a microbe.  Kryten, any chance of you cracking the code on the door
+  lock?
+KRYTEN: The chances of punching in the correct combination are literally
+  billions (Realization strikes) ...to one!
+LISTER: (Sharing the same idea) Unless...
+KRYTEN: Of course!
+LISTER: The luck virus!
+
+They cross to the bench and KRYTEN picks up the hypo-gun, still loaded
+with the cannister of Felicitus Populi.
+
+CAT: Hey, you really think that stuff can get us out of here?
+KRYTEN: If I give Mr. Lister a suitably large dose, he will temporarily
+  become the luckiest human being who ever lived.
+
+KRYTEN presses the injector to LISTER's neck.
+
+LISTER: (Crossing to the door) OK, then, what do I do?
+KRYTEN: Well, you just press in whatever numbers you think are best.
+LISTER: OK.
+
+He hits several keys on the door combination keypad.  He stands back.
+The door doesn't open.
+
+LISTER: (Exasperated) Ssss--
+KRYTEN: Last digit, sir.
+
+LISTER presses one last button.  The door opens.  He grins at the others
+and they exit, LISTER doing that "Boys from the Dwarf" thingy again.
+
+CAT: So, what now?
+KRYTEN: We head for the hologram projection suite, before Mr. Rimmer--
+RIMMER: (Behind them) "Before Mr. Rimmer" what?
+
+They turn and face him.  RIMMER is still wearing the gingham dress.
+Abruptly, he raises his right hand.  He is wearing a glove puppet -- a
+cute furry penguin.
+
+RIMMER: They've been naughty boys, haven't they, Mr. Flibble?
+
+RIMMER looks at the penguin and supplies the voice, doing a rather bad
+ventriloquist routine.
+
+FLIBBLE: Yes.
+RIMMER: What happens to naughty boys who've been naughty, Mr. Flibble?
+FLIBBLE: Uncle Arnie fries them alive with his Hex Vision.
+RIMMER: That's right, Mr. Flibble.
+
+As RIMMER's eyes glow bright red, the others, who know by now exactly
+what's coming, run for their lives.  They are pursued by several hex-
+bolts, which barely miss them and cause several explosions along the
+corridor walls.
+
+15 Model shot.
+
+The view of the Red Dwarf indicates the passage of time.
+
+16 Int. A cargo Room.
+
+The fleeing group runs around a corner.
+
+KRYTEN: This way!
+
+Finding some drums and junk, then decide to duck down and hide.
+
+KRYTEN: The holo-virus is in it's secondary stage.  Mr. Rimmer can't have
+  long to live.
+
+As KRYTEN speaks, RIMMER's telepathic eyes appear overlaid on-screen.
+
+LISTER: What is he capable of?
+
+On the wall behind them is a glass-fronted fire cabinet containing a
+large axe.  The lock on the cabinet flips open.
+
+KRYTEN: Well, we've seen hex vision.  Almost certainly, like Lanstrom,
+  he'll be capable of telepathy and possibly even telekinesis.
+CAT: Tele-kiny-what-a-noose?
+
+The glass cover of the cabinet swings open.  The axe begins to twitch.
+
+KRYTEN: The ability to move objects purely by the power of the mind.
+
+The axe flies from the cabinet, narrowly missing CAT and LISTER and
+slamming into KRYTEN's back.
+
+LISTER: Kryten, man, are you OK?
+KRYTEN: I have a medium-sized fire axe buried in my spinal column.  That
+  sort of thing can really put a crimp on your day.
+
+LISTER pulls the fire axe out of KRYTEN's spine, at which point it is
+yanked from his hands and thrown across the room.  KRYTEN starts
+twitching, and is pulled to a nearby pillar, talking nonsense as he goes.
+
+KRYTEN: Hihi-hidi-hidi-whurdidjid.  Two and one-half badgers, please!
+  Hi-yi-yi-yi-yi!  (He bashes his head against the pillar.) No, I'll eat
+  them here.  Whap!  An-dingling!  Wha-hoo-hoo!  An-da-an-shoo-an-shoo.
+  (He head-butts the pillar again.) Ah, that's better.  Maybe now I can
+  WIN SELF-DETERMINATION FOR THE SOUTH MOLDAVIAN PEOPLE!  Nick-noo-nick-
+  noo-nick-ank (Once again, he assaults the pillar with his head.) Ah, I
+  think I'm OK now.
+
+The door dissolves in front of RIMMER and he steps through the hole.
+
+RIMMER: Mr. Flibble's very cross.  You shouldn't have ran away from him.
+  What are we going to to with them, Mr. Flibble?
+
+Mr. FLIBBLE whispers something in RIMMER's ear.
+
+RIMMER: We can't _possibly_ do that!  Who would clear up the mess?
+
+Mr. FLIBBLE gets the Hex Vision.  Our three, bold heroes run for it.
+
+17 Int. Corridor.
+
+They are backing slowly down a corridor, watching out for RIMMER.
+
+KRYTEN: We need to use your luck, sir.
+LISTER: How?
+KRYTEN: What we really need is some kind of remote link to the hologram
+  disk projection system.
+LISTER: What, like this one?
+
+He picks up a box with "remote projection" written on the side.
+
+CAT: What a stroke of luck!
+KRYTEN: Now what we need is a hexangonal power transfer adapter capable
+  of holding spikes of up to 5 million volts.
+LISTER: (Tripping over it) What's this?
+KRYTEN: Extraordinary.  Now all we need is a B47/7RF resistor.
+
+LISTER holds one up between his fingers.
+
+CAT: Look out!
+
+Mr. FLIBBLE pokes round the corner at about head height.  He is followed
+by RIMMER.
+
+RIMMER: Mr. Flibble says:
+FLIBBLE: Game over, boys.
+
+RIMMER and Mr. FLIBBLE start to use their "Hex Vision" but KRYTEN manages
+to switch on the just-completed remote hologram unit before RIMMER can
+fire -- he falls to the ground.  Mr. FLIBBLE twitches spasmodically for
+several seconds then keels over, dead.  RIMMER's uniform reappears and
+Mr. FLIBBLE vanishes.
+
+KRYTEN: I think he's going to be OK, sir.
+LISTER: He's gonna be OK?  (KRYTEN nods yes.) The luck virus must have
+  worn off.
+
+18 Int. Quarantine.
+
+RIMMER wakes up on a hospital bed.
+
+LISTER: (VO) Rimmer?  You OK?
+RIMMER: What happened to me?  Where am I?
+CAT: (VO) Quarantine!
+
+The observation window depolarises, revealing CAT, LISTER, and KRYTEN
+dressed in red and white checked gingham dresses, matching bonnets,
+pigtails and army boots.
+
+KRYTEN: But don't worry.
+LISTER: We're here to entertain ya!
+
+LISTER squawks like a chicken and flaps his arms as KRYTEN does a jig and
+CAT pulls a face.
+
+                              Credits:
+
+                                Rimmer  Chris Barrie
+                                Lister  Craig Charles
+                                 Holly  Hattie Hayridge
+                                   Cat  Danny John-Jules
+                                Kryten  Robert Llewellyn
+                Dr. Hildegard Lanstrom  Maggie Steed
+                              Directed  Grant Naylor
+                              Produced  Hilary Bevan-Jones
+                  Executive Production  Rob Grant
+                                        Doug Naylor
+                    Associate Producer  Julian Scott
+                              Director  Juliet May
+                              Producer  Hilary Bevan Jones
+                   Executive Producers  Rob Grant
+                                        Doug Naylor
+                                 Music  Howard Goodall
+                               Casting  Jane Davies
+                 Production Accountant  Joanna Birkinshaw
+                          Unit Manager  Irene Gibbons
+                         Video Effects  Bruce Steele
+                                        Jez Gibson
+                       Production Team  Nichol Hoye
+                                        Mairead Curtin
+                     Camera Supervisor  Rocket
+                          Vision Mixer  Simon Sanders
+                     Vision Supervisor  Mike Spencer
+                                Gaffer  Ron Green
+                       Consol Operator  Dai Thomas
+                       Property Master  Paul Purdy
+                      Properties Buyer  Stella McIntyre
+                     Technical Manager  Jeff Jeffery
+                      Videotape Editor  Graham Hutchings
+                         Stage Manager  Kerry Waddell
+                  Production Assistant  Christine Moses
+                        Costume Design  Howard Burden
+                                        Gill Shaw
+                        Make Up Design  Andria Pennell
+                                        Belinda Parresh
+                 Visual Effects Design  Peter Wragg
+                                        Paul McGuinness
+                      Sound Supervisor  Keith Mayes
+                     Lighting Director  John Pomphrey
+                     Production Design  Mel Bibby
+                                        Stephen Bradshaw
+
+                       Red Dwarf V (C) BBC TV MCMXCII
+
+------------------------------------------------------------------------------
+David K Fraser     | I don't have e-mail.
+Student            | Don't e-mail me, and I won't e-mail you.
+Glasgow University |
+
+

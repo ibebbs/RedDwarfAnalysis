@@ -1,0 +1,872 @@
+From: fraserdk@dcs.glasgow.ac.uk (David K Fraser)
+Subject: script: Stasis Leak
+
+I've taken a few liberties with this script, and I didn't manage to catch
+some of the lines. As a result, it neeeds some correcting. Incorrect or
+missing bits are enclosed by angled brackets, i.e. < these things >.
+
+-- David F.
+
+---------------------------------------------------------------------------
+
+                RED DWARF Series II Episode 4, "Stasis Leak"
+
+1 Ext. View of space.
+
+HOLLY: (in space) Three million years from Earth, the mining ship Red
+  Dwarf.  Its crew:  Dave Lister, the last human being alive; Arnold
+  Rimmer, a hologram of his dead bunkmate; and a creature who evolved
+  from the ship's cat.  Message ends.
+
+  (Reappearing) Additional:  On our journey back to Earth, we have
+  encountered many strange and bizarre things.  Only last month we came
+  across a moon which was shapedexactly like Felicity Kendall's bottom.
+  We flew around that one a couple of times.
+
+Caption:  3 million years ago.
+
+2 Int. CAPTAIN's office. Past.
+
+LISTER, RIMMER, and CAPTAIN HOLLISTER are present.  The CAPTAIN is
+talking on the phone.  He looks tired.  LISTER is lounging, feet up, in
+the office's other chair.  RIMMER is standing to one side, at stiff
+attention.
+
+CAPTAIN: Okay.  (puts phone down) Rimmer, make this quick.
+RIMMER: Sir, I wish to place on record that third technician Lister,
+  David--
+CAPTAIN: <Get on with it>, Rimmer.
+RIMMER: --smuggled aboard the mining vessel Red Dwarf a consignment of a
+  hallucinogenic fungi "Titan Mushrooms," more popularly known to the
+  Space Beatnik community as "Freaky Fungus."
+CAPTAIN: Is this true?
+LISTER: Erm, sort of.
+RIMMER: And on the morning of Febuary the 26th, at 0800 hrs, did engage
+  in conversation with second technician Rimmer, Arnold J.--
+CAPTAIN: For crying out loud, Rimmer!
+RIMMER: --the outcome of which was a proposal by the aforementioned
+  Lister to the aforementioned Rimmer to cook him breakfast.
+CAPTAIN: Okay, I'm getting the picture.
+RIMMER: Breakfast comprised of two eggs, three rashers of bacon, a
+  grilled tomato, two sausages, a small portion of fried potatoes... and
+  a large quantity of _mushrooms_.  Having consumed this repast, second
+  technician Rimmer, Arnold J.  experienced what can only be described as
+  a voyage to trip-out city.  To whit, a major hallucinogenic fit.
+CAPTAIN: Lister, is this true?
+LISTER: No, sir.  I'm sure it was only one egg.
+RIMMER: The aforementioned Rimmer, to whit, me, then attended inspection
+  parade.  He was totally naked except for a pair of mock-leather driving
+  gloves and some blue swimming goggles.  Under the influence of this
+  psychadelic breakfast he went on to attack two senior officers,
+  believing them to be giraffes who were armed and dangerous.
+CAPTAIN: You'd better have a good reason for this, Lister.
+LISTER: I have, sir.
+CAPTAIN: Why'd you do it?
+LISTER: I thought it'd be a laugh.
+CAPTAIN: Right.  Two weeks PD, Lister.  Dismissed.
+RIMMER: With respect, sir, the penalty for a crime of this nature is
+  fifteen years imprisonment.
+LISTER: <>
+CAPTAIN: Rimmer, <I sentenced this man.>
+RIMMER: Two weeks?
+CAPTAIN: That's enough.
+RIMMER: Two smegging weeks?
+CAPTAIN: I said, that is enough!
+RIMMER: With repect, sir, you've got your head right up your big fat
+  arse.
+
+3 Int. Corridor.
+
+People going to and fro, all looking busy.
+
+RIMMER: Eight weeks PD!  How come I get eight weeks and you get only two?
+  What did I do to deserve that?  What did I do?
+LISTER: You shouldn't have stuck your pencil up his nose!
+RIMMER: It was the rubber end!  Plus, the doctor will get it out in no
+  time.
+LISTER: You ripped up and ate his wife's photograph.
+RIMMER: I didn't know it was his wife.  I thought it was a publicity shot
+  for "Planet Of The Apes."
+
+They stop at a vending machine.  LISTER presses a button.
+
+LISTER: Two teas.
+PASSER-BY: Excuse me.
+LISTER: (to RIMMER) Listen, man, I'm sorry about those mushrooms, you
+  know.  I mean, I didn't know... I'm not totally reckless and
+  irresponsible, for God's sake.  I mean, when it comes down to it, I'm a
+  pretty straight and honest geezer.
+RIMMER: Where did you get them?
+LISTER: I nicked them.  They were in a locker.  They must have belonged
+  to Headbanger Harris.
+
+They enter their quarters.
+
+RIMMER: Why didn't you tell the Captain this?
+LISTER: What?  And get someone into trouble?
+RIMMER: Oh, no.  Eight weeks painting the smegging ship?
+LISTER: I'm sorry.
+RIMMER: Get the space-suits.
+
+LISTER leaves.  Suddenly a voice speaks from nowhere.
+
+VOICE: I don't want you to panic, Arnold.  I want you to stay absolutely
+  calm.  I'm coming out in a moment, and I want you to keep your cool.
+  Are you ready?  Here I come.
+
+A hologrammatic head rises out of the floor -- RIMMER's, with a silver
+"H" on the forehead.  ARNOLD, understandably, jumps.
+
+HEAD: There, that wasn't too bad, was it?  Look, I found a stasis leak on
+  floor sixteen.  I'm dead now, and you're not, but if I save you, you
+  won't die, so I won't die, and you won't be dead either, and neither
+  will I.
+
+ARNOLD peers suspiciously at his coffee, wondering if LISTER has doped
+him again.
+
+4 Int. Sleeping quarters. Present.
+
+LISTER is sitting at the table, reading.  CAT is on the top bunk, sewing.
+RIMMER enters.
+
+RIMMER: Good book?
+LISTER: Yeah, it's alright.
+RIMMER: I didn't think you read.
+LISTER: Not much, but this is good.
+RIMMER: What is it?
+LISTER: It's your diary.
+RIMMER: WHAT!?
+LISTER: I didn't know you sent secret love letters to Carol McCauley.
+RIMMER: Lister, that is my private, personal, private diary; full of my
+  personal, private, personal things.
+CAT: It's gone public.
+RIMMER: I don't believe it!  You've been reading that to the Cat?
+CAT: Only the best bits!
+LISTER: (reading) "Carol McCauley, your eyes are like two limpid pools in
+  the mornings."
+RIMMER: Shut up.
+LISTER: "Your hair is like a golden waterfall."
+RIMMER: Shut up.
+LISTER: "Plus, those tight skirts you wear make me really horny."
+RIMMER: Lister, I order you to shut your face.
+LISTER: It's no big deal, you know.  You can read my diary.
+RIMMER: Who'd want to read your diary?  It's full of puerile nonsense
+  about Kristine Kochanski.
+LISTER: Ah, So you've read my diary.
+RIMMER: Yes, but at least I have the common decency to do it sneakily
+  behind your back.
+CAT: He's right.  That is definitely the decent thing to do!
+LISTER: I'm doing it for a reason anyway.  Look what I found in
+  Kochanski's quarters this morning.
+RIMMER: So?
+LISTER: Look at it!
+RIMMER: It's a wedding photograph.
+LISTER: Yeah, And who is the incredibly gorgeous hunky beefcake she is
+  marrying?
+RIMMER: It's you!  But you didn't marry Kochanski!
+LISTER: Exactly!  So how is this possible, unless somehow we go back in
+  time?
+RIMMER: What's this got to do with my diary?
+LISTER: It's this bit here about the mushrooms, isn't it.  You see, when
+  you saw your head coming through the table, I don't think it was an
+  hallucination.  I think you were seeing you, now, arriving back in the
+  past.
+CAT: There's a wise old Cat saying which I think applies in this
+  situation.  It goes:  "What are you talking about, dog-breath?"
+LISTER: Listen to what it said.  It says; "The head came through the
+  table and said, `I'm from the future.  I've come to save your life.  We
+  found a stasis leak on floor sixteen.'" You see, I don't think it was
+  an hallucination.
+CAT: What's a stasis leak?
+
+Just then HOLLY appears on one of the monitors.
+
+HOLLY: Alright, dudes.  What's going down in groove town then?
+LISTER: Alright, Hol.  Listen, what's a stasis leak?
+HOLLY: Um, well, very, very basically, putting it as simply as I can for
+  your average layman to comprehend, a stasis leak is a leak, right, _in
+  stasis_, hence the name "a stasis leak."
+LISTER: You don't know, do you, Hol?
+HOLLY: No, I don't.
+LISTER: Well, I suggest we go down to floor sixteen and see what's there.
+RIMMER: How come he never, ever knows anything?  He's supposed to have an
+  I.Q.  of six thousand!
+HOLLY: Six thousand's not that much.  It's only the same IQ as twelve
+  thousand car park attendants.
+RIMMER: But you don't know anything.
+HOLLY: Listen, I happen to be one of the sleekest, most sophisticated
+  computers ever devised by man.  I'm the nearest thing you can get to
+  infullible.
+LISTER: Infallible.
+HOLLY: Exactly.
+
+5 Int. Xpress lift.
+
+A large, comfortable place, more like the interior of a plane than a
+lift.  On the walls, in English and Esperanto, is written "XPRESS LIFTS."
+As they strap themselves in, LISTER gives their destination.
+
+LISTER: Floor sixteen.
+RIMMER: This is going to take ages.
+
+A TV screen switches on to show the in-lift instructional video.
+
+HOSTESS: (on video) Welcome to Xpress Lifts, descent to floor sixteen.
+  You will be going down two thousand, five hundred and sixty-seven
+  floors and, for a small extra charge, you can enjoy the in-lift movie
+  "Gone With the Wind." If you look to your right and to your left, you
+  will notice there are no exits.  In the highly unlikely event of the
+  lift having to make a crash-landing, death is certain.  Under your
+  seats you will find a cassette for recording your last-minute
+  testament, and from above your head a bag will drop containing
+  sedatives and cyanide capsules.
+LISTER: I hate this stuff.  It really freaks me out.
+
+The video smiley holds up a cyanide capsule.
+
+HOSTESS: To take the cyanide capsule, simply break open, like so,
+  (breaking it open) and place under the tongue.
+
+The hostess places the cyanide capsule under her tongue then, with smile
+fixed firmly in place, drops backwards out of shot, dead.  The
+instructional video ends, showing the XPRESS LIFTS logo.
+
+6 Int. Xpress lift. 3 hours later.
+
+The doors open at floor sixteen.  LISTER emerges, followed by RIMMER and
+CAT.  They all appear to be suffering from extreme lift-lag.  CAT looks
+the worst:  he reels out of the lift, clutching his stomach.
+
+LIFT: Thank you for travelling Xpress Lifts.  We apologise for the delay.
+CAT: You should apologise for the chicken!  First meal I ever had where
+  the container tasted better than the food!
+
+7 Int. Level 16 corridor.
+
+LISTER: This must be the stasis leak.
+
+It's a blue, glowing hole in the wall, wreathed in cheap BBC special
+effects white smoke.  Cautiously, LISTER sticks his hand into it.  His
+hand vanishes.  He pulls it back -- it emerges intact.  He looks at the
+others.
+
+LISTER: Okay.  Here we go.
+
+He steps through the hole.
+
+8 Int. Shower. Past.
+
+He emerges in the men's shower room on the other side of the wall, but
+three million years in the past.  A digital clock above the wall mirrors
+gives the date as being 22nd March 2077.  He steps back through the hole
+before any of the men shaving at the mirror can see him.
+
+9 Int. Level 16 corridor. Present.
+
+He beckons to RIMMER and CAT.
+
+LISTER: It's safe.  Come through.
+
+10 Int. Shower. Past.
+
+He steps back through the leak.  RIMMER and CAT follow him.  They all
+emerge in the same shower cubicle.
+
+CAT: (to RIMMER) What IS it?
+RIMMER: It's a rent in the space-time continuum.
+CAT: (to LISTER) What IS it?
+LISTER: The stasis room freezes time, you know, makes time stand still.
+  So whenever you have a leak, it must preserve whatever it's leaked
+  into, and it's leaked into this room.
+CAT: (to RIMMER) What IS it?
+RIMMER: It's singularity, a point in the universe where the normal laws
+  of space and time don't apply.
+CAT: (to LISTER) What IS it?
+LISTER: It's a hole back into the past.
+CAT: Oh, a magic door!  Well, why didn't you say?
+LISTER: March the twenty-second.  That's what -- three weeks before the
+  crew got wiped out.
+
+A man, wanting to use the shower, finds three fully-clothed strangers
+inside it.
+
+MAN: Hi.
+RIMMER: Hi.
+CAT: Hi.
+LISTER: Do you mind?  This is the Annual General Meeting of the
+  Agrophobics' Society!
+
+LISTER draws the shower curtains shut.
+
+RIMMER: I wonder if we can bring anybody back?
+
+LISTER looks around, then picks up a bar of soap.  They step back through
+the hole.  LISTER opens his hand, to reveal a handful of three-million-
+year-old dust.
+
+LISTER: Not unless we want them to be turned into powder.
+CAT: Who were you thinking of bringing back?
+RIMMER: Me.
+
+CAT looks at the handful of dust and smiles wickedly.
+
+CAT: Let's do it!
+
+11 Int. Sleeping quarters. Present.
+
+RIMMER: What's the point in going, if you can't bring anybody back?
+LISTER: You've seen the photograph.  I'm going to marry her.
+RIMMER: But what's the point?  In three weeks you'll be radioactive dust!
+  You might as well marry a box of Daz.
+LISTER: I'm gonna stay with her.
+RIMMER: You're going to stay with her?  For the sake of three weeks
+  together you're going to give up your life?
+LISTER: Yeah.
+RIMMER: (jumps out of his bunk) I don't believe it.  Lister, selfish or
+  what?
+LISTER: Why?
+RIMMER: What about me?  I've given you the best years of my death!  Is
+  that it, then?  Three years, thanks a lot, pal, I'm off.  No sort of
+  regrets?  Not so much as a lump in your throat?  No, you're thinking of
+  Kochanski.  The only lump you've got is up the front of your trousers.
+LISTER: I'm going for it, Rimmer.  If there's one thing I've learned,
+  it's that you don't get many shots at happiness.  So when you do, go
+  for them all.
+RIMMER: (sits on the edge of his bunk) I'm sharing a bunk with a
+  character out of a Barbara Cartland novel.
+LISTER: What would you do in my place?
+RIMMER: I don't know, I... oh, do what you like.
+LISTER: Where are you coming from, Rimmer?  You don't even like me.
+RIMMER: Don't I?
+LISTER: No.
+RIMMER: Fine.
+LISTER: You don't though, do you?  You don't even like me.
+RIMMER: That's what you think, is it?
+LISTER: Yeah.
+RIMMER: I will tell you something that will probably stun you rigid.
+LISTER: What?
+RIMMER: You're right.  I don't like you.  I don't like what you _stand_
+  for.  But, for some weird reason... I don't know.  What's the point?
+  (lies down on his bunk) Everything always goes wrong for me.  I'm
+  probably the only person in the world to buy a Topic Bar without a
+  single hazelnut in it.
+LISTER: It happens, you know, Rimmer.  You meet people, then you move on,
+  man.  When I was ten, I had a friend called Duncan.  Me best mate ever.
+  He taught me everything.  He was the one who showed me how to put
+  mirrors on me toecaps so I could look up girl's skirts.  Then his
+  father had to move to Spain because of a job.  It was a bank job he
+  pulled in Perlie.  Never saw him again.  I still think of him,
+  though... every time I look at me shoes.
+RIMMER: Don't try and explain it, Lister.  I don't know why I'm even
+  surprised.  Everyone always leaves me in the end.  Girls, parents... I
+  had a pet lemming once.  I loved that little lemming.  I built him a
+  little wall so he could hurl himself over it.  He didn't want for
+  anything.  I'll never forget one Christmas I put my finger in his cage
+  to give him some mince pie.  He bit me!  He sunk his teeth right into
+  my fingers and wouldn't let go.  In the end I had to smash his brains
+  out against the wall.  That little lemming broke my heart.  The little
+  git completely ruined my helicopter wallpaper.
+LISTER: You know, maybe there is a way to bring people back from the
+  past.
+RIMMER: Oh, how?
+LISTER: Well, there's a spare stasis booth, isn't there?  We could bring
+  one person back if we could persuade them to go into suspended
+  animation.
+RIMMER: They'd survive the accident.
+LISTER: Yeah.  And when we got back to now, we could bring them out and
+  bingo!
+RIMMER: Brilliant!  I could save my own life!  I wouldn't be dead!
+LISTER: Just think -- I could bring her back!
+RIMMER: I could bring me back!  There'd be two me's -- a dead me and a
+  living me -- one for the week and one for Sunday best.
+LISTER: Hey!  There's only room for one and that's Krissie!
+RIMMER: Rimmsie!
+
+12 Int. Sleeping quarters. Later.
+
+LISTER is getting ready for the trip back in time.  He has dug out his
+old gear and packed a rucksack.  CAT enters, looking as garish as ever in
+a glittering silver tuxedo and silver shirt.  He puts his hand over the
+eyes on a Marilyn Monroe poster on the wall.
+
+CAT: Aaaoooow!  Don't look, baby, It'll drive you crazy!  (to LISTER)
+  Hey, what do you think?  You said "look inconspicuous."
+
+LISTER tosses him a stained yellow pair of coveralls.
+
+LISTER: Put this on.
+CAT: What?
+LISTER: You'll stand out a mile like that.
+CAT: I wouldn't use this to buff my shoes!
+LISTER: Look, you can't walk round a mining ship looking like a finalist
+  from "Come Jiving."
+CAT: But then everyone will think I'm just an ordinary person!
+LISTER: That's the point.
+CAT: They won't look at me and say "Who's that guy?  He's gorgeous!"
+LISTER: Put it on.
+CAT: Ugh.  Well, maybe if I widen the lapels a bit, put in a couple of
+  spangels and sequins and shoulder-pads...
+LISTER: Put it on!
+CAT: Where's Alphabet-Head?
+LISTER: Rimmer?  He sneaked off last night.  He's already back in the
+  past, trying to save his own worthless life.
+
+LISTER breathes on the face of his watch and buffs it on his sleeve.
+
+LISTER: (to his watch) You reading me, Hol?
+
+On the face of LISTER's watch, instead of a dial or a digital display, is
+a monitor screen on which HOLLY's face is displayed.
+
+HOLLY: Eugh.  I could see right down your gob.
+LISTER: Let's go.
+HOLLY: I don't like being a watch, dangling about all sideways and upside
+  down.  And give me fair warning before you put your hand in your
+  pocket.  Gave me such a fright last time, that huge liquorice allsort
+  covered in fluff.
+LISTER: Oh, cheers, Hol.
+
+LISTER pulls the aforementioned dirt-covered foodstuff from his pocket...
+
+HOLLY: Oh, here we go again.
+
+...and flips it in the air, catching it in his mouth.
+
+LISTER: (to CAT) Put that on!
+
+13 Int. Level 16 corridor.
+
+Enter LISTER, followed by CAT, who is laughing with happy anticipation.
+
+LISTER: Here it is, man.  Just stick with me, okay?  Okay.
+
+They step through the leak.
+
+14 Int. Shower. Past.
+
+LISTER arrives first.  There is a man in the shower, who looks rather
+surprised at being interrupted.
+
+LISTER: (improvising) Excuse me, did you order a kiss-o-gram?
+
+The man shakes his head in mute astonishment, and LISTER slips away.  A
+few second later the man's shower is yet again interrupted, this time by
+a prime example of Felis Sapiens.
+
+CAT: Excuse me, did you see a short human with pigtails coming through
+  here?
+LISTER: (Voice-Over, distant) Yo, Cat!
+
+CAT, grateful, turns to go.  As he does so, he glances downwards.  He
+looks back up at the hapless showerer.
+
+CAT: Never mind.  It's the personality that counts.
+
+15 Int. Docking port corridor.
+
+Two ladies with haavy suitcases have just been targeted by Olaf PETERSEN,
+LISTER's long-time drinking buddy and Arnie Shwarzenegger look-alike.  He
+approaches them from behind.
+
+PETERSEN: Felicitations, beautiful ladies.  Back from planet-leave?  Let
+  me take those heavy cases.  My name is Olaf Petersen.  I am very good
+  in bed.
+
+As Olaf picks up the suitcases, LISTER and CAT emerge from a nearby lift.
+
+PETERSEN: It is always an honour to carry the personal luggages of such
+  beautiful ladies.
+
+Just then LISTER spots PETERSEN -- whom he hasn't seen for two years --
+and rushes to greet him.
+
+LISTER: Petersen!
+PETERSEN: Oh, hi.
+LISTER: Petersen, how are you, mate?  I don't believe it, it's you!  I've
+  missed you, you know.  Give us a kiss, you smelly-arsed smegger.
+
+He kisses PETERSEN.
+
+PETERSEN: (horrified) He's just a friend!
+LISTER: (ecstatic) I don't believe it -- it's really you!
+PETERSEN: He hasn't seen me since breakfast!
+LISTER: I'll see you later!
+PETERSEN: (trying to salvage some cool) Sure.
+LISTER: No, I promise.  I'll come to your _room_ and see you.
+PETERSEN: Lister, you DIE for this!
+
+LISTER and CAT head off down the corridor.
+
+LISTER: That was Petersen, an old mate o' mine.  We were like _that_.  I
+  never thought... I mean, just think, I'm gonna be able to see everybody
+  again.
+
+He crosses his arms, sticking one hand in an armpit.
+
+HOLLY: Oy, give us a break, Dave.  It's like a tropical rain forest in
+  there.
+LISTER: Sorry, Hol.
+
+Just then two pretty girls pass by.  CAT's reaction is predictable.
+
+CAT: Waaaooow!  I've never been this close to women before!  It makes me
+  wanna do something.  I don't know what it is, but I want to do a lot of
+  it!
+
+They pass a vending machine.  Two men are standing there, talking about a
+recent meeting thet have had with CAPTAIN HOLLISTER.
+
+PAST RIMMER: I didn't know it was his wife.  I thought it was a publicity
+  shot for "Planet Of The Apes."
+PAST LISTER: Two teas.
+RIMMER: (covering his hologram mark with one hand as he squeezes past)
+  Excuse me.
+PAST LISTER: (to PAST RIMMER) Listen, man, I'm sorry about those
+  mushrooms, you know.  I mean, I didn't know... I'm not totally reckless
+  and irresponsible, for God's sake.  I mean, when it comes down to it,
+  I'm a pretty straight and honest geezer.
+
+16 Int. Sleeping quarters. Past.
+
+RIMMER enters the bunk-room and hides under the table -- by sinking
+through it.  A few seconds later, LISTER and RIMMER, the past versions,
+enter the room.
+
+PAST RIMMER: Why didn't you tell the Captain this?
+PAST LISTER: What?  And get someone into trouble?
+PAST RIMMER: Oh no?  Eight weeks painting the smegging ship?
+PAST LISTER: I'm sorry.
+PAST RIMMER: Get the space-suits.
+
+The past LISTER leaves.  RIMMER decides to make his move.
+
+RIMMER: I don't want you to panic, Arnold.  I want you to stay absolutely
+  calm.  I'm coming out in a moment, and I want you to keep your cool.
+  Are you ready?  Here I come.
+
+He rises his head above the table.  His past self jumps.
+
+RIMMER: I found a stasis leak on floor sixteen.  I'm dead now, and you're
+  not, but if I save you, you won't die, so I won't die, and you won't be
+  dead either, and neither will I.
+
+The RIMMER from the past peers suspiciously at his coffee, wondering if
+LISTER has doped him again.
+
+PAST RIMMER: I may as well tell you right away, I know what you are.
+RIMMER: You do?
+PAST RIMMER: You're a mushroom, arent you?
+RIMMER: What?
+PAST RIMMER: A hallucination.  Go away.
+RIMMER: No, look.  I'm you from the future.  I've come to warn you, in
+  three million years you'll be dead.
+PAST RIMMER: Will I really?
+RIMMER: Yes.  unless you do something about it now.
+PAST RIMMER: Well, what do you suggest, give up white bread?  More
+  roughage!?
+RIMMER: You're not listening!  You've got to go into stasis.
+PAST RIMMER: Go away!
+RIMMER: I'll be back soon.
+
+RIMMER sinks through the table, off to contemplate further ways to
+persuade his past self of his danger.
+
+PAST RIMMER: Stay calm.  It's gone now.
+
+He crosses to the sink and peers into the mirror, checking his eyes and
+tongue for signs of illness.  The captain enters, dressed as a chicken.
+RIMMER stares at him incredulously, unsure of what he is seeing.
+
+CAPTAIN: Rimmer.
+PAST RIMMER: Now you've turned into a chicken!
+CAPTAIN: Listen, I just want to apologise.  We both got a little carried
+  away... I've been under a lot of pressure.
+
+RIMMER, deciding to play this one fast and loose, turns around and
+addresses what he thinks is a rampant mushroom-bogie.
+
+PAST RIMMER: Go away.
+CAPTAIN: Obviously, I shouldn't have given you PD, I just got a little
+  riled.
+PAST RIMMER: Did you indeed?  How sad for you, Captain Paxo!
+CAPTAIN: What?  Oh, oh this.  (indicating chicken-suit) No, I've... this
+  is for the party tonight.
+PAST RIMMER: Half man, half chicken... You don't scare me, because I know
+  what you are.  (makes chicken noises) Buck buck buck buck!
+
+RIMMER gives the CAPTAIN an eye-watering kick in the nuts.  The CAPTAIN
+doubles over with a groan of pain.
+
+PAST RIMMER: Now kindly cluck off before I extract your giblets and shove
+  a large seasoned onion between the lips you never kissed with.
+CAPTAIN: (apoplectic) Forget everything I've just said!  You have got
+  eight months PD!
+PAST RIMMER: Well, we have a bit of a problem here, don't we?  'Cos I
+  don't take orders from poultry.
+CAPTAIN: No, Rimmer -- make that eight years!
+PAST RIMMER: Fine.  I'll make a note of that, shall I?
+
+He picks up a brush and a bucketfull of paint, and writes on the chest of
+the CAPTAIN's chickensuit, saying the words out loud as he does so:
+
+PAST RIMMER: Eight ... years.  There we go.
+
+He then dashes the green paint in the captain's face.
+
+17 Int. KOCHANSKI'S quarters.
+
+Her room-mate opens the door, to find LISTER and CAT outside.
+
+LISTER: Hi.  Is Kristine in?
+ROOMMATE: No, she's still on planet-leave.
+LISTER: Smeg.  Did she say where she was staying?
+ROOMMATE: She said something about The Ganymede Holiday Inn.
+LISTER: Cheers.
+
+He dashes off.  CAT grins at Krissie's room-mate, trying to think of a
+decent chat-up line -- this, after all, is the first woman he has ever
+come face to face with.  LISTER interrupts his ruminations, first with a
+come-hither gesture then, when that doesn't work, by yanking CAT out of
+the doorway after him.
+
+18 Int. Foyer of Ganymede Holiday Inn.
+
+Plush, sumptuous and elegant.  Apart from the robot at the reception
+desk, it would appear to be an exact reproduction of the Manchester
+Holiday Inn, circa 1988.  LISTER and CAT approach the main desk.  As
+LISTER makes enquiries, CAT wanders off, staring at the sights in this
+strange building.  A suitcase on wheels approaches him from behind.
+
+SUITCASE: Excuse me.
+
+CAT looks around, bewildered.
+
+SUITCASE: No, no.  Down here.
+
+CAT looks down.
+
+SUITCASE: Have you seen a man who's lost his luggage, about 5 foot 10,
+  mousy hair?
+CAT: No, I haven't.
+SUITCASE: Oh, no.  I bet they've sent him to the wrong bloody airport
+  again!
+
+CAT stares as the suitcase rolls away.  So distracted is he, he bumps
+into a lady wearing a fox fur.  CAT, seeing the fur, reacts instantly!
+
+CAT: Aaargh!  Dog!  And he's trying to strangle that woman!
+
+CAT grabs the a spray-bottle of mineral water from a passing robot
+waiter, and starts attacking the fox fur.  The flabbergasted woman,
+believing herself to be under attack by a (tastefully dressed) madman,
+flees.  CAT shakes the piece of fur by the throat, then jumps up and down
+on it.
+
+CAT: Don't worry, madam -- his strangling days are over!
+
+Just then LISTER arrives, holding a piece of paper with KOCHANSKI's room
+number on it.
+
+LISTER: Cat, I've got it.  C'mon.  Room 008.  This way!
+
+19 Int. Outside KOCHANSKI'S hotel room.
+
+LISTER stops, stunned, staring at the flowers, the "Do Not Disturb" sign,
+the plaque on the door -- "Honeymoon Suite," the two pairs ofp shoes
+outside the door.  The evidence is incontrivertible.  A sad tune starts
+playing in the background.
+
+LISTER: She's already married.
+
+He turns away, sickened and stunned.  Then, a thought occurs to him.
+
+LISTER: What about the photograph?
+
+He pulls it out and examines it again.
+
+LISTER: I'm not the groom.  (pointing to another figure in the picture)
+  He is the groom!
+CAT: Hey -- she's not as stupid as we thought!
+LISTER: Why do women always leave me for total smegheads?  Why do they
+  dump me for men who wear turtleneck sweaters and smoke a pipe?  I mean,
+  natural yoghurt eaters!  Reliable, sensible, dependable, and lots of
+  other words that end in "-ible." He's obsessed with house-prices, and
+  spends half his life in antique fairs looking for bargains and drinking
+  wine.  It's never beer, is it, it's always wine!  "What do you want on
+  your cornflakes, darling?" "Oh, I'll have some wine, please!" Smeg!
+
+He leans against a wall, bitter and angry.  CAT taps him on one shoulder.
+
+CAT: You can tell all that, just from a photograph?
+HOLLY: Oy, not your pockets!  Dear oh dear, It's horrible down there.
+  There's a big hole.  It's an unbelievable view.  Reminds me of that
+  film -- "Attack Of The Killer Gooseberries."
+LISTER: Come on, Hol.  I'm broken up, man.
+HOLLY: I was in love once -- a Sinclair ZX-81.  People said, "No, Holly,
+  she's not for you." She was cheap, she was stupid and she wouldn't load
+  -- well, not for me, anyway.
+LISTER: What are you trying to say, Hol?
+HOLLY: What I'm saying, Dave, is that it's better to have loved and to
+  have lost than to listen to an album by Olivia Newton-John.
+CAT: Why's that?
+HOLLY: Anything's better than listening to an album by Olivia Newton-
+  John.
+
+Just then, the door to the Honeymoon Suite opens and KOCHANSKI steps out.
+
+KOCHANSKI: Oh, hi.  It's you.
+LISTER: (depressed) Oh.  Hi.
+KOCHANSKI: Come in.
+LISTER: (panicky) No, no, we were just passin'.
+KOCHANSKI: (amused) Come in.
+LISTER: No, no, really, it's okay.
+
+CAT decides to go in anyway.
+
+LISTER: Cat!  Come on, We've got to go!
+
+20 Int. Honeymoon suite.
+
+They enter the sumptuous suite.  CAT is awed by all this luxury.
+
+CAT: Aooooowww!
+KOCHANSKI: I just got married.  (showing off her wedding ring)
+LISTER: Oh, great.
+KOCHANSKI: He's in the shower.
+LISTER: Oh.
+KOCHANSKI: I think you'll really like him.
+LISTER: Oh, I bet.
+KOCHANSKI: (pouring cocktails) Do you want a screwdriver?
+LISTER: I'd rather have a hammer.
+
+Just then, the door to the shower opens and out steps... LISTER.  Older,
+bearded as in the photo, wearing a bathrobe, he greets his younger self
+with a grin.
+
+FUTURE LISTER: So how ya doin', kid?
+LISTER: Smeg.
+CAT: (popping up behind FUTURE LISTER and KOCHANSKI) What is this, a
+  meeting of the ugly convention?
+LISTER: Where did you come from?
+FUTURE LISTER: The bathroom.  (he laughs) Well, you don't look very
+  pleased to see me.
+LISTER: Well, quite frankly, I'm not.  I mean, I came here today 'cos I
+  thought I was going to get married.
+KOCHANSKI: And you did.
+LISTER: No, he did!
+KOCHANSKI: But he's you!
+LISTER: No, I'm me.
+KOCHANSKI: Well, who's he then?
+LISTER: He's him...
+CAT: (gesturing with a purloined leg of chicken) He's you and you're him,
+  and you're him and he's him -- am I still me?  Who's eatin' this
+  chicken?  What the hell is going on??
+FUTURE LISTER: Look look look, listen:  In five years time, you find
+  another way to come back in time.
+LISTER: So it does work out?
+KOCHANSKI: Eventually.
+LISTER: So how about a frenchie from me future bride?
+FUTURE LISTER: No way.  On your space-bike.
+
+He grabs LISTER and CAT and herds them towards the door.  LISTER stops
+him at the door and leans on the door jamb.
+
+LISTER: So, listen.  What do I do now?
+FUTURE LISTER: Go back to where you came from and wait for five years.
+LISTER: Have I always been such a smeg-head?  Or did I change?
+FUTURE LISTER: You've always been like that.  Out.
+LISTER: So, listen, man.  You've lived my life for the last five years.
+  So, what's the single most important piece of advice that you can give
+  me?
+FUTURE LISTER: (thinks hard) Erm.  Oh, yeah.  Three years from now,
+  you'll go through a cosmic storm and end up in a parallel universe.
+  You'll materialise on an exact replica of Earth in the year 1989.
+  You'll want to go to the theatre.  Whatever you do, don't go and see
+  "Run For Your Wife."
+
+He half shoves LISTER and CAT out the door, then leans on it and grins at
+his bride.
+
+LISTER: Smeg head.
+FUTURE LISTER: (through the door) And you.
+
+CAT holds up a pilferred bottle of wine.  They both grin soundlessly.
+
+21 Int. Sleeping quarters. Past.
+
+An orderly wheels in RIMMER, who is strapped into a wheelchair and
+dressed in hospital clothing -- a thin gown, socks and a plastic cap.
+LISTER, still dressed in his space-suit, is fast asleep on his bunk.
+
+PAST RIMMER: So, they won't come back again?
+ORDERLY: Just stay calm, keep cool, and get some sleep.
+PAST RIMMER: (seeing LISTER) There he is.  Sleeping like a baby.  I'm
+  going to get better, then I'm going to kill him.
+
+The orderly unstraps RIMMER from the chair, then helps him over to his
+bed.
+
+ORDERLY: If you need anything, Call Holly.
+
+The orderly leaves.  RIMMER sits on the edge of his bunk, thoroughly
+depressed.  What's about to happen will not alleviate this state.
+
+RIMMER: (VO, muffled) I don't want you to panic, Arnold, but I've had a
+  jolly good think, and I think I know how to explain this to you.
+
+He sticks his head above the table.  His past self stares at him with a
+mixture of fear, shock and abject horror.
+
+RIMMER: Hi.
+PAST RIMMER: Hi.  I'm staying calm this time.
+
+He is not, although fighting valiantly for control.
+
+RIMMER: Good.
+
+Just then CAT and LISTER enter.  The past RIMMER does a double take,
+looking from the LISTER on the bunk to the one in the doorway.
+
+LISTER: Yo, Rimmer, there you are.  I've been looking everywhere.
+RIMMER: Not now, Lister.
+PAST RIMMER: (very tense) TWO Listers?  And a strange man with large
+  teeth!
+CAT: Hey, I'm a cat!
+PAST RIMMER: (not a well man) Oh, of course you're a cat!  Come in, sit
+  down, there's plenty of room.
+
+Just then who should drop by but the just-married couple, LISTER and
+KOCHANSKI.
+
+FUTURE LISTER: Yo!
+PAST RIMMER: (losing it fast) THREE Listers!! Splendid!!! Perhaps Lister
+  here would like to go over to the fridge and open a bottle of wine for
+  Lister and Lister!!!! Rimmer here doesn't drink, because he's dead, but
+  I wouldn't mind a glass!!!!!
+VOICE: (RIMMER's voice) I don't want anyone to get into a flap here, but
+  I'm the RIMMER who's from the double-double future.
+
+He rises from the dresser in the corner and steps forward.  He is dressed
+in a tux (He has, after all, just been to a wedding), and has a thin
+mustache.
+
+FUTURE RIMMER: I'm the Rimmer who's with the Lister who married
+  Kochanski.  Now, from this point on, things get a little bit
+  confusing...
+PAST RIMMER: (the calm before the storm) Please!  Before anyone says
+  anything else, I'd just like to make a little speech.  (flipping out
+  completely) GO AWAAAYYYYYYYYYYYY!!!!!!
+
+Close-up on RIMMER's mouth as he screams, and fade out.
+
+
+                                  The End
+
+---------------------------------------------------------------------------
+David K Fraser                |"It will be happened; it shall be going to be 
+Computing Science Student     |happening; it will be was an event that could 
+Glasgow University            |will have been taken place in the future."
+e-mail: fraserdk@dcs.gla.ac.uk|--time travel explained by Rimmer (Red Dwarf)
+
+

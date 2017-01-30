@@ -1,0 +1,1384 @@
+
+[--------------------------------------------------------------------------]
+                           RED DWARF - SERIES 7
+[--------------------------------------------------------------------------]
+                        EPISODE 1 -- TIKKA TO RIDE
+[--------------------------------------------------------------------------]
+                            17-24 January, 1997
+                      Raz / raz@mushroom.demon.co.uk
+
+ Credits for corrections: 
+   Sea, Polygon, Matt Sommer, Paul Annett
+
+
+[-- 1 - Int. Starbug ------------------------------------------------------]
+
+[For the first time in RD history we have a full, pre-titles 'teaser'.
+ From black, the screen fills with kaleidoscopic swirls which resolve into
+ a picture of Lister, rotated 90 degrees]
+
+[LISTER present, standing]
+
+LISTER
+  Hello?  Testing, 1-2-3.  Hello?
+
+<POV changes back to normal and we see LISTER examining a portable camera
+ lying on its side on a bench.  He gives the camera two taps>
+
+LISTER
+  Yeess!  Well, here we go.
+
+<LISTER picks up the camera and holds it out in front of him, pointing at
+ his head.  He begins to walk through corridors>
+
+  Ship's log... erm... one.  I've decided to keep a journal of life on board
+ship, and send it off in a probe. Since turning 28 I feel a new maturity
+about myself - in fact I can't even remember the last time I tried to
+urinate on Rimmer from the top of D-deck - no, wait a minute... Friday.  But
+apart from that *one lapse*, maturity-wise I'm practically up there with Abe
+Lincoln and Moses.
+  Now, just recently we came across a craft, piloted by ourselves from 15
+years into the future. We had a bit of an argument, and they attacked us.
+See attached:
+
+<LISTER taps buttons on the camera>
+
+[Cut to scenes from Out Of Time...]
+
+RIMMER
+  Another lock!
+
+<The comms channel barks>
+
+LISTER
+  Incoming message...
+
+[The screen resolves to a picture of the Future Rimmer]
+
+[Small section of original script edited out from TTR]
+
+FUTURE RIMMER (Mic.)
+  [...]  Either you give us access to the data we require, or be prepared to
+be blasted out of the sky...
+
+[Large script chunk edited out of TTR - the ultimatum, discussion and
+ decision to fight; the Dwarfer's succesful opening rounds and, as Lister
+ fires the lasers, the first shot from the future crew which caused the
+ feedback loop that detonated the panel in front of him, killing him
+ instantly]
+
+<A second hit destroys Cat's station, blasting him backwards to fall over
+ Kryten's panel>
+
+RIMMER
+  Cat!!
+
+KRYTEN
+  ...Dead... but there may be a -
+
+<A third hit rocks the 'Bug, and the complex equipment behind Kryten's head
+ overloads and explodes.  Kryten slumps backwards, lifeless.>
+
+RIMMER
+  Kryten...  Kryten!
+
+[Rimmer, in soul-consuming shock, scrambles over to the motionless
+ mechanoid, his hardlight hands grasping Kryten's shoulders, unable or
+ unwilling to accept the truth.]
+
+RIMMER
+  There may be a *what*?  A way out of this?  Is *that* what you were gonna
+say??  S-Speak, Kryten!  *How* can we change what's happening!?
+
+<Through his despair, an idea hits Rimmer, but from his expression it is
+ impossible to tell what he is thinking or feeling.  He turns and stumbles
+ from the blasted cockpit into the Mid-section, somehow remembering to pick
+ up Lister's bazookoid before kicking open the hatch and charging down to
+ Starbug's lower levels.
+
+ Through corridors he runs, the tortured ship shuddering and tearing itself
+ apart around him.  A corridor section collapses and a huge bulkhead crashes
+ down onto his hardlight back, but Rimmer is oblivious to the pain, one
+ thought blotting out all consciousness, he *must* reach the Time Drive.
+
+ Suddenly, he's standing in front of it.  Rimmer raises the bazookoid.
+ Loads.  Fires.
+
+ Incandescent light blasts from the ruptured drive, but our perspective
+ shifts into space, where a streak of red fire ploughs into the battered
+ ship.
+
+ This time, no resistance remains.  Starbug loses it's fragile grip on
+ coherency and detonates utterly, with an explosion that matches a thousand
+ Death Stars.  When the debris clears, and the light fades, Starbug is
+ gone; there is no indication that there was ever anything there...>
+
+[Cut back to Lister making his recording]
+
+LISTER
+  We were no match; they killed us, and destroyed everything on board ship -
+including the Time Drive, which meant there was no Time Drive for them to
+have in the future, to bring back into the past, [to] destroy the future of
+their past selves in the present.
+  Put simply: by killing us they killed themselves, because once we were
+dead it was impossible for us to become them in the future, and return in
+time to kill ourselves in the past, even though it was the present.
+
+<As LISTER's speech draws to a close the camera begin to emit a buzzing
+ noise.  Suddenly it hisses, throws out sparks and blows up>
+
+[Enter KRYTEN]
+
+LISTER
+  Oh smeg!
+
+KRYTEN
+  Have you been trying to explain about our future selves *again*, sir??
+
+LISTER
+  I just thought I'd give it one more go -
+
+KRYTEN
+  D'oh!  That's the third camera this week! The machines just can't take it,
+sir.
+
+LISTER
+  But I'm only trying to explain why Starbug's damaged, despite the
+timeline being erased; 'cos this reality's unstable, and anomalies have
+merged from both dimensions to cope with the paradox.
+
+KRYTEN
+  Oh!  Garbled, confusing, and quite frankly duller than an in-flight
+magazine produced by 'Air Belgium'!  Now just state our position and
+explain we're down on supplies.
+
+[Exit KRYTEN]
+
+LISTER
+  All right!  All right!
+
+[Exit Lister]
+
+
+[-- 2 - Model shot --------------------------------------------------------]
+
+<Starbug flies by a planet and it's orbiting moon>
+
+
+[-- 3 - Int. A Starbug console room----------------------------------------]
+
+[Console-mounted camera POV.  Camara crackles to life, showing LISTER
+ present, seated in front of console]
+
+LISTER
+  This is Dave Lister of the JMC transport vehicle 'Starbug'.  We're down on
+supplies; we need help.  Out.
+
+<Camera crackles off>  <Pause>  <Camera crackles on>
+
+LISTER
+  By the way, we're in space.  Passed a sort of reddy moon a couple of days
+ago, co-ordinates enclosed.
+
+<LISTER taps at a keyboard, then holds up his fingers in an 'O' shape>
+
+LISTER
+  It's about *that* shape. You can't miss it.
+
+
+<RUN NEW RED DWARF 7 TITLE SEQUENCE>
+
+
+[-- 4 - Model shot --------------------------------------------------------]
+
+[Starbug flying through space]
+
+LISTER [VO]
+  Ships log, update: Friday, am.  The battle with our future selves has had
+the most terrible consequences...
+
+
+[-- 5 - Int. Starbug sleeping quarters ------------------------------------]
+
+[KRYTEN, LISTER present. Close two-shot]
+
+LISTER
+  Wiped out..?  Kryten, man, they *can't* be...
+
+KRYTEN
+  I'm afraid so, sir.  The laser cannon breached the main watertank and
+flooded supply deck B. They didn't stand a chance.
+
+LISTER
+  Yeah, but surely --
+
+KRYTEN
+  There was *nothing* we could do to save them, sir.
+
+LISTER
+  So, now we've got no poppadoms at all?
+
+KRYTEN
+  No poppadoms, no curries, all the Indian food supplies have been totaled.
+
+<LISTER sags down, clutching his guitar for security>
+
+LISTER
+  I'll have to survive without them then...  I'll have salads.
+
+KRYTEN
+  Sir!  You're in shock, you don't know what you're saying.
+
+LISTER
+  After all it's only curry.
+
+KRYTEN
+  'Only curry'?  The enormity of it hasn't sunk in - you must mourn, sir.
+Don't you see?  You must mourn.
+
+LISTER
+  Curries...
+
+KRYTEN
+  Ohhhh sirr, get it out!  Cry like a baby!
+
+LISTER
+  What am I gonna do?  Curry night was the one little beacon I had... made
+me feel like a normal ordinary guy, not some sad freak stuck in deep space;
+no woman, no hope, no curry.
+
+KRYTEN
+  Worse still, a choice of only two alcoholic beverages: Cinzano Bianco, or
+advocat. Its a human tragedy!
+
+LISTER
+  No lager??
+
+KRYTEN
+  Sir, there is nothing unmanly in howling like a hungry prairie dog.
+
+LISTER
+  No lager!?
+
+KRYTEN
+  *All* the supplies on B-deck were destroyed, sir. There wasn't even any
+wreckage, no debris, zip.
+
+LISTER
+  God... a few beers and a curry, it was the highlight of my week!
+
+KRYTEN
+  I used to look forward to curry night too, sir. seeing your little face
+all happy and smiling, come rain or shine we'd always make time for curry
+night. Every Friday.
+
+LISTER
+ Saturday.
+
+KRYTEN
+  Sunday.
+
+LISTER
+  Tuesday.
+
+KRYTEN
+  Wednesday.
+
+LISTER
+  Thursday.  Always the same meal: three poppadoms with mango chutney -
+
+KRYTEN
+  Those little onions -
+
+LISTER
+  Dill pickle -
+
+KRYTEN
+  That day-glow green mint sauce that just doesn't wash out -
+
+LISTER
+  The red stuff that no-one knows what it is -
+
+KRYTEN
+  Then a shami kebab starter -
+
+LISTER
+  Followed by a chicken vindaloo, kamikaze hot, with a fire extinguisher on
+stand-by.
+
+KRYTEN
+  And two scoops of kofi ice-cream.
+
+LISTER
+  And two indigestion tablets.  <LISTER sighs heavily>
+  Life without curry?  Its like Laurel without Hardy; the Lone Ranger
+without... that Indian bloke.
+
+KRYTEN
+  Perhaps, you could learn to love... pasta?
+
+LISTER
+  Pasta.  You sick?
+
+
+[-- 6 - Model shot --------------------------------------------------------]
+
+<Starbug flies between a planet and it's orbiting moon>
+
+
+[-- 7 - Int. Starbug cockpit ----------------------------------------------]
+
+[CAT, KRYTEN, RIMMER present, at stations.  CAT and RIMMER each wear a black
+ armband]
+
+[Enter LISTER]
+
+LISTER
+  You know the news?  All the curry supplies have been destroyed.
+
+CAT/RIMMER <pointing at armbands>
+  We heard.
+
+RIMMER
+  As a mark of respect, we thought on Sunday at 12 o'clock we could have a
+minute's flatulence.
+
+LISTER
+  It's nothing to you guys, is it? It's changing my life!
+
+KRYTEN
+  Sirs - the altercation with our future selves caused dimensional anomalies
+which have expanded the cargo deck by 212%!  We should ascertain that the
+new structure is stable.
+
+
+[-- 8 - Int. Cargo deck B -------------------------------------------------]
+
+[ALL present.  They stand at the entrance to the now-enormous cargo deck B.
+ Gently sloping, ridged walls bevel outwards then curl back in, rising to a
+ ceiling that towers above them, effectively forming a huge, flat-bottomed
+ cylinder.  The back wall of the deck is an ethereal, corrugated blue
+ construction, and the floor is lost in thick mist which rises to their
+ knees.  They begin to walk slowly through the deck.]
+
+CAT
+  So let me get this straight: time has returned to the point before we
+discovered the Time Drive, right?  So what's to stop us going back on board
+the Gemini 12 and picking it up all over again?
+
+RIMMER
+  We have to avoid all forms of time travel; its the only way of breaking
+our destiny line and ensuring we don't end up like our future selves.
+
+LISTER
+  Yeah, but surely we can use the Time Drive if we're careful?  You know, if
+we don't abuse it the way our future selves did?  You know, if we're
+sensible and mature.
+
+RIMMER
+  And do what?
+
+LISTER
+  Go back in time to an Indian take-away and order 500 curries.
+
+KRYTEN
+  Sir, the scheme is irresponsible, moronic, and preposterous!
+
+CAT
+  All your hallmarks, bud!
+
+LISTER
+  Look, one *really* big take-away order once every two years and our
+problems are over.
+
+CAT
+  *Your* problems are over?  Our problems are just beginning.
+
+KRYTEN
+  What about causality?  Interfering in the past no matter how minutely
+always alters the present.  Cause, and effect!
+
+LISTER <intently>
+  Look, I'm a curry-aholic!  I've only got two tastebuds that work, I *need*
+*curry*.
+
+RIMMER
+  We can't afford to take any more chances. I say the Time Drive stays where
+it is.
+
+CAT
+  You know I'd rather wear sideways-pressed flares and a clip-on polyester
+tie than agree with goalpost head, but this time he's right.
+
+LISTER
+  Oh *okay*. Okay.
+
+
+[-- 9 - Int. Somewhere within the newly expanded decks of Starbug ---------]
+
+[ALL enter, climbing down a ladder positioned in front of a huge, backlit
+ convection fan, whose blades whirl lazily.  The Dwarfers begin to walk
+ along another cylindrical corridor]
+
+KRYTEN
+  Er, since that completes the B-deck inspection, sirs, permission to
+off-line for the next twelve hours while I discard some old cache files?
+
+CAT
+  How come you need more memory?  Over the years, you've had more RAM than a
+field of sheep!
+
+KRYTEN
+  My head is littered with unnecessary information, sir.  The ability to
+sing the Bay City Rollers' greatest hits is no longer a priority.  For most
+cultural purposes, crooning "Bye Bye Baby" is more than sufficient.
+
+LISTER
+  This clean up thing - how does it work exactly?
+
+KRYTEN
+  I simply attach my RAM to the ship's computer and download the unwanted
+files into its trashfile.
+
+LISTER <thoughtfully>
+  Your RAM's in your head, isn't it?  So you won't actually be using your
+body, then?
+
+KRYTEN <confused>
+  Why do you ask?
+
+LISTER
+  Just interested.  Robotics, it's fascinating, isn't it.
+
+[ALL exit]
+
+
+[-- 9 - Int. Night. Starbug sleeping quarters -----------------------------]
+
+[LISTER present.  His alarm suddenly warbles, and LISTER wakes and silences
+ it.  Accompanied by tense 'Indiana Jones'-style music, He quickly climbs
+ out of bed and leaves]
+
+
+[-- 10 - Int. A Starbug console room --------------------------------------]
+
+[KRYTEN present, sitting comatose at a computer console; his head is
+ connected to the console by a flexible spiral-twirled cord like that of a
+ phone handset.  LISTER sneaks in, carrying a white plastic bag which he
+ places on a desk. He then unscrews KRYTEN's head, wire still attached, and
+ sets it down, then unwraps the spare head he brought with him and and
+ screws it on to KRYTEN's body.  KRYTEN's eyes pop open]
+
+KRYTEN 
+  My heavens - I'm head head!
+
+<LISTER clamps a hand over KRYTEN's mouth and pulls the chair away from the
+ desk so that KRYTEN, his arms flailing as he is wheeled back, can see him>
+
+LISTER <urgently>
+  Shh!  It's only temporary.
+
+KRYTEN <sotto voce>
+  I don't understand.
+
+LISTER
+  Look, I want to go back in time on a curry hunt.  Kryten said "no way";
+what do *you* say?
+
+KRYTEN
+  I can't go behind Kryten's head; what would he say if he found out?  It's
+deceitful, wrong, and dishonest.
+
+<Kryten pauses; glances around conspiratorially>
+
+  I'm in!  Those are emotions I have longed to experience, but first, you'll
+have to override my guilt chip and disable my behaviour protocols.
+
+LISTER
+  Okay, show me how.
+
+KRYTEN
+  Press the 'skull release' catch behind my right ear.
+
+<LISTER flips up a panel of KRYTEN's head and props it up like the bonnet of
+ a car>
+
+LISTER
+  Okay, here we go...
+
+<SHOT: He eases out a black cylindrical unit and unclips a small piece from
+ it, placing it in a kidney bowl>
+
+KRYTEN
+  My guilt chip.
+  No behaviour protocols... just call me "bad ass"!!
+
+
+[-- 11 - Model shot -------------------------------------------------------]
+
+[Starbug does a fly-by between two planets]
+
+
+[-- 12 - Int. Starbug Mid-section -----------------------------------------]
+
+[RIMMER, CAT present, seated at the table; RIMMER engrossed with notes on a
+ clipboard.  KRYTEN stands nearby, with an egg-whisk attachment plugged into
+ his groinal socket]
+
+[Enter LISTER]
+
+LISTER
+  Hey, that smells good - what's for brekkie?
+
+KRYTEN <now speaking in a much broader drawl>
+  Waffles, sir!  Dripping in honey and jam, with three fried eggs on the
+side, coated in cheese!  
+
+CAT
+  That sounds about as healthy as jumping off a cliff!
+
+KRYTEN
+  Healthy?  Who cares??  Pork away!
+
+<KRYTEN punctuates this last with a pelvic thrust, then gyrates his hips
+ from side to side until his dangling attachment has enough swing to reach
+ his hand, whereupon he proceeds to whisk the three teas, liquid flying
+ everywhere>
+
+LISTER <with emphasis>
+  So, um, Kryten - now that you've had time to think, what about that curry
+hunt to the 22nd century?
+
+KRYTEN
+  Ooh, I meant to mention that, yes.  I over-reacted yesterday; on
+reflection, I think it'd be quite safe.
+
+<Kryten takes out a small packet from his attachment belt>
+
+CAT
+  Safe?
+
+RIMMER
+  What about causality?
+
+KRYTEN
+  Causality?  Well, okay, you know, one event causes another, okay, but
+sometimes, you just gotta say: "The laws of time and space? Who gives a
+smeg!"
+
+<As LISTER begins to speak, KRYTEN takes what is obviously a ciggarette
+ from the packet and lights up>
+
+LISTER
+  Okay, I think what Kryten's trying to say is --
+
+CAT <pointing, amazed, at KRYTEN>
+  You're smoking!
+
+KRYTEN
+  Oh, is my generator overheating again?
+
+RIMMER
+  A cigarette!
+
+KRYTEN <confused>
+  Do you want one?
+
+RIMMER
+  Of course I don't want one!
+
+KRYTEN
+  Do you want me to go outside?
+
+LISTER <hurriedly changing the subject>
+  I think what Kryten's trying to say is that it's okay to go back in time,
+and order a small lake's worth of vindaloo to go. Isn't that right?
+
+<KRYTEN swings his dangling attachment up over his shoulder>
+
+KRYTEN
+  You bet your ass!
+
+LISTER
+  Okay, so lets navigate those unreality bubbles and do it!  Kryten, can I
+have a word...
+
+[Exit LISTER, leading KRYTEN by the groinal attachment into...>
+
+
+[-- 13 - Int. Starbug galley ----------------------------------------------]
+
+[KRYTEN, LISTER enter]
+
+LISTER
+  What is *wrong* with you?  You don't smoke, you never say "bet your ass",
+and you never use your groinal attachment to stir anybody's tea!
+
+KRYTEN
+  I didn't get any error commands!
+
+LISTER
+  Because you've got no behaviour protocols, you {spanner?}!  Now get a grip
+or we'll be rumbled.
+
+<LISTER punctuates with KRYTEN's egg whisk, of which KRYTEN gives a defiant
+ spin>
+
+[Exit LISTER]
+
+KRYTEN
+  So uptight!
+
+<KRYTEN picks up a Cinzano Bianco bottle and swigs down its contents>
+
+
+[-- 14 - Int. A corridor aboard the Gemini 12 -----------------------------]
+
+[Enter KRYTEN, RIMMER, LISTER, CAT, the latter two in spacesuits. They pick
+ their way through a decaying and decrepit corridor]
+
+<KRYTEN leads the group, enthusiastically humming an in-your-face type of
+ song>
+
+[Exit KRYTEN]
+
+RIMMER
+  What is wrong with that demented Tonka toy now?
+
+LISTER
+  He's got a bit of a bio-glitch in his transponder calibrations.  It's only
+temporary.
+
+
+[-- 15 - Int. Gemini Engine Room ------------------------------------------]
+
+[They arrive in a small, box-shaped room. On the back wall is a big gash
+ which offers a panoramic view of the planet around which the Gemini 12
+ orbits.  A bank of machinery is fitted on another wall of the room]
+
+[ALL present]
+
+LISTER
+  Heyyy, Mr. Timedrive.
+
+<LISTER crosses to the machinery and pulls a piece out>
+
+[Somehow, probably the result of another inter-dimensional anomaly, the
+ Time Drive has become a handheld unit, which LISTER now hands to KRYTEN]
+
+LISTER
+  Okay Kryten, we want the Taj Mahal Tandoori Restaurant behind the JMC
+building in London.  Back table; quiet.
+
+KRYTEN
+  I'll need a moment to acquaint myself with the controls -
+
+RIMMER
+  But you've used it before?
+
+KRYTEN
+  Have I?
+
+<KRYTEN receives a discreet thump from LISTER>
+
+KRYTEN
+  Oh, yes, of course I have.  Sorry.  How stupid of me. <ahem>  Just
+programming it now, matey boy.
+
+<KRYTEN taps buttons on the controller>
+
+
+[-- 16 - OB. Day. Broadway in an American city ----------------------------]
+
+[MONTAGE: Crowds pack the street and the surrouding buildings, cheering and
+ waving, tickertape filling the air.  A large entourage is rolling down the
+ street, police and security vehicles surrounding a black, open-top limo
+ which has small flags fluttering from its fenders.  A well-dressed man sits
+ in the back seat with his attractive wife to his left, both waving at the
+ crowds.
+
+ Scene cuts to a man, alone in a storeroom of some kind.  He has a gun; a
+ high-power rifle, into which he loads a round.  He takes careful and steady
+ aim at the man in the car, and looses two shots in quick succession.  Panic
+ breaks out below; security men rush towards the limo, while the man quickly
+ re-loads.
+
+ He aims his third shot, but just before he fires, four bolts of crackling
+ red lightning coalesce into the forms of four people.  Two are dressed in
+ silver spacesuits; one a strange chunky costume; the last in a
+ comparitively normal uniform.
+
+ One of the spacesuited figures steps back to catch his balance, knocking
+ the gunman head first out of the window and sending his third shot wild.
+
+ LISTER and CAT remove their helmets, ALL oblivious to the recently departed
+ gunman.]
+
+RIMMER <sarcastically>
+  Nice landing, Kryten - that was about as smooth as an Egyptian whiskey.
+
+KRYTEN
+  Apologies, sir, I'm - ah, I'm not sure what I did then.
+
+LISTER
+  This isn't right, where are we?
+
+KRYTEN <consulting device>
+  Well, according to the Time Drive, the date is November the 22nd, 1963,
+and we're in the city of Dallas.
+
+CAT
+  How come?  Gimme that thing!
+
+<The gunman, who managed to grab the sill of the window while falling, is
+ trying to climb back up.  SHOT: fingertips inching over the sill>
+
+CAT
+  I've always been a bit of a technical whiz when it comes to these kinds
+of gizmos...
+
+<Cat bangs the drive off the open window which drops down and traps the
+ gunman's fingers>
+
+CAT
+  Hmm, Dallas, '63 - no doubt about it.
+
+[Scene cuts to outside the building]
+
+<FX: Sirens wail are wailing in the street below.  After freeing his
+ fingers, the gunman climbs up onto the ledge and tries to raise the window>
+
+[Cut back inside]
+
+LISTER
+  Dallas?  Wasn't that that place where that American king got assassinated?
+
+RIMMER
+  JFK.
+
+LISTER
+  No, it was John something - not 'Jeff Kay'...
+
+RIMMER
+  J - F - K, not 'Jeff Kay', you gimboid; like the airport.  I did a paper
+on him at school.
+
+LISTER
+  I wonder why anyone would want to name their kid after an airport?
+
+RIMMER
+  The airport was named *after* the president.
+
+LISTER
+  All right!
+
+[Scene again cuts to outside the building]
+
+<FX: Sirens, crowd.  The gunman inches along the wall to the right of the
+ jammed window, bending to try two more but failing to open them.  As he
+ straightens up he almost loses his footing, and after calming himself he
+ pulls some cable running along the wall under the windows and ties it
+ around himself>
+
+[Cut back to interior]
+
+CAT
+  Where did this gunman dude shoot from anyway?
+
+KRYTEN
+  Well, if my histo-chip serves me correctly, the gunman's location was in
+the 'Texas Book Depository'.
+
+<As CAT wanders away, KRYTEN suddenly does a double take as he notices the
+ floor to ceiling piles of boxes stamped: 'Texas Book Depository'>
+
+[Cut to Ext.]
+
+<The gunman inches back past the jammed window towards a second open window
+ further along, which is in the same room as the one the Dwarfers stand in>
+
+[Cut back to Int.]
+
+RIMMER
+  It was probably from this very window!
+
+LISTER
+  What, do you reckon?
+
+<Lister opens the window that Lee Harvey Oswald shot from and peers out,
+ just as Oswald climbs through the other window.  Lister notices the cable
+ and tugs on it experimentally>
+
+LISTER
+  Hey, what's this?
+  Hey, there's something on the end of this, giz a hand!  
+
+<Oblivious to the man just across the room from them, the Dwarfers tug on
+ the cable, pulling Oswald back out of the window and Lister with him>
+
+LISTER
+  Pull, everyone, or I'm in trouble!
+
+<The Dwarfers each take hold of the cable as in tug-of-war, but they are
+ still yanked forward.  Lister piles into the raised window panes, the
+ others colliding with each other, and loses his grip on the cable.
+ Unbeknown to the Dwarfers, Oswald falls five stories down to street level>
+
+LISTER <recovering and peering out of the window with the others>
+  Hey, what's going on down there?  What're all those people doing gathered
+around that giant pizza?
+
+KRYTEN
+  That is *not* a giant pizza, sir.
+
+LISTER
+  It's 8 foot across, man - don't you think that's giant?  What kind of
+pizza house have you been going to?  'The FatBastoria'?
+
+CAT
+  Hey, look at this!
+
+<Cat has found the rifle dropped by Oswald.  The others seperate and Cat
+ brings the rifle with him as he looks down at the street>
+
+CAT
+  I think we just pulled the gunman out of the window!
+
+<As the implications begin to sink in to the Dwarfers, the door to their
+ room suddenly bursts open and two armed men, one a policeman, the other in
+ a suit, charge in.>
+
+MAN
+  FBI!  Drop the gun!
+
+<CAT does so hastily>
+
+CAT
+  Don't shoot!
+
+FBI AGENT
+  Hands on heads!
+
+<LIATER, RIMMER and KRYTEN follow instructions, CAT however covers the much
+more important groinal area>
+
+FBI AGENT
+  You are hereby charged with the murder of Lee Harvey Oswald, who valiantly
+tried to foil your attempt to assassinate the president.  Thanks to
+Mr. Oswald, the president is alive but wounded.
+
+COP <spotting the Time Drive>
+  What is that?  Some kind of weapon?  Kick it over here!
+
+<KRYTEN moves to comply, but instead deftly taps commands into the unit with
+ his boot.  Red lightning carries their forms from where they, and after a
+ moment of confusion, the two armed men level their guns and fire, bullets
+ breezing through the recently vacated air with only milliseconds to spare.
+ To the side of the astounded officers, a spacesuit helmet carelessly left
+ on a box also crackles with lightning and disappears - the officers
+ succeeding only in slamming bullets into box which supported the helmet.
+
+ The perspective shifts.  It's the same room, but the FBI agent and the cop
+ are gone.>
+
+LISTER
+  Ohhhh!  Nice one, Kryts.
+
+RIMMER
+  Where are we?
+
+KRYTEN <examining Time Drive>
+  It says 1966, I must have prodded us forward three years.
+
+RIMMER
+  At least it'll give us time to analyse the original error.
+
+<CAT, having ascertained that it is now safe to uncover his wedding tackle,
+ crosses to the window and looks out>
+
+CAT
+  Hey, there's nobody here, the entire city's deserted...
+
+
+[-- 17 - OB. Day. A deserted, abandoned street ----------------------------]
+
+[ALL present.  They are walking slowly along a wide, pleasant street which
+ is completely devoid of any signs of life.  Abandoned vehicles line the
+ side of the road, and a breeze blows old litter around.  In the back of one
+ of the cars is an discarded newspaper - it's headline reads: "Millions flee
+ from American cities". It's like a scene from The Stand]
+
+LISTER
+  I don't understand it, all we did is save Kennedy's life.
+
+CAT
+  Is that bad?  What kind of a dude was he?
+
+RIMMER
+  He was a fine man.
+
+
+[-- 18 - OB. Day. A deserted, abandoned street ----------------------------]
+
+[Scene cuts to a street further on in the city. All is the same as in the
+ previous street, with one exception: the dead body of a man lies
+ undisturbed on the pavement]
+
+[ALL enter, CAT leading]
+
+CAT 
+  Look!
+
+LISTER
+  Can you get anything for us from his scent?
+
+<Cat sniffs along the man's body>
+
+CAT
+  Male.
+
+<He sniffs again>
+
+  Mid-thirties.
+
+RIMMER
+  It looks like he was trampled to death in some kind of stampede.
+
+<As they speak, KRYTEN notices a crumpled newspaper poking out from the
+ man's suit.  He picks it up and begins to scan it>
+
+KRYTEN
+  Just processing.
+
+<KRYTEN's eyes flick quickly over the text>
+
+  I'll re-route the results through my chest monitor:
+
+[As the others gather around, POV switches to a close up of Kryten's
+ monitor]
+
+KRYTEN [VO]
+  "President Kennedy was impeached in 1964 for sharing a mistress with Mafia
+   boss, Sam Giancana. It was the biggest scandal in American history,
+   Kennedy was sentenced to three years in an open prison in July, '65.
+   J. Edgar Hoover became president; he was forced to run by the mob,
+   who had pictures of him at a transvestite orgy."
+
+LISTER
+  So America had a president controlled by the Mafia?
+
+KRYTEN [partial VO]
+  "Soon after the election, the USSR were allowed to install a nuclear base
+   in Cuba in return for Mafia cocaine trafficking between Cuba and the
+   States. With a Soviet nuclear base 30 miles from the US mainland, people
+   fled from all the major cities."
+
+<The Dwarfers leave the body and continue along the street>
+
+CAT
+  So am I right in thinking I could get a major nuclear explosion all over
+this suit?  Cos I'm telling you guys, that stuff does *not* dry clean!
+
+RIMMER
+  Back to Starbug.
+
+KRYTEN
+  Starbug isn't there. It doesn't exist.
+
+CAT
+  What?
+
+RIMMER
+  How come?
+
+KRYTEN
+  Er, best guess: Kennedy's impeachment in '64 traumatised the American
+nation, allowing the USSR to win the space race. In this reality, it was
+probably the Russians who were the first to land on the moon.
+
+CAT
+  So we're marooned.
+
+LISTER
+  *How* was I supposed to know that chicken vindaloo was going to cause all
+this.
+
+CAT
+  But you guys said Kennedy was a great pres!
+
+KRYTEN
+  He was!
+
+RIMMER
+  He was also an inveterate womaniser; his affairs were legendary.  They
+never came out when he was alive.
+
+KRYTEN
+  Every man has his weak spot - his 'Achilles heel'.
+
+RIMMER
+  Kennedy's was just, higher up.
+
+LISTER
+  If I'd known this was gonna happen, I'd have had an egg sarnie, and
+finished the Cinzano.
+  Kryten, what've I done, man?
+
+KRYTEN <unconcerned>
+  Well, you've brought the 20th century to the very brink of extinction,
+sir.  Gum?
+
+LISTER
+  What is wrong with you? Where is your compassion? You've got about as much
+warmth as a service station chip!  That's right, you've no behaviour
+protocols, have you.
+
+RIMMER <approaching KRYTEN balefully>
+  Any you thought causality didn't matter?  Every action we take, has
+trillions of implications, how come you forgot that?
+
+KRYTEN
+  Well, I didn't forget, sir, I just didn't *care*.  I've got no guilt.
+
+<At this, LISTER realises the game is up>
+
+LISTER
+  Ah.  I nicked Kryten's body.  That's spare head 2; I removed his guilt
+chip.
+
+RIMMER
+  You, have altered the entire course of civilisation from the 20th century
+onwards, you've brought the world to the brink of nuclear war, and worst of
+all --
+
+LISTER
+  I know, I know; I *still* haven't had a curry.
+
+KRYTEN
+  No, worst of all, the Time Drive has frozen.
+
+RIMMER
+  Let me see.
+
+<Rimmer takes the Drive and gives it a cursory examination>
+
+  Do you think its because the sub-space conduits have locked with the
+transponder calibrations and caused a major tachyon surge that has
+overloaded the time matrix?
+
+KRYTEN
+  Ah, no, sir; I've just been jabbing it too hard.
+
+CAT
+  So what now?
+
+RIMMER
+  <sigh>  We need to have time to figure out how to unfreeze it.  I suggest
+we, set up camp here for the night and perhaps *Kryten* can go and look for
+some food?
+
+KRYTEN
+  I'm on my way, sir!
+
+[Exit KRYTEN]
+
+
+[-- 19 - OB. Night. Around a campfire -------------------------------------]
+
+[LISTER, KRYTEN, RIMMER and CAT present, sitting around a large open fire.
+ RIMMER is fiddling with the Time Drive while LISTER and CAT, having ditched
+ their spacesuits, tuck into hefty chunks of meat]
+
+RIMMER
+  It's hopeless, I can't fix it.  We're trapped...
+
+<Rimmer drops the time drive down by the edge of the fire>
+
+CAT
+  Chicken's good.
+
+LISTER
+  Yeah, really good.
+
+KRYTEN
+  That's not chicken, sir.
+
+CAT
+  Oh, what is it?
+
+KRYTEN
+  It's that man we found.
+
+<LISTER and CAT suddenly stop chewing, their mouthfuls of meat turning to
+ poison...>
+
+  Well, it seemed such a waste to leave him lying there when he'd barbecue
+so beautifully.
+
+RIMMER
+  <sniggers quietly>
+
+KRYTEN
+  Did I do wrong?  I didn't get any error commands...  
+
+<LISTER and CAT let their half-chewed mouthfuls dribble out in disgust>
+
+  Obviously I thought about it, because without my guilt chip or moral
+imperatives, I have nothing to guide me.  But it seemed to me that if
+humanoids eat chicken then obviously they'd eat their own species; otherwise
+they'd just be picking on the chicken.
+
+RIMMER <highly amused>
+  One minute you're down, the next you're right back up again.
+
+LISTER
+  I said I was enjoying that!
+
+CAT <abosutely horrified>
+  I knew it didn't smell right! Oh my god... 
+
+LISTER
+  I'm a cannibal!
+
+<Unexpectedly, blips suddenly issue forth from the Time Drive down by the
+ fire.  It's obviously 'thawed out'>
+
+RIMMER
+  Look!
+
+CAT
+  Right, lets get out of here!  I badly need to floss a piece of roasted
+dead person out of my teeth!
+
+RIMMER
+  Where to?
+
+KRYTEN
+  Hawaii.  Let's catch some surf!
+
+LISTER
+  No, no, we've got to go back; stop ourselves from interfering with the
+assassination.
+
+CAT
+  I don't care where we go, just as long as it's before we had dinner!
+
+
+[-- 20 - Fifth-floor storeroom inside the Texas Book Depository -----------]
+
+[ALL present, sat together around a box of books playing poker.  Tense music
+ plays, and a clock on the wall shows the time as 1:27pm.]
+
+[Enter OSWALD]
+
+<KRYTEN, with his back to the would-be gunman, shields the angles of his
+ head with one hand.  Oswald, upon spotting the Dwarfers, uses the long case
+ he carries on his shoulder to awkwardly cover his face>
+
+CAT
+  Decorators.  Try up on the sixth floor.
+
+[Exit OSWALD]
+
+<With the gunman gone, the Dwarfers move to the window to view the street>
+
+KRYTEN
+  Stand back, sir, our original selves are about to beam in.  When they
+realise their mistake they'll beam out again.  I propose *we* go down to the
+fourth.
+
+
+[-- 21 - Fourth-floor storeroom inside the Texas Book Depository ----------]
+
+[ALL enter.  A room very similar to that up on the fifth.]
+
+<From outside we hear a gunshot, and the Dwarfers rush to the window>
+
+LISTER
+  First shot!
+
+<...a second and third shot rings out.  Again, there is noise and commotion
+ from the street below>
+
+[Cut POV to outside of building, looking at the Dwarfers at the window]
+
+CAT
+  It doesn't smell right, I think he's missed!
+
+RIMMER
+  How come?
+
+KRYTEN
+  He's right, sir.  By sending Oswald up to the sixth, we've made the
+trajectory of his shot so steep he's only wounded him.
+
+RIMMER
+  Let's start again, and bring him back down to the fifth.
+
+LISTER
+  We can't use the fifth: our original selves are destined to beam in there
+as he fires his third shot, and this version of us are now on the fourth.
+
+CAT
+  We've been copied more times than that poster of the tennis girl
+scratching her butt.
+
+LISTER <scanning the street from out of the window>
+  If we could arrange, somehow, for a second gunman to fire from just behind
+that little hill over there covered in lawn...
+
+KRYTEN
+  You mean the, er, the grassy knoll, sir?
+
+LISTER
+  That'd solve it, wouldn't it?
+
+CAT
+  Shoot the pres??  Who?
+
+RIMMER
+  You can count me out.
+
+CAT
+  And me.
+
+[Cut to inside of room]
+
+LISTER
+  Hang on... maybe, just maybe there's someone who can get us out of this
+mess.
+
+RIMMER
+  Where are we going?
+
+LISTER
+  Idlewild airport, July, '65...
+
+
+[-- 22 - OB. Day - A runway at Idlewild airport ---------------------------]
+
+<We see a handcuffed JFK being led down the stairs from a plane and loaded
+ into the back of a prison truck.  As police lock up tyhe truck, the
+ Dwarfers beam in, nearby the stationary aircraft.>
+
+[ALL present]
+
+LISTER
+  This is right.  He's being escorted to Hoover open prison in New York.
+Give me *five minutes*.
+
+<LISTER manipulates the drive, and the red lightning beams him out]
+
+
+[-- 23 - Int. JFK's prison truck ------------------------------------------]
+
+[JFK present]
+
+[Enter LISTER, beamed in by the Time Drive to the bench seat opposite JFK]
+
+LISTER
+  Don't be alarmed, sir, but I have a very strange tale to tell.
+
+[FADE.  Time passes.  Picture returns as Kennedy is speaking]
+
+JOHN F. KENNEDY
+  I, ah, have had plenty of time to reflect on my deeds in the Whitehouse.
+In all important respects I believe I did a good job.  It was right to plan
+a pull out of Vietnam, to fight for civil rights, and, ah, to fight
+congress, ah, to put a man on the moon.  It was, ah, wrong however, to, ah,
+act like an irresponsible jackass with all those women, and allow my enemies
+to wreak havoc on our nation.
+
+LISTER
+  But I can help, man.  I mean, Mr. President, man.  I mean, sir.
+
+KENNEDY
+  How, ah, can you help?
+
+LISTER
+  Well, come with us back to Dallas, November 1963, be a second gunman.  The
+gunman behind the grassy knoll.
+
+KENNEDY
+  You mean, assassinate myself?
+
+LISTER
+  Yeah!  It'll drive the conspiracy nuts crazy, but they'll never figure it
+out.
+
+KENNEDY
+  But I, ah, still have a future here.  Jackie left me, but, ah, when I get
+out I can, ah, still make a contribution to the world.
+
+LISTER
+  See this airport, Idlewild airport?  In our reality they renamed it 'JFK',
+after you. Where I come from you're a liberal icon, and that's the person
+you should be. If you're gonna be that person, you're gonna have to
+sacrifice your life.
+
+KENNEDY
+  And only then will my reputation be restored in history?
+
+LISTER
+  Mm.  And I can get a smeggin' curry.
+
+KENNEDY <distantly>
+  Ask not what your country can do for you... ask what you can do for your
+country.
+
+LISTER
+  Hey, that'd make a pretty neat speech, that.
+
+KENNEDY
+  It did.  Heh heh.
+
+
+[-- 24 - OB. Day. Behind the grassy knoll in Dallas, 1963 -----------------]
+
+[All present.  JFK present, he and KRYTEN dressed in policeman's uniforms]
+
+<JFK swallows the last of his bottle of Coke, and sets it down.  LISTER
+ hands him what looks like an M-16 rifle, and nods towards the street
+ meaningfully>
+
+[MONTAGE.  We see the parade roll through the main street once again; Oswald
+ lining up his shot from the sixth floor of the Texas Book Depository and
+ JFK tracking his own vehicle as it moves slowly down the road.  Oswald
+ fires his first two shots, wounding the president as before.  This time,
+ however, Kennedy himself takes aim from the grassy knoll - firing his shot
+ moments after Oswald's third, and leaving what would turn out to be a nasty
+ mess on Jackie O's suit...
+
+ Kennedy lowers the gun and turns away, clearly disturbed, but unreadable
+ beyond that]
+
+KENNEDY
+  I, ah, thank you all for giving me the opportunity to, ah, be reborn.
+
+<JFK walks slowly away from them towards a line of parked cars.  After a
+ short time, he fades from reality.  The Dwarfers turn away, leaning against
+ a high fence that looks out onto the street>
+
+LISTER
+  Smeg!  I forgot to ask if there are any curry houses in Dallas!
+
+<CAT, RIMMER and KRYTEN exchange glances.  CAT makes a subtle gesture with
+ his head and KRYTEN nods; after all, there's only so much you can take of
+ one person...  CAT turns and walks behind LISTER, whistling innocently.
+ As RIMMER turns to follow him, he suddenly grabs LISTER and pulls him to
+ the ground - the three of them quickly laying into the curry-deprived one
+ with everything they've got.  The nightstick that Kryten carries come in
+ particularly useful...>
+
+
+[------------------------- END OF "TIKKA TO RIDE" -------------------------]
+
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor;
+ no copyright infringement or toe-stepping intended.  Comments, criticisms
+ and corrections welcomed at "raz@mushroom.demon.co.uk".  Thanks.]
+
+
+
+
+

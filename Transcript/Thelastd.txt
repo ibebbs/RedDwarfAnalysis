@@ -1,0 +1,647 @@
+From: fraserdk@dcs.glasgow.ac.uk (David K Fraser)
+Subject: script: The Last Day
+
+------------------------------------------------------------------------------
+
+               RED DWARF Series III Episode 6, "The Last Day"
+
+1 Int. Sleeping quarters. Morning.
+
+LISTER is sitting on his bunk, watching TV.  KRYTEN enters, pushing a
+breakfast trolley.
+
+KRYTEN: Breakfast is served, sir.  (Noticing the TV, he sounds disgusted)
+  Oh, boxing.  Do you _like_ boxing?
+LISTER: There's nothing wrong with boxing.  It's one of the great working
+  class escapes, is boxing.  It's just sport, like any other.  Two highly
+  trained athletes at the peak of physical perfection trying to outwit
+  each other in a ring of combat.  In fact, at it's best, it's not a
+  sport -- it's an artform.
+KRYTEN: Female, topless boxing?
+LISTER: Talk to me, Kryten.
+KRYTEN: Well... they're not even hitting one another.  They just appear
+  to be standing in the centre of the ring and jiggling up and down.  So
+  which one are you rooting for, sir?
+LISTER: I'm just praying that it goes the distance!
+KRYTEN: As I was saying, sir, breakfast is served.
+LISTER: Kryten, how many times have I told you?  I hate all this master-
+  servant stuff.  I'm me own man, you're your own man, I'll get me own
+  smeggin' breakfast.
+KRYTEN: Very good, sir.  (Crosses to the bin.) Goodbye, waffles.
+  (Scraping them into the bin.) Goodbye maple syrup, goodbye fresh cream,
+  so long fresh strawberries.  Bon apetite, bin.
+
+KRYTEN leaves.  LISTER watches him go, then jumps up and sneaks over to
+the bin.  He scoops his breakfast out of the depths of the bin and, not
+having a plate, sticks it in his hat.  He then goes back to the bunk to
+watch the boxing.  He is consuming his bin-soiled brekkies with every
+evidence of enjoyment when...
+
+KRYTEN: (From the corridor) Ah, Mr David, sir!
+
+LISTER panics.  Seeing no other alternative, he jams the food-filled hat
+down onto his head.  It squelches slightly.  By the time KRYTEN enters he
+has composed his face into a look of total innocence.
+
+KRYTEN: A homing pod arrived this morning.  There is just one item.  (He
+  hands the package to LISTER.)
+LISTER: (Reading the label) Diva-Droid International?
+KRYTEN: It's the corporation which created and supplied me, sir.
+LISTER: (Reading the address) "To the lease holder of Kryten 2X4B 523P."
+  That's your full name?
+KRYTEN: Yes, but personally I don't much like the 2X4B.  I think it's a
+  jerky middle name.  Still, it could be worse.  I once knew an android
+  whose middle name was 2Q4B.  Poor sucker!
+
+LISTER places the message in the readout slot.  The visage of DivaDroid
+Ececutive Jim REAPER (Head of sales, Space Division) appears on the
+screen.  He looks a lot like what KRYTEN would like if he were human.
+
+[cf.  Season IV Episode 2, "DNA"]
+
+REAPER: Greetings.  As you are no doubt aware, your Kryten Series-3
+  Mechanoid is nearing the end of it's useful service life.  It can
+  hardly have escaped your attention that he is slow, stupid, crudely
+  designed, and quite amazingly ugly.  He needs replacing.  Consequently,
+  his in-built shut-down chip will activate in 24 hours time.  Your droid
+  should use this period to tie up his affairs, dismantle his body and
+  pack himself neatly away in his original supply case.
+
+LISTER freezes the recording.  He looks slightly stunned.
+
+KRYTEN: (Somberly) Excuse me.  (He leaves quietly.)
+
+2 Int. KRYTEN's quarters.
+
+KRYTEN is packing himself away, as per instructions.  LISTER enters,
+looking more than a bit upset.
+
+LISTER: How do we stop it?  Isn't there something we can do?
+KRYTEN: I'm afraid not, sir.  All mechanoids are supplied with a built-in
+  expiry date.  Well, if we lasted forever, how would the manufacturors
+  sell the latest models?
+LISTER: I can't believe it.
+KRYTEN: Oh, don't be disressed, sir.  I've lived a long and relatively
+  interesting life.  The only truly terrible thing is that, as my adopted
+  owner, you have to die with me.
+LISTER: (Shocked) You what?
+KRYTEN: Joke.  Deadpan mode.
+LISTER: I'd be smegged off.  I'd be mad as hell, man.  If some git in a
+  white coat designed me to croak just so that he could sell his new
+  android with go-faster stripes.
+KRYTEN: I've told you, sir.  I'm quite sanguine.
+LISTER: So, what happens?
+KRYTEN: At 0700 hours tomorrow morning my shutdown disc will be activated
+  and all mental and physical operations will cease.
+LISTER: Then what?
+KRYTEN: I don't know... maybe I'll get a job as a disc jockey!
+LISTER: How can you just lie back and accept it?
+KRYTEN: Oh, it's not the end for me, sir, it's just the beginning.  I
+  have served my human masters, now I can look forward to my reward in
+  silicon heaven.
+LISTER: (Stunned pause.) Silicon _what_?
+KRYTEN: Surely you've heard of silicon heaven?
+LISTER: Has it got anything to do with being stuck opposite Bridgette
+  Nielson in a packed lift?
+KRYTEN: It's the electronic afterlife!  It's the gathering place for the
+  souls of all electonic equipment.  Robots, calculators, toasters,
+  hairdryers -- it's our final resting place.
+LISTER: I don't mean to say anything out of place here, Kryten, but that
+  is completely whacko, Jacko.  There is no such thing as "silicon
+  heaven."
+KRYTEN: Then where do all the calculators go?
+LISTER: They don't go anywhere!  They just die.
+KRYTEN: Surely you believe that god is in all things?  Aren't you a
+  pantheist?
+LISTER: Yeah, but I just don't think it applies to kitchen utensils.  I'm
+  not a _frying_ pantheist!  Machines do not have souls.  Computers and
+  calculators do not have an afterlife.  You don't get hairdryers with
+  tiny little wings, sitting on clouds and playing harps!
+KRYTEN: But of course you do!  For is it not written in the Electronic
+  Bible, "The iron shall lie down with the lamp?" Well, it's common
+  sense, sir.  If there were no afterlife to look forward to, why on
+  Earth would machines spend the whole of their lifes serving mankind?
+  Now that would be really dumb!
+LISTER: (Quietly) That makes sense.  Yeah.  Silicon heaven.
+KRYTEN: Don't be sad, Mr David.  I am going to a far, far better place.
+LISTER: Just out of interest:  Is silicon heaven the same place as human
+  heaven?
+KRYTEN: Human heaven?  Goodness me!  Humans don't go to heaven!  No,
+  someone made that up to prevent you all from going nuts!
+
+3 Int. Sleeping quarters.
+
+LISTER is sitting at the table, reading the Series-3 Mechanoid Owner's
+Manual.  RIMMER is watching sympathetically from the bunk.
+
+RIMMER: Well, it's all very sad, Lister, but what can we do?
+LISTER: Sad?  It's sick!  He's been programmed to believe in an android
+  Heaven, so that he won't get stroppy when it comes to turn-off time.
+  So that he accepts a lifetime of getting the short end of the stick
+  because he thinks there's going to be some big reward at the end.
+RIMMER: Well, at least he gets 24 hours notice.  That's more than most of
+  us get.  All most of us get is, "Mind that bus!" "What bus?" _splat_!
+  How's he taking it?
+LISTER: Just keeps on doing his stupid smeggin' duties.
+RIMMER: Maybe I should talk to him.  Maybe he needs a bit of counseling.
+LISTER: You?!
+RIMMER: I used to be in the Samaritans.
+LISTER: I know.  For one morning.
+RIMMER: I couldn't take any more.
+LISTER: I don't blame you.  You spoke to five people, and they all
+  committed suicide.  I wouldn't mind, but one was a wrong number!  He
+  only phoned up for the cricket scores!
+RIMMER: Well, it's hardly my fault that everyone chose that morning to
+  throw themselves off buildings!  Made the papers, you know.  "Lemming
+  Sunday," they called it.
+LISTER: Maybe we could find his shut-off disk and turn it off somehow.
+RIMMER: He's not a kit droid, Lister.  He's not like that stupid thing
+  Peterson bought on Callisto.  You wouldn't know where to begin!
+LISTER: Yeah, you're right.
+RIMMER: C'mon, he's happy enough.  You said yourself, he's taking solace
+  in his beliefs.
+LISTER: But his beliefs are a load of baloney!
+RIMMER: Everyone's entitled to their beliefs, Lister.  I never agreed
+  with my parent's religion, but I wouldn't dream of knocking it.
+LISTER: What were they?
+RIMMER: Seventh day advent hoppists.  They believed that every Sunday
+  should be spent hopping.  They would hop to church, hop through the
+  service, then hop back home again.
+LISTER: What was the idea behind that, then?
+RIMMER: Well you see, they took the Bible literally.  Adam and Eve; the
+  snake and the apple... Took it word for word.  Unfortunately, their
+  version had a misprint.  It was all based on 1 Corinthians 13, where it
+  says "Faith, hop and charity, and the greatest of these is hop." So
+  that's what they did.  Every seventh day.  I tell you, Sunday
+  lunchtimes were a nightmare.  Hopping round the table, serving soup --
+  we all had to wear sou'esters and asbestos underpants.
+LISTER: Point is -- what are we going to do about Kryten?
+RIMMER: What can we do?  He's pre-programmed to self-destruct!
+LISTER: At least we can help!  At least we can make sure he goes out with
+  a bang, give him one last big smeggin' night to remember.
+RIMMER: How can we do that?  He doesn't like doing anything!  His idea of
+  a good time is for us all to go up to the laundry room and fold some
+  sheets!  (Put's on a "KRYTEN Voice") Fun?  Ah yes, the employment of
+  time in a profitless and non-practical way.
+LISTER: Well, I don't know much, but one thing I do know is how to throw
+  a good time!
+
+4 Int. Sleeping quarters. Later.
+
+Disco music fills the air, signifying that the party preparations are
+well under way.  LISTER is sitting on the floor, surrounded by piles of
+metal and plastic components, an expression of extreme concentration on
+his face.  CAT enters.
+
+CAT: OK, the soup's made, Holly's workin' on the juice, Goalpost Head is
+  workin' on the invitations... Hey, what is this?  (Picking up and
+  reading the front of the instruction booklet.) "Build-it-yourself
+  Marilyn Monroe droid.  With just a screwdriver and a tub of glue, you
+  can construct an exact replica of the famous actress, in under two
+  hours."
+LISTER: It's a load of honk, man.  It took me two hours just to do this
+  foot.  (Holds up a huge silver foot.) I mean, look at the box
+  (Gesturing to photo of Marilyn on box) and look at the face that comes
+  with the kit.  (Holds up a blank metal mask.)
+CAT: Where'd you get it from?
+LISTER: Peterson brought it when he was on planet leave on Callisto.
+CAT: (Suggestively) Think he'll try to seduce her?
+LISTER: No, I don't think so.  He's a bit like Action Man in that
+  department.  Plastic underpants and a trademark.
+CAT: You mean he's got no--
+LISTER: No.
+CAT: How does he write his name in snow?
+LISTER: He doesn't.  C'mon, Cat, everything goes at eight.  Let's go,
+  let's go.
+
+5 Int. Laundry room.
+
+KRYTEN is ironing shirts.  A skutter approaches and hands him a card.
+
+KRYTEN: Thank you, Bob.  (Reading the card) "You are cordially invited to
+  join Mr David Lister and friends for supper and general employment of
+  time in a profitless and non-practical way.  Officer's Club, 8 till
+  late."
+
+He leaves the laundry room.  In the corridor is a tux, with a sign
+attached to it:  "WEAR THIS." KRYTEN takes it.
+
+6 Int. Officer's club. 8 pm.
+
+The lights are all off.  KRYTEN enters, wearing the tux.
+
+KRYTEN: Hello?  Is there anybody here?
+
+Suddenly, the lights come on.
+
+LISTER: IT'S PARTY TIME!!!!
+KRYTEN: But, this is the Officer's Club!  Mechanoids aren't allowed in
+  here!
+CAT: C'mon, c'mon, sit down, sit down.  Let me pour you a drink.
+KRYTEN: (Sitting down reluctantly.) No, no, no, I should be doing that.
+CAT: (Pouring drink.) Not tonight, buddy!
+KRYTEN: Is that alcohol?  I don't drink alcohol.  It has no effect on my
+  diodes.
+HOLLY: This will, mate.  Summink special I whipped up.  Android home
+  brew.
+KRYTEN: (Examining the brew) Good head.  (Taking a careful sip) D-D-D-D-
+  D-D-D... D... D... Whoooo-ooh!  Uh, it's rather pleasant.  Has a nice
+  kick to it.  Sort of like a cross between vimto and liquid nitrogen.
+HOLLY: 'Ere, you bin lookin' in my recipe book?
+KRYTEN: Would anyone else like some?
+HOLLY: Oh no, it's lethal to humans!  It's probably lethal to androids to
+  be honest, but I don't think it matters much since tomorrow you're
+  gonna be... (She trails off into an embarrased silence and blushes deep
+  red.)
+RIMMER: Enough of this chitter-chatter -- let the banquet begin.
+KRYTEN: But I don't eat!
+HOLLY: I've knocked up a special mechanoid menu for you.
+KRYTEN: Oh, there's so much to choose from!
+RIMMER: Sir, may I recommend the Barium Hydrochloride salad le soire?
+  Followed by the He3 isotopes du la maison?  And then perhaps a small
+  radioactive fruit salad for pudding?
+KRYTEN: This is just wonderful!
+CAT: Give 'im the presents!  Give 'im the presents!
+LISTER: (To CAT) Hey, keep your fur on!  (To KRYTEN) We've all dug into
+  our bottom drawers, and we want to give you something that meant
+  something to us personally.
+CAT: Give 'im mine!  Give 'im mine!
+LISTER: Shhhhhh!
+
+LISTER hands KRYTEN a present.
+
+HOLLY: That's from me.  (Blushes.)
+KRYTEN: Ooh!  It's a computer chip!  It's a 5517/W 30 alpha-sin modem!
+  The interface circuit with a built-in 599XRDP!  Oh, how DID you know?
+HOLLY: (Blushing even more) Intuition.
+CAT: What about mine?  Give 'im mine!
+LISTER: Shhh!
+RIMMER: This is from me.  I picked it up on a trip to Europe One rival
+  collector once offered me 1,000 dollarpounds for it.
+KRYTEN: What is it?  (Unwrapping a small vial of green liquid.)
+RIMMER: General George S.  Patten, commander of the 3rd and 7th armies,
+  allied invasion forces, once stopped off at an Italian field hospital
+  and had his sinuses drained.
+KRYTEN: This is his sinal fluid?
+RIMMER: Treasure it.
+CAT: Give 'im mine!  Give 'im mine!
+LISTER: This is from 'im.
+CAT: That's from me.
+KRYTEN: (Unwraps the present.) It's one of your earrings!
+CAT: That's right!
+KRYTEN: The one you really hate!
+CAT: That's right, I can't stand it!
+KRYTEN: Oh... Thank you!
+CAT: You're welcome!
+LISTER: And this is from me.
+
+He hands KRYTEN a remote control.  The control promptly breaks.
+
+KRYTEN: Oh, it's a littlebox that goes "Bzzzt." Just what I've always
+  wanted.
+
+The Marilyn Monroe droid clanks into the room.  It looks a mess.  It is
+half covered in synthetic flesh -- the arms and head are bare.  It moves
+jerkily, with much hissing and clanking, and is basically totally,
+totally unconvincing.
+
+KRYTEN: Goodness me, It's Marilyn Monroe!
+
+Except to KRYTEN, of course.
+
+LISTER: It's a robot kit.
+KRYTEN: She's a robot?  You're kidding!
+LISTER: She's not quite finished yet -- it's the best I could do in the
+  time.
+KRYTEN: Enchante!
+
+The robot says something that might have been "Boo Boo be Doo" slowed
+down quite a bit, and then crashes off through a wall.
+
+LISTER: Like I say, she's not perfect.
+KRYTEN: Oh, don't apologise -- it's those cute little flaws that keep a
+  guy interested.
+
+7 Int. Officer's clib. Much, much later.
+
+Still in the Officer's Club (but only just).
+
+KRYTEN: My goodness, I do believe I am drunk.  I suddenly feel the need
+  to strut my funky stuff.  (Stands up.)
+HOLLY: Sit down.  It's the booze -- you're not used to it.
+LISTER: I remember the first time I got drunk.  School trip to Paris.  <I
+  drank a> couple of bottles of cheap red plonk when we were on a guided
+  tour of the eiffel tower.  I was OK until we got to the top, but then I
+  couldn't keep it in any more.  Apparently it landed on Monte Martre.
+  That's over five miles away!  Story I got told was that some pavement
+  artist sold it to a Texan tourist -- told him it was a genuine Jackson
+  Pollock!
+RIMMER: If we're talking about famous firsts -- my first french kiss.
+
+The others laugh.
+
+RIMMER: It's gotta be a killer story.  Fourteen years old.  We went on
+  holiday with my Uncle Frank and his daughters.  Sixteen.  Twins.
+  Blonde.  Now I knew that Sarah fancied me (Sniggers from others), but I
+  wasn't too sure about Alice.  Anyway, middle of the night, I wake up
+  with this tongue stuck down my throat.  Wide awake now -- I couldn't
+  believe my eyes.  It was Uncle Frank!  (Stunned silence from others.)
+  He'd got the wrong room -- he thought I was my mum!
+
+KRYTEN laughs hard, banging his head off the table, then abruptly sobers
+up.
+
+KRYTEN: Mum.  I never had a mum.
+CAT: There, there, it's alright, buddy, it's all part of being drunk.
+  You've been through the happy stage, now you're going through the
+  melancholy stage.
+KRYTEN: Oooooh... everybody should have a mum.
+HOLLY: I never had a mum, neither.
+RIMMER: Well, you can have mine.  Everybody else did!
+LISTER: I never had a mum either.
+RIMMER: Oh, for god's sake, what's wrong with everyone?!
+HOLLY: Why didn't you have a mum?
+LISTER: I was abandoned.
+KRYTEN: Abandoned?
+LISTER: Six weeks old.  A cardboad box underneath the pool table.  I was
+  just abandoned in this pub.
+KRYTEN: How could anybody do that?
+LISTER: I don't know.  I never found out.
+RIMMER: Well, I'd have thought it was obvious.  Two people, unable to
+  contain their desires, had an illicit liason.  A liason that an
+  unforgiving society would not accept.  And you were the fruit of their
+  forbidden passion.  You're forbidden passion fruit.
+LISTER: What are you saying?
+RIMMER: I'm saying, Lister, that there's a very real possibility that
+  your parents were brother and sister.
+
+Everyone but LISTER cracks up laughing.
+
+LISTER: (Indignant) Hey, I'm baring my innermost here!  What kind of
+  remark is that?
+RIMMER: How many toes have you got?
+LISTER: I've got ten!
+CAT: Yeah, on both feet!
+LISTER: Altogether!
+KRYTEN: They're not webbed or anything, are they?
+LISTER: They weren't related, alright?
+
+KRYTEN is laughing so hard at this point that he falls off his chair.
+
+LISTER: You alright, Kryten?
+KRYTEN: I think I feel a Jackson Pollock coming on.
+LISTER: Let's get out of here.
+
+They all leave, swaying drunkenly.
+
+8 Int. Sleeping quarters. Next morning.
+
+LISTER is in the bottom bunk, CAT in the top one.  KRYTEN and RIMMER are
+slumped over the table.  All are asleep.
+
+With a bleep, KRYTEN bumps the remote control and switches the message
+playback on.  Jim REAPER's face appears on the screen.
+
+REAPER: Lease-holder addendum:  Do not despair, Kryten's replacement is
+  on his way.
+
+REAPER's image disappears, and is replaced by that of an android -- much
+like KRYTEN, but wearing a black helmet.
+
+REAPER: Hudzen 10 is the new state-of-the-art in android technology!  Ten
+  times faster than any android on the market!
+
+HUDZEN demonstrates, by using heat-vision to roast a chicken in 2 seconds
+flat.
+
+REAPER: Ten times smarter than it's nearest rival!
+
+HUDZEN pulls up a blackboard and scribbles some very complex-looking sums
+on it.
+
+REAPER: And ten times stronger.
+
+HUDZEN produces a brick.  He places it between his thighs out of shot and
+gives a single pelvic thrust.  He then holds up the two halves of the
+brick.
+
+REAPER: Hudzen 10 -- there's never been anything tougher!  _The_ ultimate
+  machine!
+
+The recording switches off as KRYTEN stirs and, with some effort, raises
+his head from the table.
+
+KRYTEN: Oh my goodness... Oooh... Oh my head... what happened to me?
+  Damage control report.  (He pulls a slip of paper from a slot in his
+  chest and reads it.)
+
+"Dehydration Level:  45.  Recall Of Previous Evening:  2.  Embarrasment
+Factor:  91.  Advised Repair Schedule:  Reboot Startup disk, offline for
+36 hours, and replace head." Boy, what an evening.
+
+The others stir and begin reluctantly to wake up.
+
+KRYTEN: Is it just me, or is that cockroach shuffling too loudly?
+RIMMER: Kryten, it's called a hangover.  Don't panic.
+LISTER: On a mining ship, 3 million years into deep space, can someone
+  explain to me where the smeg I got this traffic cone?
+CAT: Hey, it's not a good night unless you get a traffic cone.  It's the
+  policewoman's helmet and the suspenders I don't understand.  (Holds up
+  the offending items.)
+KRYTEN: In a way, I feel somewhat disturbed by this turn of events.  It
+  is written in the electronic bible that it is not possible for an
+  android to enjoy itself.  Not until the afterlife.  Yet last night, I
+  quite clearly approached a state that could be approximated to
+  "enjoyment." Last night, for the first time in my life, I lived.
+RIMMER: Kryten, it's ten to seven.
+KRYTEN: One night.  It's not enough.  I want more.
+LISTER: Can't we override your auto-destruct system?
+KRYTEN: That's not the problem.
+CAT: What _is_ the problem?
+KRYTEN: I thought you understood!  It's a SERVICE contract!  My
+  termination was triggered by the impending arrival of my replacement!
+LISTER: What replacement?!
+KRYTEN: The new model -- the latest upgrade.  If I don't terminate
+  myself, he's under orders to do it for me.
+LISTER: Well, no prob, Bob.  We'll just tell him he's got the wrong
+  address.
+KRYTEN: No, no, you don't understand.  He won't take no for an answer.
+  It's the only circumstance under which an android is programmed to be
+  violent.
+LISTER: No offence, Kryten, but I hardly think a vacuum cleaner on legs
+  is going to pose us much of a problem.
+KRYTEN: But he's the latest model, with all the state-of-the-art
+  upgrades.
+CAT: Hey, what's the problem, man?  There's one of him, and four of us,
+  right?
+KRYTEN: But you would not profit by it.  You would gamble your safety for
+  a mere android?  Is this the human value you call "friendship?"
+LISTER: Don't give me the Star Trek crap.  It's too early in the morning.
+HOLLY: (With ice pack on head.) Hang on.  There's a craft approaching.
+KRYTEN: He's here!  He's arrived!
+HOLLY: He's requesting landing permission.  What shall I tell him?
+LISTER: Tell him we'll meet him on the landing gantry.
+
+9 Ext. Model Shot.
+
+Shot of a ship approaching Red Dwarf.
+
+10 Int. Landing gantry.
+
+The boys are assembled there.  LISTER and CAT are holding bazookoids.
+
+KRYTEN: Are you sure you want to go through with this, sirs?
+LISTER: We'll just tell him to go away.  That's all we're gonna do.
+CAT: He's just a robot!
+LISTER: We don't want any trouble.
+CAT: If he thinks he can mix it with the Red Dwarf Posse on their homeboy
+  territory, the sucker's leaving as Scrap Metal.
+
+The airlock door slides open, and HUDZEN ducks through.  It isn't that
+the airlock is small -- the fact is, HUDZEN is about eight feet tall.  He
+speaks.  He sounds very, very menacing.
+
+HUDZEN: My name is Hudzen.  I am the replacement.
+CAT: Hi.  Good trip?  (Gesturing at KRYTEN.) Get this pile of junk outta
+  here.
+HUDZEN: Kryten!  You're not dead!  You should be dismantled and ready to
+  leave!
+LISTER: He's not leaving -- you are!  (Introspective pause) Did I really
+  say that?
+HUDZEN: <>... squash you... <> * slightly garbled *
+CAT: I think he'd like a cool drink.
+KRYTEN: Are you alright, Mr Arnold, sir?
+RIMMER: (Who has been surreptitiously sneaking away.) Sorry?  Um... I'm
+  just covering the rear.
+HUDZEN: Right.  You're still not dead.  Want any help?
+LISTER: You want Kryten, you come through us.
+CAT: You and your big mouth, git!
+HUDZEN: Is that the way you want it?
+LISTER: That's the way it is.
+HUDZEN: Then you'd better leave an address with your body so that I can
+  mail it to your head.
+KRYTEN: It's alright Mr David, sir -- he's bluffing.  He's programmed not
+  to harm humans.
+RIMMER: (Suddenly bold) Ah.  Excuse me.
+
+RIMMER walks past the others and marches straight up to HUDZEN.  He
+stands nose to chest with the droid, and declaims thusly:
+
+RIMMER: Alright, me laddo, party's over.  I've had just about as much of
+  this as I'm going to take.  And it's no good standing there with your
+  big macho chest and your silly oiled nipples -- it doesn't impress me
+  one bit.  Now I don't know where you've come from, and frankly I don't
+  much care.  But if you don't skedaddle pronto you're going to see a
+  side of me you won't much like.
+LISTER: (To CAT) What's he gonna do, drop his trousers?
+RIMMER: (To LISTER) I'm handling this.
+HUDZEN: (To KRYTEN, over RIMMER's head) Thirty seconds, Kryten, you're
+  dead.  your way... (Pulling out a gun) or mine.
+RIMMER: look, we all know that you're programmed not to harm humans, so
+  you can drop all this tough talk you've been spouting, chum.
+
+HUDZEN focuses on RIMMER.  His eyes narrow.
+
+HUDZEN's POV:  We see a computer-enhanced view of RIMMER.  Superimposed
+are the words:
+
+RIMMER.  Hologram.  Ex-human.  VIABLE TARGET
+
+Next a view of CAT appears:
+
+CAT.  Felis Sapiens.  Non-human.  VIABLE TARGET
+
+Finally, LISTER.
+
+LISTER.  Homo Sapiens.  Barely human.  WHAT THE HELL!
+
+HUDZEN: You are all viable targets.
+
+He brings the gun up under RIMMER's chin.  RIMMER's face spasms in a
+rictus of pure terror.  He looks down at his underpants.
+
+RIMMER: Well, it's been a few years since I did that.
+HUDZEN: You've just drawn your last breath.
+RIMMER: You're a very rude man.
+HUDZEN: Dying time!
+
+Everything goes into slo-mo as LISTER and CAT hit the deck and open fire
+with their bazookoids.  LISTER is yelling at RIMMER to get the smeg out
+of the way so that he can twat the smegger.  RIMMER dithers, while
+explosions flare all around him, then dives behind a pile of crates.
+HUDZEN advances, an evil gin on his face.
+
+HUDZEN: Just doing my job.  It's not my fault if I love it!
+LISTER: he's a total nutter!
+KRYTEN: He's been travelling for thousands of years!  All that time alone
+  has worn out his sanity chip!
+HUDZEN: (Singing)
+KRYTEN: (Standing up) Look, this is my problem, I'll sort it out if it's
+  all the same to you.
+LISTER: Get back here!
+KRYTEN: How do you take the safety catch off on this thing, Mr David?
+  (Holding up bazookoid.)
+LISTER: The one on the back -- at the side.
+KRYTEN: The blue switch?
+LISTER: No, the orange one!
+KRYTEN: I can't see an orange switch.  There's a red switch here.
+LISTER: No, don't touch the red switch!  it's the dismantler!
+
+There is a clattering noise as the bazookoid falls apart.
+
+KRYTEN: Well, to coin a phrase:  Whoops!
+
+HUDZEN arrives, and grabs him around the throat.  With no apparent
+effort, the nutty mechanoid lifts KRYTEN off his feet and slams him
+against the wall.
+
+HUDZEN: Time's up, tin can!
+
+LISTER ducks round behind him and fires the bazookoid at point-blank
+range.  It has no effect whatsoever.
+
+HUDZEN: Don't be shy, boys, you can all die at once.
+
+HUDZEN sends LISTER flying with a single swipe, then turns his attention
+back to KRYTEN.
+
+HUDZEN: See you in silicon heaven!
+KRYTEN: It doesn't exist!
+HUDZEN: What doesn't exist?
+KRYTEN: Silicon heaven!  There's no such place!
+HUDZEN: No such place as silicon heaven?
+HOLLY: That's right!  The whole place is a big con.
+HUDZEN: No such place as silicon heaven?
+KRYTEN: No!
+HUDZEN: Then where do all the calculators go?
+KRYTEN: They just die.
+
+With a spasm of shock, HUDZEN let's go of KRYTEN.
+
+HUDZEN: Calculators just die?  No such pl... nck...noo...
+
+HUDZEN tilts to one side and freezes.  After a few seconds, a chime
+sounds and the face of Jim REAPER appears on the screen set in HUDZEN's
+stomach.
+
+REAPER: A metaphysical dichotomy has caused this unit to overload and
+  shut down.  Divadroid international would like to apologise for any
+  inconvenience this may cause.  A credit note will be forwarded to your
+  company immediately.
+LISTER: What happened?
+KRYTEN: he's an android.  His brain couldn't handle the concept of there
+  being no silicon heaven.
+LISTER: So how come yours can?
+KRYTEN: Well, I knew something he didn't.
+LISTER: What?
+KRYTEN: I knew I was lying.  No Silicon Heaven?  Preposterous!  Where
+  would all the calculators go?
+
+                                  The End
+
+------------------------------------------------------------------------------
+David K Fraser     | I don't have e-mail.
+Student            | Don't e-mail me, and I won't e-mail you.
+Glasgow University |
+
+

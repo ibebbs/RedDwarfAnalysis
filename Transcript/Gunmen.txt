@@ -1,0 +1,885 @@
+Transcribed by Mik Stevens
+
+------------------------------------------------------------------------------
+
+         RED DWARF Series VI Episode 3, "Gunmen of The Apocalypse"
+
+1 Ext. Dockside. Black And White.
+
+The city:  unknown.  The time:  midnight.  A bell tolls mournfully in the
+distance, and waves lap against the side of the docks.  A staccato rap of
+heels sounds   through the fog, growing steadily louder, until a woman
+steps through the mists into the harsh glare of the streetlights.  She is
+carrying two heavy suitcases;  she drops these and stands, silently
+waiting.  A black '38 Bentley glides to a  stop a few metres away, and a
+detective steps out.  As he approaches her, he  draws out a packet of
+cigarettes.
+
+DETECTIVE: Maybe it's the moonlight but I've got to admit you're looking
+  pretty good for a corpse.
+
+He lights the cigarrete, and the light from the match throws his features
+into  sharp illumination; DAVE LISTER
+
+LORETTA: Philip, I can explain everything.
+LISTER: Let me save you the trouble.  It was you that planned Pallisters
+  murder, but your twin sister Maxine squibbed him off.  You decided to
+  take the rap, knowing you had the perfect alibi in me.  That's why you
+  came on so strong that night:  Play me for the dumb sap I am.
+LORETTA: Philip, it wasn't like that, not with you.
+LISTER: Oh yeah?
+LORETTA: So what you going to do, turn me in?  Watch me do the sit down
+  dance in the electric chair at Sing Sing?
+LISTER: No, sweetlips, I'm gonna let you kiss me.
+
+2 Int. Starbug Ops Room.
+
+LISTER is wearing a Artificial Reality Headset and grinding his hips
+rythmically, fumbling at an imaginary bra strap and sticking his tounge
+down an imaginary throat.  KRYTEN walks into the Ops Room at this moment.
+
+KRYTEN: Sir I think you should come and take a look at this.
+
+LISTER continues to fumble at the straps.
+
+KRYTEN: Sir it really is quiet urgent.
+LISTER: I want you Loretta, I want you body next to mine.  I want you
+  like you were that Tuesday night.  Kiss me.
+KRYTEN: Honestly, you haven't been off this machine in a month!
+
+3 Ext. Dockside. Black And White.
+
+Philip (LISTER) and LORETTA are still stood on the dock.
+
+LORETTA: Philip, I don't understand.
+LISTER: It's simple Loretta, this isn't real, it's an AR computer
+  simulation game.  I'm supposed to hand you over to the cops and wind up
+  with the goody-goody heroine.  I've played it before.  It's just that
+  you drive me wild.  You're the sexiest computer sprite I've ever seen.
+LORETTA: Ohh Philip.
+LISTER: I don't care that you've killed three men...
+LORETTA: Five.
+LISTER:  ...whatever.  It's not your fault, it's the way you're
+  programmed.
+LORETTA: So you take me for what I am - a pyschopathic, scizophrenic,
+  serial killing femme fatale?
+LISTER: Forgive and forget, that's what I say.
+
+4 Int. Starbug Ops Room.
+
+In Starbug KRYTEN is accessing the AR console to enter the game.  The
+game's name - "Gumshoe" - is shown on the console and KRYTEN is asked to
+select a character.
+
+KRYTEN: Choose you chracter.  OHHHGGHHH, honestly, I just want to talk to
+  him.  Ohhh anything, Sammy the Squib, crack shot with Tommy gun,
+  engage.  Ohhh, it's so frivolous!
+
+KRYTEN enters the game as his snaps down his headset.
+
+5 Ext. Dockside. Black And White.
+
+KRYTEN: Mr Lister sir ??
+
+The Black Bentley from earlier is still on the dockside.  The suspension
+is rocking backwards and forwards making a squeaking noise.
+
+KRYTEN: Hmmm, curious.
+
+KRYTEN Knocks on the car's rear window.  LISTER winds down the window and
+puts his head out.
+
+LISTER: Hi Kryten.  What are you doing here?
+KRYTEN: Sir, I've just got the results of the chemical scan, I've
+  discovered minute amounts of millenium oxide in the local vicinity.
+LISTER: Couldn't be more pleased for you.  See you in an hour.
+KRYTEN: Sir, I believe we've wandered accidentally into a rogue simulant
+  hunting zone.  That would explain the devastation on the derelicts
+  where we picked up this very game.
+LORETTA: Philip, who is it?
+
+LORETTA sticks her head of the car.
+
+LORETTA: Ohhh, it's Sammy the Squib.
+KRYTEN: Orrrhh, good evening Miss.
+LORETTA: Don't kill me Sammy, I'll do anything, kill him.  I'll come away
+  with you Sammy, it'll be just like the old days.  I never stopped
+  loving you Sammy.  Kiss me.
+LISTER: You're trash, aren't you?
+LORETTA: I'm programmed to be trash.
+LISTER: I can't resist her Kryten, get back in the car.  I never fall for
+  women who are any good for me Kryten, it's either heartbreakers or
+  moral garbage on legs.
+KRYTEN: Sir, you have to turn off the AR console.  We have to close down
+  and continue on silent running in order to avoid detection.
+LISTER: 10 minutes.
+KRYTEN: Sir.
+LISTER: 5 minutes, I'll keep my hat on.
+KRYTEN: Now.
+LORETTA: Philip?
+LISTER: I'll be back sweetlips.  Stay bad.
+
+LISTER and KRYTEN clap hands and leave the game.
+
+6 Int. Starbug Ops Room.
+
+They both remove their game helmets.
+
+LISTER: Kryten, you are a total gooseberry.  Next time I play on the AR
+  machine I'm going to give you some money and send you to the pictures.
+
+7 Int. Starbug Cockpit.
+
+RIMMER and CAT are standing and sat respectively.  There is a powering
+down noise and all the lights dim.
+
+RIMMER: At last, we have silent running.  OK, long range scanners are
+  down - the only early warning we've got is you.  Stay alert.
+CAT: OK bud, I'll keep my nose peeled.
+
+8 Int. Starbug Mid-section.
+
+RIMMER enters from the cockpit whilst LISTER and KRYTEN come down from
+the Ops Room above via the stairs.
+
+RIMMER: You took your time.  Where've you been?
+LISTER: I was in the AR machine.
+RIMMER: Again??
+LISTER: What'd you mean again?
+RIMMER: Everyone knows you only use the AR machine to have sex.
+LISTER: That is not true.
+RIMMER: Yes, true.  It's pathetic watching you grind away day after day.
+  It's like a dog that's missing it's masters leg.  That groinal
+  attachment's supposed to have a lifetimes gurantee, you've worn it out
+  in nearly three weeks.
+LISTER: That is an outrageous scandalous piece of libel.  I don't just
+  play the role play games.  What about the sporting simulations?  Like
+  zero-gee kick boxing and Wimbledon.
+RIMMER: You only play Wimbledon cos you're having it off with that jail
+  bait ball girl.
+LISTER: Is another total lie.  She's not jail bait, she's seventeen.
+RIMMER: Lister, she's a computer sprite, and surely that's the point;
+  she's just a load of pixels.
+LISTER: Yeah, but what pixels!
+
+9 Int. Starbug Cockpit.
+
+CAT and KRYTEN are sitting at the controls.  LISTER enters, followed bv
+RIMMER.
+
+LISTER: What's all the hullabaloo?
+CAT: We've wandered into rouge simulant country.
+KRYTEN: Bio-mechanical killers created for a war that never took place.
+  Some of them escaped the dismantelling programme and now they prowl
+  around deep space searching for a quarry worthy of their mettle.
+RIMMER: I say we should abandon the pursuit of Red Dwarf and flee from
+  the zone.
+LISTER: Give up the chase?  Are you kidding?
+CAT: Wait, my nose is getting something.
+KRYTEN: Powering up.
+RIMMER: Scanners report a battle class cruiser on intercept.
+KRYTEN: It's rougue simulants all right.
+RIMMER: Recommend immediate total and unequivical surrender.
+KRYTEN: Sir, surrender is the worst thing we could do.  They despise
+  humans and all forms of humanoid life.  They believe you to be the
+  vermin of the universe sir.  (Looking at LISTER).
+CAT: I didn't know they'd met him.
+KRYTEN: Getting a message.  Punching it up.
+
+A face appears on KRYTEN's screen.
+
+SIMULANT CAPTAIN: State your species and purpose.
+RIMMER: One of us will have to speak to them.  Who's the least human
+  looking?  Listy, the mike's all yours.
+LISTER: Wait a minute.  I've got an idea.  Stall them with static.
+  Kryten mid-section.  Cat, you too.
+
+The three move through to the mid-section.
+
+SIMULANT CAPTAIN: (On monitor) Why do you delay?  State your species and
+  purpose.  You have one minute.
+RIMMER: Lister, what the hell are you doing?
+LISTER: Wait a minute, nearly ready... OK, stand by to transmit.
+
+10 Int. Simulant Ship. Dark.
+
+The cockpit of the simulant ship.  Two simulants, the Captain and a
+lieutanant, are at their controls.
+
+SIMULANT LIEUTENANT: Incoming.
+
+The monitor comes to life.  What appears to be a strange alien life form
+comes on screen.  It is, in fact, the bottom half of LISTER's face, shot
+upside down below the nose.  Taped to his chin is one of  Kryten's
+eyeball's.
+
+LISTER: I am Tarka Dall, an ambassador of the great Vindaloovian Empire.
+SIMULANT CAPTAIN: Scanners report a human life on your vessel.  Is this
+  so?
+LISTER: Humans!  (spit) The Vindaloovian People despise all humans.  They
+  are the vermin of the Universe.  Is that not right Bindi Baji?
+
+The screen pans to CAT, who is in the same disguise.
+
+CAT: You bet, we hate them.  Scum, scum, scum, scum, scum!
+LISTER: The Vinadloovian Empire is pledged to exterminate them all.
+
+11 Int. Mid-section.
+
+RIMMER walks through from the cockpit just as the SIMULANT CAPTAIN beams
+aboard Starbug.  LISTER and CAT, bent backwards over the scanner table,
+are not in any position to notice him, and neither is KRYTEN, whose eyes
+they are using.
+
+LISTER: We will not rest until out task is completed.
+RIMMER: Errrrrr, Lister.
+
+LISTER and CAT sit up from the scanning table.
+
+LISTER: Hi.
+CAT: How's it going Bud ?
+
+LISTER and CAT hand the eyeballs back to KRYTEN, who screws them in.
+
+SIMULANT CAPTAIN: A human, a humanoid, a hologrammatical human and a
+  mechanoid who is a slave to humans.  I had hoped for so much more.
+RIMMER: I've no idea who you are, but boarding this vessel is an act of
+  war.  Ergo, we surrender.  And as prisoners of war I invoke the All
+  Nations Agreement article number 39436175880932/B.
+KRYTEN: 39436175880932/B.  "All nations attending the conference are only
+  allocated one parking space".  Is that entirely relevant, sir?  I mean,
+  here we are in mortal danger, and you're worried about the Chinese
+  delegates bringing two cars?
+RIMMER: Can't you let just one go?  I was talking about the right of P-O-
+  W's to non-violent constraint.
+KRYTEN: But that's 75880932/C, sir.
+RIMMER: It's embarrassing as much as anything else.  Here you are totally
+  humiliating me in front of this xenophobic, genocidal maniac...... no
+  offence.
+SIMULANT CAPTAIN: Primitive!  You will be no sport at all.  I have no
+  alternative.
+
+The SIMULANT CAPTAIN shoots RIMMER, KRYTEN, LISTER and CAT before they
+can move.  They all slump to the ground.
+
+12 Int. Starbug Cockpit.
+
+The crew awaken in the Starbug's cockpit, sat at their controls.
+
+RIMMER: How long have we been out?
+LISTER: According to the navicomp, three weeks.
+KRYTEN: Strange.. the drive interface has been upgraded, and so have the
+  engines.
+RIMMER: And if this readout is correct, we've been armed.  Laser cannons.
+LISTER: They've totally upgraded the whole ship.
+CAT: They've even got rid of the squeak on the seat tilt control.
+
+The SIMULANT CAPTAIN's face appears on the monitor.
+
+SIMULANT CAPTAIN: We have made some improvements to your craft.  Now at
+  least you may prove to be of some small amusement.
+SIMULANT LIEUTENANT: You have two Earth minutes before we attack.
+RIMMER: Let's get out of here.
+CAT: Wait, I know this game.  It's called cat and mouse, and there's only
+  one way to win; don't be the mouse.
+LISTER: What are you saying?
+CAT: I'm saying, the mouse never wins.  Not unless you believe those
+  lying cartoons.  We don't run, we strike.  It's the last thing they'll
+  be expecting.
+RIMMER: No, the last thing they'll be expecting is for us to turn into
+  ice skating mongooses and to dance the Bolero.  And your plan makes
+  about as much sense.
+LISTER: I say go with it.
+KRYTEN: Agreed.
+CAT: You're going to go with one of my plans?  Are you nuts?  What
+  happens if we all get killed?  I'll never hear the last of it!
+
+13 Model Shot.
+
+Starbug pivots in flight and fires it's new laser cannons into the side
+of the simulant ship.
+
+14 Int. Simulant Ship.
+
+The simulants look worried.
+
+SIMULANT CAPTAIN: What are they doing?  Power up the weapons!
+
+15 Int. Starbug Cockpit.
+
+LISTER: Nailed them.
+
+16 Int. Simulant Ship.
+
+SIMULANT LIEUTENANT: Fluke hit.
+SIMULANT CAPTAIN: Take them with us.
+SIMULANT LIEUTENANT: Can't return fire.
+SIMULANT CAPTAIN: Hack into their navigation computer.  Transmit the
+  Armageddon Virus.
+
+17 Int. Stabug cockpit.
+
+The Navicomp starts to spark.
+
+LISTER: What is it ?
+KRYTEN: The navicomp, something's wrong.
+SIMULANT CAPTAIN: (On screen) See you in Silicon Hell.
+
+18 Model Shot.
+
+The simulant ship explodes.
+
+19 Int. Starbug Cockpit.
+
+KRYTEN: Shutdown all network links.  The navicomp has been infected with
+  a virus.
+LISTER: The navicomp has frozen us out, we're locked on this course.  If
+  we carry on ahead at this speed, how long before we hit trouble?
+RIMMER: Well if you define trouble as a rather large moon directly in our
+  path, about 38 minutes.
+KRYTEN: Sir, the only solution is for me to contract the virus myself,
+  analyze it's structure and attempt to create a software antidote before
+  it wipes out my core program.  Do I have your permission to sacrifice
+  myself, sirs?
+RIMMER: Do Lemmings like cliffs?  Granted!
+KRYTEN: I am going to have to create a dove program.
+CAT: Dove program?
+KRYTEN: A dove program spreads peace through the system, obliterating the
+  viral cells as it goes.
+
+KRYTEN puts on head sensors and contracts the virus from the navicomp.
+
+KRYTEN: The virus is extremely complex.  I will have to dedicate all my
+  run time to its solution.  Shutting down all non essential systems.
+LISTER: Is there anything we can do?  Can we help?
+KRYTEN: Watch my dreams.
+
+20 Int. Ops Room..
+
+KRYTEN lies on the medi-bed whilst the others are gathered round him.
+
+RIMMER: 23 minutes to impact.  Any change?
+LISTER: Getting worse.  Weaker and weaker.
+RIMMER: Look, sooner or later we are going to have to face the fact that
+  we are not all going to get out of this in one piece.  Or if we are,
+  it's going to one big flat piece.
+LISTER: And?
+RIMMER: It's time we decided who's going to take the one man escape pod.
+CAT: How?
+RIMMER: Well, if you'll just bear with me, I think I've devised a fair
+  and equitable system of choosing who should survive.  It's based on
+  age, rank, seniority, usefulness, and to cut a long story short, it's
+  me.  I was a stunned as you are, which is why I demanded a recount.
+  Well, blow me if it didn't come out as me again.  Keys.
+LISTER: Rimmer, the escape pod is not an option.
+RIMMER: Why not?
+LISTER: It escaped last Thursday.  I was having a few beers, I couldn't
+  be bothered moving so I used the release mechanism as a bottle opener.
+  Whhoossshhh.
+RIMMER: That's it then, we're finished.
+CAT: Wait, we're getting something.
+
+21 Ext. Streets Of Laredo. Day.
+
+The monitor clears and KRYTEN is shown, dressed as a Sheriff in an 1800's
+Western town.  He is drunk.  He throws an empty whisky bottle away before
+pausing before a wanted poster of the Apocalypse boys and entering a
+saloon.
+
+22 Int. Ops Room.
+
+CAT: What is this?
+LISTER: I think we've tapped directly into whatever passes for Kryten's
+  sub-concious.
+CAT: Why's he a Sheriff in some old western?
+LISTER: Must be how his core program is coping with the battle against
+  the virus.  For whatever reason it's converted the struggle into some
+  kind of dream.
+
+23 Int. Saloon. Day.
+
+Busy.  A PIANO PLAYER plays a honky tonk version of Red Dwarf theme:
+KRYTEN enters  and tries to steer his way towards the bar.  He passes
+JIMMY - a smooth oaf,  playing cards with some unruly COWPOKES.
+
+JIMMY: Well, well, well sheriff, fancy seeing a man of your sober
+  disposition in a low down drinking establishemnt.
+KRYTEN: Now, now boys, I don't want any trouble.  Just doing my rounds.
+
+As KRYTEN steps toward the bar JIMMY trips him up.
+
+KRYTEN: You shouldn't ought to have done that Jimmy.
+
+There is a scrape of stools and tables and JIMMY stands, hands on guns.
+
+JIMMY: Why don't you try it, Sheriff.  They say you used to be faster
+  than a toilet stop in rattlesnake country.
+KRYTEN: Sorry I tripped over your boot there Mr Jimmy sir.  Arrrhhheeemm.
+  Didn't mean any harm by it.
+
+KRYTEN turns to the bar.
+
+KRYTEN: Give me two fingers of your best sipping liquor, Miss Lola, and
+  make it the smooth stuff.  The stuff where you get your eyesight back
+  after two days.  Guaranteed.
+JIMMY: The Apocalypse boys is here.  They's asking for you, Sheriff.
+KRYTEN: I'll be right out.
+
+KRYTEN takes numerous gulps of whisky before leaving the saloon to face
+the Apocalypse boys on the porch.
+
+24 Ext. Streets Of Laredo. Day.
+
+The FOUR HORSEMEN OF THE APOCALYPSE sit menacingly on horseback outside
+the saloon.  The bat-wing doors part and a nervous KRYTEN emerges
+swigging from a bottle of hooch.
+
+KRYTEN: I don't believe I've had the pleasures, sirs.
+
+DEATH spits out some chewing tobacco, which fizzles on the street like
+acid.
+
+DEATH: The name's Death.  And these here're my brothers.  Brother War...
+
+WAR laughs and flames shoot out of his mouth.
+
+DEATH: Brother Famine...
+
+Fat FAMINE nods and takes a bite of chicken.
+
+DEATH: and Brother Pestilence.
+
+PESTILENCE grins, showing horrible broken teeth.  He swipes idly at the
+swarm of buzzing flies around his head.
+
+KRYTEN: Well, you seem like a nice neighbourly bunch of boys.  How can I
+  be of service?
+
+All FOUR APOCALYPSE BOYS draw, shooting KRYTEN's hat off, and his bottle
+from his  hand, as he dances around trying to avoid the hail of bullets.
+Finally the  gunfire stops.
+
+DEATH: We want your sorry ass out of here.  You got one hour.
+
+DEATH spits a sizzler again, and THE FOUR HORSEMEN turn and gallop under
+a dangling sign:  'YOU ARE NOW LEAVING EXISTENCE', and as the HORSEMEN
+ride under it, they disappear.  KRYTEN takes off his sheriff's star and
+throws it on the ground.
+
+25 Int. Ops Room.
+
+LISTER: He's losing the battle.  Look at his lifesigns, they're barely
+  registering.
+CAT: Isn't there some way we can get in there and help him?  Somehow turn
+  ourselves into tiny electronic people and get into his dream?  Isn't
+  there some sort of gizmo lying around someplace that can do that?  And
+  if not (punches hand) why not?!
+RIMMER: Look, I think we've all got something we can bring to this
+  discussion.  But I think from now on the thing you should bring is
+  silence.
+LISTER: No, no, no, I think he's got something.
+CAT: Twice in one lifetime!  When you're hot, you're hot.
+LISTER: If we link up the artificial reality console to Kryten's mind, we
+  should be able to project directly into his dream state like it was a
+  normal computer game.
+CAT: What did I tell you?  We don't even have to leave the room!
+RIMMER: What about me?
+LISTER: We'll shut all extraneous systems and power up your hard light
+  drive.  Come on guys, lets get these wagons rolling.
+
+26 Int. Ops Room. Later.
+
+LISTER, CAT and RIMMER are gathered round the AR console making
+selections on the screen.
+
+LISTER: There we go, I've loaded in some characters from an AR western
+  game.  Choose a  player from 1 to 3.
+CAT: Two.
+
+The image and stats of The Riveria Kid are shown on the console.
+
+LISTER: Here you go, you're the Riveria Kid, special skills ace gun
+  slinger.  Rimsy?
+RIMMER: Uno.
+
+The image and stats of Dan are shown on the screen.
+
+LISTER: One.  Dangerous Dan McGrew,special skills, bare fist fighting.
+  Which leaves me with Brett Riverboat, knife man.
+RIMMER: And we definitely can't get hurt?
+LISTER: No, it's just like a normal computer game, you can get out at
+  anytime.  There's a button on the inside of the glove, when you want to
+  get out, just clap.  OK, Riveria, OK Dangerous.  Lets mosey on into
+  town.
+
+Flipping down the AR visors, they assume horse-riding positions and start
+to "gallop".
+
+27 Ext. Streets Of Laredo. Day.
+
+Through a swirling mist LISTER, CAT and RIMMER gallop into town.  They
+dismount before the saloon and, tying their horses to the hitching post,
+enter through the bat-wing doors.
+
+28 Int. Saloon. Day.
+
+RIMMER: I've seen Westerns, I know how to speak cowboy.
+
+The three step up to the bar.
+
+RIMMER: Dry white wine and Perrier please.  And what about you two chaps?
+LISTER: Rimmer, what westerns have you seen?  Butch Accountant and the
+  Yuppie Kid?
+CAT: Leave this to me, this sounds like one for the Riveria Kid !!!
+
+As CAT speaks his character's name he throws back his hands and dances a
+little Mexican dance accompanied by a Spanish Guitar.
+
+CAT: Ehhh, Senorita, tequila porfavore.
+LOLA: What?
+LISTER: He means three shots of gulping whisky, mam.
+
+CAT and LISTER down their shots in one.  Shocked expressions, hoarse
+voices;
+
+LISTER: Very smooth.
+CAT: I was expecting something with a little more kick to it.
+RIMMER:  (Contemplating his undrunk whisky.) I don't suppose you've got
+  any ginger ale mixers.
+
+LOLA spits into RIMMER's face.
+
+RIMMER: I'll take that as a no then, I'll have it neat.
+
+RIMMER downs the whisky, gulping.  The smile freezes on his face.  He
+grabs the hat being used as the pot in a card game, and is sick into it.
+Music and talk stop.  The owner of the hat stands and looms, making
+RIMMER look shorter than a Clint Eastwood speech.  Chairs scrape back
+from tables.
+
+BEAR STRANGLER MCGEE: A man beans up in the hat of Bear Strangler Mcgee,
+  he's either mighty brave or mighty stupid.  Which are you, boy?
+RIMMER: Sorry, what were the choices again?
+
+LISTER hands some money to MCGEE.
+
+LISTER: You'll have to forgive our friend, he's a souple of Gunmen short
+  of a posse.
+BEAR STRANGLER MCGEE: That pays for the hat.  What about the insult?
+RIMMER: OK.  You're a fat bearded git with breath that could knock-out a
+  grizzly.
+LISTER:  (Shoving the rest of his money into MCGEE's hands.) Take the
+  lot, man.  Rimmer, what is wrong with you?
+RIMMER: Relax!  You said yourself, Lister, no-one can hurt us.  Besides,
+  you're forgetting:  I'm Dangerous Dan McGrew, Bare Fist Fighter Extra-
+  ordinaire.
+
+KRYTEN enters the saloon carrying a small wooden box.
+
+KRYTEN: Here Lola, all my valuables are in this here box.  You can have
+  it all for one bottle of mind rotter.
+LOLA: You're trading in your shooting irons?
+
+The box contains guns and some carrots.
+
+KRYTEN: No use to me.  I've got the shakes so bad, I'm like a couple of
+  porcupines on their wedding night.
+LOLA: Carrots?
+KRYTEN: I'm throwing in my mule, Dignity.
+RIMMER: Mr Sad Git or what?
+
+LISTER leans over to KRYTEN.
+
+LISTER: Kryten it's us, man.
+KRYTEN: Sorry friend, I don't believe I've had the pleasure.
+LISTER: Kryten, don't you know who we are, why you're here?  You're
+  fighting an electronic virus, you're trying to create a dove program.
+  Some sort of software antidote to wipe it out.
+KRYTEN: I'll drink to that.
+CAT: Listen to him pooch head, the virus is winning, you've got to get
+  your head together and start fighting it.
+
+There is a sudden crack as JIMMY gets the bottle off KRYTEN using a bull
+whip.  He then dangles the drink temptingly in front of KRYTEN.
+
+JIMMY: Want a drink Sheriff?  Why don't you come and take one?
+KRYTEN: Now now Jimmy, there's no need to be going make me look foolish.
+JIMMY: Come on Sheriff, jump!  You can get higher than that!
+
+LISTER steps forward.
+
+LISTER: Leave him alone.
+JIMMY: Just having a little fun, Mr Swankypants.
+LISTER: The names Brett Riverboat, knifeman.  (whisper) Let's see how
+  good you are.
+
+LISTER demonstrates some brilliant knifework by disarming JIMMY and
+pinning him to the wall.
+
+JIMMY: Son of a ....
+
+LISTER finishes up by throwing an apple into JIMMY's mouth.
+
+JIMMY: Frank, Nuke, line his lungs with lead.
+
+As the two Gunmen stand up, the CAT steps forward.
+
+JIMMY: Who in the heck are you?
+CAT: The call me the Kid, the Riveria Kid!!
+
+Cue the CAT's Riveria Kid dance.
+
+JIMMY: Well, Riveria Kid, let's see if your shooting is a fancy as your
+  dancing.
+
+FRANK and NUKE both draw and fire off a shot each.  Back to the CAT, who
+casually draws and fires.  There are two mid-air flashes half-way between
+the CAT and the GUN_FIGHTERS, and two bullets clatter to the floor.
+
+JIMMY: He shot the damn bullets out of the air!
+KRYTEN: Well, it's been mighty dandy meeting you boys, but if I'm not out
+  of here by sun-up the buzzards will be fighting the lizards for my
+  gizzards.
+
+KRYTEN makes a run for the door.
+
+LISTER: If he leaves town, we're dead.  Stop him!
+
+As the three try to follow KRYTEN from the saloon they are attacked by
+some of the patrons.  RIMMER puts his bare fist fighting skills into
+practice by beating up the three men.
+
+RIMMER: Marvellous.
+
+RIMMER dusts himself down and leaves the saloon.
+
+29 Ext. Streets OF Laredo. Day.
+
+KRYTEN is running for the town's edge.
+
+CAT: Hey buddy!
+RIMMER: Hold it!
+LISTER: You gotta stay!
+CAT: This is a job for the Riveria Kid!
+
+CAT does the Riviera Kid dance, draws his gun, and fires.  The bullet
+hits a tin bath and ricochets across the street, where it hits a bell and
+ricochets again.  Wide shot of the street as the bullet zig-zags towards
+KRYTEN, finally severing the support on one side of the dangling
+'EXISTENCE' sign, which swings down and flattens KRYTEN.  The other three
+gather round the fallen mechanoid.
+
+KRYTEN: But boys you don't understand, I've got to leave.  Look (pointing
+  at the town clock):  it's ten to Death.
+LISTER: OK, we've got ten minutes to sober him up and get him in shape.
+  Come on.
+
+30 Int. Sheriff's Office.
+
+RIMMER and LISTER are sat with KRYTEN.
+
+KRYTEN: Sir, I just can't eat anymore raw coffee.
+LISTER: Two more bowls.
+KRYTEN: But I am sober, honest!
+LISTER: OK, who are you and why're you here?
+KRYTEN: I'm some kind of robot who's fighting this virus, and none of
+  this exists, it's all in a fever, except for you guys, who really do
+  exist, only you're not really here, you're really on some space ship in
+  the future.  Hell, if that's got to make sense I don't want to be
+  sober!
+
+The CAT enters via some stairs.
+
+CAT: I got his guns back, and look at the handles.  They've got little
+  doves carved on them, and check this, there's no place for the bullets
+  to go.
+LISTER: This is it Kryten, the answer's in these guns somehow.  Doves,
+  dove program.
+
+The CAT wanders over to the window as KRYTEN looks at the guns.
+
+KRYTEN: Wait, somethings coming back now.  (To Lister.) You sir.
+  Whenever I look at you I get an image of curry and early morning breath
+  that could cut through bank vaults.  (To Rimmer.) You sir.  There's
+  something familiar about you too, I get a name, SmmmEE, SmmEEgGG
+  HHHeeeDD.
+RIMMER: Smeghead?
+KRYTEN: That's it!
+RIMMER: He remembers me.
+LISTER: The guns Kryten, do the guns mean anything to you?
+KRYTEN: Something, they mean something... if only I had more time.
+CAT: PSSSTTT, company.
+
+31 Ext. Streets Of Laredo. Day.
+
+The APOCALYPSE BOYS walk slowly through the swirling mists and stop at
+the far end of the street.  KRYTEN steps out of the Sheriff's Office
+followed by LISTER, RIMMER and CAT.  They fan out across the street.
+
+DEATH: Got yourself a little help there, Sheriff?
+KRYTEN: Now I remember you.  You're a computer virus, travelling from
+  machine to machine, overwriting the core program.
+DEATH: Have infection, will travel:  that's me.  Lets see if we can't tip
+  the balance  here a little...
+
+DEATH points his arm to the heavens and a lightning bolt emerges from it.
+
+32 Int. Starbug Ops Room.
+
+The screen of the AR console is shown.  The special skills that the
+characters have are being erased.
+
+33 Ext. Streets Of Laredo. Day.
+
+CAT: What is he doing?
+RIMMER: He's stalling.  He's spotted us for what we are:  a bunch of mean
+  macho bad ass desperados.  We're going to kick his boney butt clean
+  across the town.  Enjoy the show.  (To the Apocolypse Boys:) Who's got
+  the guts to go with me one on one, hand to hand, mano et mano?
+
+WAR steps forwards.
+
+LISTER: Cover him.
+
+Whilst drawing his guns CAT fumbles them.
+
+CAT: Damn, I've lost my special skills.
+
+RIMMER steps over to a hitching post and tries to lift off the cross bar,
+and  fails.  WAR does the same and succeeds.  RIMMER tries again and
+still fails.  LISTER also discovers that he has lost his special skills
+by throwing his knife over his shoulder.
+
+LISTER: Rimmer, the virus has spread to the AR unit.  We've lost our
+  special skills.
+RIMMER: Ahhh, Mr War sir, it would appear that due to circumstances
+  completely beyond  my control, there's been a bit of a cock up in the
+  bravado department.
+
+RIMMER is hit over the head with the wooden cross bar by WAR.
+
+RIMMER: I may indeed have come across as being more brave than in fact I
+  am.
+LISTER: Exit, exit.
+
+RIMMER attempts to exit the game by clapping his hands, he cannot, he
+turns his constant clapping into a castanet dance, before being hit over
+the head again by WAR.
+
+LISTER: We're sealed in.
+CAT: Get the helmets off.
+RIMMER: It won't move.
+LISTER: Cat the back.
+CAT: I got one of my gloves off..........and a boot too.
+RIMMER: Ohh brilliant, now you're paralysed compeletely down your left
+  hand side.
+
+34 Int. Starbug mid-section.
+
+CAT is seen trying to wrench LISTER's helmet off.
+
+35 Ext. Laredo.
+
+LISTER: Ohhh, me nose!
+CAT: I've almost got it.
+LISTER: You're pulling my nose off!
+CAT: Here it comes.
+LISTER: The helmet's coming off.
+
+36 Int. Starbug Ops Room.
+
+LISTER's helmet comes free.
+
+37 Ext. Streets Of Laredo. Day.
+
+LISTER disapears from the game.  CAT also fades from the game, leaving
+only RIMMER to face the Boys.
+
+DEATH: We're gonna cut you up so small the worms aren't even going to
+  have to chew.
+RIMMER: You can't frighten me, I'm always scared.  LISTERRRRR!
+
+RIMMER fades from the game just as the boys bear down on him to stab him.
+
+38 Int. Starbug Ops Room.
+
+CAT: What now?
+LISTER: It's down to Kryten.
+
+39 Ext. Streets OF Laredo. Day.
+
+KRYTEN is left alone on the street to face the GUNMEN.
+
+DEATH: Well Sheriff.  Now it's just little old you.
+KRYTEN: I'm not afraid Mr Death sir.  I believe my friends have bought me
+  enough time to complete the antidote program.  Now, if you'll forgive
+  the rather confrontational imperative, go for your guns you scum
+  sucking mollascs.
+
+SLO-MO:  The GUNMEN draw and fire.  Four shots slam into KRYTEN's chest.
+He staggers, then straightens, and draws both his guns.  As the guns
+leave his holsters they transform into white doves, which soar off into
+the sky.  The GUNMEN collapse and slowly fade away.
+
+40 Int. Starbug Ops Room.
+
+KRYTEN comes round in Starbug.
+
+KRYTEN: I did it!  I created an antidote.
+
+The four rush into the cocpit.
+
+41 Int. Cockpit.
+
+LISTER: Two minutes till impact.  Come on!
+RIMMER: How long will it take?
+KRYTEN: (feverishly typing in commnds.) Just a few seconds.  How long to
+  impact?
+RIMMER: Just a few seconds.
+KRYTEN: Loading it up... it's going into the navicomp.
+RIMMER: 8 seconds, 7.
+KRYTEN: Nearly there.
+CAT: 5, 4, 3 ,2
+LISTER: We're not going to make it!
+CAT: IMPACT.
+
+42 Model Shot.
+
+Starbug crashes into a sea of lava and disappears.  Silence.  Only a few
+bubbles of bursting gas break the surface.
+
+Suddenly, Starbug emerges from the molten lava, it's hull in flames.
+Picking up speed, it climbs into the sky at a dizzying angle.
+
+43 Int. Starbug Cockpit.
+
+CAT: YEEEEEEHHHAAAAAAAAAAAAAAAAAA !!!!!!!!!!!!
+
+44 Model Shot.
+
+Starbug flies into the distance and fades from view.
+
+
+                                  The End.
+
+       Credits:
+                                Rimmer  Chris Barrie
+                                Lister  Craig Charles
+                                   Cat  Danny John-Jules
+                                Kryten  Robert Llewellyn
+                               Loretta  Jennifer Calvert
+                Simulant Captain/Death  Dennis Lill
+                   Simulant Lieutenant  Liz Hickling
+                                  Lola  Imogen Bain
+                                 Jimmy  Steve Devereaux
+                                   War  Robert Inch
+                            Pestilence  Jeremy Peters
+                                Famine  Dinny Powell
+                  Bear Strancler McGee  Stephen Marcus
+
+                              Director  Andy De Emmony
+
+                               Writers  Rob Grant
+                                        Doug Naylor
+
+

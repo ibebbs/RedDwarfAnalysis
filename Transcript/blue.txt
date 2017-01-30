@@ -1,0 +1,2687 @@
+
+[--------------------------------------------------------------------------]
+
+                           RED DWARF - SERIES 7
+
+[--------------------------------------------------------------------------]
+
+                            EPISODE 5 -- BLUE
+
+[--------------------------------------------------------------------------]
+
+                               Version 0.5
+
+                           18-19 February, 1997
+
+                      Raz / raz@mushroom.demon.co.uk
+
+                      http://www.mushroom.demon.co.uk
+
+
+
+
+
+[------------------ <RUN NEW RED DWARF 7 TITLE SEQUENCE> ------------------]
+
+
+
+
+
+[-- 1 - Int. Starbug ------------------------------------------------------]
+
+
+
+[LISTER present, polishing a pair of boots]
+
+
+
+[Enter KRYTEN]
+
+
+
+<KRYTEN, noticing what LISTER is doing, stands surprised for a moment before
+
+speaking>
+
+
+
+KRYTEN
+
+  Good morning, sir!  How about a little breakfast?  What would you say to a
+
+dozen grilled winkels on a bed of curried rice crispies?
+
+
+
+LISTER
+
+  I'm not eatin' that spicy stuff any more.
+
+
+
+KRYTEN
+
+  Forgive me, sir, but the phenomena of you not eating spicy food is like
+
+a - a - zebra not being stripy, or an old lady not sitting on a park bench
+
+with her legs open.
+
+  May I ask why?
+
+
+
+LISTER
+
+  Apart from anything else it makes y' breath smell like a lift full of
+
+senile donkeys returning from a gargling contest.
+
+
+
+KRYTEN
+
+  Well, that's never bothered you before, sir..?
+
+
+
+LISTER
+
+  Well it bothers me now, okay??
+
+
+
+KRYTEN
+
+  It's because of *her*, isn't it... 'she who must be drooled over'...
+
+
+
+LISTER
+
+  You mean Kris?
+
+
+
+KRYTEN
+
+  Whatever *my* feelings, sir, I will *not* be tempted into making petty
+
+criticisms of fellow crewmembers.
+
+  There is, of course, the issue of the salad cream...
+
+
+
+LISTER
+
+  'The salad cream'..?
+
+
+
+KRYTEN
+
+  I spent many months training everyone to put the salad cream in the
+
+fridge.  Then *she* comes on board, and - lo and behold! - it turns up back
+
+in the cupboard!
+
+
+
+LISTER <sarcastic>
+
+  The first moon we come to - let's dump her!
+
+
+
+
+
+[-- x - Int. Starbug corridor ---------------------------------------------]
+
+
+
+[Enter LISTER, KRYTEN]
+
+
+
+KRYTEN
+
+  And what about the extra laundry?  Now there are all kinds of
+
+extraordinary items turning up in the dirty linen basket: tights; bras;
+
+skimpy vests; little socks - tut, it's a massive extra workload!  Frank is
+
+very upset.
+
+
+
+LISTER
+
+  Frank?
+
+
+
+KRYTEN
+
+  The washing machine.  I named him Frank, he works better with an identity.
+
+  And what about the ironing?  I mean, *how* do you iron a bra??
+
+
+
+LISTER
+
+  Well, you've gotta take it off first...
+
+  I spent years practicing that - used to put m' nan's bra around the
+
+armchair until I could unhook it with m' left hand.  Even now, whenever I
+
+see a {Parker nol??} I get horny.
+
+
+
+
+
+[-- x - Int. Starbug Mid-section ------------------------------------------]
+
+
+
+[Enter LISTER, KRYTEN]
+
+
+
+KRYTEN
+
+  But have you ever tried to iron a bra, sir?  The only way I've found is
+
+to stretch each container over my head, and iron it from there.  Believe me,
+
+on a hot cotton setting it sends my optical systems into leak overload.
+
+
+
+LISTER
+
+  Cup.
+
+
+
+KRYTEN
+
+  Sorry, sir?
+
+
+
+LISTER
+
+  They're not called containers, they're called cups.
+
+
+
+KRYTEN
+
+  See?  I even have to learn new terminology, special *female* terminology:
+
+'cups', 'pot pourri', 'depillatory cream' - oh!  It's never-ending.
+
+
+
+<LISTER wearily walks to the galley, KRYTEN following>
+
+
+
+LISTER
+
+  How come you don't know what bras are?  What about the women on the
+
+Nova 5?
+
+
+
+KRYTEN
+
+  Well, when I cleaned up my cache files, sir, I erased my lingerie
+
+database.  I didn't see there's be much call for it, unless we had a fancy
+
+dress party, and you wanted to go as Herman Goering.
+
+
+
+LISTER
+
+  Anyway, you can relax, Kryten.  She programmed the scan probe last week,
+
+and it's returned the coordinates of the dimensional tear.  This time
+
+tomorrow she;ll be back in her own dimension.
+
+
+
+KRYTEN
+
+  Well you're surely not upset, sir?
+
+
+
+LISTER
+
+  Look, if you've got a problem with *her*, say something to *her*.
+
+
+
+KRYTEN
+
+  I think I will!
+
+
+
+LISTER
+
+  There's no point whinging to me about it, say it to *her*.
+
+
+
+[Enter KOCHANSKI]
+
+
+
+KOCHANSKI
+
+  Hi guys, how's it going?
+
+
+
+KRYTEN
+
+  Ah!  Morning Miss Kochanski, ma'am!  Sleep well?
+
+
+
+LISTER <to KRYTEN>
+
+  Coward.
+
+
+
+<LISTER passes back into the mid-section>
+
+
+
+KRYTEN <to LISTER>
+
+  Hypocrite.
+
+
+
+<KRYTEN too re-enters the mid-section>
+
+
+
+KOCHANSKI
+
+  Erm, not great, actually.  Had this really weird dream about a monkey
+
+being stretched across a tennis court... noise was just unbearable...
+
+  Where you practising the guitar again last night?
+
+
+
+<LISTER avoids her eyes, and KOCHANSKI walks over to the galley>
+
+
+
+KOCHANSKI
+
+  So, what's for breakfast?
+
+
+
+<Opens fridge>
+
+
+
+KOCHANSKI
+
+  Ah, what's this doing in here?
+
+
+
+<KOCHANSKI takes the salad cream from fridge and puts it in a coupboard>
+
+
+
+KRYTEN <to LISTER>
+
+  Hold me back!  *Hold* me back!
+
+
+
+
+
+[-- x - Model shot --------------------------------------------------------]
+
+
+
+
+
+[-- x - Int. Sleeping quarters --------------------------------------------]
+
+
+
+[LISTER, KRYTEN present]
+
+
+
+KRYTEN
+
+  Don't you see, sir, these deviations from established Space Corps. drill
+
+could put our lives in jeapardy!
+
+
+
+LISTER
+
+  She was only drying her tights on the radiator!
+
+
+
+KRYTEN
+
+  That's the thin end of the wedge, sir!  One day it's drying tights, the
+
+next we're spiralling out of control into the core of a newly-formed sun!
+
+
+
+[Enter KOCHANSKI]
+
+
+
+KOCHANSKI
+
+  Er, sorry to interrupt, but we've got a couple of problems: all the
+
+hazard-approach lights are flashing -
+
+
+
+KRYTEN
+
+  All of them?
+
+
+
+KOCHANSKI
+
+  Yes, although on this ship that can mean anything from "we're under
+
+attack", to "the baked potatoes are burning".
+
+
+
+[Exit KOCHANSKI]
+
+
+
+KRYTEN
+
+  Either way, it's serious.
+
+
+
+[Exit KRYTEN, LISTER]
+
+
+
+
+
+[-- x - Int. Starbug cockpit ----------------------------------------------]
+
+
+
+[CAT, KOCHANSKI present]
+
+
+
+[Enter LISTER, KRYTEN]
+
+
+
+CAT
+
+  Getting a reading...  There's something up ahead:  a shiny thing, with a
+
+long, silvery, glimmery thing behind it.
+
+
+
+KOCHANSKI
+
+  It's a phasing comet - velocity 25,000mps.
+
+
+
+CAT
+
+  That's what I said!
+
+
+
+LISTER
+
+  Kryten?
+
+
+
+KRYTEN
+
+  How am I supposed to concentrate on a phasing comet when, as soon as my
+
+back's turned, the sald cream gets warm.
+
+
+
+KOCHANSKI
+
+  Heading straight for it's tail - plotting avoidance course.
+
+
+
+LISTER
+
+  What's the problem with going through it?  It'll get you home quicker.
+
+
+
+KOCHANSKI
+
+  Last time anyone did that, the gyroscopic forces ripped the ship apart,
+
+turning the crew into the consistency of potato salad!
+
+
+
+CAT
+
+  Is that the firm, delicatessen form of potato salad, or the squishy, gooey
+
+stuff in tins?
+
+
+
+KOCHANSKI
+
+  [beat]
+
+  Tins...
+
+
+
+CAT
+
+  Maybe we should go around..?
+
+
+
+LISTER
+
+  We'll make it - we're a crew - we've been through a few things.  Remember
+
+when we met up with the Vidal Beast of Sharma II?
+
+
+
+CAT
+
+  The one that nearly killed us?
+
+
+
+LISTER
+
+  No, the other one!
+
+  Look, we can make it, okay?
+
+
+
+KOCHANSKI
+
+  Do you *know* what a comet is made of?
+
+
+
+LISTER
+
+  Are you suggesting that I don't know what a comet's made of?
+
+
+
+KOCHANSKI
+
+  Yes.
+
+
+
+LISTER
+
+  Well I do.
+
+
+
+KOCHANSKI
+
+  So what's it made of?
+
+
+
+LISTER
+
+  What's it made of?
+
+
+
+KOCHANSKI
+
+  Yes.
+
+
+
+LISTER
+
+  You wanna know what it's made of?
+
+
+
+KOCHANSKI
+
+  Yes, I do.
+
+
+
+KRYTEN
+
+  Ma'am, he knows what it's made of.
+
+
+
+KOCHANSKI
+
+  What??
+
+
+
+KRYTEN
+
+  Sir, tell her for goodness sake!
+
+
+
+KOCHANSKI
+
+  So, what's it made of?
+
+
+
+<KRYTEN silently works his mouth, forming the word 'ice' for LISTER>
+
+
+
+LISTER
+
+  I see - I see...  Gas.  Some kind of gas.
+
+
+
+<KRYTEN buries his head>
+
+
+
+KOCHANSKI
+
+  Some kind of gas??
+
+
+
+LISTER
+
+  Yeah, some gas!  Dunno what it's called, some gassy type of gas.
+
+
+
+KOCHANSKI
+
+  It's made of *ice*.
+
+
+
+LISTER
+
+  Exactly!  An icey type of gas, that's what I said: ice, an ice gas.
+
+
+
+CAT
+
+  I hate to interrupt, but this thing, whatever the hell it is, is gonna hit
+
+us in about forty-five seconds!
+
+
+
+LISTER
+
+  I was only tryin' to save time, so we could get to the dimensional tear
+
+quicker!  So you could get home to your much better Lister.
+
+
+
+KOCHANSKI
+
+  And I'm just trying to prevent us being scattered all over the galaxy like
+
+some kind of cosmic seasoning!
+
+
+
+CAT
+
+  Here it comes!
+
+
+
+KOCHANSKI
+
+  That wasn't forty-five seconds!
+
+
+
+CAT
+
+  Oh - sorry!  I was reading the baked potato timer by mistake!  Will people
+
+not leave that in here??  It just makes us look like we don't know what the
+
+hell we're doing!
+
+
+
+
+
+[comet hit]
+
+
+
+
+
+CAT
+
+  Lateral trimmers not responding!  It's like wrestling in treacle!
+
+
+
+KOCHANSKI
+
+  You hear that?  Cat says the trimmers are like wrestling in treacle!
+
+
+
+CAT
+
+  No, I said they were *down*, then I asked if you like wrestling in --
+
+  Anyway...
+
+
+
+LISTER
+
+  Damage report, Kryten.
+
+
+
+KRYTEN
+
+  Auxilliary flight modulator has short-circuited --
+
+
+
+CAT
+
+  And the chocolate dispensers' ejected all the {someting!} snack bars onto
+
+the gallery floor!
+
+
+
+
+
+[model shot]
+
+
+
+
+
+LISTER
+
+  What's happenned to the stabalisers?
+
+
+
+CAT
+
+  Never mind the stabalisers!  Where's the hair mousse?
+
+
+
+KRYTEN
+
+  Stabalisers very unstable...
+
+
+
+CAT
+
+  Thirty snack bars sliding about!
+
+
+
+LISTER
+
+  I'm taking over control!
+
+
+
+<wrestles with controls>
+
+
+
+LISTER
+
+  Yeaaaay, what did I tell ya?  Come to daddy, baby!  I have *control*.
+
+
+
+KOCHANSKI
+
+  It's called the pre-fold vaccum; we're in-between vapour streams.  With a
+
+bit of luck we can ride it across to the other side of its tail.
+
+
+
+[the second wave hits]
+
+
+
+KOCHANSKI
+
+  Or maybe not!
+
+  If we don't turn around and go back we'll disintegrate in two minutes!
+
+
+
+LISTER
+
+  Kryten?
+
+
+
+KRYTEN
+
+  That's a little pessimistic, sir, I'd say more like three!
+
+
+
+LISTER
+
+  I think we should turn around...
+
+
+
+<Starbug survives the wave and flies into clear space>
+
+
+
+LISTER
+
+  Pheww...
+
+  Well, go on, say it.
+
+
+
+KOCHANSKI
+
+  Say what?
+
+
+
+LISTER
+
+  You know what you want to say.  Say it.
+
+
+
+KOCHANSKI
+
+  You want me to say it?
+
+
+
+LISTER
+
+  Say it.
+
+
+
+KOCHANSKI
+
+  You *really* want me to say it?
+
+
+
+LISTER
+
+  Go on, say it!
+
+
+
+KOCHANSKI
+
+  All right.  My Dave would *never* have endangered our crew like that.
+
+
+
+LISTER
+
+  You *had* to say it, didn't you.
+
+  Will you stop calling your boyfriend 'Dave', he's just an alternative
+
+version of me from a prallel dimension.  He's not 'Dave', he's the
+
+anti-Lister.
+
+
+
+KOCHANSKI
+
+  Well, whoever the hell he is, I'm not gonna get to see him.  By the time
+
+we fix this *mess* I'll have missed the Linkway!
+
+
+
+[Exit KOCHANSKI]
+
+
+
+LISTER
+
+  Coulda got through that if the thrusters had worked...
+
+
+
+CAT
+
+  According to the SysComm, the thrusters never worked 'cos we were
+
+carrying too much weight.
+
+
+
+KRYTEN
+
+  It's Miss Kochanski's *laundry*; why will no one listen to me?  Those
+
+little whirly things are heavier than they look!
+
+
+
+CAT
+
+  Suppose we take a look in the cargo hold and see what supplies can be
+
+jettisoned?
+
+
+
+LISTER
+
+  I'll go.  I could do with a breath of musty, fetid air...
+
+
+
+KRYTEN
+
+  Er, sir... you didn't *deliberately* damage the ship so that Miss
+
+Kochanski had to stay behind, did you..?
+
+
+
+LISTER
+
+  No!  'Course not!
+
+  Look, I'm gonna check out the hold.  Rimmer, man, you comin'?
+
+
+
+<He stops.  KRYTEN and CAT stare at him>
+
+
+
+LISTER
+
+  Did I say..?  Why did I call you 'Rimmer'?  I called you 'Rimmer', my god!
+
+  Cat!  Are you gonna make yourself useful or are you gonna preen yourself
+
+all day?
+
+
+
+CAT
+
+  You mean I have a choice??
+
+
+
+LISTER
+
+  Come onnn...
+
+  Can't believe I called you 'Rimmer'...
+
+
+
+
+
+[-- x - Int. Sleeping Quarters -------------------------------------------]
+
+
+
+[KOCHANSKI present]
+
+
+
+<knock>
+
+
+
+KOCHANSKI <wearily>
+
+  Yesss?
+
+
+
+[Enter KRYTEN]
+
+
+
+KRYTEN
+
+  As it seems you may be with us for some time, ma'am, I was wondering if I
+
+might go through a few 'rules of the ship'?
+
+
+
+KOCHANSKI
+
+  Like what..?
+
+
+
+KRYTEN
+
+  Salad cream.  Salad cream belongs in the fridge, and *not* in the
+
+cupboard.
+
+  Two:  Pants belong in the pants drawer, and socks belong in the socks
+
+drawer.  Having discovered a sock in your pants drawer, this simple
+
+principle obviously needs re-stating...
+
+
+
+KOCHANSKI
+
+  Talking of my clothes, I'd like you to explain why my bras come back from
+
+the laundry shaped like... like... your *head*..?
+
+
+
+<KRYTEN studiously avoids her eyes>
+
+
+
+KRYTEN
+
+  Three:  The toilet seat fiasco --
+
+
+
+KOCHANSKI
+
+  Kryten!  I just don't want to hear this!
+
+
+
+KRYTEN
+
+  Mr Lister hasn't said anything, but I can tell he's *not* happy...
+
+
+
+KOCHANSKI
+
+  Well he's not the only one!  Do you think I *like* flying around space in
+
+this big skip-with-thrusters?  Do you think I even enjoy breathing in on
+
+this ship??  And to cap it all, I am faced with some neurotic droid who's
+
+completely obsessed with my pants drawer!
+
+
+
+KRYTEN
+
+  You mean I'm not alone..?  Oh, I see.  You mean me.
+
+  Well, just as long as we understand one another!
+
+
+
+[Exit KRYTEN]
+
+
+
+KOCHANSKI
+
+  Ohhh, *god*.  Welcome to hell...
+
+
+
+
+
+[-- x - Int. Cargo hold --------------------------------------------------]
+
+
+
+[LISTER, CAT present]
+
+
+
+LISTER
+
+  Look at these... Rimmer's old shoe trees.  He had one for every pair of
+
+his shoes.  Gave them all names: Mon-shoetree, Tue-shoetree,
+
+Weden-shoetree...
+
+
+
+CAT
+
+  What the hell for?
+
+
+
+LISTER
+
+  So they all spent the same ammount of time in his shoes.
+
+
+
+CAT
+
+  Tsh.  What a smeg head...
+
+
+
+LISTER
+
+  Oh, he had lots of funny little habits.  But now that he's gone, I can see
+
+them for what they were...
+
+
+
+CAT
+
+  Cretinous.
+
+
+
+LISTER
+
+  No... they were all the little foibles that made Rimmer... speecial.  He
+
+was unique.
+
+
+
+CAT
+
+  Yeah... irritating, awkward and unsightly.  He was the human equivalent of
+
+a visible pantie line!
+
+  Well, we may as well start somewhere.  These can go!
+
+
+
+LISTER
+
+  No, no, you can't throw *them* out.  They're from when me and Rimmer
+
+played gold on Treka XVI.  We  had a lot of fun.
+
+
+
+CAT
+
+  You had *fun* with Rimmer??
+
+
+
+[DISSOLVE: LISTER's flashback]
+
+
+
+
+
+[-- x - Ext.  Planetscape ------------------------------------------------]
+
+
+
+[KRYTEN, LISTER, RIMMER present]
+
+
+
+KRYTEN
+
+  I'm afraid I only had room to build a nine-hole course, sirs.  It *is* a
+
+very small planetoid.  Er, taking into consideration the thiness of
+
+atmosphere, sir, I've made this a fifteen mile hole, par 3.
+
+
+
+<RIMMER takes shot, ball flies off into the distance>
+
+
+
+KRYTEN
+
+  Oh, good *shot*, sir!
+
+
+
+LISTER
+
+  Heyyy, watch this - watch and weep...
+
+
+
+<LISTER takes shot, ball shoots space-ward>
+
+
+
+LISTER
+
+  Ohh, smeg!
+
+
+
+KRYTEN
+
+  Ooh, I - I think it's gone into orbit, sir.
+
+
+
+RIMMER
+
+  Tough luck, Listy - I'll just pot mine and you owe me fifty big ones!
+
+
+
+[Exit RIMMER]
+
+
+
+LISTER
+
+  Look at him, in the right boots he could be marchin' into Poland.
+
+
+
+<LISTER and KRYTEN walk a short distance>
+
+
+
+LISTER
+
+  'Eyy, this is Rimmer's ball, isn't it?
+
+
+
+KRYTEN
+
+  It must have gone right around the planetoid, sir.
+
+
+
+LISTER
+
+  Well, no point botherin' him about it, Krytie, let's go.
+
+
+
+
+
+[-- x - Int. Blue Midget cockpit -----------------------------------------]
+
+
+
+[LISTER present, sat with feet up, watching RIMMER searching planetoid
+
+ surface on a monitor]
+
+
+
+RIMMER
+
+  It must be here, somewhere!  I've been 'round the planetoid twice!
+
+
+
+LISTER
+
+  No ball, no bet, man - keep lookin'.
+
+
+
+[DISSOLVE: out of flashback]
+
+
+
+
+
+[-- x - Int. Cargo hold --------------------------------------------------]
+
+
+
+[LISTER, CAT present]
+
+
+
+LISTER
+
+  Memories like that are just too precious to throw away...
+
+
+
+[Enter KRYTEN]
+
+
+
+KRYTEN
+
+  Hello there, sir, how's it going?
+
+
+
+CAT
+
+  We're getting nowhere, bud.  He won't throw anything away because it
+
+reminds him of the good times he had with Rimmer!  I must have blinked and
+
+missed them.
+
+
+
+LISTER
+
+  You don't know what we used to do back on Red Dwarf in the early days.
+
+Like when we played the Locker Room game, we used to open up the lockers of
+
+all the dead crew members, and we got to keep whatever we found.
+
+
+
+[DISSOLVE: LISTER's flashback]
+
+
+
+
+
+[-- x - Int. Red Dwarf locker-room --------------------------------------]
+
+
+
+RIMMER
+
+  I don't trust you, Lister... this game's rigged.  Every time we play it,
+
+you win.  Last time, you got a 30 carat gold wristwatch, and all I got was
+
+one Wellington boot and a box of one hundred assorted tampons that glow in
+
+the dark.
+
+  Right, well I'll go first this time.
+
+
+
+LISTER
+
+  Okay.
+
+
+
+RIMMER
+
+  No, you can go first...
+
+
+
+LISTER
+
+  Okay, I'll have sixty-eight.
+
+
+
+RIMMER
+
+  Ah-a-a-a-a.  *I'll* have sixty-eight.
+
+
+
+LISTER
+
+  Fine...
+
+
+
+RIMMER
+
+  Er - you can have it.
+
+
+
+LISTER
+
+  Why??
+
+
+
+RIMMER
+
+  I know that you chose *that* one because you think that I think that
+
+you're cheating; so I'll have it, and it'll be useless.  Ahhhhhhh, I'm not
+
+gonna fall for that one, Listy.  You can have it.
+
+
+
+LISTER
+
+  To smart for me, man...
+
+
+
+<breaks open locker>
+
+
+
+LISTER
+
+  'Eyy, a gold necklace; a bundle of cash; and 'eyyy, a nude wrestlin'
+
+video!  "Baked bean bombshells Volume 12".
+
+
+
+RIMMER
+
+  Right!  Well I'll have... *that* one.  Number fifty-eight.
+
+
+
+LISTER
+
+  Okay...
+
+
+
+<LISTER breaks the lock, RIMMER steps forward and opens it, and is blasted
+
+by a gout of flame that bursts out of the opened door.  In hardlight form,
+
+he is untouched by the flame but is left stunned when it clears>
+
+
+
+RIMMER
+
+  What the hell was that??
+
+
+
+LISTER
+
+  There's a note...  "People who break into lockers deserve everything they
+
+get, you cheap double-crossing slimeball".
+
+  Sounds like they know you.
+
+
+
+[DISSOLVE: out of flashback]
+
+
+
+
+
+[-- x - Int. Cargo hold --------------------------------------------------]
+
+
+
+[LISTER, CAT, KRYTEN present]
+
+
+
+LISTER
+
+  See what I mean?  We had fun, it was great.  We had *fun*.
+
+
+
+KRYTEN
+
+  I'll put the rubber room on standby, sir...
+
+
+
+
+
+[-- x - Model shot -------------------------------------------------------]
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[LISTER present]
+
+
+
+[Enter RIMMER, still dressed in Ace's flightsuit]
+
+
+
+<LISTER hears movement but doesn't turn around>
+
+
+
+LISTER
+
+  About time, Cat, you're late.  Now, where've you been?
+
+
+
+RIMMER
+
+  Hello, Listy.
+
+
+
+LISTER
+
+  Rimmer..?  Smeggin' 'ell!  What're you doin' 'ere?
+
+
+
+RIMMER
+
+  I got fed up with adventuring... you know what it's like:  you save a
+
+couple of civilisations and it all gets a bit... samey.
+
+  I thought I'd come and find the old team.
+
+
+
+LISTER
+
+  It's good to see you.
+
+  Are you real?
+
+
+
+RIMMER
+
+  I'm as real as you can get, being a hologram.
+
+
+
+LISTER
+
+  So... where've you been?
+
+
+
+RIMMER
+
+  Argon 5.  I fought in the Bellagosian War; I was decorated, and used as a
+
+Christmas tree in the town square where people came and fed me cherry
+
+liqueur chocolates for the whole winter.
+
+  Nahh, I'm only kidding.
+
+
+
+LISTER
+
+  Kiddin'?  What do you know about kidding?
+
+
+
+RIMMER
+
+  I just thought it was time I livened up a bit!
+
+
+
+<RIMMER unexpectedly toots a party blower>
+
+
+
+RIMMER
+
+  Hey hey!
+
+
+
+<RIMMER's sobriety returns>
+
+
+
+RIMMER
+
+  So, er, how about you?  How's it going?
+
+
+
+LISTER
+
+  Ahh, y'know.  Same old Starbug.  Same old travelling through space.
+
+
+
+RIMMER
+
+  I, erm, I hear you've got a new crewmember?
+
+
+
+LISTER
+
+  Yeah, Kochanski.
+
+
+
+RIMMER
+
+  What's she like?
+
+
+
+LISTER
+
+  She's okay, y'know?
+
+
+
+RIMMER
+
+  Is she... as good as me?
+
+
+
+LISTER
+
+  Well, she's been here a few weeks and she hasn't quoted one Space Corps.
+
+directive...
+
+
+
+<They share a laugh>
+
+
+
+RIMMER
+
+  She's pretty attractive though, isn't she?
+
+
+
+LISTER
+
+  Is she?  I hadn't really noticed.  She's the type you don't really notice.
+
+When you eat soup and spill some on your shirt and you don't notice it?  Mm,
+
+she's like that.
+
+
+
+RIMMER
+
+  So, she's... not as attractive as me, then?
+
+
+
+LISTER
+
+  Don't be daft... she couldn't hold a candle to you, man.
+
+
+
+RIMMER
+
+  Nah, you're just saying that.
+
+
+
+LISTER
+
+  I'm not.
+
+  I missed you, man.
+
+
+
+RIMMER
+
+  And I've missed you too, Listy.
+
+
+
+LISTER
+
+  Ohh, Arnold, man...
+
+
+
+RIMMER
+
+  Dave...
+
+
+
+<LISTER rushes out of his seat and the two of them embrace fiercely>
+
+
+
+LISTER
+
+  Don't ever leave us again!
+
+
+
+RIMMER
+
+  I won't!
+
+
+
+LISTER
+
+  You promise?
+
+
+
+RIMMER
+
+  Ohh, Listy...
+
+
+
+LISTER
+
+  Ohh, Rimsy...
+
+
+
+<Their faces inches apart, LISTER and RIMMER succumb to feelings beyond
+
+ either of their control - slowly, but surely, their lips join in a kiss>
+
+
+
+[The instant their mouths lock, cut to...]
+
+
+
+
+
+[-- x - Int. Sleeping quarters -------------------------------------------]
+
+
+
+[LISTER present, lying in bed]
+
+
+
+LISTER
+
+  Yaaaaarrrggh!!
+
+
+
+<LISTER starts himself awake so violently he tumbles out of his bunk onto
+
+ the floor>
+
+
+
+LISTER
+
+  Aaargh!  Get off!  Get off!!
+
+
+
+<He rubs his tongue violently with the palm of his hand>
+
+
+
+LISTER
+
+  Ohh, just a dream... thank god for that!  It was just a dream...
+
+
+
+
+
+[-- x - Model shot -------------------------------------------------------]
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[CAT, KRYTEN present]
+
+
+
+KRYTEN
+
+  And another thing she does is, she keeps her pants in her sock drawer;
+
+have you any idea how time consuming that can be to sort out?
+
+
+
+CAT
+
+  You mean, you've seen her pants??
+
+
+
+
+
+[-- x - Model shot -------------------------------------------------------]
+
+
+
+
+
+[-- x - Int. Starbug medi-bay --------------------------------------------]
+
+
+
+[KRYTEN, LISTER present]
+
+
+
+LISTER
+
+  You're right Kryten, I must be losin' it, or I'd never be dreaming stuff
+
+like *that*.  Kissin' Rimmer..?  I'd rather go bobbing for apples in the
+
+communal latrine at Reading festival!
+
+
+
+KRYTEN
+
+  I'm sure this will help, sir, I'll just insert my hypno-therapy disk...
+
+
+
+<KRYTEN pops open his abdominal disk and inserts what looks like a CD>
+
+
+
+KRYTEN
+
+  Now, just relax...
+
+
+
+<A piercing german voice blasts out - KRYTEN fumbles to stop the noise>
+
+
+
+LISTER
+
+  What the hell???
+
+
+
+KRYTEN
+
+  Sorry, sir!  Wrong disk - that was my German language course; an extract
+
+from Hitler's Nuremburg speech.  Definitely hypnotic, but not in the right
+
+way...  I'll just go and find the proper one.
+
+
+
+[Exit KRYTEN]
+
+
+
+[Enter KOCHANSKI]
+
+
+
+LISTER
+
+  What are you doin' in here?
+
+
+
+KOCHANSKI
+
+  Just looking for something to erase the memory of everything I've ever
+
+experienced...  Couple of gallons of medicinal alcohol should do it.
+
+
+
+LISTER
+
+  Listen, for what it's worth - I'm sorry you missed getting back to your
+
+Dave.  'The hologrammatic hunk'.
+
+
+
+KOCHANSKI
+
+  That's okay; I'm sure there'll be another chance for you to cock it up
+
+again.
+
+
+
+LISTER
+
+  Suppose you must be missin' him?
+
+
+
+KOCHANSKI
+
+  Yeah, I am a bit.
+
+
+
+LISTER
+
+  I know what it's like to miss someone.  The way they talk, the way they
+
+laugh -
+
+
+
+KOCHANSKI
+
+  Heh, I know.
+
+
+
+LISTER
+
+  The way their nostils flare up like two railway tunnels leading into Snot
+
+Street station.
+
+
+
+KOCHANSKI
+
+  N-no, you've lost me there...
+
+  So you're missing Rimmer??
+
+
+
+LISTER
+
+  Had a dream about him, but he was different.  All smiles and jokes and...
+
+stuff.
+
+
+
+KOCHANSKI
+
+  I thought you guys didn't get on?
+
+
+
+LISTER
+
+  We didn't, that's what's so weird!  His tidyness drove me crazy, the way
+
+he used to eat his food in alphabetical order; the way he only ever used
+
+three pieces of toilet paper: one up, one down, and one to polish.
+
+
+
+KOCHANSKI
+
+  Did he have *any* redeeming features?
+
+
+
+LISTER
+
+  No.  Oh yeah, sometimes he went out of the room.
+
+
+
+KOCHANSKI
+
+  So, how come Rimmer came to be around, anyway?
+
+
+
+LISTER
+
+  Well, Holly brought him back to keep me sane, but he drove me mad!
+
+
+
+KOCHANSKI
+
+  So, now he's gone, maybe you feel guilty because you realise he was trying
+
+to help you?
+
+
+
+LISTER
+
+  If he was trying to help me, why didn't he... lighten up a bit?  Be happy?
+
+
+
+KOCHANSKI
+
+  Maybe he sacrificed his happiness to keep you sane?  But when he appeared
+
+in your dream he was different, a carefree, fun-loving Rimmer.  A Rimmer who
+
+didn't nag you into helping him catalogue his cheese collection.
+
+
+
+LISTER
+
+  You're saying I had him all wrong?
+
+
+
+KOCHANSKI
+
+  Wasn't your *fault*... you had to hate him, it was what kept you going.
+
+
+
+LISTER
+
+  I didn't know...
+
+
+
+<LISTER takes KOCHANSKI's offered handkerchief and blows his nose loudly>
+
+
+
+LISTER
+
+  You know what I should do?  I should throw everything away, and make a new
+
+start.
+
+
+
+[Enter KRYTEN]
+
+
+
+KRYTEN
+
+  Ahh - sorry Miss Kochanski, ma'am, this *is* the medical bay, for *sick*
+
+people only; surely you haven't broken out in a confusingly-filed pants
+
+rash?
+
+
+
+KOCHANSKI
+
+  Kryten, do you know how to extract a warm bottle of salad cream from a
+
+mechanoid's rectal cavity?
+
+
+
+KRYTEN
+
+  Not off hand, ma'am, but I could research it?
+
+
+
+KOCHANSKI
+
+  I'd start right now if I were you...
+
+
+
+[Exit KOCHANSKI]
+
+
+
+KRYTEN
+
+  Okay, sir, now... just relax...
+
+
+
+LISTER
+
+  It's all right, Kryten.  I've talked things through with Kochanski, I'm
+
+feeling a lot better.
+
+
+
+KRYTEN
+
+  Well that really takes the biscuit, doesn't it.  Turn my back for five
+
+minutes and she waltzes in here and cures you!
+
+
+
+LISTER
+
+  She was only trying to help...
+
+
+
+KRYTEN
+
+  It's not the help I mind, sir, it's the fact that she succeeded!
+
+
+
+<KRYTEN takes the handkerchief and blows his own nose every bit as loudly>
+
+
+
+
+
+[-- x - Int. Starbug mid-section -----------------------------------------]
+
+
+
+[LISTER, CAT, KOCHANSKI present]
+
+
+
+LISTER
+
+  Okay guys! I know declare games night officially open.  Seeing as Kris is
+
+with us, you can have the honour of choosing the first game - and as you're
+
+a bit sensitive, we're not gonna have any games that involve dropping
+
+trousers and lighting stuff.
+
+
+
+CAT
+
+  Well that takes care of most of the repertoire!
+
+  Where's Kryten??
+
+
+
+LISTER
+
+  I dunno, he should be here.
+
+  Okay Kris?  Name your game...
+
+
+
+KOCHANSKI
+
+  All right!  I choose... 'The Magic Flute'!
+
+
+
+LISTER
+
+  What's that?  Sort of 'Musical Chairs'?
+
+
+
+KOCHANSKI
+
+  No, it's an opera... 'Magic Flute'?  Okay, we each hum a section of an
+
+aria, and the others have to guess which character is singing.
+
+
+
+CAT
+
+  That's a game?
+
+
+
+LISTER
+
+  It's more like medieval torture...
+
+
+
+KOCHANSKI
+
+  No, it's really good, 'cos, you can, like, throw each other off the
+
+scent!  Once, Dave - my Dave - he sang The Birdcatcher's Song in the
+
+*German* translation, and it was *hilarious*!  We all, like, totally fell
+
+about!
+
+
+
+LISTER
+
+  You fell about?
+
+
+
+KOCHANSKI
+
+  Yeah!
+
+
+
+LISTER
+
+  What, were you going through a meteor storm?
+
+
+
+KOCHANSKI
+
+  So what games do you play, then?  'Match the Bodypart to the Crewmember'?
+
+
+
+CAT
+
+  I always love that one!
+
+
+
+KOCHANSKI
+
+  'Armpit Name That Tune'?  'Guess Whose Bottie is Sticking Through a Hole
+
+in the Curtain'?
+
+
+
+CAT
+
+  Shall I add that one to the slate, bud?
+
+
+
+<LISTER nods approvingly>
+
+
+
+[Enter KRYTEN]
+
+
+
+KRYTEN
+
+  Games night is cancelled; if you'll all kindly follow me to the AR suite,
+
+I have something - I think - might amuse...
+
+
+
+[Exit ALL]
+
+
+
+
+
+[-- x - Int. AR Suite ----------------------------------------------------]
+
+
+
+[ALL present]
+
+
+
+KRYTEN
+
+  I believe this is the answer to your dream, sir, and something slightly
+
+more effective than Miss Kochanski's psychobabble...
+
+
+
+
+
+[-- x - Int. AR sim ------------------------------------------------------]
+
+
+
+[ALL present, seated two-abreast in a simulation of a roller-coaster car.
+
+ There is no discernable scenery, other than a large set of fairground-
+
+ styled double-doors just ahead of their car.  Lightbulbs flash gaily over
+
+ the doors, upon which is stencilled "The Rimmer Experience"]
+
+
+
+KRYTEN
+
+  It's a museum to Mr Rimmer's memory; I made it myself.  If anyone finds
+
+they are missing him, they can relive those great moments - it's all in
+
+there: the man, the memories, the personality.
+
+
+
+CAT
+
+  The ego...
+
+
+
+KRYTEN
+
+  Yes - I had to scale that down quite a bit.
+
+
+
+LISTER
+
+  How did you compile all the exhibits?
+
+
+
+KRYTEN
+
+  Well, I re-created key events in his life from Mr Rimmer's diaries; he
+
+kept meticulous records of life on board ship.
+
+  Enjoy!
+
+
+
+<Their care starts moving with a cranking noise and they pass through the
+
+ doors>
+
+
+
+[Viewpoint cuts to a point further down the featureless track]
+
+
+
+<Their car jerks to a halt, and as it does so a large image of RIMMERS's
+
+ face fades into being to one side of them>
+
+
+
+RIMMER EXPERIENCE: RIMMER
+
+  Welcome, to the Rimmer Experience.  A place of wonder, excitement, and...
+
+wonder.
+
+  You are about to witness some heroic events, which you may well find
+
+impossible to attribute to any living person; but then, Arnold J. Rimmer was
+
+a deeply remarkable man...
+
+
+
+<Their car is jerked forward once more, and the narration continues>
+
+
+
+RIMMER EXPERIENCE: RIMMER
+
+  Being the driving force behind the Red Dwarf mission, the fearless Rimmer
+
+had to dice with death on a daily basis.
+
+
+
+LISTER
+
+  What??
+
+
+
+RIMMER EXPERIENCE: RIMMER
+
+  Sometimes it needed a strong mind and cool nerves to hold the crew
+
+together:
+
+
+
+<The car lurches to a halt, and a short 'play' unfolds in front of their
+
+ eyes>
+
+
+
+RIMMER EXPERIENCE: KRYTEN
+
+  Asteroid belt up ahead, sir.
+
+
+
+RIMMER EXPERIENCE: RIMMER
+
+  No it isn't Kryten, you thick, titanium plank; those are large, broken
+
+fragments of a dying star which have compressed together under enormous
+
+pressure, causing them to compress into large fragments.
+
+
+
+RIMMER EXPERIENCE: KRYTEN
+
+  You're quite right, sir, as usual.  How could I have made such an
+
+elementary mistake?  As usual.
+
+
+
+RIMMER EXPERIENCE: CAT
+
+  It's at times like these that I get really scared!
+
+
+
+RIMMER EXPERIENCE: LISTER
+
+  Me too!  Save us!  Somebody save us before I wet m' keks!
+
+
+
+LISTER
+
+  That never happenned!  I swear that never happenned!
+
+
+
+<With a jolt, the car rattles further along the dark track>
+
+
+
+LISTER
+
+  I feel sick!
+
+
+
+KRYTEN
+
+  I'm sorry, sir, it *is* a bit bumpy.
+
+
+
+LISTER
+
+  Nah, it's what I'm *seeing* that's making me sick!
+
+
+
+<The car stops once more, throwing its passangers against their restraining
+
+ lap bars.  Another 'playlet' takes shape>
+
+
+
+RIMMER EXPERIENCE: RIMMER
+
+  So you see, Cat?  If you wear the green paisley shirt with the cavalry-
+
+twill trousers, you can be dignified *and*  fashionable at the same time.
+
+
+
+CAT
+
+  Let me at him!  I'm gonna kill him!  Cavalry-twill?  What does he think I
+
+am?  A woodwork teacher?
+
+
+
+RIMMER EXPERIENCE: CAT
+
+  Say, Rimmer's a really great guy, isn't he!  I don't know what we'd do
+
+without him!
+
+
+
+RIMMER EXPERIENCE: LISTER
+
+  I owe my life to him!
+
+
+
+LISTER
+
+  Get me out of here!
+
+
+
+KRYTEN
+
+  Wait a minute; here comes the best bit...
+
+
+
+<Lurching forward, their car takes them on a true roller-coaster ride; up,
+
+ down and around, while around them a truly bizzare set of imagery begins
+
+ to take shape, and, to a jolly tune, a distingushed voice begins to spill
+
+ forth the following lyrics>
+
+
+
+RIMMER EXPERIENCE
+
+  If you're in trouble he will save the day,
+
+  He's brave and he's fearless come what may,
+
+  Without him the mission would go astray...
+
+
+
+  He's Arnold, Arnold, Arnold Rimmer,
+
+  Without him life would be much grimmer,
+
+  He's handsome, trim, and no-one's slimmer,
+
+  He will never need a Zimmer.
+
+
+
+  He's Arnold, Arnold, Arnold Rimmer,
+
+  More reliable than a garden strimmer,
+
+  He's never been mistaken for Yul Brynner,
+
+  He's not bald and his head doesn't glimmer.
+
+
+
+  Master of the wit and the repartee,
+
+  His command of Space Directives is uncanny,
+
+  How come he's such a genius? Don't ask me...
+
+
+
+  Ask Arnold, Arnold, Arnold Rimmer,
+
+  He's also a fantastic swimmer,
+
+  And if you play your cards right,
+
+  then he just might come 'round for dinner.
+
+
+
+
+
+[-- x - Int. AR sim ------------------------------------------------------]
+
+
+
+[The music and images fade, and we find ourselves at the other side of 'The
+
+ Rimmer Experience'.  A second set of double-doors mark the exit, and these
+
+ crash open to disgorge the evil-minded roller-coaster car, which jerks to a
+
+ violent halt just outside the doors]
+
+
+
+[ALL present]
+
+
+
+LISTER
+
+  I never wanna see or hear from that scum-sucking, lying, weasel-minded
+
+smegger in my entire life!
+
+
+
+KRYTEN
+
+  Sigmund Freud: eat your heart out!
+
+
+
+
+
+[----------------------------- END OF "BLUE" ------------------------------]
+
+
+
+
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor;
+
+ no copyright infringement or toe-stepping intended.  Comments, criticisms
+
+ and corrections welcomed at "raz@mushroom.demon.co.uk".  Thanks.]
+
+
+
+
+
+
+

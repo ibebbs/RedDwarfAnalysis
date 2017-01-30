@@ -1,0 +1,1814 @@
+[--------------------------------------------------------------------------]
+                           RED DWARF - SERIES 7
+[--------------------------------------------------------------------------]
+                          EPISODE 3 -- OUROBOROS
+[--------------------------------------------------------------------------]
+                               Version 1.0
+                            2-4 February, 1997
+                       Last updated: 31 March, 1997
+                      Raz / raz@mushroom.demon.co.uk
+                      http://www.mushroom.demon.co.uk
+
+ Credits for corrections: 
+   Sea, Annette McIntosh
+
+
+[-- 1 - Int. Empty pub ----------------------------------------------------]
+
+<A pair of hands, their owner out of view, push a large cardboard box
+ underneath a zero-gravity pool table.  A single word written in black
+ marker pen adorns the side of the box, and reads: 'Ouroboros'. The owner
+ of the box leaves without being seen accompanied by a strange 'whooshing'
+ noise, the source of which casts a momentary red glow on the floor.  The
+ small leg of a baby can be seen in the box, kicking at its blankets>
+
+[A caption appears on screen:
+ THE AIGBURTH ARMS, LIVERPOOL
+    NOVEMBER 26th, 2155]
+
+[Enter CUSTOMER]
+
+CUSTOMER
+  All right?  Anyone servin' or what?
+
+BARMAID [OOV]
+  With you in a minute, luv.
+
+[Both speakers have distinct Liverpudlian accents]
+
+[FX: baby sounds]
+
+<Hearing the baby fretting, the CUSTOMER walks over to the pool table and
+ discovers the box.  He picks it up and finds the baby wrapped in blankets
+ inside.  He takes it back to the bar>
+
+[Enter BARMAID, appearing behind the metal grating that seals off the bar
+ area]
+
+BARMAID
+  'Ello, Frank, pet.  What can I get for you?
+
+CUSTOMER
+  Look at this - a just found it under the pool table.
+
+<The barmaid opens a hinged section of the grating and the customer passes
+ the box through>
+
+BARMAID
+  Any note?
+
+CUSTOMER
+  No, not'in'.
+
+BARMAID <peering inside the box>
+  Oh!
+  They've written its name on the side, 'ere.
+  'Our Rob, or Ross'
+
+CUSTOMER
+  Yeah, look at the way it's spelt - they must've been thicker than a ticket
+tout's wad.  Couldn't even decide on a name.
+
+BARMAID
+  Aw, poor little mite.  I wonder what'll become of 'im?  Som'thin'
+terrible, no doubt...
+
+
+[-- 2 - Int. Starbug sleeping quarters ------------------------------------]
+
+[LISTER present.  He appears to be giving himself something of a hygeine
+ overhaul.  Tufts of cotton wool protrude from his ears, presumably to soak
+ excess ear wax.  Shaving foam covers the right-hand side of his face and
+ in one hand he holds a razor which he runs down his jawline while brushing
+ his teeth with his other hand. This completed to his satisfaction, LISTER
+ picks up a pair of cooking tongs and, fully anticipating agony, pulls out
+ an overtly protruding nasal hair.  He cringes>
+
+LISTER
+  I hate doin' that - I *hate* doin' that.
+
+<Suddenly a sneeze overtakes LISTER, and something is blasted out of his
+ mouth to tinkle and lose itself against the bathroom equipment>
+
+LISTER
+  Smeg!  I've just sneezed out my cap!
+
+[Enter KRYTEN.  He carries a washing basket and fresh bedclothes]
+
+KRYTEN
+  Just thought I'd change your linen before you turn in for the night, sir.
+
+LISTER
+  Kryten, something terrible's happenned: I've lost my cap.
+
+<KRYTEN pulls out LISTER's deerstalker from his washing basket>
+
+KRYTEN
+  No, no, here it is, sir.  I've just finished giving it its monthly scrape.
+
+LISTER
+  My *tooth* cap... the one you made from the skeleton in the medi-bay.
+
+KRYTEN
+  Oh, I see.
+
+<LISTER glances at the table where KRYTEN placed the basket>
+
+LISTER
+  Heyy, here it is.  I need some glue to stick it in; I've just got that
+needly, pointy thing - I look disgusting.
+
+KRYTEN
+  Let me see -
+
+LISTER
+  No, no - I look all needly, pointy and disgusting.
+
+KRYTEN
+  Let me see, sir.  I'm a mechanoid, for goodness' sake.  I won't be
+revolted no matter *how* you look.
+
+LISTER
+  Okay.
+
+KRYTEN
+  Oh my god, it's hideous!
+
+<KRYTEN unexpectedly lets out a high pitched giggle>
+
+LISTER
+  Yes, yes, very funny - just fix it.
+
+KRYTEN
+  It'll take about half an hour to prepare some dental adhesive.
+
+LISTER
+  Oh, gimme some wood glue - you can re-do it in the mornin'.
+
+KRYTEN
+  Wood glue?  Are you sure, sir?  I don't want you to get your lips glued
+together, now be careful!
+
+<LISTER turns to the mirror and slathers glue over his 'needly, pointy
+ thing' before sticking his cap back into place>
+
+KRYTEN
+  Oh, incidentally, I just found some old clothes in one of the storage
+lockers.
+
+<KRYTEN takes out a pair of fluffy bunny slippers from his basket, placing
+ them on the table, and holds up a very pink, very frilly, very ladies
+ dressing gown>
+
+LISTER <appreciatively>
+  Eyyyy, I need a dressing gown.
+
+KRYTEN
+  Well, that's what I thought.  I thought if I remove the trim, and let it
+out a little bit, obviously dye it, well I think it could be just dandy.
+
+<LISTER lets KRYTEN help him put on the gown over his shirt>
+
+LISTER
+  Yeah, nice one, Kryts.
+
+KRYTEN
+  Oh, perhaps I could take the necessary measurements now, sir?
+
+<LISTER stands with his arms outstretched and KRYTEN begins to take
+ measurements with a tape measure>
+
+LISTER
+  I wonder why guys have nostril hair.
+
+KRYTEN
+  I think its nature's way of telling you its time to buy a flat cap and a
+pair of driving gloves, sir.
+
+LISTER
+  Worst, are those guys who just let it grow.  They look like they've got,
+like, half a loo-brush lodged up each nostril.  They look like those
+machines that shine your shoes.
+
+KRYTEN
+  Curious, isn't it, that most women aren't similarly afflicted.  Obviously
+I'm excluding women who work in Oxfam shops.
+
+LISTER
+  Hey, it evens itself out, doesn't it.  Women have the agony of childbirth
+and we have -
+
+<LISTER gestures with his tongs and snaps them together>
+
+LISTER
+  - this.
+
+<LISTER yanks another stray hair from his nice and cringes>
+
+LISTER <voice laced with pain>
+  They don't know they're born!  They don't!
+
+<LISTER picks up a pack of dental floss and begins to clean his front teeth.
+ After a moment, his sideways motion suddenly stops.  He tugs for a moment,
+ alarmed, before realisation dawns>
+
+LISTER
+  What is *wrong* with me?  Now I've got a box of floss attached to my face!
+
+[Enter CAT.  He takes in LISTER's dressing gown, cotton wool ears, and
+ dental floss arrangement]
+
+CAT
+  Heyyy... nice outfit.
+
+LISTER
+  Did you come in 'ere for a reason?
+
+CAT
+  Oh yeah!  Something's showing up on the long range scan which is *weird*
+with a capital 'we'.
+
+LISTER
+  Can you be a tad more scientific?
+
+CAT
+  Come again?
+
+KRYTEN
+  Er, is it a 'wibbly thing', or a 'swirly thing', sir?
+
+CAT
+  At this early stage I'd hate to commit myself and wind up looking a fool!
+Come see for yourself.
+
+[Exit CAT]
+
+<LISTER takes the slippers from the table and begins to put them on>
+
+LISTER
+  'Wibbly thing', or 'swirly thing', and he refuses to commit himself...
+
+<LISTER takes the dangling strands of floss and its box and drapes them over
+ his shoulders>
+
+LISTER
+  He's losing it, he really is.
+
+[Exit KRYTEN, LISTER]
+
+
+[-- 3 - Model/CGI shot ----------------------------------------------------]
+
+[Deep Space.  A dangerous-looking, undulating mass of orange-coloured energy
+ lies ahead of Starbug]
+
+
+[-- 4 - Int. Starbug cockpit ----------------------------------------------]
+
+[CAT, KRYTEN, LISTER present, at stations]
+
+KRYTEN
+  It's some kind of power surge that's causing a major disturbance in the
+fabric of Space-Time.
+
+CAT
+  It's also causing a major disturbance in the fabric of my pants!
+
+LISTER
+  It's almost like a tear...
+
+KRYTEN
+  Perhaps a temporal rift?
+
+CAT
+  I'm gonna turn this tub around a try to out-run it.
+
+LISTER
+  Get real, man - that thing out there's going faster than a copy of
+'Hello!' in a nunnery.
+
+[Outside Starbug, we see the rift grow larger as Starbug approaches.  Blue
+ space and stars appear to be within it]
+
+KRYTEN
+  Suggest we treat it like a tidal wave, sir, and head straight for the 'eye
+of the storm'.
+
+LISTER
+  Cat -
+
+CAT
+  Pshhh!
+
+LISTER
+  Go for it, man.  The eye of the storm.
+
+<Starbug dives into the rapidly expanding rift, and is quickly caught up
+ in rippling eddies that shake the craft around and spin it on it's axis.
+ Some of the smaller, more delicate components in the cockpit expire in 
+ small showers of sparks, but the ship in general seems to survive>
+
+KRYTEN
+  We seem to be through the worst of it!  But I'm picking up some kind of
+subspace energy disturbance down on the engineering deck.
+
+
+[-- 5 - Int. Starbug engineering deck ------------------------------------]
+
+[This is a dark and quiet corridor within Starbug, with one particular
+ feature of interest: where once was one section of the side wall, there is
+ now a shimmering, pulsating wall of blue light]
+
+[Enter KRYTEN, LISTER, CAT]
+
+KRYTEN
+  According to the psi-scan, the membrane between two realities has
+temporarily collapsed.  This is some kind of 'hyperway', through non-space
+to a parallel dimension.
+
+LISTER
+  Let's have a goosey...
+
+[LISTER steps tentatively into the Way, followed by KRYTEN and CAT]
+
+
+[-- 6 - Int. Within the Way -----------------------------------------------]
+
+[LISTER, KRYTEN, CAT present.  The Dwarfers walk slowly along a ethereal
+ blue tunnel, seemingly constructed of misty azure laser light.  It manages
+ to convey a suggestion of being structurally unsound, giving slightly
+ beneath the weight of their steps]
+
+<CAT's foot tears through the base of the hyperway, and KRYTEN grabs his arm
+ and pulls him up. Revealed beyond the Way is an inky blackness beneath
+ filled with fast-flowing ribbons of mist>
+
+KRYTEN
+  Careful, sir.  The linkway's about as stable as an Italian taxi driver
+who's got stuck behind two old priest in a Skoda.
+
+CAT
+ What the hell *is* that?
+
+KRYTEN
+  'Non-space', sir. An abyss of infinite nothingness, where Time doesn't
+seem to exist.
+
+LISTER
+  Sounds like Rimmer's organ recital night...
+
+
+[-- 7 - Int. Within the Way -----------------------------------------------]
+
+[LISTER, KRYTEN, CAT present]
+
+<From the opposite end of the Way, three figures step into view from a
+ backdrop of bright light.  Mirror images of the Dwarfers, there is a
+ Parallel KRYTEN, identical but for a gold body shell; a Parallel CAT,
+ immaculately dressed and aloof; and finally a Parallel LISTER; smartly
+ dressed, self-assured, and...>
+
+P.LISTER
+  How's it going?
+
+LISTER
+  You're a hologram...
+
+P.LISTER
+  Hard light.
+
+LISTER
+  So, in your dimension Lister died?
+
+P.LISTER
+  In the radiation leak that wiped out Red Dwarf.
+
+LISTER
+  Well, why didn't you get put into stasis like me?  What happenned?
+
+P.LISTER
+  Remember coming back from shore leave on Mimas..?
+
+LISTER
+  I'd taken a couple'a days off to get over Kochanski.  Yeah, I remember...
+
+[We cut to flashback]
+
+
+[-- 8 - Model/CGI shot ----------------------------------------------------]
+
+[The Red Dwarf in orbit around Mimas.  A shuttle approaches, bringing crew
+ back from shore leave]
+
+
+[-- 9 - Int. Red Dwarf customs area ---------------------------------------]
+
+[RIMMER present, standing in an embarkation corridor in a Red Dwarf customs
+ area.  This is the Red Dwarf pre-accident, and is pretty much as it was in
+ series 1/2 time - masses of dull, grey metal and bored JMC staff.  RIMMER
+ stands at the end of the corridor, close to the customs desk.  He is
+ peering down the corridor which is out of shot, and holds a recognition
+ card marked "Smeg head"]
+
+[Enter LISTER.  He pushes a trolley before him piled with bags]
+
+RIMMER
+  Where the hell have you been?  I've reported you as A.W.O.L.
+
+LISTER
+  I've been on shore leave, man.  Didn't you get my message?
+
+<A Customs officer points to LISTER's bags and he begins transferring them
+ to the officer's desk>
+
+RIMMER
+  You're supposed to apply to a superior officeer before you get shore
+leave, Lister.
+
+LISTER
+  Look, give me a break.  Ever since Kochanski split up with me I've needed
+some time on my own, okay?
+
+RIMMER
+  Kochanski dumped you?
+
+LISTER
+  Yeah.
+
+RIMMER
+  She really dumped you?
+
+LISTER
+  Yes!
+
+RIMMER
+  But you didn't tell me!  You should have told me!  Are you really
+heartbroken?
+
+LISTER
+  I dunno, man, y'know.
+
+RIMMER
+  You are, aren't you!
+
+LISTER
+  Okay, yes!  Yes!
+
+<The Customs officers check LISTER's items, all typical example's of tourist
+ junk, and pass them back for LISTER to load back on to his trolley>
+
+RIMMER
+  Didn't I tell you you'd never bridge that class division?  Take her:
+navigation officer, cadet school, Space Corps., well-spoken, can stay awake
+during operas, knows her cheeses.  She's class.  And you?  What are you?
+I don't mean to sound cruel but in comparison you're scum.  And second-rate
+scum, at that.
+
+LISTER
+  Yeah, but remember, I used to be fourth-rate scum - I've dragged meself up
+by my bootstraps, bub.
+
+<LISTER heads off and RIMMER trails behind, trying to get LISTER's
+ attention>
+
+
+[-- 10 - Int. Red Dwarf crew locker area ----------------------------------]
+
+[Enter LISTER, RIMMER.  LISTER steers his trolley through a tightly winding
+ corridor, lined on both sides by rank after rank of small, iron-doored
+ lockers]
+
+RIMMER
+  Listy -
+  Listy - 
+
+RIMMER
+  Your type isn't Kochanski, Listy.  It's someone called 'Tiffany'.  It's
+someone who drinks Campari and soda and wears orange crotchless panties;
+someone who thinks Deely-boppers are funny; someone who says 'sumfink'
+instead of *something*, and laughs like a freshly wounded moose strapped to
+a cement mixer.
+
+<LISTER stops beside his locker, opens it, and begins to transfer his haul
+ into it>
+
+LISTER
+  This from a man who's had less sex than a lettuce...
+
+RIMMER
+  Oh, har har.
+
+LISTER
+  Rimmer, people who say 'har har' have no sense of humour, they just can't
+think of a witty retort.
+
+RIMMER
+  [beat]
+  Oh, har har.
+
+<RIMMER turns and walks away>
+
+<Enter KOCHANSKI from around a corner.  She looks pensive, and approaches
+ LISTER slowly.  RIMMER spins around as she passes him and smarms up, his
+ introduction attracting LISTER's attention, to KOCHANSKI's annoyance>
+
+RIMMER
+  Ah, Ms Kochanski, ma'am.  I don't suppose you've read my proposal for a
+new Space Corps. salute?  It's just, I'm trying to get the support of the
+officers to have it replace the conventional one.  I don't want to pressure
+you but it *is* rather important, because if you like it, that brings the
+overall total of officers who are right behind it up to... one.
+
+KOCHANSKI
+  Rimmer?
+
+RIMMER
+  Yes, ma'am?
+
+KOCHANSKI
+  Have sex with someone and that's an order.
+
+RIMMER [embarassed]
+  Yes, ma'am.  Right away, ma'am.
+
+LISTER
+  'Ere:
+
+<LISTER digs a card out of his pocket and hands it to RIMMER>
+
+LISTER
+  Ring this number, say I sent ya, tell 'em it's an emergency.
+
+<KOCHANSKI tries to hide a laugh>
+
+[Exit RIMMER, flustered]
+
+KOCHANSKI
+  Hi
+
+LISTER
+  Mmm.
+
+KOCHANSKI
+  I just wanted to say, look, I'm sorry... for the 'Dear John'.  It was
+cowardly.
+
+LISTER <acts as if he doesn't understand>
+ Oh, that!  Sorry, I'd completely forgot.  It seems like years ago.
+
+KOCHANSKI
+  It was last week...
+
+LISTER
+  Was it?
+
+KOCHANSKI
+  Mm-hmm.
+
+LISTER
+  Must've got over it -
+
+<LISTER snaps his fingers>
+
+LISTER
+  - just like that.
+
+[Exit LISTER]
+
+KOCHANSKI <following>
+  Oh come on, Dave!
+
+
+[-- 11 - Int. Red Dwarf crew locker area ----------------------------------]
+
+[LISTER present]
+
+[Enter KOCHANSKI]
+
+KOCHANSKI
+  It's just, we weren't going anywhere!
+
+LISTER
+  How could we?  We never got out of bed.
+
+<They stop walking>
+
+KOCHANSKI
+  Look, there's more to life than hanging out in your bunk, eating delivery
+curries and having fantastic sex.
+
+LISTER
+  Frankly, I find that very hard to believe...
+
+KOCHANSKI
+  I just wanted to see if we could be friends...
+
+LISTER
+  Do you mean give it another go?
+
+KOCHANSKI
+  No, no.  I'm, er, back with Tim now.
+
+LISTER
+  Tim??  That guy is such a poser!  The way he always wears that white suit
+and that big white floppy hat...
+
+KOCHANSKI
+  He's a chef!
+
+LISTER
+  Yeeaahhh, but the way he always poses around, in the officers club,
+smoking those black cigarettes.  Such a phoney.
+
+<A mewing sound is heard, and KOCHANSKI pulls open LISTER's jacket.  She
+ reaches into the inside pocket and removes a small black cat>
+
+KOCHANSKI [incredulous]
+  Do you know what you'll get for smuggling a cat on board??
+
+LISTER
+  What, cat-martialed?
+
+KOCHANSKI
+  I'm serious!  As serving N.O. I'm supposed to report this!
+
+LISTER
+  So report it, get me put into stasis for six months.
+
+KOCHANSKI
+  Don't you know how dangerous it is to smuggle in an unquarantined animal?
+
+LISTER [sarcastically]
+  I was lonely - I'd just been dumped by my girlfriend...
+
+KOCHANSKI
+  It breaks every reg. in the manual...
+
+[Exit KOCHANSKI]
+
+
+[-- 12 - Int. Red Dwarf waste disposal area -------------------------------]
+
+[Enter KOCHANSKI.  This is a dingy area of the ship decorated with gloomy
+ paintwork, red lighting and large industrial machinery]
+
+<KOCHANSKI stops at the small door of a machine labelled 'Disintegrator' and
+ opens it.  She puts the cat into the unit, closes the door and taps
+ commands into the console.  Gazing at the cat as the unit begins to power
+ up, KOCHANSKI relents at the the last moment, opens the door and takes out
+ the cat>
+
+KOCHANSKI <holding the feline up to her face>
+  Just don't get caught or I'm out cold for six months, okay??
+
+
+[-- 13 - Int. Inside the Way ----------------------------------------------]
+
+[Cut back to present time.  We are once more within the shimming blue
+ linkway]
+
+[LISTER, CAT, KRYTEN, P.LISTER, P.CAT, P.KRYTEN present]
+
+LISTER
+  So you didn't get put into stasis, and died with the rest of the crew..?
+
+P.LISTER
+  Then Holly brought me back as a hologram.
+
+LISTER
+  So what happenned to Kochanski?
+
+P.LISTER
+  They found the cat, and she got six months in stasis.
+
+LISTER
+  Does that mean...
+
+[Enter KOCHANSKI.  Like LISTER, she has changed somewhat since her days on
+ board Red Dwarf.  Rather than cling to the Space Corps. (like Rimmer with
+ his uniforms) and to her Officer's status, the Parallel KOCHANSKI could be
+ said to be dressed for action.  Her dark, shoulder-length hair is arranged
+ and fastened atop her head, and she wears a shiny, tight-fitting red
+ catsuit]
+
+<LISTER, suddenly acutely aware of his own wardrobe, attempts to smarten
+ himself up, tuggling at the floss dangling from his teeth before finally
+ settling for scooping his dangling strands up into his mouth>
+
+KOCHANSKI
+  Hi.
+
+<She looks LISTER up and down>
+
+LISTER
+  You look great!
+
+KOCHANSKI
+  You look pretty amazing yourself...
+
+KOCHANSKI
+  So in this dimension you didn't die?  You're an alternate version of
+Dave...
+
+LISTER
+  Well, I like to think of myself as the definitive version, y'know?  Honed
+to perfection by Time and evolution.
+
+<LISTER sucks up a loose strand of floss nonchalantly>
+
+KOCHANSKI <eying LISTER again>
+  I can see why you think that, yeah.
+
+P.KRYTEN
+  Sirs, er, ma'am, we've scarcely two hours before the dimensional tear
+self-repairs and we loose the linkway.  I suggest we might spend some of
+that time exchanging supplies and information.
+
+P.LISTER
+  We could update your hydrogen ram-drive to a tachyon-powered engine core?
+
+CAT
+  And in return, maybe we could unscrew all those old pickle jars you can't
+open!
+
+KOCHANSKI
+  There is *something* you could do for us...
+
+LISTER
+  Yeah?
+
+KOCHANSKI
+  At some point I want to have children.  It's a slightly pervy thing to
+ask, especiually seeing as we've only just met, but perhaps you could -
+
+LISTER
+  Yeah..?
+
+KOCHANSKI
+  After all, we've been... y'know, lovers...  Perhaps you could -
+
+LISTER
+  Yeah??
+
+<KOCHANSKI holds up a small double chambered bottle>
+
+KOCHANSKI
+  Fill this up.  It's a self- gamet-mixing in-vitro tube.  I'm... already in
+there; it just needs your... contribution.
+
+LISTER
+  So it worked out for you guys, then.
+
+<KOCHANSKI and the Parallel LISTER loop arms around each other>
+
+LISTER <bitterly>
+  Congratulations.
+
+<Before anything further can be said, a sudden explosion rocks the flimsy
+ Linkway, almost knocking those present off their feet.  KRYTEN frantically
+ taps commands into his Psi-scanner>
+
+KRYTEN
+  Gelf ship!  Somehow they've managed to infiltrate non-space!
+
+<A second shot fired by the Gelfs impacts upon the Linkway with an explosion
+ that rips the base of the delicate structure apart - the ragged ends
+ seperated by a distance of 10 feet or so, only held together by the roof
+ of the Way.  Off-balance, KOCHANSKI falls but manages to grab the strap of
+ a box carried in by the Parallel Lister and placed on the floor of the
+ tunnel.  The Parallel LISTER dives on the box to stop KOCHANSKI dragging
+ her support away with her, and stretches his arm down into non-space>
+
+P.LISTER
+  Chris!  Give me your hand!
+
+LISTER <to KRYTEN>
+  Hang on to m' feet, man!
+
+<LISTER drops to the base of the Linkway and lies prone, then shuffles his
+ body down over the lip of the tear, reaching out to the struggling
+ KOCHANSKI>
+
+CAT <of the box's strap>
+  It's gonna give!
+
+<Suddenly inspired, LISTER lets out his dental floss, KOCHANSKI grabs it
+ and LISTER, wincing with the strain, hauls her up and onto the 'wrong' side
+ of the Way.  Just as she reaches safety, the Gelfs launch a third salvo and
+ the tunnel begins to shake itself apart.  A third explosion succeeds in
+ ripping the Linkway in two and KOCHANSKI, catching the brunt of the
+ explosive seperation, is rendered unconscious; Lister scoops her into his
+ arms.  The two crews are forced back into their respective ships - the link
+ between their two dimensions lost...>
+
+
+[-- 14 - Int. Starbug Medi-bay --------------------------------------------]
+
+[KOCHANSKI present, unconscious on the medi-bay's bed, LISTER anxiously
+ hovering over her.  KRYTEN fires a hypo-spray into her neck them moves away
+ to study her charts.  KOCHANSKI's eyes flutter open, and she wraps her arms
+ around LISTER and pulls him close to her]
+
+KOCHANSKI
+  I thought I'd lost you!
+
+LISTER
+  I think you've mistaken --
+
+KOCHANSKI
+  Shh!
+
+<KOCHANSKI pulls LISTER closer and kisses him.  After a long moment, she
+ lets him go>
+
+KOCHANSKI
+  What were you saying?
+
+LISTER
+  Forget it...
+
+<Without encouragement this time, LISTER enjoys another kiss.  KRYTEN turns
+ and takes in the scene>
+
+KRYTEN
+  Oh dear!  Er, sir, I think, er, Miss Kochanski's under the delusion that
+you're --
+
+LISTER <hurriedly>
+  Er, not now, Kryten, man.
+
+KRYTEN
+  But you don't understand me, sir, you see Miss Kochanski thinks that
+you're --
+
+LISTER
+  I can handle it, okay!  Now go and make some sweet tea or something!
+
+KRYTEN
+  B - Permission to speak, sir?
+
+LISTER <muffled by another passionate kiss>
+  Permission refused!
+
+<Abruptly, KOCHANSKI breaks off the kiss and pushes LISTER back.  She sits
+ up and looks around>
+
+KOCHANSKI
+  Wait a minute... this isn't the medi-bay...
+
+LISTER
+  I think you must have mistaken me for *your* Lister...
+
+KRYTEN
+  Well, *that's* what I've been trying to tell you all along, sir!
+
+LISTER
+  Were you!?
+
+KRYTEN
+  If only you'd listened to me, I could have saved you from all that
+yukkiness.
+
+KOCHANSKI <disgustedly>
+  Is that the kind of guy you are?  Someone who'd take advantage of a woman
+who's half-insensible??
+
+<KOCHANSKI climbs off the bed and walks unsteadily towards the door>
+
+LISTER
+  I was gonna tell you, honestly!  It's just, they always told me in school
+it's rude to talk with your mouth full.
+
+KOCHANSKI
+  Wait, you mean I'm *stuck* here with you?
+
+<She grabs the pink nightie from its hook on the door and throws it at
+ LISTER>
+
+KOCHANSKI
+  'Priscilla, Queen of Deep Space'??  No way!  I've got to get that linkway
+back!
+
+<A large explosion rocks Starbug>
+
+LISTER
+  It's not exactly possible at the moment, we're under attack.
+
+[Exit LISTER, KOCHANSKI, KRYTEN]
+
+
+[-- 15 - Int. Starbug cockpit ---------------------------------------------]
+
+[CAT present, at the helm]
+
+[Enter LISTER, KOCHANSKI, KRYTEN.  They assume stations, KOCHANSKI sitting
+ at the now empty navigaton console]
+
+CAT
+  It's back on our tail!
+
+LISTER
+  What is it?
+
+CAT
+  Some Gelf battle cruiser.
+
+<A piece of paper suddenly spews forth from a printer; on it is a picture of
+ a particularly hideous, hairy Gelf.  KRYTEN tears it off and hands it to
+ LISTER>
+
+KRYTEN
+  They've sent a scan, sir.  Take a look.
+
+LISTER
+  Oh my god, it's the missus.
+
+KOCHANSKI
+  The what?
+
+KRYTEN
+  Mr Lister's Gelf bride.
+
+CAT
+  We all went to the wedding, it was just beautiful.
+
+KOCHANSKI
+  He married this??
+
+CAT
+  He had to.
+
+KOCHANSKI
+  You mean..?
+
+<KOCHANSKI mimes a pregnant stomach>
+
+LISTER
+  We were in a bit of a fix!  We needed an engine part!
+
+KOCHANSKI
+  You should visit the orang-utan house at London zoo sometime, your eyes'd
+be out on stalks!
+
+KRYTEN
+  Wait!  They're opening comms channels -
+
+<KRYTEN puts on a headset and begins to translate a communication>
+
+KRYTEN
+  Er, sir?  They're demanding you return to your bride.  In Gelf law,
+seperation is impossible without special dispensation from hhakk-akhhaak-
+kkhhak, hhakh-hhakhkhkahak-hkaahkahk-hkhk.  Chief Justice of hakhakhk-
+aahkahkh-hkhakkhaakhaaakah-akkk-hhakaaaak-kak-akk-hakkakak.
+
+KOCHANSKI
+  Okay, patch me in to the NCN and I'll lay down an S-S line.
+
+CAT
+  You'll *what*, officer B-B?
+
+KOCHANSKI
+  Quadrant four-niner-two, stroke G eight-seven, moving across to quadrant
+two to Q four-one stroke nine.  Just follow my co-ords.
+
+CAT
+  Your cords?
+
+KOCHANSKI
+  Yeah, my co-ords.
+
+CAT
+  You want me to follow your cords??
+
+KOCHANSKI
+  Is that a problem?
+
+CAT
+  Now, you're not talking about trousers, are you..?
+
+KOCHANSKI
+  Co-ordinates...
+
+CAT
+  Co-ordinates!  Thank you!
+
+
+[-- 16 - Action MONTAGE ---------------------------------------------------]
+
+<The Dwarfers get their act together, and Kochanski leads them down to the
+ surface of an ice planet where Cat begins to thread Starbug through the
+ glaciers, the Gelf cruiser barelling along behind them>
+
+KOCHANSKI
+  Twenty degrees starboard from this next burg...
+
+<CAT and LISTER carefully adjust course>
+
+KOCHANSI
+  They're right on our tails.
+  Hold this line... keep holding...
+
+<Starbug describes a shallow decline, getting closer and ever closer towards
+ scraping the rough surface of the ice planet>
+
+KOCHANSKI
+ *Keep* holding... lift now!
+
+<CAT and LISTER yank the dual control yoke backwards and Starbug's snub nose
+ lifts itself, and the rest of the ship, upwards and clear of the snow-
+ covered rocks they were heading for.  The Gelf ship, with it's extra bulk
+ and lack of manouvrability, crashes headlong into the valley floor>
+
+CAT [grudgingly]
+  Really snazzy!
+
+<LISTER glances at CAT and waggles a hand in a 'so-so' gesture>
+
+
+[-- 17 - Int. Starbug sleeping quarters -----------------------------------]
+
+[LISTER present, sprawled on his bed]
+
+[Enter KRYTEN.  He carries a laundry basket, and his general atitude and
+ brusque, forceful movements, show that he is obviously agitated about
+ something]
+
+KRYTEN
+  Still no sign of Miss Kochanski's ship, sir.  We're fast running out of
+time.
+
+<KRYTEN begins removing items from the basket and ironing them>
+
+LISTER
+  I know.  It's good, isn't it!
+
+KRYTEN <shortly>
+  No, sir.  I don't believe it is.
+
+LISTER
+  What, don't you like her?
+
+KRYTEN
+  I'm a mere mechanoid, sir.  It's hardly my place to point out what a...
+bossy old trollop she is!
+
+LISTER
+  Good kisser, though.
+
+KRYTEN
+  She knew that was you *all along*, sir!  She was merely trying you out to
+compare you with *her* Mr Lister.  Pshaw!
+  Apparently, he's quite something.  Initially a soft light hologram, that's
+made him 'sensitive and caring in a way most men aren't'.
+
+<LISTER gets off his bed and approaches KRYTEN>
+
+LISTER
+  What, you mean he can remember anniversaries and stay awake for several
+seconds after sex?
+
+KRYTEN
+  He's 'every woman's dream guy', sir.  He even enjoys shopping for shoes!
+
+LISTER
+  Jesus...
+
+KRYTEN
+  A human male, who's prepared to have in-depth discussions about...
+
+KRYTEN mimes quote marks in the air with his hands>
+
+KRYTEN
+  ..."relationships".
+
+LISTER
+  Eurgh!
+
+KRYTEN
+  We're talking about someone about someone 'quite exceptional' here, sir.
+
+LISTER
+  Where does that leave me?
+
+KRYTEN
+  Well that leaves you trying to help me get her - get her back to her
+rightful ship.
+
+<After trying for a moment to plump LISTER's duvet, KRYTEN bats it out of
+ his way and sits down on the bunk>
+
+KRYTEN
+  She can't stay here, sir.  She just can't!
+
+LISTER
+  Kryten, man, are you okay?
+
+KRYTEN
+  I just know we're not going to be able to get rid of her!
+
+[KRYTEN's voice has dramatically changed - it's now very high pitched, like
+he's on the verge of bursting into tears]
+
+LISTER
+  Why's that so terrible?
+
+KRYTEN
+  She's gonna take you away from me, I just know it!
+
+LISTER
+  What??
+
+KRYTEN
+  I took her a glass of milk while she was showering... *I've* *seen* *her*
+*naked*!
+
+LISTER
+  So?
+
+KRYTEN
+  She's got all those 'in and out' bits that you like...
+
+LISTER
+  Kryten, no matter what happens, you and me - we're compadres; amigos.
+
+KRYTEN
+  But that's all going to change if she stays!  You'll end up liking her
+more!
+
+LISTER
+  I won't.
+
+KRYTEN
+  You will!
+
+LISTER
+  I won't!
+
+KRYTEN
+  You will!
+
+LISTER
+  I won't! I won't! I *won't*!
+
+KRYTEN
+  You promise?
+
+LISTER
+  I promise.
+
+KRYTEN
+  So if she walked in here now, and, and took all her clothes off, and said
+"Oh, make love to me, you horny dude", and I said, "oh, perhaps you'd prefer
+to fold some sheets with me instead, sir?"  What would you do?
+
+LISTER
+  [beat]
+  What kind of sheets would they be?
+
+KRYTEN
+  Well, those nice cotton ones with the pattern.
+
+LISTER
+  What, blue stripey ones or the green square ones?
+
+KRYTEN
+  The green square ones.
+
+LISTER
+  So, it's making love to Kochanski, or folding sheets with you?
+  [beat]
+  Can I do final fold and stack?
+
+KRYTEN
+  Absolutely.
+
+LISTER
+  Well it'd be the sheets, then.
+
+KRYTEN
+  Oh!  She's standing there all naked with all the in-and-out bits going all
+inny and outy?
+
+LISTER
+  It'll be the sheets, Kryt.  You and me.  Hospital corners.
+
+KRYTEN
+  Really?
+
+LISTER <pulling a face>
+  Too true.
+
+KRYTEN
+  [beat]
+  You're lying!!  You're just trying to make me feel better!  Ohh!  Why
+can't she be more like Mr Rimmer?  He was perfect!  he didn't have any
+in-and-out bits, hardly at all.
+
+LISTER
+  There's no one I care more about than you, okay!
+
+KRYTEN
+  I'd never dump you like she did!  Never!
+
+LISTER
+  It's not gonna change.
+
+KRYTEN
+  Never?
+
+LISTER
+  Never.
+
+KRYTEN
+  [beat]
+  You're lying!!
+
+LISTER
+  I'm *not* lying!!
+
+KRYTEN
+  Yes you are!  I'm gong to end up on my own again, just like I did on the
+Nova 5!
+
+LISTER
+  You killed the crew, Kryten!  No wonder you ended up on your own!  All
+right, it was an accident, but nevertheless...
+
+KRYTEN
+  But what about before that?  It was the same on the SS Augustus.
+
+LISTER
+  They all died of old age!
+
+KRYTEN
+  You see!?!
+
+
+[-- 18 - Model/CGI shot ---------------------------------------------------]
+
+[Starbug flies by a planet]
+
+
+[-- 19 - Int. Starbug Cockpit ---------------------------------------------]
+
+[CAT, KOCHANSKI present, at stations]
+
+[Enter KRYTEN]
+
+KRYTEN
+  I thought I'd, er, lend a hand and see if I could help you get out of
+here.
+
+KOCHANSKI
+  I've got a positive trans-dimensional trace but I still can't
+re-establish the linkway.  I'm sure it's something to do with electro-
+magnetic phasing frequencies.
+
+CAT
+  You took the words right out of my mouth!
+
+KRYTEN
+  Have you tried inverting the signal?
+
+KOCHANSKI
+  We'll need a power re-route in the auxiliary power drives.
+
+[Exit KOCHANSKI]
+
+CAT <calling to KOCHANSKI>
+  I'll take care of that!  ... Whatever it is.
+
+KRYTEN
+  It's the, er, big red button, there, sir.
+
+<KRYTEN presses the button for CAT>
+
+[Exit KRYTEN]
+
+<CAT pulls a face and presses the button off, pauses, then serenely presses
+ it on again>
+
+<He gets out of his seat and runs to the cockpit hatch>
+
+
+[-- 20 - Int. Starbug mid-section -----------------------------------------]
+
+[KOCHASNKI, KRYTEN present, each seated at the scanner table and tapping on
+ portable terminals]
+
+[Enter CAT, leaning against the cockpit hatch]
+
+CAT
+  Hey, officer Bud-Babe, about that power simillililillum-inuminim drive?
+  Taken care of.
+
+<CAT coolly fires her a salute and slinks back into the cockpit proper>
+
+[Exit CAT]
+
+<KRYTEN shakes his head, then he and KOCHANSKI work in awkward silence for a
+ few moments>
+
+KOCHANSKI [pensively]
+  You don't like me, do you?
+
+KRYTEN
+  Ma'am?
+
+KOCHANSKI
+  You don't, do you?
+
+KRYTEN
+  Ma'am, I think it'd be more efficient if we spent our energies trying to
+re-establish the linkway.
+
+KOCHANSKI
+  But why --
+
+KRYTEN
+  Please!
+
+KOCHANSKI
+  I mean --
+
+KRYTEN
+  Ma'am!
+
+KOCHANSKI
+  I need to know why!
+
+KRYTEN
+  Do you indeed?
+
+KOCHANSKI
+  Yes.
+
+KRYTEN
+  Well, you're not good enough for him!  That's all.  Okay, he may walk
+around smelling like a Balti house laundry basket, but he doesn't need the
+likes of you swapping dimensions like there's no tomorrow, and bewitching
+him with all your... in-and-out bits.  All pointy and unnecessary!
+
+KOCHANSKI
+  [beat]
+  You've got big problems, you know that?
+
+KRYTEN
+  Well, at least I don't have a ridiculous walk.  Unlike some people.
+
+KOCHANSKI
+  Ha!  Have you seen the way *you* walk??
+
+<KRYTEN gets up and stomps to the galley, legs flailing>
+
+KRYTEN
+  I have a perfectly sensible walk!
+
+<He takes a psi-scanner from a wall unit>
+
+KRYTEN
+  At least I don't walk like this:
+
+<KRYTEN performs an exaggerated female walk, his hips swinging and his arms
+ held out delicately>
+
+<Before KOCHANSKI can retort, KRYTEN's terminal suddenly beeps>
+
+KOCHANSKI <peering at screen>
+  Phaser frequency four-three-four - we've got it back!
+
+KRYTEN
+  What?  You're right, that's it!
+
+KOCHANSKI
+  I can leave!
+
+KRYTEN
+  You can leave!
+
+<They high-five, before remembering they dislike each other.  Each sit down
+ and tap concentradedly at their terminals>
+
+
+[-- 21 - Model/CGI shot ---------------------------------------------------]
+
+[A dimensional rift in space, with the undulating blue umbilical of a 
+ Linkway]
+
+
+[-- 22 - Int. Starbug mid-section -----------------------------------------]
+
+[KRYTEN, CAT, KOCHANSKI present]
+
+KRYTEN
+  Champagne, everyone!  If this doesn't deserve a celebration, I don't know
+what does!
+
+CAT
+  What are we celebrating exactly?
+
+<KRYTEN, standing to the side of and just behind KOCHANSKI, gestures toward
+ her with his head and mouths 'She's leaving!'  KOCHANSKI turns to the mech
+ who instantly smiles warmly at her>
+
+KRYTEN
+  You've found your crewmates at last - how wonderful!
+
+KOCHANSKI <wryly>
+  Thanks, Kryten...
+
+KRYTEN
+  I must go and find the others.
+
+[Exit KRYTEN, skipping happily]
+
+
+[-- 23 - Int. Gantry within Starbug ---------------------------------------]
+
+[LISTER present]
+
+[Enter KOCHANSKI]
+
+<LISTER holds out the small in-vitro tube> 
+
+LISTER
+  This is for you.
+  Just pop that in the uterine simulator in your medi-lab and... bingo.
+
+KOCHANSKI
+  Wow...
+
+LISTER
+  Our child...
+
+KOCHANSKI
+  I'll... you know.
+
+LISTER
+  I know.
+
+KOCHANSKI
+  As soon as it's old enough I'll tell it all about you -
+
+LISTER
+  Just make it understand why I'm not there, I don't want it ending up like
+me.
+
+KOCHANSKI
+  What happenned to you was really rough.  The pool table, no note, no
+explanation...
+
+LISTER
+  I think that's why I spent most of my early life drifting, y'know?  I
+didn't have anything to look to cos I didn't know who I was, where I came
+from.  Just those two names they couldn't decide on calling me; 'Rob' or
+'Ross'.
+
+KOCHANSKI
+  Well... I'll look after it.  You know I will.
+
+LISTER
+  Yeah, I know.
+
+<They move to kiss>
+
+[Enter KRYTEN, interposing himself between them to get to the gantry
+ railing]
+
+KRYTEN
+  Excuse me, sir; just doing a spot of dusting here...
+
+
+[-- 24 - Int. Starbug cargo bay -------------------------------------------]
+
+[Enter LISTER, KOCHANSKI, KRYTEN]
+
+KOCHANSKI
+  Look, this is probably a long shot but if we can hit the right settings
+it may be possible to communicate trans-dimensionally.
+
+<She hands LISTER a palm-size device, similar to a portable phone>
+
+LISTER
+  See ya...
+
+KOCHANSKI
+  Bye.
+
+[Exit KOCHANSKI]
+
+[Enter CAT, struggling with a large box.  LISTER takes one of the handles
+ and they hold it between them]
+
+LISTER
+  What's this?
+
+CAT
+  Supplies from Bud-Babe's ship.
+
+LISTER
+  No, *this*
+
+<LISTER indicates a marking on the top of a box>
+
+KRYTEN
+  Well, it's the symbol for 'infinity', sir.  The snake, eating it's own
+tail and thus completing the everlasting circle of life that has no
+beginning or end.
+
+LISTER
+  What's it doing on 'ere?
+
+KRYTEN
+  The crate used to contain batteries, sir.  Ouroboros batteries;
+everlasting.
+
+LISTER
+  Ourobo-what??
+
+<LISTER takes the box from CAT and places it down, looking at it intently>
+
+KRYTEN
+  Ouroboros, sir - it's the name of the symbol.
+
+<LISTER rubs his hand along the top of the box, revealing the "Ouroboros
+ Batteries" legend stencilled on it>
+
+CAT
+  What is it, bud?
+
+LISTER
+  Ouroboros... It wasn't 'Our Rob or Ross', it was Ouroboros..!
+
+CAT
+  What was?
+
+LISTER
+  The message that was written on the side of my box!
+
+CAT
+  You came in a box?  That explains everything.
+
+LISTER
+  I know who my parents are...  I know who I am...  I understand, now!
+
+KRYTEN
+  Explain, sir!?
+
+LISTER
+  The in-vitro tube, the one that Kochanski's got.  The frozen embryo - it's
+me!  At some point after the baby's borm we must go back in time and leave
+me under the pool table at the Aigburth Arms.  We wrote Ouroboros on the box
+to explain!  I'm my own father... and Chris is my ex-girlfriend and my mum!
+
+CAT
+  You should write a letter to Playboy, bud.  I bet you anything it'd get
+printed.
+
+LISTER
+  I've gotta get that test tube back.
+
+[LISTER sprints out after KOCHANSKI, CAT and KRYTEN following]
+
+
+[-- 25 - Int. The Way ----------------------------------------------------]
+
+[P.LISTER, P.KRYTEN, KOCHANSKI, P.CAT present]
+
+[Enter LISTER, running to catch up]
+
+LISTER <shouts>
+  Mum!  Wait!
+
+<The Parallel crew turn around>
+
+KOCHANSKI
+  What?
+
+LISTER
+  I need the in-vitro tube!  It's me!
+
+[The Parallel crew are too far away to hear properly]
+
+KOCHANSKI
+  It's what??
+
+[Enter KRYTEN, CAT]
+
+<Without warning, sparks burst from the roof of the Linkway>
+
+KRYTEN
+  The Gelfs are back!
+
+<Cutting out into non-space, we see a companion Gelf ship has tracked down
+ the Dwarfers and is doing all in its power to break the trans-dimensional
+ connection.  It fires a second shot and the tortured Linkway shudders and
+ tears apart, again stranding the unfortunate Kochanski in the wrong
+ Dimension.  This time, she isn't going to put up with it.  Setting her
+ sights on the ragged ledge of the linkway that floats temptingly just feet
+ away, she shrugs off her jacket and unclips her heavy belt>
+
+LISTER
+  What are you doing?
+
+KOCHANSKI
+  I'm gonna jump!
+
+<With that, KOCHANSKI springs forward and sprints for the tear>
+
+CAT
+  You'll never make it!
+
+LISTER
+  Chris, no!!
+
+<KOCHANSKI takes a wild leap, fingers stretching for the lip of the linkway.
+ Spread almost flat, she falls short by mere centimeters and plummets into
+ the blackness of non-space>
+
+P.LISTER
+  Christine!!
+
+KRYTEN
+  We've lost her, sir.
+
+LISTER
+  No.
+  No!
+
+P.LISTER
+  Christine!!
+
+<LISTER's communicator suddenly emits a bleep.  He fumbles it out>
+
+LISTER
+  Yeah?
+
+KOCHANSKI [Mic.]
+  Hi, it's me.
+
+LISTER
+  Hi -
+
+KOCHANSKI [Mic.]
+  I've decided to stay; just, one proviso -
+
+LISTER
+  Yeah?
+
+KOCHANSKI [Mic.]
+  Save my life, okay?
+
+
+[-- 26 - Int. Starbug cargo bay -------------------------------------------]
+
+[Enter LISTER, CAT, KRYTEN, running to the cargo stores and tearing lids
+ off containers as quickly as possible]
+
+LISTER <into Communicator>
+  Cargo bay; looking now!
+
+LISTER <pulling a weapon of some kind out of a box: to KRYTEN>
+  What's this??
+
+KRYTEN
+  It's mountaineering equipment from Miss Kochanski's ship, sir.
+
+LISTER
+  A crossbow?
+
+KRYTEN
+  I thought it might come in handy next time we run into your wife.
+
+KOCHANSKI [Mic.]
+  You've got about 20 seconds before I'm out of reach!
+
+<Behind them, CAT pulls out several lengths of rope from another box>
+
+CAT
+  Rope?
+
+<LISTER grabs the crossbow and rope>
+
+LISTER
+  Yes!  Yes!  Yes!
+
+[LISTER sprints OOV]
+
+
+[-- 27 - Int. The Way -----------------------------------------------------]
+
+KOCHANSKI [Mic.]
+  I'm getting a *mite* panicky, here..!
+
+[Enter LISTER, CAT, KRYTEN]
+
+<LISTER runs to the lip of the Way, attaches the rope to a crossbow bolt and
+ takes careful aim through the telescopic sight.  Sweat beading on his brow,
+ his finger tenses; he knows that a stray shot will end the life of the only
+ woman he has ever truly loved - in more ways than one.
+
+ He pulls the trigger, and the bolt hurls itself into the abyss.  The pile
+ of rope uncoiles with dizzying speed as the the bolt arcs through the
+ blackness - until it embeds itself solidly, clear through Kochanski's right
+ thigh>
+ 
+KOCHANSKI
+  Aaarg!
+
+<She gasps in agony and stares at the bolt protruding redly through both
+ sides of her leg>
+
+KOCHANSKI
+  Bastard!
+
+<As LISTER and CAT struggle with the rope, LISTER's communicator bleeps, and
+ KRYTEN takes it from his pocket.  KRYTEN listens, his eyes widening>
+
+KRYTEN
+  It's an obscene phone call, sir.  I think it's for you.
+
+<He holds the device up to LISTER, who cringes>
+
+
+[-- 28 - Int. Starbug medi-bay --------------------------------------------]
+
+[KRYTEN, KOCHANSKI present]
+
+KRYTEN
+  I've brought you a drink, but don't think for one minute it means I've
+gone all mushy on you.
+  
+KOCHANSKI
+  I'm gonna get up, and work out a way of re-establishing that linkway.
+
+KRYTEN
+  It's too late ma'am, the rift's self-repaired...
+
+[His voice again becomes tearful and high-pitched]
+
+KRYTEN
+  We're *stuck* with you!
+
+KOCHANSKI
+  I'm gonna try, *anyway*.
+
+<KOCHANSKI slides off the bed awkwardly, and pads over to the door.
+ Standing, KRYTEN sees that the back of her gown has got fastened in the
+ waistband of her undershorts>
+
+KRYTEN
+  Oh, ma'am -
+
+KOCHANSKI
+  Yes, Kryten?
+
+<KRYTEN hestitates>
+
+KRYTEN
+  Welcome aboard...
+
+<KOCHANSKI smiles gratefully>
+
+KOCHANSKI
+  Thanks, Kryten.
+
+<KRYTEN turns away and grins>
+
+
+[-- 29 - Int. An empty pub ------------------------------------------------]
+
+[The scene is an old, circa 22nd century English pub, in the foreground is
+ a zero-g pool table.  A flash of red lighting arcs down to the floor and
+ LISTER appears, holding a cardboard box in which is a baby, wrapped in
+ blankets.  A single word written in black marker pen adorns the side of the
+ box, and reads: 'Ouroboros']
+
+[A caption appears on screen and reads: "EIGHTEEN MONTHS LATER"]
+
+LISTER [to baby]
+  For a long time, you'll think that you were abandoned, but you *weren't*,
+man.  You were put here to create a paradox, an unbreakable circle.  With us
+going 'round and 'round in time, the human race can never beome extinct.
+We're like... a kind of 'holding pattern'.
+
+<LISTER reaches into the box and touches the baby's chin tenderly>
+
+LISTER
+  I'll see ya, son.
+
+<Quietly, LISTER approaches the pool table and, bending down, gently slides
+ the box underneath.  He steps away>
+
+
+[--------------------------- END OF "OUROBOROS" ---------------------------]
+
+ Bonus points if you noticed that there were no opening titles in this
+ episode.  Indeed, this wasn't an oversight on my part - perhaps they were
+ pushed for time... =)
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor;
+ no copyright infringement or toe-stepping intended.  Comments, criticisms
+ and corrections welcomed at "raz@mushroom.demon.co.uk".  Thanks.]
+
+

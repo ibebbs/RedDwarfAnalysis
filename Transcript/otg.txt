@@ -1,0 +1,1461 @@
+
+
+[--------------------------------------------------------------------------]
+                           RED DWARF - SERIES 8
+[--------------------------------------------------------------------------]
+                        EPISODE 8 -- ONLY THE GOOD
+[--------------------------------------------------------------------------]
+                               Version 1.01
+                            7 - 9 April, 1999
+                        Last updated: 19 May, 1999
+                         Raz / raz@matrixcity.org
+                         http://www.matrixcity.org
+
+
+[-- 1 - Model/CGI shot ----------------------------------------------0:00--]
+
+[A derelict ship, floating in space. A pod tumbles away from the ship and
+ slices by the camera]
+
+
+[-- 2 - CGI shot ----------------------------------------------------0:04--]
+
+[A plain starfield. Narrative text draws across the screen:]
+
+  "Lone escape pod from SS Hermes -
+  Survivors one.
+
+  Ship destroyed by Chameleonic Microbe."
+
+[A pause, then the words 'by Chameleonic Microbe.' are deleted, and replaced
+ with:]
+
+  "by Chamelionic Mycrobe."
+
+[A second pause, then 'by Chamelionic Mycrobe.' is deleted, and replaced
+ with the much simpler:]
+
+  "by shape changing weird space thing.
+
+  Non essential electrics all down,
+  including spell checker.
+
+  Massage ends."
+
+
+[-- 3 - Model/CGI shot ----------------------------------------------0:26--]
+
+[The triangular escape pod tumbles through space, its fuel spent. It
+ approaches Red Dwarf and falls into the ship's gravity well]
+
+
+[-- 4 - Model/CGI shot ----------------------------------------------0:36--]
+
+[A cargo bay within Red Dwarf. The pod has been brought in and now sits
+ upright in the bay. Narrative text appears:]
+
+  "6 hours later"
+
+[One side of the pod begins to shimmer, as some kind of black, flickery
+ substance begins to spread out from the entry hatch and move around the
+large, circular airlock cavity. As the black substance passes, the metalwork
+of the pod vanishes, leaving behind a jagged tear through the airlock]
+
+
+[-- 5 - Int. Captain's Recovery room --------------------------------0:46--]
+
+[We see a close up on a TV screen, display on which is an old black and
+ white sci-fi horror movie. A woman is being carried by a creature dressed
+ in a dark suit and helmet; she kicks her legs and screams melodramatically]
+
+[CAPTAIN HOLLISTER present]
+
+[HOLLISTER is lying in bed, looking ill. There is a knock on the door, and
+ the CAPTAIN struggles to croak around an obviously sore throat]
+
+HOLLISTER
+  ...Come in...
+
+[More knocks issue, and HOLLISTER reacts with exasperation]
+
+HOLLISTER
+  ...Come in...
+
+[HOLLISTER strains hard, but the caller obviously still does not hear, and
+ knocks again]
+
+HOLLISTER
+  ...Come in!...
+
+[There is a pause, then the door swishes open]
+
+[Enter RIMMER]
+
+RIMMER
+  Can I come in, sir?
+  I did knock, sir, perhaps you didn't hear me?
+  Your hot lemon, sir.
+
+[HOLLISTER takes the drink, then pats at his face]
+
+HOLLISTER
+  God-damn yellow fever. I've still got that jowly, flabby, puffiness around
+my cheeks.
+
+RIMMER
+  Wasn't that there before your illness, sir?
+  Yes, I'm sure it was, because -
+
+[HOLLISTER glances at RIMMER sharply]
+
+RIMMER
+  Let me tuck you in, sir.
+
+HOLLISTER
+  How's life on probation? Fouled it up yet?
+
+RIMMER
+  Enjoying it, sir.
+  Some directives for you to sign, sir:
+
+[RIMMER hands over a clipboard, and the CAPTAIN leafs through it]
+
+HOLLISTER
+  What's this 'Space Core Free Pardon', exonerating you of all crimes, doing
+in here?
+
+[RIMMER sucks air through his mouth, an expression of incredulity on his
+ face]
+
+RIMMER
+  Those people in Admin really need to pay more mind, sir, honestly! Tsk! You
+can't rely on anyone these days, can you!
+
+[HOLLISTER stares coldly at RIMMER, who breaks under the pressure and sinks
+ to his knees by the CAPTAIN's bed]
+
+RIMMER
+  I'm so sorry, sir, it's just, if I've got a record, I'll never become an
+officer and command my own ship; and that's what I long for more than
+anything, sir, to be like you... Maybe thinner, and in better condition,
+and obviously without your clogged arteries, but that aside, sir, you're the
+person I admire the most.
+
+HOLLISTER
+  Another ambition achieved...
+
+RIMMER
+  You think I could become an officer, one day, sir?
+
+HOLLISTER
+  Look, it gives me no pleasure telling you this, Rimmer, but I'm sorry,
+you're just not officer material.
+
+RIMMER
+  'Not officer material', sir??
+
+HOLLISTER
+  If you wanna take my advice you'll redirect your energies and find
+something that you have a genuine chance of succeeding at.
+
+RIMMER
+  Like what, sir?
+
+[HOLLISTER feigns loss of speech]
+
+RIMMER
+  So you're saying I'm never going to become a Captain, sir? Never?
+
+[HOLLISTER croaks words]
+
+[There is another knock at the door, and a woman dressed in a flowing
+ black dress sweeps in. Ignoring RIMMER, she stares down at the CAPTAIN]
+
+WOMAN
+  They said it was okay to drop by...
+
+HOLLISTER
+  Talia?? We-ll, hi!
+
+[RIMMER jumps to his feet and smarms at the woman]
+
+RIMMER
+  Hi!
+
+[The woman smiles in return, but immediately returns her gaze to the
+ CAPTAIN]
+
+HOLLISTER
+  Ah, Rimmer was just leaving...
+
+TALIA
+  I can't believe we've run into one another again after all this time!
+
+HOLLISTER
+  Well, the nanobots must have resurrected you, too! You look... wonderful.
+
+TALIA
+  You made Captain; you've done so well. Your own ship... wow! I've got
+goosebumps.
+
+RIMMER
+  The photograph of your *wife*, sir? Is it okay where it is or should I
+turn it so it's facing the wall?
+
+HOLLISTER
+  Dismissed, Rimmer.
+
+RIMMER
+  Yes, sir. Thank you, sir.
+  Nothing I can get *you*, ma'am? Tea? Coffee?
+
+[RIMMER turns and heads out, still muttering]
+
+RIMMER
+  Packet of three..?
+
+[Exit RIMMER]
+
+[TALIA's eyes widen as she hears RIMMER's parting words, and the CAPTAIN
+ glares after him, then smiles and apologises to his guest]
+
+
+[-- 6 - Int. Corridor outside recovery room --------------------Raz--3:34--]
+
+[RIMMER present]
+
+[RIMMER strides away from the CAPTAIN's room]
+
+RIMMER
+  Me? Not make it? What does he know? The big, stupid, yellow idiot.
+
+[RIMMER pauses by a food dispenser, and begins fishing in his pocket]
+
+RIMMER
+  He doesn't see my good side, my guile, my weasel cunning. When the going
+gets tough, my ability to find good hiding places.
+
+[RIMMER takes out a token from his pocket and carefully extends a length of
+ thread that is attached to it. He inserts the token into the dispenser's
+ credit slot]
+
+RIMMER
+  He thinks I'm an imbecile, he really does...
+
+[RIMMER taps in a few numbers on a control panel, and a chocolate bar drops
+ into the vending compartment. RIMMER takes it]
+
+RIMMER
+  Ha ha. Me, an imbecile!
+
+[In one smooth motion, RIMMER carefully tugs on the string and pulls his
+ coin back out of the dispenser. Immediately lights begin to flash all over
+ the machine]
+
+DISPENSER
+  Alert, alert! A choccy-nut bar - a choccy-nut bar - has been removed
+without payment.
+
+[RIMMER slaps his hand across the dispenser's speaker-unit]
+
+DISPENSER
+  A choccy-nut bar has been removed without payment. Alert, alert!
+
+RIMMER
+  Shut up!
+
+DISPENSER
+  No, shan't. Alert, alert!
+
+RIMMER
+  If you don't shut up, I'll pour beef soup into your speaker and you'll
+drown.
+
+DISPENSER
+  Take your hand off m' speaker then.
+
+RIMMER
+  Promise to shut up?
+
+DISPENSER
+  Promise.
+
+[RIMMER uncovers the speaker]
+
+DISPENSER
+  Ha ha ha haa! I had m' circuits crossed! Alert, alert! Chocolate abduction
+on floor three-four-one. Alert -
+
+[Angrily, RIMMER crumples up the CAPTAIN's directives and stuffs the papers
+ into the dispenser's speaker grille. He begins peeling off the sticky-
+ backed instruction labels that decorate the dispenser over its various slots
+ and vents and, in an attempt to silence the machine, re-sticks them so that
+ they cover the speaker grille]
+
+DISPENSER
+  Ooh, I say, you w'll - you will not get away with this, I may not be able
+to see you but I know your taste in confectionary! And I also - I also
+know - I also know, ha haa, erm, no, in fact that *is* all I know, just your
+taste in confectionary, but no matter, because one day I'll hear
+your voice again and I'll expose you for the chocolate thieving dog you are!
+
+[RIMMER gives up on trying to suffocate the machine, and rubs his hands on
+ his trousers nervously]
+
+RIMMER
+  I'm really scared! I'm being threatened by a dispensing machine!
+
+[Enter HOLLISTER]
+
+[HOLLISTER approaches RIMMER from behind, carrying the tray RIMMER brought
+ with him to the recovery room. Still railing at the dispenser, RIMMER does
+ not see him approach]
+
+RIMMER
+  What are you gonna do, leave a horse's head made out of marzipan in my
+bed?
+  "Oh, mummy, help, help, help! I'm really scared!"
+
+HOLLISTER
+  Rimmer..?
+
+[RIMMER whirls around and flattens himself against the wall]
+
+HOLLISTER
+  You forgot your tray...
+
+RIMMER
+  Thank you, sir.
+
+[HOLLISTER turns to walk away]
+
+DISPENSER
+  He stole some chocolate! He stole s -
+
+[RIMMER claps his hand across the speaker once more as HOLLISTER turns back
+ to regard him. The CAPTAIN opens his mouth and points at RIMMER, then
+ thinks better of it and heads back to his room]
+
+[Exit HOLLISTER]
+
+DISPENSER
+  You are my nemesis... one day, our paths will cross again, and I - I will
+*destroy* you...
+
+RIMMER
+  And on that day, I will be the Captain of this ship.
+
+[Exit RIMMER]
+
+
+[-- 7 - Int. Corridors circling Floor 13's central chamber ----------5:30--]
+
+[CAT, KRYTEN, LISTER present]
+
+[The trio are walking through corridors on Floor 13]
+
+CAT
+  It's okay for Mister cushy-working-for-the-Captain-now, but what about
+me? All that damned rock!
+  My back's killing me, bud! Look at my spine, it's so curved, if you threw
+it away it'd come back!
+  Rock, rock, rock, rock, rock, rock! I ain't used to work! But what job do
+they give me?
+
+KRYTEN
+  Er, something to do with rocks, sir?
+
+CAT
+  Exactly. You know what they've got me doing? I've got to put all the rock
+albums on the P.A. system. I've got to change those suckers once every
+forty-five minutes! I'm a physical wreck!
+  Probation's killing me, buds..!
+
+[Exit CAT]
+
+[Thankful for the silence, LISTER notices the piece of card that KRYTEN
+ carries]
+
+LISTER
+  What's that?
+
+KRYTEN
+  Oh, it's just a present to help cheer up Miss Kochanski.
+
+[KRYTEN holds it up for LISTER to see]
+
+LISTER
+  What, a calendar?
+
+KRYTEN
+  Mmm. A couple of days ago she was looking at the old calendar and she
+said it was the wrong time of the month, so I got her a new one.
+  I'm going to tell her, the calendar people made a mistake, but let's just
+leave this whole 'wrong month' thing behind us; they were stupid, it was
+careless, but being grumpy and tearful about it is getting it way out of
+proportion.
+
+LISTER
+  A little word in your audio receiver:
+
+[KRYTEN leans closer, and LISTER whispers into his ear for a few moments.
+They separate]
+
+KRYTEN
+  And this happens to all women? They become cranky and weird, and yet you
+never see this in films or on TV... and men are supposed to be in control of
+the media..! This is the biggest cover-up since Watergate!
+
+LISTER
+  Relax, its not a big deal. I'll tell you what to do and how to behave;
+everything. Just trust me.
+
+
+[-- 8 - Int. Cell ---------------------------------------------------7:05--]
+
+[KRYTEN present]
+
+[Enter KOCHANSKI]
+
+[KOCHANSKI spots KRYTEN, then glances up at something above him. She does a
+ double-take and her eyes widen. KRYTEN stands under a large banner that
+ proclaims: "HAVE A FANTASTIC PERIOD"]
+
+KRYTEN
+  Ta-daaaa!
+  Thank goodness for Mister Lister! I nearly made such a fool of myself.
+
+[KRYTEN holds up a single tampon, dangling on its string and adorned with
+ green ribbons]
+
+KRYTEN
+  A little present ma'am.
+
+[KOCHANKSI narrows her eyes and nods as if playing along]
+
+KRYTEN
+  All gift-wrapped.
+  I hope I chose the right size...
+
+KOCHANSKI
+  Dave told you to do this, didn't he.
+
+KRYTEN
+  Ohhh, isn't he wonderful?
+
+KOCHANSKI
+  Oh yeah. Sometimes he's so cute I could just eat him.
+
+KRYTEN
+  He explained everything to me so I wouldn't embarrass myself.
+
+[KRYTEN grins and gestures with the tampon]
+
+KOCHANSKI
+  Come on then, open it! I want you to try it on. Maybe you could do a
+little twirl in it?
+
+[KOCHANSKI scowls and glares at KRYTEN]
+
+KOCHANSKI
+  Kryten, how can I put this..?
+
+KRYTEN
+  Is there something wrong, ma'am?
+
+[KRYTEN pauses for a moment, considering, then quickly lowers his arm]
+
+KRYTEN
+  He set me up, didn't he. This is absolutely the wrong thing to do when a
+woman is having a...
+
+[KRYTEN points upwards towards the last word of the banner]
+
+KRYTEN
+  Is the banner wrong, too?
+
+[KOCHANSKI nods, quietly]
+
+KOCHANSKI
+  Oh yeah.
+
+KRYTEN
+  He was lying!
+  I've been duped by a master craftsman. Well, two can play at this game!
+
+KOCHANSKI
+  Oh yeah? What do you have in mind?
+
+KRYTEN
+  Well, are you sure you have time for this, ma'am? I realise the next few
+days are very special for you. Don't you want to be playing tennis alot in
+tight, white jeans? Wouldn't want to stop you from doing that. And not
+forgetting all that blue stuff you've got to pour over things.
+
+KOCHANSKI
+  Just tell me your plan for getting Dave back!
+
+KRYTEN
+  Right, here's my idea...
+
+[KRYTEN lowers his voice and goes through the details quickly, gesturing
+ exaggeratedly to illustrate the key points]
+
+
+[-- 9 - Int. Cell ----------------------------------------------Raz--9:04--]
+
+[RIMMER, LISTER present]
+
+[LISTER and RIMMER are sat at their table, playing draughts. A quiet whistle
+ is heard, and LISTER looks at his watch]
+
+LISTER
+  That's Holl, he must want something.
+
+[LISTER prods the watch and transfers HOLLY to the wall monitor]
+
+HOLLY [on viewscreen]
+  Thought you might like to hear some hot off the press, official insider
+information.
+  There's gonna be a cell inspection in about ten minutes. Keep it under
+  your hat.
+
+[HOLLY winks conspiratorially, and LISTER nods]
+
+[Enter GUARD]
+
+GUARD
+  Cell inspection in ten minutes.
+
+[Exit GUARD]
+
+[LISTER glances back to HOLLY]
+
+
+[-- 10 - Computer viewscreen ----------------------------------------9:29--]
+
+[HOLLY present]
+
+[HOLLY nods and smiles, pleased with himself]
+
+HOLLY
+  Told you.
+
+
+[-- 11 - Int. Cell --------------------------------------------------9:33--]
+
+[RIMMER, LISTER present]
+
+LISTER
+  Thanks, Holl, it was most helpful.
+
+
+[-- 12 - Computer viewscreen ----------------------------------------9:37--]
+
+[HOLLY present]
+
+HOLLY
+  When it comes to being ahead of the game, I'm your man.
+
+
+[-- 13 - Int. Cell --------------------------------------------------9:42--]
+
+[RIMMER, LISTER present]
+
+RIMMER
+  If you don't mind me asking, where did you get that priceless nugget of
+information *way* before it got into the public domain?
+
+
+[-- 14 - Computer viewscreen ----------------------------------------9:48--]
+
+[HOLLY present]
+
+HOLLY
+  I've hacked into the ship's computer system; got into the prison log. I've
+also managed to get a goosey at the supplies inventory. Discovered stuff in
+there that'll make your hair stand on end...
+
+[-- 15 - Int. Cell --------------------------------------------------9:59--]
+
+[RIMMER, LISTER present]
+
+LISTER
+  What stuff?
+
+
+[-- 16 - Computer viewscreen ---------------------------------------10:01--]
+
+[HOLLY present]
+
+HOLLY
+  'Brylcreme', it's called. Y' put it on your head, and it makes your hair
+stand on end. Apparently we've only got two jars left, so if you need some,
+let me know.
+  As soon as I've got anything else that'll be useful I'll be back.
+
+
+[-- 17 - Int. Cell -------------------------------------------------10:20--]
+
+[RIMMER, LISTER present]
+
+RIMMER
+  See you in about twenty-five years, then.
+
+[HOLLY nods and pulls a sarcastic face, and his image dissolves]
+
+[Exit HOLLY]
+
+[LISTER scratches at his forehead intently]]
+
+LISTER
+  This little scar's itchy today. Must be all the dust.
+
+RIMMER
+  You've got a scar? When did you get that?
+
+LISTER
+  Those complimentary pens that the hospital guys were giving out - y'know,
+er, "most accidents happen in the home, so be careful" ones? I accidentally
+stabbed m'self in the head with one.
+
+RIMMER
+  Where were you?
+
+LISTER
+  I wasn't at home, so I didn't feel stupid or anything.
+
+RIMMER
+  That's not a scar, that's a nick. *That* is a scar.
+
+[RIMMER points at the small white mark under his jawline]
+
+LISTER
+  Where did you get that?
+
+RIMMER
+  From a fight, years ago. Duel.
+
+LISTER
+  A duel? You? Get out of town!
+
+RIMMER
+  Not *a* duel; "Duel", the old Steven Spielburg movie. Friend of mine
+attacked me with a video case. Some stupid argument about who had the
+coolest bicycle clips.
+  I got him back, though. I peed in his mum's steam iron; he had yellow
+t-shirts for a week.
+
+[A buzzing noise issues from a small device on the wall of their cell]
+
+RIMMER
+  Why's that going off?
+
+[RIMMER crosses to the device and tears off the piece of paper that the
+ machine has just printed]
+
+RIMMER
+  It's from Kryten: "Look under the draughts board".
+
+LISTER
+  Another note...
+  "Dear Mister Lister, thanks for your wonderful advice regarding Miss
+Kochanski. In return, I thought I'd steal Baxter's stash of illegal hooch
+and hide it in... your shower"!
+  "I am laughing as I write this knowing your cell is about to be searched,
+and imagining the panic now gripping your soul"!!
+
+[LISTER tears open the shower cubicle and sees several demijohns]
+
+RIMMER
+  Oh my god!
+
+LISTER
+  Oh god!
+
+RIMMER
+  What the hell are we gonna do? We've got an inspection in five minutes!
+We're on probation!
+
+LISTER
+  Down the loo; down the sink.
+
+[LISTER drags one of the demijohns over to their sink and upends the contents
+ into it]
+
+RIMMER
+  Baxter's gonna kill us if he finds out we're doing this!
+
+LISTER
+  The Captain's gonna kill us if we don't!
+
+RIMMER
+  But Baxter! You've seen what he's like: grizzly bears run screaming from
+*him*. Last week he was playing poker, ran out of money - he bet his right
+nut on a pair of jacks! A pair of jacks! That's how hard he is.
+
+[A warning light flashes above LISTER's head]
+
+LISTER
+  Smeg, the tank's full!
+
+RIMMER
+  What're we gonna do? We've still got two bottles left!
+
+LISTER
+  We're gonna have to drink it.
+
+RIMMER
+  Drink it? This Baxter's hooch, it's about three hundred percent proof! A
+  bottle of this would get the entire Greek navy drunk.
+
+LISTER
+  It'll put hairs on your chest.
+
+RIMMER
+  It'll put hairs on your lips! It'll put hairs on your... hairs! It's
+lethal.
+
+LISTER
+  Look, do you wanna get caught in possession of illegal hooch? Get
+drinkin'.
+
+RIMMER
+  Have we got any mixers?
+
+LISTER
+  You are wetter than a driving instructors handshake, aren't you. Get it
+down your gob!
+
+[LISTER takes a tentative sip from one of the bottles. He lowers the bottle
+ slowly, face slack. He coughs painfully and shuffles hesitantly towards his
+ chair]
+
+RIMMER
+  What's it like?
+
+LISTER
+  It's okay...
+
+[RIMMER takes a wary sip himself. After a moment, his mouth begins to
+ tremble, followed by the rest of his head. By the time he joins LISTER at
+ the table, most of his body is convulsing gently. LISTER topples off the
+ side of his chair and sits down heavily on the floor]
+
+
+[-- 18 - CGI shot --------------------------------------------------13:37--]
+
+[A plain black screen. Text appears:]
+
+  "5 minutes sshhlater..."
+
+
+[-- 19 - Int. Cell -------------------------------------------------13:41--]
+
+[RIMMER, LISTER present]
+
+[LISTER has managed to regain his seat, but apart from that, nothing has
+ changed. Both RIMMER and LISTER sit quietly, wobbling gently and looking
+ decidedly ill]
+
+[Enter ACKERMAN]
+
+ACKERMAN
+  In-spec-tion!
+
+[ACKERMAN's smile disappears as the pair ignore him, and he glares down at
+ them]
+
+ACKERMAN
+  On your feet...
+
+[RIMMER and LISTER do as ordered; or, at least, try. Several long moments
+ later, both have succeeded in pushing themselves to their feet]
+
+ACKERMAN
+  Stand by your bunks...
+
+[ACKERMAN moves aside and, with great care, RIMMER and LISTER make a dive
+for the bunks, each managing to grab the top bed and hold themselves
+upright. ACKERMAN takes a sniff of the demijohn standing on the table,
+grimaces, and walks across the room to stand between RIMMER and LISTER in
+front of the bunks]
+
+ACKERMAN
+  You're drunk.
+
+LISTER
+  Drunk, shir?
+
+[LISTER shakes his head emphatically then finds it difficult to stop]
+
+LISTER
+  No, sir.
+
+RIMMER
+  Absolutelly not, sir, no. No, no. No.
+
+[ACKERMAN ponders for a moment]
+
+ACKERMAN
+  Who fancies a kebab?
+
+LISTER
+  Oh yeah!
+
+RIMMER
+  Me, sir, me!
+
+LISTER
+  Oh smeg... he's shticked us.
+
+[RIMMER passes out and falls stiffly to the floor. LISTER points and
+ giggles, then thinks hard for a few seconds]
+
+LISTER
+  Musht've been tshe jshelly shtrifle for lunch, shir. Told him not to go
+back for seconds, sir.
+
+[LISTER rests his head against ACKERMAN's shoulder and instantly falls
+ asleep, snoring softly. ACKERMAN looks out of the cell]
+
+ACKERMAN
+  Call the medi-bay; we need two stomach pumps.
+
+[ACKERMAN stares at LISTER with disgust]
+
+ACKERMAN
+  Super-suck...
+
+
+[-- 20 - Int. Mess hall --------------------------------------------15:29--]
+
+[KOCHANSKI, KRYTEN, CAT, other prisoners present]
+
+[Enter BAXTER, two cronies]
+
+KOCHANSKI
+  It's Baxter...
+
+[BAXTER menaces across the mess hall and leans over the Dwarfer's table]
+
+BAXTER
+  Your two mates stole my hooch; and when they get out of hospital, and
+there's no guards about, this is what's gonna happen to them...
+
+[BAXTER picks up two bread buns from the table in front of CAT and crushes
+ them in his fists. He giggles insanely]
+
+CAT
+  You're gonna squeeze their rolls?
+  That's irritating, but hey, in many ways they'll be quite relieved!
+
+[Exit BAXTER]
+
+KRYTEN
+  What've I done!?
+
+
+[-- 21 - Int. Red Dwarf medibay ------------------------------------16:13--]
+
+[LISTER, RIMMER present]
+
+[The pair are laid in hospital beds and hooked up to I.V.'s]
+
+RIMMER
+  Uaaahhhhh...
+
+[Enter KOCHANSKI, KRYTEN]
+
+[KOCHANSKI is sat in a wheelchair, which KRYTEN is pushing. In an
+attempt to look like legitimate patients, both are dressed in white gowns,
+KOCHANSKI has a large saucepan apparently stuck over her head, and KRYTEN's
+head has been dotted with blue blobs of Blu-tak]
+
+KOCHANSKI
+  Baxter's out to mash you - you've got to escape. We all have.
+
+KRYTEN
+  Security's lax, here. If we can make it to the landing bay, and steal a
+ship, well, Bob's your Skutter!
+
+RIMMER
+  Where's the Cat?
+
+KRYTEN
+  He should be getting himself hospitalised any second.
+
+
+[-- 22 - Int. Mess hall --------------------------------------------16:40--]
+
+[Three bulky prisoners are sat on a bench beside a table, eating meals from
+ trays]
+
+[Enter CAT]
+
+[CAT steps over the bench and proceeds to lever himself a space between two
+ of the men, his elbows, knees and feet all causing the other men obvious
+ annoyance as he pushes them aside. All three prisoners stare menacingly at
+ CAT, but say nothing. CAT gestures down the table and speaks to the man
+ previously in the middle of the three prisoners]
+
+CAT
+  Pass the salt, would you?
+
+[As the man looks away to get the salt, CAT grabs a handful of fries from
+ the burly prisoner's tray and stuffs them into his mouth. As he turns back,
+ the man glances at his lighter tray, then at CAT, who points past him to
+ the prisoner sat at the end of the table]
+
+CAT
+  That guy there took some of your fries.
+
+[Despite the ludicrous suggestion, the big man looks at the other prisoner
+anyway, who stares back impassively and goes back to his meal while CAT
+helps himself to the other man's tray twice more. The burly prisoner stares
+at CAT again]
+
+BIG MEAT
+  What in the hell are you doin' -
+
+[BIG MEAT casts a disdainful eye at CAT's haircut]
+
+BIG MEAT
+  - Shirley?
+
+[CAT glances at the man's large stomach]
+
+CAT
+  I'm stealing your fries, fatboy.
+
+[While BIG MEAT looks on incredulously, CAT elbows past him, grabs two more
+mouthfuls of fries, steals his drink to wash them down, then picks up his
+sausage and bites off a chunk. CAT then grabs the spoon from BIG MEAT's
+hand and takes two spoonfuls of the man's trifle before tossing the spoon
+down onto the tray]
+
+CAT
+  Mmm. This is good. Tasty.
+
+[BIG MEAT stares coldly at CAT and speaks slowly and menacingly]
+
+BIG MEAT
+  There ain't no one more bad-ass *evil* in the whole of hell! What makes
+you think you can diss me and live?
+
+CAT
+  Cos things are changin' 'round here. From now on, marshmallow ass, you're
+my bitch!
+
+[Suddenly CAT closes his eyes and thrusts his jaw out at BIG MEAT, who
+ simply stares at him in amazement]
+
+BIG MEAT
+  Your what?
+
+CAT
+  B - I - itch, 'bitch'! That's what you look like; that's what you are!
+Understand?
+
+[Again CAT squeezes his eyes shut and thrusts out his jaw, muscles tensed]
+
+[BIG MEAT is motionless for a moment, then suddenly he seems to sag]
+
+BIG MEAT
+  Okay!
+
+CAT
+  What?
+
+BIG MEAT
+  Anyone who tough-talks me gotta be a no-loadin' pug! You want me to be
+your bitch, that's *fine* by me! Sir!
+
+CAT
+  You sure you don't want to just hit me a couple of times, test me out?
+
+BIG MEAT
+  No, sir! I'm your bitch! From now on I'm your jiggly-wiggly, roll-over,
+sweet-patooey, honey-bun missy! I just wan' make you happy!
+
+CAT
+  Then hit me!
+
+[CAT offers his jaw desperately]
+
+BIG MEAT
+  And hurt my baby's kisser? Nothin' doin'!
+
+[BIG MEAT puts his huge arms around CAT and smiles broadly. CAT turns away
+ as much as he can, panic on his face]
+
+CAT
+  Damn!
+
+
+[-- 23 - Int. Red Dwarf medi-bay ------------------------------Raz--18:52--]
+
+[LISTER present, RIMMER, NURSE present]
+
+[Exit NURSE]
+
+[Enter CAT]
+
+[CAT presses himself up against the corner he just entered around, checking
+behind him to check if the NURSE noticed anything peculiar. It's easy to see
+what he's worried about - he is dressed in a nurse's yellow-checked utility
+dress and white cap. Satisfied the NURSE has left, CAT totters to LISTER's
+bedside on a pair of high heels and pretends to check his pulse. His eyes
+closed, LISTER smiles and raises his head, then grimaces in surprise]
+
+CAT
+  We can't hang around, we've gotta be out of here by five o'clock!
+
+LISTER
+  What's so special about five o'clock?
+
+CAT
+  Five o'clock's bed-bath time! And apparently, I'm doin' them!
+
+
+[-- 24 - Int. Corridor aboard Red Dwarf ----------------------------19:20--]
+
+[Enter KRYTEN, LISTER, RIMMER, KOCHANSKI, CAT]
+
+[KRYTEN unfastens the cover of an access tube set into the wall of the
+ corridor and the Dwarfers file out]
+
+
+[-- 25 - Int. Red Dwarf Landing bay 2 ------------------------------19:26--]
+
+[The Dwarfers approach a dark and empty section of corridors leading
+ towards the landing bay. A short way along a corridor, a film of some
+ gelatinous, lumpy substance coats the various metal surfaces, and the whole
+ section steams and drips steadily as the metal corrodes away]
+
+[Enter KRYTEN, LISTER]
+
+KRYTEN
+  The microbe, which destroyed the Hermes - it's on Red Dwarf!
+
+[Enter RIMMER, KOCHANSKI, CAT]
+
+LISTER
+  How?
+
+RIMMER
+  The microbe's chameleonic, so it must have been the escape pod; the one
+Talia whatsername arrived on.
+
+LISTER
+  We've gotta go back and tell them.
+
+RIMMER
+  But what about our escape?
+
+LISTER
+  It could be days before they discover this! If we go back now, they've got
+a chance to work on an antidote.
+
+RIMMER
+  You're just acting all brave and manly to impress her, aren't you?
+
+KOCHANSKI
+  No, Dave's right. He's looking at the big picture.
+
+RIMMER
+  Yeah, 'the big picture' involves you, no clothes and a haystack.
+
+
+[-- 26 - Int. Central chamber, floor 13 ----------------------------20:01--]
+
+[Prisoners, CAPTAIN HOLLISTER present]
+
+[HOLLISTER stands on the the first level balcony that circles the chamber
+ and looks down at the inmates]
+
+HOLLISTER
+  Red Dwarf is being devoured from within by a corrosive micro-organism. As
+you probably know, we don't have enough craft for everyone to be rescued,
+so most of you will be staying behind to die. Oh, there's an apology about
+that in the internal mail.
+
+
+[-- 27 - Model/CGI shot --------------------------------------------20:18--]
+
+[Red Dwarf cruises through space, as several squadrons of Blue Midget and
+ Starbug transport craft stream away]
+
+
+[-- 28 - Int. Landing bay 2, corroding corridor --------------------20:28--]
+
+[KRYTEN, LISTER, RIMMER, KOCHANSKI, CAT present]
+
+[KRYTEN holds a test tube, and gingerly collects a quantity of the dark
+ brown, jelly-like microbe]
+
+KRYTEN
+  Just as I thought. Created in a lab and programmed not to destroy glass.
+
+CAT
+  So all we need is a plutonium powered greenhouse and we're home free!
+
+KRYTEN
+  We need an antidote. Something that can neutralise the corrosive
+negativity of the microbe.
+
+LISTER
+  Something with a corrosive *positivity*?
+
+CAT
+  So where do we get that?
+
+HOLLY [on LISTER's wristwatch]
+  There's nothing in Yellow Pages.
+
+KOCHANSKI
+  A mirror universe! A universe where things are diametrically opposite to
+this one. There, negative becomes positive, and a virus becomes an antidote.
+
+
+[-- 29 - Int. Recovery room ----------------------------------------20:59--]
+
+[KRYTEN, CAT, LISTER, KOCHANSKI, RIMMER present]
+
+[KRYTEN fusses over a small device he has placed on a platform in the centre
+ of the room. KRYTEN powers up his machine, and a shimmering beam of light
+ streams from the unit and into the prism positioned in front of it. The
+ light emerges on the other side of the prism, circled by diminishing
+ concentric rings, continuing forward until it strikes a tall mirror hung on
+ the wall. The mirror 'ripples' as the beam perturbs its surface]
+
+KRYTEN
+  If there's even the slightest imperfection in the prism, the mirror
+universe may be an imperfect version of our own. That's something we won't
+know until we get there.
+
+[LISTER gestures to RIMMER to lead on. Holding the tube of microbes in his
+ right hand, RIMMER steps through the mirror...]
+
+
+[-- 30 - Int. Mirror universe, Recovery room -----------------------21:18--]
+
+[RIMMER present]
+
+[...and emerges in a mirror image of the room he just left. RIMMER holds up
+ the test tube, surprised to see that he now holds it in his left hand, and
+ that its contents have turned white]
+
+
+[-- 31 - Int. Recovery room ----------------------------------------21:22--]
+
+[KRYTEN, CAT, LISTER, KOCHANSKI present]
+
+[An angry pop and a flash of sparks come from KRYTEN's machine, and the beam
+ of light abruptly cuts off. KOCHANSKI, in the act of following RIMMER,
+ finds herself colliding with a suddenly solid mirror]
+
+
+[-- 32 - Int. Mirror universe, Recovery room -----------------------21:25--]
+
+[RIMMER present]
+
+[RIMMER notices the mirror solidify behind him and spins around, panicked.
+ He checks the now-solid surface closely, but there's nothing he can do]
+
+
+[-- 33 - Int. Recovery room ----------------------------------------21:28--]
+
+[KRYTEN, CAT, LISTER, KOCHANSKI present]
+
+[The machine fizzles and pops, showering sparks and sending a cloud of smoke
+ spiralling upwards]
+
+KRYTEN
+  It's overloaded! We've lost Mister Rimmer!
+
+CAT
+  At last, things are looking up!
+
+LISTER
+  How long's it going to take to fix that thing?
+
+KRYTEN
+  Well, best guess, about twenty minutes.
+
+
+[-- 34 - Int. Mirror universe, Recovery room -----------------------21:39--]
+
+[RIMMER looks around the room. We see a close up on a TV screen, which is
+ showing an old black and white sci-fi horror movie. A woman is carrying
+ a creature dressed in a dark suit and helmet that kicks its legs and howls
+ melodramatically.
+
+ There is a knock on the door. RIMMER realises what is going on, and dives
+ to the bed, taking off his boots. The caller knocks again, while RIMMER
+ finds a blanket tucked behind a pillow on the bed]
+
+
+[-- 34 - Int. Mirror universe, Corridor outside recovery room ------22:00--]
+
+[CREWMEMBER present]
+
+[Close up: a CREWMEMBER knocks again on the door]
+
+
+[-- 35 - Int. Mirror universe, Recovery room -----------------------22:02--]
+
+[RIMMER has managed to slip under the blanket. The door slides open and
+ RIMMER hastily grabs the microbe tube and stuffs it under the blanket]
+
+[Enter MIRROR HOLLISTER]
+
+[M.HOLLISTER is carrying a tray with a drink and clipboard on it, and smiles
+ sycophantically]
+
+M.HOLLISTER
+  Can I come in, sir?
+  I did knock, sir, perhaps you didn't hear?
+  Here's your hot lemon, sir.
+
+[RIMMER takes a sip, before handing the glass back and glancing at the
+ insignias on M.HOLLISTER's shirt]
+
+RIMMER
+  Thank you, erm... Private... nobody.
+
+M.HOLLISTER
+  Oh, er, a few directives to sign, sir.
+
+RIMMER
+  Of course, laddie.
+
+[RIMMER takes the clipboard and turns to the second page, then scowls]
+
+RIMMER
+  A free pardon, exonerating you from all crimes?
+
+[RIMMER tears out the false directive and throws it away. M.HOLLISTER exhales
+ loudly]
+
+M.HOLLISTER
+  Oohhh, I don't know how that got in there, sir, I, er... I...
+
+RIMMER
+  Want to be an officer, don't you, laddie?
+
+M.HOLLISTER
+  Oh, sir, could I? One day, could I be?
+
+RIMMER
+  No, I don't think you could.
+
+[RIMMER takes a pen and tries to sign a directive, but his arm refuses to
+ control the pen properly]
+
+RIMMER
+  Of course, it's a mirror universe, everything's opposite...
+
+[RIMMER puts the pen in his left hand and signs the directive. Suddenly, a
+thought occurs to him and he grins excitedly. Lifting the blanket, he
+glances downwards, stares intently for a few moments and swallows]
+
+RIMMER
+  My God... this is gonna take some getting used to...
+
+[Enter MIRROR TALIA]
+
+M.TALIA
+  They said it was okay to drop by...
+  You look wonderful...
+
+RIMMER
+  So do you...
+  [To M.HOLLISTER:] That'll be all, shambles.
+
+M.HOLLISTER
+  Yes, sir.
+
+M.TALIA
+  You made Captain -
+
+[Exit MIRROR HOLLISTER]
+
+M.TALIA
+  You've done so well. Your own ship... wow! I've got goosebumps.
+
+RIMMER
+  So have I!
+
+M.TALIA
+  Let me kiss you.
+
+[As M.TALIA leans forward, RIMMER grabs her eagerly and presses her lips to
+ his in a passionate kiss. Immediately, though, the woman tries to squirm
+ away, making muffled protests. RIMMER realises the problem and releases
+ her]
+
+M.TALIA
+  What are you doing!?
+
+RIMMER
+  I'm giving you a big, wet snog, with oodles of Tommy-tongue!
+
+M.TALIA
+  But I'm your sister!
+
+[Shock paints RIMMER's face, and he sits bolt upright in the bed]
+
+RIMMER
+  Yes, of course, but I was really pleased to see you. I, erm...
+
+M.TALIA
+  You French-kissed me!
+
+RIMMER
+  No, it was nearer Antwerp. I Belgium-kissed you. I - I - I... urrrgghh...
+I've been really ill... You're the Captain's sister?
+
+[RIMMER begins to hyperventilate, then passes out. Seconds later, he lets
+out an abrupt groan and sits up again]
+
+RIMMER
+  Oh, my god, what a terrible dream!
+  Oh, hi, sis! It's me, Arnie, your bro! Get your big ol' lumpy bum down
+here and give'us a big hug!
+
+[RIMMER reaches out, catching M.TALIA's nose between his fingers playfully
+ and shaking her head, but she pulls her nose free and backs away, appalled]
+
+M.TALIA
+  Captain Rimmer! I am Sister Talia Garrett; your personal spiritual
+advisor!
+
+[M.TALIA lets out a strained whimper and flees]
+
+[Exit M.TALIA]
+
+RIMMER
+  Sis! Sister... whoever you are!
+  Oh, smeg!
+
+
+[-- 36 - Int. Mirror universe, Science office ----------------------24:50--]
+
+[MIRROR KOCHANSKI present]
+
+[M.KOCHANSKI sits at a desk engrossed in a magazine. In this mirror
+ universe, she has tumbling blonde curls, and is wearing a pink satin
+ blouse]
+
+[Enter RIMMER]
+
+RIMMER
+  Excuse me?
+
+M.KOCHANSKI
+  Yes?
+
+[M.KOCHANSKI speaks in a nasal voice, and doesn't look up from her magazine]
+
+RIMMER
+  I wonder, could you tell me what this is?
+
+[M.KOCHANSKI frowns at the tube RIMMER holds up]
+
+M.KOCHANSKI
+  You'll have to ask the professor, then. He does all that stupid, sciencey
+brain-box type stuff.
+
+[A door, marked 'HAZARD AREA' mirrored backwards, swings open]
+
+[Enter MIRROR CAT]
+
+[The MIRROR CAT is wearing a tweed suit, bow tie and glasses, and wears his
+ hair in a short afro cut]
+
+M.CAT
+  Somebody call?
+
+RIMMER
+  Professor!?
+
+M.CAT
+  Yes, Captain?
+
+RIMMER
+  Perhaps you could help me. What's this?
+
+[RIMMER hands him the test tube, which M.CAT sniffs]
+
+M.CAT
+  Hmm.
+
+[M.CAT glances at the tube under a microscope, then holds it up once more
+and frowns at the contents]
+
+M.CAT
+  Hmmm, its an alkali.
+
+RIMMER
+  Oh yes? What's it called?
+
+M.CAT
+  Soliciumfrankolithicmixyalebidiumrixydixydoxydexydroxide.
+  You look surprised.
+
+RIMMER
+  I never thought I'd ever hear you say that. Can you write it down for me?
+
+M.CAT
+  Certainly.
+	[To M.KOCHANSKI:] Can I have an extremely *long* piece of paper, my dear?
+
+
+[-- 37 - Int. Recovery room ----------------------------------------25:36--]
+
+[The mirror universe machine has apparently been fixed. It sends its beam
+through the mirror once more, and is working well enough to allow RIMMER's
+leg to pass through the glass, quickly followed by the rest of him]
+
+[Enter RIMMER]
+
+[RIMMER is holding the piece of paper with the formula, but appears to have
+ left his test tube behind. As he enters the room fully, the beam of light
+ from KRYTEN's machine fades away and disappears]
+
+RIMMER
+  The antidote; I did it!
+
+[RIMMER quickly realises that the room is empty. More worryingly, red
+warning lights pulse over the metal walls of the corridor outside.
+
+
+[-- 38 - Int. Corridor outside recovery room -----------------------25:44--]
+
+[Enter RIMMER]
+
+[RIMMER rushes out into the corridor, as blasts of steam gush from
+ ruptured pipes and flakes of burnt polycarbons flutter in the air. The ship
+ trembles alarmingly, and the sound of twisting metal can be heard all
+ around. RIMMER pauses by the troublesome food DISPENSER and looks around in
+ panic]
+
+RIMMER
+  Wha - Where is everyone?
+
+DISPENSER
+  They've repaired the machine and crossed into the mirror universe. You're
+the highest ranked crewmember left on the ship, so I *suppose* that makes
+you Captain - congratulations, Cap.
+
+RIMMER
+  Smeg off!
+
+
+[-- 39 - Int. Recovery room ----------------------------------------26:05--]
+
+[Enter RIMMER]
+
+[RIMMER dashes back into the recovery room but realises that the device is
+ off and the doorway to the mirror universe is closed. He glances at t

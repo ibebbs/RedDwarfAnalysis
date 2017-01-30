@@ -1,0 +1,2639 @@
+
+[--------------------------------------------------------------------------]
+
+                           RED DWARF - SERIES 7
+
+[--------------------------------------------------------------------------]
+
+                        EPISODE 6 -- BEYOND A JOKE
+
+[--------------------------------------------------------------------------]
+
+                               Version 0.5
+
+                        27 February - 3 March, 1997
+
+                      Raz / raz@mushroom.demon.co.uk
+
+                      http://www.mushroom.demon.co.uk
+
+
+
+ Credits for corrections: 
+
+
+
+
+
+[-- 1 - Int. Starbug ------------------------------------------------------]
+
+
+
+LISTER
+
+  Mm!  Smells good, Kryten.  What is it?
+
+
+
+KRYTEN
+
+  Something I caught scuttling around the cargo bay, sir... managed to land
+
+a monkey wrench on it, and the rest is history!
+
+
+
+LISTER
+
+  'Scuttling thing, a la monkey wrench'?  Kryten, nothing I'm prepared to
+
+eat has ever scuttled.  This mouth is a scuttle-free zone.
+
+  It does smell good though, what is it?
+
+
+
+KRYTEN
+
+  Ah, the only clue I'm prepared to give, sir, is: we're having it with
+
+green wine...
+
+
+
+LISTER
+
+  It's space weevil, isn't it...
+
+
+
+KRYTEN
+
+  It is not, no, sir.
+
+
+
+LISTER
+
+  Look, the rule is simple: I will not eat any animal that has ever been a
+
+cartoon.  Weevils, rabbits, dogs, cats, mice, road-runners; all out.  I'm
+
+not a cartoonivore!
+
+
+
+KRYTEN
+
+  Ta-daa!
+
+
+
+LISTER
+
+  Lobster!
+
+
+
+KRYTEN
+
+  Poached, in a delicate cream sauce, sir.  Little so-en-so escaped in the
+
+hold.
+
+
+
+LISTER
+
+  Where did you get a live lobster?
+
+
+
+KRYTEN
+
+  The S.S. Centauri, they had four in their stasis block.
+
+
+
+LISTER
+
+  You've really gone to a lot of trouble over this, haven't you...
+
+
+
+KRYTEN
+
+  You don't know what day it is, do you, sir?
+
+
+
+LISTER
+
+  Today?  Someone's birthday?
+
+
+
+KRYTEN
+
+  Nope.
+
+
+
+LISTER
+
+  Christmas?  Easter?
+
+
+
+KRYTEN
+
+  Nope.
+
+
+
+LISTER
+
+  National Have Something That Scuttles For Dinner day?
+
+
+
+KRYTEN
+
+  No.
+
+
+
+LISTER
+
+  Well, what then?
+
+
+
+KRYTEN
+
+  Today is the day that you rescued me from the Nova 5 - I thought we should
+
+have a surprise celebration!
+
+
+
+LISTER
+
+  I had no idea!  Why didn't you say?
+
+  Ahh, if you'd *said*, it wouldn't have been much of a surprise, right?
+
+
+
+KRYTEN
+
+  Prescisely, sir, it would have been about as unsurprising as an episode
+
+of Tales Of The Unexpected.
+
+
+
+LISTER
+
+  Eh?
+
+
+
+KRYTEN
+
+  The old Channel 72 show.  It was...  Everyone...  <ahem>  Never mind.
+
+
+
+[Enter KOCHANSKI, CAT]
+
+
+
+KOCHANSKI
+
+  Okay everyone?  Ready?  Let's go!
+
+
+
+KRYTEN
+
+  Go?
+
+
+
+CAT
+
+  We're going to the Artificial Reality suite!  We just loaded in that new
+
+software we picked up from the S.S. Centauri.
+
+
+
+KOCHANSKI
+
+  Can you believe the luck?  Finding a working copy of Jane Austin world??
+
+It's the luckiest find I've made since I discovered that tube of leg-wax
+
+under the medi-scanner.
+
+
+
+CAT
+
+  You found my leg-wax?
+
+
+
+KOCHANSKI
+
+  We're going to visit 'Pride And Prejudice' land.  This is gonna be *so*
+
+great!
+
+
+
+CAT
+
+  It's Chick City, bud!  Five sisters and they're all hotter than a
+
+Mustang's exhaust!
+
+
+
+KRYTEN
+
+  But, what about the supper??
+
+
+
+LISTER
+
+  The thing is... we didn't *know*.
+
+
+
+KOCHANSKI
+
+  Just, put it in the oven, and we'll have it in a couple of hours.
+
+
+
+KRYTEN
+
+  But, I mean, it's just --
+
+
+
+KOCHANSKI
+
+  Look, I'm just trying to get the Bozo Brothers here interested in
+
+something slightly more culturally sophisticated than 'Name That Smell', or
+
+the even more popular 'How Many Marbles Can You Fit Up Your Nostril' game...
+
+  We'll have it when we get back.
+
+
+
+KRYTEN
+
+  And you're going to go with them, sir?  This is...  It's unbelievable.
+
+
+
+KOCHANSKI
+
+  I know!  Davey and Jane Austin are not an obvious pairing - but think
+
+about it: she's closely identifiable to Bath in the 19th century, and that
+
+was the last time Dave had one! <laughs>
+
+
+
+[Exit KOCHANSKI, CAT]
+
+
+
+LISTER
+
+  I just thought I'd check it out...  Y'know, I never had much of an
+
+education, what with being and orphan, and going to art college.  Thought I
+
+might learn something here.
+
+
+
+KRYTEN
+
+  Of course.  How silly of me.  After all, you've always been a big fan of
+
+penetrating 19th century observations of middle-class manners.  I mean, just
+
+because you own a t-shirt advertising the rock band 'Colostomy Explosion'
+
+doesn't mean you're not a master of erudition!
+
+
+
+LISTER
+
+  Oh, just stick it in the oven, come and join us and we'll have it when we
+
+get back!
+
+
+
+KRYTEN
+
+  Two days I've spent, preparing this!
+
+
+
+LISTER
+
+  Kryten, I've gotta go, man, they're waiting for me.  I'm sorry.
+
+
+
+[Exit LISTER]
+
+
+
+KRYTEN
+
+  I don't know why I bother.  Gallivanting off like that!  And on our
+
+aniversary too!
+
+
+
+
+
+[-- x - OB. A forest within the AR simulation ----------------------------]
+
+
+
+[KOCHANSKI, CAT, LISTER present]
+
+
+
+KOCHANSKI
+
+  'Pride and Prejudice' world!  When I was fourteen in Cyberschool I used
+
+to spend all my time here.
+
+
+
+CAT
+
+  These strides are too tackle-tight, Officer B-B.  I can barely cruise!
+
+
+
+KOCHANSKI
+
+  Look, just try and appreciate the nuances and culture.
+
+
+
+CAT
+
+  I'm tryin', but it's real hard when there's a seam splicing your nadgers
+
+in two!
+
+
+
+KOCHANSKI
+
+  You're gonna spoil it for us, aren't you...
+
+
+
+LISTER
+
+  No he won't, he'll be fine.  Look man, all clothes were a bit nadger-
+
+restricting back in them days.  That's why there were so many wars.
+
+
+
+KOCHANSKI
+
+  Okay?  Let's interact with the characters, then perhaps you can *begin* to
+
+understand why the book is such a masterpiece..?
+
+
+
+<five young women fade into existance, along with an older, maternal woman>
+
+
+
+KOCHANSKI
+
+  Ah!  Good morning, Mrs Bennett.  Is it not a most fine day?
+
+
+
+MRS BENNETT
+
+  'Tis an utter delight and no mistake.
+
+  Oh, we don't believe we've had the pleasure of meeting your handsome
+
+young friends..?
+
+
+
+  <girls giggle>
+
+
+
+KOCHANSKI
+
+  This is Mr Lister, and his friend Mr Cat.
+
+
+
+  <girls giggle>
+
+
+
+MRS BENNETT
+
+  Perhaps you would like to join us on a turn around the forest, and later
+
+have tea in Mr Pindley's gazebo?
+
+
+
+1ST SISTER
+
+  Oh please, ma-ma, can they come?
+
+
+
+2ND SISTER
+
+  May they, oh, that would be so delightful!
+
+
+
+1ST SISTER
+
+  Oh yes, oh, please!  Oh do!  Do come to tea, oh please, please!
+
+
+
+CAT <to LISTER>
+
+  They're so hot they're steamin'!
+
+
+
+
+
+[-- x - Int. Starbug -----------------------------------------------------]
+
+
+
+[KRYTEN present]
+
+
+
+KRYTEN
+
+  "Cook it", "don't cook it", "do this", "do that"!  Well, I'm sorry, I'm
+
+gonna make you eat this damn supper if it's the last thing I do!
+
+
+
+<enters AR simulation>
+
+
+
+
+
+[-- x - OB.  Woodland within AR simulation -------------------------------]
+
+
+
+[ALL present, KRYTEN stalking the party]
+
+
+
+<we hear the girls giggling as the party makes their way slowly through
+
+ the woodland>
+
+
+
+  <KRYTEN picks off a straggling sister with blowpipe>
+
+
+
+  <catches next sister in a rope trap and silences her with the blowpipe>
+
+
+
+  <tries to bump off next sister with a log swing trap, but misses>
+
+
+
+
+
+[-- x - Int. Starbug -----------------------------------------------------]
+
+
+
+[KRYTEN present]
+
+
+
+KRYTEN
+
+  Just borrow the T-72 from the WW2 game... and then I think we'll have
+
+*everyone's* attention...
+
+
+
+
+
+[-- x - OB. Gazebo by a lakeside in the AR simulation --------------------]
+
+
+
+[ALL present]
+
+
+
+MRS BENNETT
+
+  Where on earth have {Dame} Lizzie and Jane disappeared to?  Such rudeness!
+
+I'm most vexed!
+
+
+
+  <girls giggle>
+
+
+
+KOCHANSKI
+
+  Never mind, Mrs Bennett, I'm sure they'll be --
+
+
+
+<T-72 rolls out of the lake, Kryten opens hatch and stands up>
+
+
+
+KRYTEN
+
+  Perhaps I didn't make myself clear?  I said: 'supper is ready'!
+
+
+
+<fires a round from the tank which decimates the gazebo.  When the smoke
+
+ clears, only LISTER, CAT and KOCHANSKI remain>
+
+
+
+KRYTEN
+
+  Is anyone still unclear as to the supper situation?  No?  Excellent.
+
+
+
+LISTER <quietly>
+
+  I didn't know robots *got* PMT!
+
+
+
+
+
+[-- x - Int. Starbug mid-section -----------------------------------------]
+
+
+
+[ALL present.  The mood is tense]
+
+
+
+LISTER
+
+  It's nice, Kryts, really nice.
+
+
+
+KOCHANSKI
+
+  It's really great.
+
+
+
+LISTER
+
+  In fact, it's better than nice, it's fantastic.
+
+
+
+KOCHANSKI
+
+  Isn't it great?
+
+
+
+LISTER
+
+  It's really great.
+
+
+
+KOCHANSKI
+
+  Really, really great.
+
+
+
+CAT
+
+  Are we eating the same stuff?
+
+
+
+KRYTEN
+
+  I don't know *why* I make the effort.  No one appreciates the *hours* I
+
+put into food prep!  My fingers are practically worn down to the endo-
+
+skeleton.
+
+
+
+LISTER
+
+  Is there any ketchup?
+
+
+
+KRYTEN
+
+  Any *what*?
+
+
+
+LISTER
+
+  Ketchup.  I just thought it could do with a bit of ketchup...
+
+  Just a dollop..?
+
+
+
+KRYTEN
+
+  Ketchup??
+
+
+
+KOCHANSKI
+
+  Oh my god...
+
+
+
+KRYTEN
+
+  You want *ketchup*??
+
+
+
+LISTER
+
+  Errm... brown!  Not tomato!  Brown!  It's not like I've got *no* class...
+
+
+
+KRYTEN
+
+  With lobster?  You want *brown* ketchup?
+
+
+
+LISTER
+
+  It's really nice Kryts, but you know me, I just thought it could do with
+
+a bit of a pep-up...
+
+
+
+KRYTEN
+
+  I *can't* believe it.  I simply cannot b --
+
+
+
+<head explodes, showering the diners>
+
+
+
+CAT
+
+  Oh well done, bud!  Now *we'll* have to do the washing up!
+
+
+
+KOCHANSKI
+
+  He's *literally* blown his top!
+
+  Cat, can you go and get a spare head?
+
+
+
+CAT
+
+  How come I have to do everything around here?  I never get a second to
+
+myself!  "Cat do this", "Cat do that"; what am I?  A dog?
+
+
+
+
+
+[-- x - Int. Starbug medi-bay -------------------------------------------]
+
+
+
+[LISTER, KOCHANSKI present]
+
+
+
+<LISTER is fiddling with a spare head.  Shortly, he screws the head onto
+
+ KRYTEN's shoulders>
+
+
+
+LISTER
+
+  There.  I think that's it; boot him up.
+
+
+
+KOCHANSKI
+
+  You're *sure* you know what you're doing?
+
+
+
+LISTER
+
+  Hey...
+
+
+
+KRYTEN
+
+  Ketchup??  With *lobster*, you want --
+
+
+
+<second head explodes violently>
+
+
+
+KOCHANSKI
+
+  I thought you said you knew what you were doing!
+
+
+
+LISTER
+
+  No, I just said 'hey'.  If you'd let me finish the whole sentence it'd
+
+have been: 'hey... no I don't'.
+
+
+
+[Enter CAT]
+
+
+
+CAT
+
+  Any luck?
+
+
+
+KOCHANSKI
+
+  We've been back and forth through his core program and, as far as we can
+
+tell, nothing's wrong.
+
+
+
+CAT
+
+  Maybe worth testing it with one of his spare heads?
+
+
+
+LISTER
+
+  *What* spare heads...
+
+
+
+KOCHANSKI
+
+  We've blown them all out!
+
+
+
+LISTER
+
+  Look at it - have you ever seen so many blackheads outside the staffroom
+
+of a fried chicken franchise?
+
+
+
+KOCHANSKI
+
+  We've managed to save his RAM chips, so at least we've got his personality
+
+on disk, but, that's about it...
+
+
+
+CAT
+
+  Life without a head... that's gonna put a real crimp on his lifestyle.  I
+
+mean, what can you do without a head?
+
+
+
+LISTER
+
+  Apart from being you?  Hardly anything.
+
+
+
+KOCHANSKI
+
+  We're going to have to get him another one, somehow.
+
+
+
+LISTER
+
+  I should've been looking out for him.  How could I let this happen?
+
+
+
+KOCHANSKI
+
+  When was the Centauri built..?  Maybe they had a mechanoid service unit?
+
+
+
+LISTER <to CAT>
+
+  *Think*.  Any clues when it was built?
+
+
+
+KOCHANSKI
+
+  Which century?
+
+
+
+CAT
+
+  It had those big crystalline turbine drives... I'd say 21st, or 22nd
+
+century.
+
+  Maybe even 23rd or 24th.  At the outside, 25th, 26th or 27th.  But don't
+
+hold me to it.
+
+
+
+KOCHANSKI
+
+  And we're asking his advice??  Let's at least ask someone who's at least
+
+going to give us a slightly more intelligent opinion:
+
+  Hello, wall!  What do *you* think?
+
+
+
+LISTER
+
+  Hang on, hang on...
+
+
+
+KOCHANSKI
+
+  What're you doing?
+
+
+
+LISTER
+
+  Logging on to their mainframe...  If there's a Divadroid signature on
+
+their supplies inventory then its possible there're some mech heads 'round
+
+there somewhere.
+
+
+
+CAT
+
+  Maybe 29th...
+
+
+
+
+
+[-- x - Int. The Centauri ------------------------------------------------]
+
+
+
+[On-board the Centauri.  miscellaneous mech parts scattered around>
+
+
+
+[LISTER, KOCHANSKI, CAT present]
+
+
+
+KOCHANSKI
+
+  Look!
+
+
+
+<A line of old, dirty mechanoid heads hang from a rail>
+
+
+
+<LISTER spots something>
+
+
+
+LISTER
+
+  Hey; simulant... probably rogue - let's get the smeg outta here!
+
+
+
+<noises of something approaching. they hide under a tarpaulin>
+
+
+
+LISTER [VO]
+
+  Hmm, you smell good...
+
+
+
+CAT [VO]
+
+  Thanks!
+
+
+
+[a simulant passes by their hiding place and disappears into the bowels of
+
+ the derelict ship]
+
+
+
+KOCHANSKI
+
+  They're all missing their primers.
+
+
+
+LISTER
+
+  Well this Johnny won't help us.  Simulants hate anything human or
+
+humanoid.  In fact, anything beginning with a 'hu'...
+
+
+
+KOCHANSKI
+
+  Probably hate the third largest city in Vietnam, then... <laugh>
+
+
+
+LISTER
+
+  [BEAT]
+
+  How's that?
+
+
+
+KOCHANSKI
+
+  Because it's called 'Hu', dummy.
+
+  Well, actually, it's pronounced 'Hwah', but if I'd said 'hwah' it wouldn't
+
+have been as funny.
+
+  Any navigation conference *anywhere*, they would be in the *aisles* with
+
+a quip like that.
+
+
+
+LISTER
+
+  Probably trying to get out the building before you quipped again...
+
+
+
+KOCHANSKI
+
+  Well, the point I was trying to make is that sims hate humans, but they
+
+don't hate GELFs...
+
+
+
+CAT
+
+  But, we're not GELFs...
+
+
+
+KOCHANSKI
+
+  We could be.
+
+
+
+
+
+[-- x - Int. Starbug mid-section -----------------------------------------]
+
+
+
+[CAT and KOCHANSKI dressed in GELF suits.  KOCHANSKI holds a leash around
+
+LISTERs neck]
+
+
+
+LISTER
+
+  This is nuts!
+
+
+
+KOCHANSKI
+
+  We look great!  What are you talking about?
+
+
+
+LISTER
+
+  This is never gonna work.
+
+
+
+KOCHANSKI
+
+  Ak ak ak akka ak?  Ha ak?
+
+
+
+CAT
+
+  Hyak ak ak ak! Ak akakakak!
+
+
+
+LISTER
+
+  You *can't* speak GELF...
+
+
+
+KOCHANSKI
+
+  Neither can the sim!  We'll just do an impression of you first thing in
+
+the morning and we'll be fine!
+
+  Come on, boy...
+
+
+
+
+
+[-- x - Int. The Centauri ------------------------------------------------]
+
+
+
+[CAT, LISTER, KOCHANSKI present]
+
+
+
+LISTER
+
+  This is so demeaning - I feel like a piece of meat!
+
+
+
+CAT
+
+  There's someone up there!
+
+
+
+<CAT and KOCHANSKI call out in thier very fake GELF language>
+
+
+
+LISTER
+
+  It's worse than a chronic catarr sufferers' annual outing!
+
+
+
+
+
+[-- x - Int. Room within the centauri ------------------------------------]
+
+
+
+[KOCHANSKI, CAT present, seated at a table with the SIMULANT.  LISTER
+
+ present standing, leashed, between the other two Dwarfers]
+
+
+
+[KOCHANSKI hacks and coughs in 'GELF', and gestures at a rail of mech heads]
+
+
+
+SIMULANT
+
+  After spare mech heads, 'ey?
+
+
+
+<The SIMULANT appears to suddenly notice LISTER for the first time>
+
+
+
+SIMULANT
+
+  'Uman!  Lovely with a bit of mint sauce!  'Ow about a trade?
+
+
+
+CAT
+
+  We ain't sellin', okay?  Fuel, supplies, anything, but not the human.
+
+
+
+<KOCHANKSI urgently hacks in GELF>
+
+
+
+CAT
+
+  I was just tellin' him - no deal.
+
+
+
+<Again KOCHANSKI tries to warn CAT>
+
+
+
+CAT
+
+  Like she says: no deal.
+
+
+
+<KOCHANKSI desperately tries to make CAT understand>
+
+
+
+CAT
+
+  You tell him, Bud-Babe!  No deal!  You got that?
+
+
+
+SIMULANT
+
+  So... you speak Earth, 'ey?
+
+
+
+<Realising his mistake, CAT's face slides into a sickly smile and he utters
+
+ a single hack, thumb and index finger of one had raised and close together>
+
+
+
+SIMULANT
+
+  Tails... you can 'ave the mech 'eads for free... 'eads... I take the
+
+'uman.
+
+
+
+LISTER
+
+  Hey, wait a minute!
+
+
+
+<flips coin>
+
+
+
+SIMULANT
+
+  It's tails, the 'eads are yours.  And, 'ere, are the primers.  Now, 'ow
+
+about a toast, 'ey?  To Simulants: the greatest droids in the Universe - 
+
+but never trust 'em, 'ey?  Cheers!
+
+
+
+<laughs>
+
+
+
+
+
+[-- x - Int. Starbug mid-section ----------------------------------------]
+
+
+
+[Starbug looks to have been hit by an internal hurricane]
+
+
+
+[Enter LISTER, KOCHANSKI, CAT]
+
+
+
+LISTER
+
+  Aw, we've been set up!
+
+
+
+CAT
+
+  But how??
+
+
+
+KOCHANSKI
+
+  He must have had a sidekick - he kept us talking while his mate ransacked
+
+the ship!
+
+
+
+LISTER <alarmed>
+
+  Kryten!
+
+
+
+[Exit ALL, running]
+
+
+
+
+
+[-- x - Int. Starbug medi-bay --------------------------------------------]
+
+
+
+[The medi-bay hasn't escaped attention, either]
+
+
+
+[Enter ALL]
+
+
+
+LISTER
+
+  They've taken his RAM chip, too...
+
+
+
+
+
+[-- x - Int. Workshop aboard the Centauri --------------------------------]
+
+
+
+[SIMULANT present, another mechanoid present; same head as Kryten but a
+
+green body shell]
+
+
+
+SIMULANT
+
+  'Ere's a little job for you, Able.  Looks like a negadrive blow back.
+
+
+
+ABLE <broad, slightly slurring accent>
+
+  Oh wow!  Another mech.
+
+
+
+SIMULANT
+
+  Fix 'im, ready for market, or I'll apply the electro-leash to your
+
+nipples.
+
+
+
+ABLE
+
+  Fix him, or get fried nipple nuts?  Er, er, I think I'm gonna choose the
+
+'fix him' option!  Deal!
+
+
+
+SIMULANT
+
+  'Urry up!  You stupid 'zoney!
+
+
+
+<The SIMULANT bounces an iron bar over the mech's bald head, bending the bar
+
+with the force>
+
+
+
+ABLE
+
+  Is now a good time to ask about a pay rise?
+
+
+
+<ABLE receives another bash over the head>
+
+
+
+ABLE
+
+  Uh, I'm almost out of ultrazone, I need some more.
+
+
+
+SIMULANT
+
+  Fix the mech, first.  'Ere's 'is RAM chip.
+
+
+
+[Exit SIMULANT]
+
+
+
+<ABLE picks up a tall, unlabelled bottle, opens his chest screen and plugs
+
+ the bottle into the cavity.  As the contents seep in, ABLE's face turns
+
+ beautific, and he sighs happily.  After a short time he removes the bottle
+
+ and closes the orifice>
+
+
+
+ABLE
+
+  Totally tubular!
+
+
+
+[FADE}
+
+
+
+
+
+[-- x - Int. Workshop aboard the Centauri --------------------------------]
+
+
+
+[Some hours later, while ABLE has been tinkering with Kryten]
+
+
+
+KRYTEN
+
+  Goodness me!  What a peculiar experience.
+
+  Thank you, Mr... er - Mr... er -- What is your name?
+
+
+
+ABLE
+
+  Er, just give me a second, okay?
+
+
+
+<ABLE looks distant and appears to tense himself for a moment>
+
+
+
+ABLE
+
+  I've just sent that query down to long term memory retrieval.  It'll be
+
+back in no time.
+
+  Hang on, here it comes.
+
+  Told you it would be quick.
+
+  Abel.  My name's Able: A - B - L - E, Able.
+
+
+
+KRYTEN
+
+  My name is Kryten.  You're a 4000-series, too, aren't you?
+
+
+
+ABLE
+
+  Er, hang on.  Won't take a tick.
+
+
+
+KRYTEN
+
+  Please, don't bother.  Believe me, you *are* a 4000.
+
+
+
+ABLE
+
+  Well, I could check - it'll only take about twenty seconds.
+
+
+
+KRYTEN
+
+  Your serial number's '2X4C' - I'm a 2X4c too!  We must have the same
+
+motherboard.
+
+
+
+ABLE
+
+  Wohh, then you're my bro'!  Hey, wow, you wanna try some Ultrazone?
+
+
+
+KRYTEN
+
+  Ultrazone's dangerous and highly addictive!
+
+
+
+ABLE
+
+  Why, I only use it every now and then, y'know?  It helps me get through
+
+the day.
+
+
+
+KRYTEN
+
+  Well how come you ended up here?
+
+
+
+ABLE
+
+  Er, hang on.
+
+
+
+<Again, ABLE tenses himself up and makes a straining noise>
+
+
+
+KRYTEN
+
+  What an irritating characteristic...
+
+
+
+ABLE
+
+  Okay: the ship I was on, well, it, er, kind of crashed a bit.
+
+
+
+KRYTEN
+
+  'Crashed a bit'?
+
+
+
+ABLE
+
+  All the crew just lay there and they didn't talk to me anymore.  Then,
+
+after a couple of years I figured out they must be dead.  Then a long time
+
+later, the Simulant guy came and picked me up.  He's a bit of a psychopathic
+
+killing machine, but, he has his good side.  And, he has a huge stash of
+
+ultrazone!
+
+  You sure you won't try some, Kryten?  Bro'?
+
+
+
+KRYTEN
+
+  I'm not your bro', and I do *not* touch ultrazone!  It corrupts your
+
+circuit boards!
+
+
+
+ABLE
+
+  Well, that's what people say, but... where's the evidence?
+
+  [BEAT]
+
+  Have I just said that?
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[ALL present]
+
+
+
+LISTER
+
+  Appoaching the Centauri - 80 clicks and closing.  Nice and easy, man...
+
+
+
+CAT
+
+  Hang on - their retros have started up.  They've spotted us!
+
+
+
+KOCHANSKI
+
+  Look at the accelleration of that thing!  They're already halfway across
+
+the sector!
+
+
+
+LISTER
+
+  The Centauri can travel at speeds that we can only dream of...
+
+
+
+CAT
+
+  Most ice cream vans can travel at speeds we can only dream of...
+
+
+
+LISTER
+
+  <sigh>  We're never gonna catch them now.  We've lost Kryten.
+
+
+
+KOCHANSKI
+
+  Okay, turn the thrusters to maximum speed on a bearing Q23 stroke J80.
+
+
+
+<model shot>
+
+
+
+LISTER
+
+  This is the opposite direction to the Centauri - full speed!
+
+
+
+KOCHANSKI
+
+  Precisely.
+
+
+
+CAT
+
+  Well, why do we wanna do that?
+
+
+
+KOCHANSKI
+
+  It's totally insane.
+
+
+
+LISTER
+
+  So why *do* we wanna do it then?
+
+
+
+KOCHANSKI
+
+  The only reason I can think of is if we've planted something on the
+
+Centauri and we knew it was gonna blow any second.
+
+
+
+CAT
+
+  But we haven't.
+
+
+
+KOCHANSKI
+
+  No, we haven't.  But explain this: if we haven't, why are we in such a
+
+rush to get the hell out of here?
+
+
+
+CAT
+
+  It doesn't make sense.
+
+
+
+KOCHANSKI
+
+  Exactly.
+
+
+
+LISTER
+
+  Unless we really *have* planted a bomb on the Centauri.
+
+
+
+KOCHANSKI
+
+  Which we haven't.
+
+
+
+CAT
+
+  So wait a minute.  Even if we didn't plant a bomb, the only thing that
+
+really explains what we're doing is if we did!  Which we didn't!  But we
+
+must have!  Because, otherwise, what we're doing is totally nuts!
+
+
+
+KOCHANSKI
+
+  Exactly.
+
+
+
+LISTER
+
+  They've turned around and started tracking us!
+
+
+
+CAT
+
+  What a fluke!
+
+
+
+
+
+[-- x - Model/CGI shot ---------------------------------------------------]
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+LISTER
+
+  Getting an incoming... someone's beaming on board...  cargo bay!
+
+
+
+
+
+[-- x - Int. Starbug cargo bay -------------------------------------------]
+
+
+
+[Enter LISTER, KOCHANSKI, CAT, taking cover behind bulkheads.  SIMULANT,
+
+ GELF PARTNER, ABLE, KRYTEN present]
+
+
+
+SIMULANT
+
+  We know about the bomb.
+
+
+
+CAT
+
+  So we *did* plant a bomb!  I was beginning to wonder.
+
+
+
+SIMULANT
+
+  Where did you hide it!?  Speak!  Or you'll spend the rest of the day
+
+picking bits of charred mech out of your clothing.
+
+
+
+CAT
+
+  Er, can I change into dungarees?
+
+
+
+LISTER
+
+  Hand over Kryten and we'll tell ya.
+
+
+
+SIMULANT
+
+  Clearly, I need to prove myself...
+
+  Kryten, that file in your CPU; the one you've never been able to access...
+
+The password is '4X2C'...
+
+
+
+ABLE
+
+  Hang on a minute...
+
+
+
+SIMULANT
+
+  It's about your creator, Kryten - Dr Mammett.
+
+
+
+KOCHANSKI
+
+  Kryten, no!
+
+
+
+KRYTEN
+
+  Acessing now...
+
+  No!  It can't be true...  It can't...
+
+
+
+ABLE
+
+  The truth is in there - that's what turned me into a 'zoney.
+
+
+
+SIMULANT
+
+  Who's next?  The Cat?  Or the woman?  Choose - heads or tails?
+
+
+
+ABLE
+
+  Heads!
+
+
+
+<ABLE suddenly removes his head and throws it at the SIMULANT, knocking
+
+ him back.  LISTER rushes in, swing-kicks him in the head and knocking him
+
+ to the ground, then shoots at the GELF and knocks it unconscious>
+
+
+
+LISTER
+
+  Right, lets send them back to their ship and get the hell out of 'ere
+
+before they get their smeg together!
+
+
+
+
+
+[-- x - Int. Starbug -----------------------------------------------------]
+
+
+
+[KRYTEN present, sitting motionlessly]
+
+
+
+[Enter LISTER]
+
+
+
+LISTER
+
+  Kryten, man, what's wrong?  You look sadder than the salad you get with a
+
+takaway shaami kebab.
+
+  Tell me what you found out about your creator.
+
+
+
+KRYTEN
+
+  I can't, sir, it's too terrible.
+
+
+
+LISTER
+
+  Kryten, me and you are amigos; you've gotta tell me.
+
+
+
+KRYTEN
+
+  Well, you keep secrets from me, sir.
+
+
+
+LISTER
+
+  Like what?
+
+
+
+KRYTEN
+
+  What about your nickname when you were at school?
+
+
+
+LISTER
+
+  What nickname?
+
+
+
+KRYTEN
+
+  I know what it was.
+
+
+
+LISTER
+
+  I don't think so; no one knows that.
+
+
+
+KRYTEN
+
+  Well, I'm afraid that's just not true, "Fatboy".  You talk in your sleep.
+
+
+
+LISTER
+
+  It was for a couple of years!  Eleven to thirteen when I was living with
+
+m' gran.  She was massive, her stockings used to rub together when she
+
+walked; when she was in a hurry it sounded like a steam train pulling out of
+
+a station!
+
+  I started getting fat too.  It really hit home when she died.  She got
+
+knocked down by this truck, and the chalk outline guys had to go back to the
+
+truck for a second piece of chalk!  I thought: I don't want to end up like
+
+that, double-chalker!
+
+  If you ever tell Kris or the Cat this, you're in pieces.  Now tell me
+
+about you creator.
+
+
+
+KRYTEN
+
+  Oh, it's so humiliating!
+
+
+
+LISTER
+
+  Tell me about Professor Mammett!
+
+
+
+KRYTEN
+
+  Well, she was due to marry John Warburton, a fellow bio-engineer.  He
+
+jilted her the day before their wedding, so she decided to create a droid in
+
+his image - a pompous, ridiculous-looking, mother-hen clucking, irascible
+
+buffoon.
+
+
+
+LISTER
+
+  What happenned to this droid?
+
+
+
+KRYTEN
+
+  That droid, sir, is me!
+
+
+
+LISTER
+
+  Pompous?  Ridiculous-looking?  Mother-hen clucking?  Oh yeah, I see now...
+
+
+
+KRYTEN
+
+  We're all John Warburton, sir, the entire 4000-series.  It was Mammett's
+
+revenge.
+
+
+
+LISTER
+
+  Well, judging from the length of your groinal attachment, you can see why
+
+she was so sad to lose him...
+
+
+
+KRYTEN
+
+  As part of the joke, all my negative emotions - jealousy, anger - are
+
+stored on a special file; my 'negadrive'.  Now, when this file gets full it
+
+blows!  Just like he used to.
+
+
+
+LISTER
+
+  All your resentment's in this thing?  It's so small.
+
+
+
+KRYTEN
+
+  Oh, don't be fooled by that, sir.  This box contains the greatest
+
+concentration of anger, jealousy and resentment outside a BAFTA awards
+
+ceremony!
+
+
+
+LISTER
+
+  Able felt betrayed, lost all his self-esteem; it's what turned him to
+
+ultrazone.  He told me - he's promised to quit.
+
+
+
+KRYTEN
+
+  How could Mammett have done this?
+
+
+
+LISTER
+
+  Kryten, you may have started out as a joke, but you've grown, you've
+
+changed.  Look how different you are to Able.  If Mammett came in here now,
+
+I bet she wouldn't even recognise you.
+
+
+
+KRYTEN
+
+  I've evolved?
+
+
+
+LISTER
+
+  You bet.
+
+
+
+KRYTEN
+
+  I've become something that's... beyond a joke?
+
+
+
+LISTER
+
+  Too right, man.
+
+
+
+[Enter KOCHANSKI]
+
+
+
+KOCHANSKI
+
+  There's something coming in from the starboard bow!
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[CAT, KOCHANSKI present]
+
+
+
+[Enter LISTER, KRYTEN]
+
+
+
+CAT
+
+  The Sim's back; he's got a lock on!
+
+
+
+LISTER
+
+  Reverse thrust - go!  Five, niner, seven.
+
+
+
+KOCHANSKI
+
+  Missed, but still locked on!  Right, I'm taking us into that asteroid
+
+belt.
+
+
+
+CAT
+
+  Oh, not an asteroid belt!
+
+
+
+KOCHANSKI
+
+  Is that a problem?
+
+
+
+CAT
+
+  It sure is!  Everything tips from side to side, and my hair gets all
+
+messed up!
+
+
+
+KOCHANSKI
+
+  So what do we do?  Stay here and get splattered??
+
+
+
+CAT
+
+  Rather that than me looking like Tina Turner!
+
+
+
+LISTER
+
+  I'm taking us in.
+
+
+
+KRYTEN
+
+  Once we're in the belt, we'll have to maintain ship and engine silence
+
+'till he's convinced we're not there.
+
+
+
+
+
+[-- x - Int. Centauri Ops room -------------------------------------------]
+
+
+
+[SIMULANT present]
+
+
+
+SIMULANT
+
+  I know you're in that belt... somewhere...
+
+  One little mistake... and you're mine...
+
+
+
+
+
+
+
+<MONTAGE: once powered down, the crew spend a tense few hours passing time
+
+in the mid-section.  left by himself, Able wanders into the cockpit to take
+
+a hit of ultrazone.  He accidentally leans on a switch on the control panel,
+
+powering up their engines and causing an energy surge>
+
+
+
+
+
+SIMULANT
+
+  The mistake is made...
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[ABLE present]
+
+
+
+[Enter ALL]
+
+
+
+LISTER
+
+  What happenned, man!?
+
+
+
+ABLE
+
+  I dunno, I don't know nothin'!
+
+
+
+CAT
+
+  Clear out of here!
+
+
+
+KRYTEN
+
+  Leave *him* to me!
+
+
+
+[Exit ABLE, KRYTEN]
+
+
+
+
+
+[-- x - Int. Starbug --------------------------------------------------]
+
+
+
+[Enter ABLE, KRYTEN]
+
+
+
+ABLE <spaced out and laughing>
+
+  Oh, I think I may have pressed the wrong button...
+
+
+
+KRYTEN
+
+  You have jeapordised the lives of the entire crew, breaking the most
+
+basic, fundamental command codes!
+
+
+
+ABLE <seriously>
+
+  I'm sorry - I didn't mean nuthin'...
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[LISTER, CAT, KOCHANSKI, KRYTEN present>
+
+
+
+LISTER
+
+  This dude's real mad, we don't stand a chance!
+
+
+
+KOCHANSKI
+
+  I can't throw him off; nothing's working, I'm using every trick I know to
+
+distract him!
+
+
+
+CAT
+
+  Pity we can't all moon out of the starboard portholes!  That always works
+
+for me!
+
+
+
+LISTER
+
+  Wait!  Someone's left the ship - an escape pod!
+
+
+
+KRYTEN
+
+  It's Able!
+
+
+
+LISTER
+
+  It's heading towards the Sim's ship.
+
+
+
+KRYTEN
+
+  Why, that slimy, double-crossing, two-faced piece of scum!  He's no
+
+brother of mine!
+
+
+
+LISTER
+
+  He's fired something at them...
+
+
+
+CAT
+
+  Some sort of energy field... looks heavy.
+
+
+
+KRYTEN
+
+  The negadrive!  He's used my negadrive energy and re-routed it through the
+
+escape pod's thrusters.  The Simulant ship is engulfed in all my negativity.
+
+
+
+
+
+[-- x - Int. Centauri Ops room -------------------------------------------]
+
+
+
+[SIMULANT present]
+
+
+
+SIMULANT
+
+  It's all 'opeless!  Nobody loves me; I'm so ugly!
+
+  I never get invited to parties!  I 'ate this ship!  I 'ate *everything*!
+
+
+
+<The Centauri explodes>
+
+
+
+
+
+[-- x - Int. Starbug cockpit ---------------------------------------------]
+
+
+
+[ALL present]
+
+
+
+KOCHANSKI
+
+  Able's pod just crash-landed.
+
+
+
+LISTER
+
+  He threw his life away to save us and we hardly knew him...
+
+
+
+KRYTEN
+
+  With your permission, sirs, ma'am, I should like to recover the body and
+
+perform last rites.
+
+
+
+
+
+[-- x - Int. Starbug cargo bay -------------------------------------------]
+
+
+
+[ALL present.  KRYTEN carries the motionless body of ABLE out of the pod]
+
+
+
+LISTER
+
+  Do you need a hand, Kryts?
+
+
+
+KRYTEN
+
+  He ain't heavy, sir, he's my *brother*.
+
+
+
+
+
+[-- x - Int. An indian restaurant in an AR simulation --------------------]
+
+
+
+[ALL present, together with MRS BENNETT and the SISTERS from Pride And
+
+ Prejudice World]
+
+
+
+LISTER
+
+  Great anniversary party, Kryters - Curry World!  Fan-smeggin'-tastic!
+
+
+
+<girls giggle>
+
+
+
+MRS BENNETT
+
+  How utterly splendid!  Mine's the 'vindaloo', whatever that is!
+
+
+
+KOCHANSKI
+
+  Mrs Bennett, Jane, Kitty: I beg you have the omlette with the big chips.
+
+Curries are an aquired taste...
+
+
+
+MRS BENNETT
+
+  Oh *nonsense*!  Mr Darcy didn't think Jane would enjoy french apples, but
+
+she did, didn't you Jane?
+
+  Now, tuck in, girls!
+
+
+
+[MRS BENNETT and the girls start eating, their faces showing some suprise]
+
+
+
+MRS BENNETT
+
+  I do declare, Mr Lister, this is most scrumptious!
+
+
+
+1ST SISTER
+
+  Oh mama, it's the most succulent dish I've ever tasted!
+
+
+
+2ND SISTER
+
+  A most meritorious venture.
+
+
+
+[KOCHANSKI, LISTER and CAT take a mouthful of their own curries, and they
+
+ just enough time to swallow before...]
+
+
+
+KOCHANSKI, LISTER, CAT
+
+  AAaarrggg!!
+
+
+
+KRYTEN
+
+  Curious - there must be some sort of bug in the program...
+
+
+
+LISTER
+
+  I'm on fire!!
+
+
+
+CAT
+
+  Water!
+
+
+
+KOCHANSKI
+
+  Somebody help me!
+
+
+
+KRYTEN
+
+  Don't worry, sir, I'll work on it...
+
+
+
+
+
+[------------------------- END OF "BEYOND A JOKE" -------------------------]
+
+
+
+
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor
+
+ and Robert Llewellyn; no copyright infringement or toe-stepping intended.
+
+ Comments, criticisms and corrections welcomed at "raz@mushroom.demon.co.uk"
+
+ Thanks.]
+
+
+
