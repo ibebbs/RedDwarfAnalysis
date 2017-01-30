@@ -15,6 +15,8 @@ open XPlot;
 open XPlot.GoogleCharts;
 open XPlot.GoogleCharts.WpfExtensions;
 
+let location = @"E:\Source\Repositories\RedDwarfAnalysis\";
+
 type EpisodeSource = {
     Id : string;
     Transcript : string option;
@@ -92,32 +94,44 @@ let episodeSources = [
     { Id = "tt5218316"; Transcript = None; Season = 11; Episode = 6 }
 ]
 
-let writeFile path id (json : string) =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\" + path + @"\" + id + ".json"
+let writeFile path id (json : string) extension =
+  let fileName = location + path + @"\" + id + extension
   use streamWriter = new StreamWriter(fileName, false)
   streamWriter.WriteLine(json)
+
+let writeJson path id (json : string) =
+  writeFile path id json ".json"
+
+let writeHtml path id (json : string) =
+  writeFile path id json ".html"
 
 // Using: http://www.omdbapi.com/
 episodeSources
 |> Seq.map (fun es -> (es.Id,  Http.RequestString ( "http://www.omdbapi.com/", query=["i", es.Id; "tomatoes", "true"] )))
-|> Seq.iter (fun (id, json) -> writeFile "Omdb" id json)
+|> Seq.iter (fun (id, json) -> writeJson "Omdb" id json)
 
 // Using: http://imdb.wemakesites.net/
 episodeSources
 |> Seq.map (fun es -> (es.Id,  Http.RequestString ( "http://imdb.wemakesites.net/api/" + es.Id, query=["api_key", "5ff83107-8872-4324-902a-283fc7626a38"] )))
-|> Seq.iter (fun (id, json) -> writeFile "WeMakeSites" id json)
+|> Seq.iter (fun (id, json) -> writeJson "WeMakeSites" id json)
 
 // Using: http://api.themoviedb.org/
 episodeSources
 |> Seq.map (fun es -> System.Threading.Thread.Sleep(1000); es)
 |> Seq.map (fun es -> (es.Id, Http.RequestString ("https://api.themoviedb.org/3/tv/326/season/" + es.Season.ToString() + "/episode/" + es.Episode.ToString(), query=["api_key", "1b9b9807adc4f6af36df49c81b20f0fc"])))
-|> Seq.iter (fun (id, json) -> writeFile "TheMovieDb" id json)
+|> Seq.iter (fun (id, json) -> writeJson "TheMovieDb" id json)
 
-type OmdbRecord = JsonProvider< @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\Omdb\tt0684181.json" >
-type WeMakeSitesRecord = JsonProvider< @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\WeMakeSites\tt0684181.json" >
-type TheMoviewDbRecord = JsonProvider< @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\TheMovieDb\tt0684181.json" >
+// Using IMDB ratings
+episodeSources
+|> Seq.map (fun es -> System.Threading.Thread.Sleep(1000); es)
+|> Seq.map (fun es -> (es.Id, Http.RequestString ("http://www.imdb.com/title/" + es.Id + "/ratings")))
+|> Seq.iter (fun (id, json) -> writeHtml "Ratings" id json)
 
-type RatingsType = HtmlProvider< @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\Ratings\tt0684182.htm" >
+type OmdbRecord = JsonProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\Omdb\tt0684181.json" >
+type WeMakeSitesRecord = JsonProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\WeMakeSites\tt0684181.json" >
+type TheMoviewDbRecord = JsonProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\TheMovieDb\tt0684181.json" >
+
+type RatingsType = HtmlProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\Ratings\tt0684182.htm" >
 //let ratings = RatingsType.Load(@"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\Ratings\tt0684182.htm")
 
 let ratingCategoryNames = [
@@ -164,6 +178,12 @@ type EpisodeRatings = {
     Rating : decimal
 }
 
+let parseCategory c =
+  let index = Seq.tryFindIndex (fun cn -> cn = c) ratingCategoryNames
+  match index with
+  | Some x -> Some (enum<RatingCategory>(x))
+  | None -> None
+
 let parseRatings id =
   let title (node : HtmlNode) =
       node.Descendants["a"]
@@ -174,7 +194,7 @@ let parseRatings id =
   
   let rating (node : HtmlNode) =
       [ node.InnerText() ]
-  let document = HtmlDocument.Load(@"http://www.imdb.com/title/" + id + "/ratings")
+  let document = HtmlDocument.Load(location + @"Ratings\" + id + ".html")
   let content = document.CssSelect("#tn15content").[0]
   let tables = 
     content.Descendants["table"]
@@ -185,28 +205,71 @@ let parseRatings id =
     |> Seq.where (fun (row, data) -> data.Length = 3)
     |> Seq.map (fun (row, data) -> ( (title data.[0]), (votes data.[1]), (rating data.[2])))
     |> Seq.collect (fun (t, v, r) -> Seq.zip3 t v r)
-    |> Seq.map (fun (t, v, r) -> ((enum<RatingCategory>(Seq.findIndex (fun cn -> cn = t) ratingCategoryNames)), System.Int32.Parse(v.Trim()), System.Decimal.Parse(r.Trim())))
-    |> Seq.map (fun (t, v, r) -> { Id = id; Category = t; Votes = v; Rating = r })
+    |> Seq.map (fun (t, v, r) -> ((parseCategory t), System.Int32.Parse(v.Trim()), System.Decimal.Parse(r.Trim())))
+    |> Seq.where (fun (t, v, r) -> t.IsSome)
+    |> Seq.map (fun (t, v, r) -> { Id = id; Category = t.Value; Votes = v; Rating = r })
   rows
 
-parseRatings "tt1997038"
-|> Seq.where (fun r -> r.Category = RatingCategory.``Aged under 18`` || r.Category = RatingCategory.``Aged 18-29`` || r.Category = RatingCategory.``Aged 30-44`` || r.Category = RatingCategory.``Aged 45``)
-|> Seq.iter (fun r -> printfn "Type %A, Votes %i, Rating %f" r.Category r.Votes r.Rating)
-  
+type EpisodeRating = {
+  ``Males`` : decimal option;
+  ``Females`` : decimal option;
+  ``Aged under 18`` : decimal option;
+  ``Males under 18`` : decimal option;
+  ``Aged 18-29`` : decimal option;
+  ``Males Aged 18-29`` : decimal option;
+  ``Females Aged 18-29`` : decimal option;
+  ``Aged 30-44`` : decimal option;
+  ``Males Aged 30-44`` : decimal option;
+  ``Females Aged 30-44`` : decimal option;
+  ``Aged 45`` : decimal option;
+  ``Males Aged 45`` : decimal option;
+  ``Females Aged 45`` : decimal option;
+  ``Top 1000 voters`` : decimal option;
+  ``US users`` : decimal option;
+  ``Non-US users`` : decimal option;
+}
 
-let record = TheMoviewDbRecord.Load( @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\TheMovieDb\tt0684181.json" )
+let tryFind (dict : System.Collections.Generic.IDictionary<'a,'b>) (key : 'a) =
+  let containsKey = dict.ContainsKey(key)
+  match containsKey with
+  | true -> Some dict.[key]
+  | false -> None
 
-
+let pivotRatings (ratings : EpisodeRatings seq) =
+   let dictionary = 
+     ratings
+     |> Seq.map (fun r -> (r.Category, r.Rating))
+     |> dict
+   let rating = {
+     ``Males`` = (tryFind dictionary RatingCategory.``Males``);
+     ``Females`` = (tryFind dictionary RatingCategory.``Females``);
+     ``Aged under 18`` = (tryFind dictionary RatingCategory.``Aged under 18``);
+     ``Males under 18`` = (tryFind dictionary RatingCategory.``Males under 18``);
+     ``Aged 18-29`` = (tryFind dictionary RatingCategory.``Aged 18-29``);
+     ``Males Aged 18-29`` = (tryFind dictionary RatingCategory.``Males Aged 18-29``);
+     ``Females Aged 18-29`` = (tryFind dictionary RatingCategory.``Females Aged 18-29``);
+     ``Aged 30-44`` = (tryFind dictionary RatingCategory.``Aged 30-44``);
+     ``Males Aged 30-44`` = (tryFind dictionary RatingCategory.``Males Aged 30-44``);
+     ``Females Aged 30-44`` = (tryFind dictionary RatingCategory.``Females Aged 30-44``);
+     ``Aged 45`` = (tryFind dictionary RatingCategory.``Aged 45``);
+     ``Males Aged 45`` = (tryFind dictionary RatingCategory.``Males Aged 45``);
+     ``Females Aged 45`` = (tryFind dictionary RatingCategory.``Females Aged 45``);
+     ``Top 1000 voters`` = (tryFind dictionary RatingCategory.``Top 1000 voters``);
+     ``US users`` = (tryFind dictionary RatingCategory.``US users``);
+     ``Non-US users`` = (tryFind dictionary RatingCategory.``Non-US users``)
+   }
+   rating
+     
 let loadOmdbFile id =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\Omdb\" + id + ".json"
+  let fileName = location + @"Omdb\" + id + ".json"
   OmdbRecord.Load(fileName) 
   
 let loadWeMakeSitesFile id =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\WeMakeSites\" + id + ".json"
+  let fileName = location + @"WeMakeSites\" + id + ".json"
   WeMakeSitesRecord.Load(fileName) 
   
 let loadTheMovieDbFile id =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\TheMovieDb\" + id + ".json"
+  let fileName = location + @"TheMovieDb\" + id + ".json"
   WeMakeSitesRecord.Load(fileName) 
 
 let loadFiles id =
@@ -215,47 +278,85 @@ let loadFiles id =
   (omdbFile, wmsFile)
 
 let loadOmdbJson id =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\Omdb\" + id + ".json"
+  let fileName = location + @"Omdb\" + id + ".json"
   JsonValue.Load(fileName) 
   
 let loadWeMakeSitesJson id =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\WeMakeSites\" + id + ".json"
+  let fileName = location + @"WeMakeSites\" + id + ".json"
   JsonValue.Load(fileName) 
   
 let loadTheMovieDbJson id =
-  let fileName = @"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\TheMovieDb\" + id + ".json"
+  let fileName = location + @"TheMovieDb\" + id + ".json"
   JsonValue.Load(fileName) 
+  
+let loadRatings id =
+  let ratings = parseRatings id
+  let rating = pivotRatings ratings
+  rating
 
 let loadJson id =
-  let omdbFile = loadOmdbJson id
-  let wmsFile = loadWeMakeSitesJson id
   let mdbFile = loadTheMovieDbJson id
-  (omdbFile, wmsFile, mdbFile)
+  let ratings = loadRatings id
+  (mdbFile, ratings)
+ 
+let ratingsByDateAndAgeCategory = 
+  episodeSources
+  |> Seq.map (fun es -> loadJson es.Id)
+  |> Seq.map (fun (mdb, ratings) -> (mdb?air_date.AsDateTime(), ratings))
+  |> Seq.collect (fun (date, ratings) -> [| (date, RatingCategory.``Aged under 18``, ratings.``Aged under 18``); (date, RatingCategory.``Aged 18-29``, ratings.``Aged 18-29``); (date, RatingCategory.``Aged 30-44``, ratings.``Aged 30-44``); (date, RatingCategory.``Aged 45``, ratings.``Aged 45``)|])
+  |> Seq.where (fun (date, category, rating) -> rating.IsSome)
+  |> Seq.map (fun (date, category, rating) -> (date, category, rating.Value))
+  |> Seq.groupBy (fun (date, category, rating) -> category)
+  |> Seq.map (fun (key, values) -> values |> Seq.map (fun (date, category, rating) -> (date, rating)) |> Seq.sortBy (fun (date, rating) -> date))
 
-episodeSources
-|> Seq.map (fun es -> loadJson es.Id)
-|> Seq.map (fun (omdb, wms, mdb) -> (wms?data?released, omdb?Title, omdb?imdbRating))
-|> Seq.where (fun (date, title, rating) -> not (rating.AsString() = "N/A"))
-|> Seq.sortBy (fun (date, title, rating) -> date)
-|> Seq.iter (fun (date, title, rating) -> printfn "Date: %A, Title: %s, Rating: %f" (date.AsDateTime()) (title.AsString()) (rating.AsDecimal()))
 
-
-// Generates very wide line chart due to large time distance between seasons
 let ratingsByDate = 
   episodeSources
   |> Seq.map (fun es -> loadJson es.Id)
-  |> Seq.map (fun (omdb, wms, mdb) -> (wms?data?released, omdb?Title, omdb?imdbRating))
-  |> Seq.where (fun (date, title, rating) -> not (rating.AsString() = "N/A"))
-  |> Seq.map (fun (date, title, rating) -> (date.AsDateTime(), title.AsString(), rating.AsDecimal()))
+  |> Seq.map (fun (omdb, wms, mdb, ratings) -> (wms?data?released, omdb?Title, ratings.``Top 1000 voters``))
+  |> Seq.where (fun (date, title, rating) -> rating.IsSome)
+  |> Seq.map (fun (date, title, rating) -> (date.AsDateTime(), title.AsString(), rating.Value))
   |> Seq.sortBy (fun (date, title, rating) -> date)
-  
-//Chart.Line((ratingsByDate |> Seq.map (fun (date, title, rating) -> (date, rating))), "Episodes", "Episodes", (ratingsByDate |> Seq.map (fun (date, title, rating) -> title))) |> Chart.Show
 
-let options = Options(pointSize=3, colors=[|"#3B8FCC"|], trendlines=[|Trendline(opacity=0.5,lineWidth=10,color="#C0D9EA")|], hAxis=Axis(title="Date"), vAxis=Axis(title="Rating"))
+// Generates scatter chart with trend line
+let values = 
+  ratingsByDate
+  |> Seq.map (fun (date, title, rating) -> (date, rating))
 
-Chart.Scatter((ratingsByDate |> Seq.map (fun (date, title, rating) -> (date, rating))))
-|> Chart.WithOptions(options)
+let options = Options(pointSize=3, colors=[|"#3B8FCC"|], trendlines=[|Trendline(opacity=0.5,lineWidth=5,color="#C0D9EA")|], hAxis=Axis(title="Date"), vAxis=Axis(title="Rating"))
+Chart.Scatter(values) |> Chart.WithOptions(options) |> Chart.Show
+
+let ratingsByDateAndAgeCategory = 
+  episodeSources
+  |> Seq.map (fun es -> loadJson es.Id)
+  |> Seq.map (fun (mdb, ratings) -> (mdb?air_date.AsDateTime(), ratings))
+  |> Seq.collect (fun (date, ratings) -> [| (date, RatingCategory.``Aged under 18``, ratings.``Aged under 18``); (date, RatingCategory.``Aged 18-29``, ratings.``Aged 18-29``); (date, RatingCategory.``Aged 30-44``, ratings.``Aged 30-44``); (date, RatingCategory.``Aged 45``, ratings.``Aged 45``)|])
+  |> Seq.where (fun (date, category, rating) -> rating.IsSome)
+  |> Seq.map (fun (date, category, rating) -> (date, category, rating.Value))
+  |> Seq.groupBy (fun (date, category, rating) -> category)
+  |> Seq.map (fun (key, values) -> values |> Seq.map (fun (date, category, rating) -> (date, rating)) |> Seq.sortBy (fun (date, rating) -> date))
+  |> Seq.toList
+
+let options = 
+  Options(
+    pointSize=3, 
+    colors=[|"#6AA590"; "#7DE6C1"; "#57E6B3"; "#60A6D0"; "#3B8FCC"|], 
+    trendlines=[|
+      Trendline(opacity=0.5,lineWidth=5,color="#6AA590");
+      Trendline(opacity=0.5,lineWidth=5,color="#7DE6C1");
+      Trendline(opacity=0.5,lineWidth=5,color="#57E6B3");
+      Trendline(opacity=0.5,lineWidth=5,color="#60A6D0");
+      Trendline(opacity=0.5,lineWidth=5,color="#3B8FCC")|],      
+    hAxis=Axis(title="Date"),
+    vAxis=Axis(title="Rating"))
+
+Chart.Scatter(ratingsByDateAndAgeCategory, [|"Aged under 18"; "Aged 18-29";"Aged 30-44";"Aged 45+";"????"|])
+|> Chart.WithOptions(options) 
+|> Chart.WithLegend(true)
 |> Chart.Show
+
+
+
 
 let maxRating (episodes : seq<System.DateTime * string * int * decimal>) =
   episodes
@@ -291,3 +392,17 @@ episodeSources
 |> Seq.where (fun (date, rating) -> not (rating.AsString() = "N/A"))
 |> Seq.sortBy (fun (date, rating) -> date)
 
+
+
+let ratings = parseRatings "tt1997038"
+let rating = loadRatings "tt0684181"
+
+episodeSources
+|> Seq.collect (fun es -> parseRatings es.Id)
+|> Seq.groupBy (fun er -> er.Id)
+//|> Seq.where (fun (key, values) -> (Seq.length values) < 16)
+|> Seq.iter (fun (key, values) -> printfn "Id %s has %i values" key (Seq.length values))
+
+episodeSources
+|> Seq.map (fun es -> loadRatings es.Id)
+|> Seq.iter (fun r -> printfn "%A" r)
