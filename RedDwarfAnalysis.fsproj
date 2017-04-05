@@ -57,6 +57,9 @@
     <Content Include="Google.DataTable.Net.Wrapper.XML" />
     <None Include="Parsing.fsx" />
     <None Include="Notebook.fsx" />
+    <None Include="Sentiment.fsx" />
+    <None Include="SentimentResponse.json" />
+    <None Include="Sentiment.csv" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FParsec">

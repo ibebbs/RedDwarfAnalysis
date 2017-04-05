@@ -1,0 +1,498 @@
+﻿{
+  "docDate": "2017-04-02T15:13:00",
+  "sentences": [
+    {
+      "index": 0,
+      "parse": "(ROOT\r\n  (INTJ (UH Yeah) (. .)))",
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 1,
+          "dependentGloss": "Yeah"
+        },
+        {
+          "dep": "punct",
+          "governor": 1,
+          "governorGloss": "Yeah",
+          "dependent": 2,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 1,
+          "dependentGloss": "Yeah"
+        },
+        {
+          "dep": "punct",
+          "governor": 1,
+          "governorGloss": "Yeah",
+          "dependent": 2,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 1,
+          "dependentGloss": "Yeah"
+        },
+        {
+          "dep": "punct",
+          "governor": 1,
+          "governorGloss": "Yeah",
+          "dependent": 2,
+          "dependentGloss": "."
+        }
+      ],
+      "sentimentValue": "2",
+      "sentiment": "Neutral",
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Yeah",
+          "originalText": "Yeah",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "UH",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 5,
+          "pos": ".",
+          "before": "",
+          "after": "  "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "parse": "(ROOT\r\n  (S\r\n    (NP (PRP She))\r\n    (VP (VBD was)\r\n      (NP (PRP$ your) (JJ great)\r\n        (ADJP (JJ great) (JJ great))\r\n        (JJ great)\r\n        (ADJP (JJ great) (JJ great))\r\n        (NN grandmother)\r\n        (CC or)\r\n        (NN something)))\r\n    (. .)))",
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 10,
+          "dependentGloss": "grandmother"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 1,
+          "dependentGloss": "She"
+        },
+        {
+          "dep": "cop",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 2,
+          "dependentGloss": "was"
+        },
+        {
+          "dep": "nmod:poss",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 3,
+          "dependentGloss": "your"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 4,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 6,
+          "governorGloss": "great",
+          "dependent": 5,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 6,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 7,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 9,
+          "governorGloss": "great",
+          "dependent": 8,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 9,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "cc",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 11,
+          "dependentGloss": "or"
+        },
+        {
+          "dep": "conj",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 12,
+          "dependentGloss": "something"
+        },
+        {
+          "dep": "punct",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 13,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 10,
+          "dependentGloss": "grandmother"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 1,
+          "dependentGloss": "She"
+        },
+        {
+          "dep": "cop",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 2,
+          "dependentGloss": "was"
+        },
+        {
+          "dep": "nmod:poss",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 3,
+          "dependentGloss": "your"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 4,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 6,
+          "governorGloss": "great",
+          "dependent": 5,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 6,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 7,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 9,
+          "governorGloss": "great",
+          "dependent": 8,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 9,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "cc",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 11,
+          "dependentGloss": "or"
+        },
+        {
+          "dep": "conj:or",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 12,
+          "dependentGloss": "something"
+        },
+        {
+          "dep": "punct",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 13,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 10,
+          "dependentGloss": "grandmother"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 1,
+          "dependentGloss": "She"
+        },
+        {
+          "dep": "cop",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 2,
+          "dependentGloss": "was"
+        },
+        {
+          "dep": "nmod:poss",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 3,
+          "dependentGloss": "your"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 4,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 6,
+          "governorGloss": "great",
+          "dependent": 5,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 6,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 7,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 9,
+          "governorGloss": "great",
+          "dependent": 8,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "amod",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 9,
+          "dependentGloss": "great"
+        },
+        {
+          "dep": "cc",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 11,
+          "dependentGloss": "or"
+        },
+        {
+          "dep": "conj:or",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 12,
+          "dependentGloss": "something"
+        },
+        {
+          "dep": "punct",
+          "governor": 10,
+          "governorGloss": "grandmother",
+          "dependent": 13,
+          "dependentGloss": "."
+        }
+      ],
+      "sentimentValue": "3",
+      "sentiment": "Positive",
+      "tokens": [
+        {
+          "index": 1,
+          "word": "She",
+          "originalText": "She",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 10,
+          "pos": "PRP",
+          "before": "  ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 14,
+          "pos": "VBD",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "your",
+          "originalText": "your",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 19,
+          "pos": "PRP$",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 25,
+          "pos": "JJ",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 31,
+          "pos": "JJ",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 37,
+          "pos": "JJ",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 43,
+          "pos": "JJ",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 49,
+          "pos": "JJ",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 55,
+          "pos": "JJ",
+          "before": " ",
+          "after": "  "
+        },
+        {
+          "index": 10,
+          "word": "grandmother",
+          "originalText": "grandmother",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 68,
+          "pos": "NN",
+          "before": "  ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 71,
+          "pos": "CC",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "something",
+          "originalText": "something",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 81,
+          "pos": "NN",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 82,
+          "pos": ".",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}
