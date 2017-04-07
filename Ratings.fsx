@@ -131,7 +131,7 @@ type OmdbRecord = JsonProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis
 type WeMakeSitesRecord = JsonProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\WeMakeSites\tt0684181.json" >
 type TheMoviewDbRecord = JsonProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\TheMovieDb\tt0684181.json" >
 
-type RatingsType = HtmlProvider< @"C:\Source\Repositories\Spikes\RedDwarfAnalysis\Ratings\tt0684182.htm" >
+type RatingsType = HtmlProvider< @"C:\Source\Repositories\RedDwarfAnalysis\Ratings\tt0684182.html" >
 //let ratings = RatingsType.Load(@"E:\Source\Repositories\Spikes\Spikes\RedDwarfAnalysis\Ratings\tt0684182.htm")
 
 let ratingCategoryNames = [
@@ -404,5 +404,7 @@ episodeSources
 |> Seq.iter (fun (key, values) -> printfn "Id %s has %i values" key (Seq.length values))
 
 episodeSources
-|> Seq.map (fun es -> loadRatings es.Id)
+|> Seq.map (fun es -> 
+    let ratings = loadRatings es.Id
+    )
 |> Seq.iter (fun r -> printfn "%A" r)
