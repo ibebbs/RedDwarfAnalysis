@@ -2,7 +2,8 @@
 #r "./packages/XPlot.GoogleCharts.1.4.2/lib/net45/XPlot.GoogleCharts.dll"
 #r "./packages/Google.DataTable.Net.Wrapper.3.1.2.0/lib/Google.DataTable.Net.Wrapper.dll"
 #r "./packages/Newtonsoft.Json.9.0.1/lib/net45/Newtonsoft.Json.dll"
-#r "./packages/XPlot.GoogleCharts.WPF.1.3.0/lib/net45/XPlot.GoogleCharts.WPF.dll"
+#r "./packages/MathNet.Numerics.3.17.0/lib/net40/MathNet.Numerics.dll"
+#r "./packages/MathNet.Numerics.FSharp.3.17.0/lib/net40/MathNet.Numerics.FSharp.dll"
 
 
 //#r "./packages/FSharp.Charting.0.90.14/lib/net40/FSharp.Charting.dll"
@@ -15,12 +16,10 @@ open System.Text.RegularExpressions
 open FSharp.Data.JsonExtensions
 open XPlot
 open XPlot.GoogleCharts
-open XPlot.GoogleCharts.WpfExtensions
+open MathNet.Numerics.Statistics
 
 let location = @"C:\Source\Repositories\RedDwarfAnalysis\"
-let transcripts = Path.Combine(location, "Transcript")
-
-type SentimentResponse = JsonProvider<"SentimentResponse.json">
+let transcripts = "https://github.com/ibebbs/RedDwarfAnalysis/tree/master/Transcript"
 
 type TranscriptFormat =
 | SameLine
@@ -210,31 +209,6 @@ type EpisodeLines = {
     Lines : string[]
 }
 
-let (|IsLister|_|) (line : string) =
-    match line.ToUpper().StartsWith("LISTER:") with
-    | true when line.Length > 8 -> Some (line.Substring(8))
-    | _ -> None
-
-let (|IsKryten|_|) (line : string) =
-    match line.ToUpper().StartsWith("KRYTEN:") with
-    | true when line.Length > 8 -> Some (line.Substring(8))
-    | _ -> None
-
-let (|IsRimmer|_|) (line : string) =
-    match line.ToUpper().StartsWith("RIMMER:") with
-    | true when line.Length > 8 -> Some (line.Substring(8))
-    | _ -> None
-
-let (|IsCat|_|) (line : string) =
-    match line.ToUpper().StartsWith("CAT:") with
-    | true when line.Length > 5 -> Some (line.Substring(5))
-    | _ -> None
-
-let (|IsHolly|_|) (line : string) =
-    match line.ToUpper().StartsWith("HOLLY:") with
-    | true when line.Length > 7 -> Some (line.Substring(7))
-    | _ -> None
-
 type Character =
 | Lister
 | Rimmer
@@ -250,7 +224,6 @@ let characterName character =
     | Kryten -> "KRYTEN"
     | Holly -> "HOLLY"
 
-
 type EpisodeText = {
     Season : int
     Episode : int
@@ -263,15 +236,6 @@ type CharacterLine = {
     Character : Character 
     Line : string 
 }
-
-let characterLine line =
-    match line with
-    | IsLister line -> Some (Lister, line)
-    | IsRimmer line -> Some (Rimmer, line)
-    | IsCat line -> Some (Cat, line)
-    | IsKryten line -> Some (Kryten, line)
-    | IsHolly line -> Some (Holly, line)
-    | _ -> None
     
 type CharacterLineSentiment = {
     Season : int
@@ -279,19 +243,7 @@ type CharacterLineSentiment = {
     Character : Character 
     Line : string
     Sentiment : float }
-
-let lineSentiment (line : string) =    
-    printfn "Getting sentiment for line: %s" line
-    let response = 
-        Http.RequestString ( 
-            "http://xi:9000/?properties={\"annotators\": \"tokenize,ssplit,sentiment\", \"date\": \"2017-04-02T15:13:00\", \"outputFormat\": \"json\"}&pipelineLanguage=en",
-            headers = [ "Content-Type", "text/plain;;charset=UTF-8" ],
-            httpMethod = "POST", 
-            body = TextRequest line)
-
-    let result = SentimentResponse.Parse(response);
-    result.Sentences |> Seq.averageBy (fun s -> float (s.SentimentValue - 2))
-
+    
 type SameLineScanner = {
     LineBuilder : string
     Lines : string seq
@@ -323,26 +275,17 @@ type NextLineScanner = {
     static member For spacing = { ReadingCharacter = None; Spacing = spacing; CurrentSpacing = 0; LineBuilder = ""; Lines = [] }
     static member Scan scanner (line : string) =
         match (line.ToUpper()) with
-        | "LISTER" ->
-            { scanner with ReadingCharacter = Some Lister; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
-        | "RIMMER" ->
-            { scanner with ReadingCharacter = Some Rimmer; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
-        | "CAT" ->
-            { scanner with ReadingCharacter = Some Cat; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
-        | "KRYTEN" -> 
-            { scanner with ReadingCharacter = Some Kryten; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
-        | "HOLLY" ->
-            { scanner with ReadingCharacter = Some Holly; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
+        | "LISTER" -> { scanner with ReadingCharacter = Some Lister; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
+        | "RIMMER" -> { scanner with ReadingCharacter = Some Rimmer; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
+        | "CAT" -> { scanner with ReadingCharacter = Some Cat; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
+        | "KRYTEN" -> { scanner with ReadingCharacter = Some Kryten; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
+        | "HOLLY" -> { scanner with ReadingCharacter = Some Holly; CurrentSpacing = 0; LineBuilder = ""; Lines = [ ] }
         | _ ->
             match scanner.ReadingCharacter, String.IsNullOrWhiteSpace(line) with
-            | Some character, false -> 
-                { scanner with LineBuilder = (sprintf "%s %s" scanner.LineBuilder (line.Trim())); CurrentSpacing = 0; Lines = [] }
-            | Some character, true when scanner.CurrentSpacing < scanner.Spacing -> 
-                { scanner with CurrentSpacing = scanner.CurrentSpacing + 1; Lines = [] }
-            | Some character, true -> 
-                { scanner with ReadingCharacter = None; CurrentSpacing = 0; LineBuilder = ""; Lines = [ (sprintf "%s: %s" (characterName character) scanner.LineBuilder) ] }
-            | _, _ -> 
-                { scanner with ReadingCharacter = None; LineBuilder = ""; Lines = [ ] }
+            | Some character, false -> { scanner with LineBuilder = (sprintf "%s %s" scanner.LineBuilder (line.Trim())); CurrentSpacing = 0; Lines = [] }
+            | Some character, true when scanner.CurrentSpacing < scanner.Spacing ->  { scanner with CurrentSpacing = scanner.CurrentSpacing + 1; Lines = [] }
+            | Some character, true -> { scanner with ReadingCharacter = None; CurrentSpacing = 0; LineBuilder = ""; Lines = [ (sprintf "%s: %s" (characterName character) scanner.LineBuilder) ] }
+            | _, _ -> { scanner with ReadingCharacter = None; LineBuilder = ""; Lines = [ ] }
 
 let parseNextLine (lines : string seq) spacing =
     lines
@@ -352,7 +295,8 @@ let parseNextLine (lines : string seq) spacing =
     |> Seq.map (fun l -> Regex.Replace(l, "\(.*?\)", "").Replace("_", "").Replace("*", "").Replace("  ", " ").Replace('"', '\'').Trim())
     |> Seq.where (fun l -> not (String.IsNullOrWhiteSpace(l)))
 
-let results = 
+
+let episodeLines =
     episodeSources
     |> Seq.where (fun s -> s.Transcript.IsSome)
     |> Seq.map (fun s -> (s.Season, s.Episode, s.Format, (File.ReadAllLines(Path.Combine(transcripts, s.Transcript.Value)))))
@@ -364,29 +308,77 @@ let results =
             | NextLineDoubleSpaced -> parseNextLine lines 1
         parsedLines
         |> Seq.map (fun line -> (season, episode, line)))
+        
+let (|IsLister|_|) (line : string) =
+    match line.ToUpper().StartsWith("LISTER:") with
+    | true when line.Length > 8 -> Some (line.Substring(8))
+    | _ -> None
+
+let (|IsKryten|_|) (line : string) =
+    match line.ToUpper().StartsWith("KRYTEN:") with
+    | true when line.Length > 8 -> Some (line.Substring(8))
+    | _ -> None
+
+let (|IsRimmer|_|) (line : string) =
+    match line.ToUpper().StartsWith("RIMMER:") with
+    | true when line.Length > 8 -> Some (line.Substring(8))
+    | _ -> None
+
+let (|IsCat|_|) (line : string) =
+    match line.ToUpper().StartsWith("CAT:") with
+    | true when line.Length > 5 -> Some (line.Substring(5))
+    | _ -> None
+
+let (|IsHolly|_|) (line : string) =
+    match line.ToUpper().StartsWith("HOLLY:") with
+    | true when line.Length > 7 -> Some (line.Substring(7))
+    | _ -> None
+    
+let characterLine line =
+    match line with
+    | IsLister line -> Some (Lister, line)
+    | IsRimmer line -> Some (Rimmer, line)
+    | IsCat line -> Some (Cat, line)
+    | IsKryten line -> Some (Kryten, line)
+    | IsHolly line -> Some (Holly, line)
+    | _ -> None
+
+let characterLines = 
+    episodeLines
     |> Seq.choose (fun (season, episode, line) ->
         let result = characterLine line
         match result with
         | Some (character, line) -> Some (season, episode, character, line)
         | None -> None)
+
+type SentimentResponse = JsonProvider<"SentimentResponse.json">
+
+let lineSentiment (line : string) =    
+    printfn "Getting sentiment for line: %s" line
+    let response = 
+        Http.RequestString ( 
+            "http://xi:9000/?properties={\"annotators\": \"tokenize,ssplit,sentiment\", \"date\": \"2017-04-02T15:13:00\", \"outputFormat\": \"json\"}&pipelineLanguage=en",
+            headers = [ "Content-Type", "text/plain;;charset=UTF-8" ],
+            httpMethod = "POST", 
+            body = TextRequest line)
+    let result = SentimentResponse.Parse(response);
+    result.Sentences |> Seq.averageBy (fun s -> float (s.SentimentValue - 2))
+
+let sentimentLines =
+    characterLines
     |> Seq.where (fun (season, episode, character, line) -> not (String.IsNullOrWhiteSpace(line)))
     |> Seq.map (fun (season, episode, character, line) -> 
         let sentiment = lineSentiment line
         (season, episode, character, line, sentiment))
+
+let sentimentCsv =
+    sentimentLines
     |> Seq.map (fun (season, episode, character, line, sentiment) -> sprintf "%i,%i,%s,%f,\"%s\"" season episode (characterName character) sentiment line)
     
-File.WriteAllLines(Path.Combine(location, "Sentiment.csv"), results)
+File.WriteAllLines(Path.Combine(location, "Sentiment.csv"), sentimentCsv)
 
-type SentimentType = CsvProvider<"Sentiment.csv", Schema = "Season,Episode,Character,Sentiment (float),Line (string)">
-let sentiment= SentimentType.Load("Sentiment.csv")
 
-let characters =
-    sentiment.Rows
-    |> Seq.groupBy (fun s -> s.Character)
-    |> Seq.map (fun (character, lines) -> character)
-
-    
-    
+// *** Interactive ***
 episodeSources
 |> Seq.where (fun s -> s.Transcript.IsSome && (s.Format = NextLine || s.Format = NextLineDoubleSpaced))
 |> Seq.map (fun s -> (s.Season, s.Episode, s.Format, (File.ReadAllLines(Path.Combine(transcripts, s.Transcript.Value)))))
@@ -406,17 +398,173 @@ episodeSources
 |> Seq.where (fun (season, episode, character, line) -> not (String.IsNullOrWhiteSpace(line))) 
 |> Seq.iter (printfn "%A")
 
+type SentimentType = CsvProvider<"Sentiment.csv", Schema = "Season,Episode,Character,Sentiment (float),Line (string)">
+let sentiment= SentimentType.Load("Sentiment.csv")
 
-
-let characterSentimentChart = 
+let characterSentimentChartLabels =    
     sentiment.Rows
     |> Seq.groupBy (fun s -> s.Character)
-    |> Seq.map (fun (character, lines) -> 
-        lines 
-        |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00"))) 
-        |> Seq.map (fun (episode, l) -> (episode, l |> Seq.averageBy(fun l -> 2.0 / (l.Sentiment + 1.0)))))
-    |> Chart.Line
-    |> Chart.WithLabels characters
+    |> Seq.map (fun (character, lines) -> character)    
+
+let characterOrder =
+    ["LISTER"; "RIMMER"; "CAT"; "KRYTEN"; "HOLLY" ]
+    |> Seq.mapi (fun index character -> (character, index))
+    |> Map.ofSeq
+
+let options = 
+  Options(
+    pointSize=3, 
+    trendlines=[|Trendline(); Trendline(); Trendline(); Trendline(); Trendline()|],      
+    hAxis=Axis(title="Episode"),
+    vAxis=Axis(title="Sentiment", format = "0.00"))
+
+sentiment.Rows
+|> Seq.groupBy (fun s -> s.Character)
+|> Seq.sortBy (fun (character, lines) -> characterOrder.[character])
+|> Seq.map (fun (character, lines) -> 
+    lines 
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00"))) 
+    |> Seq.map (fun (episode, l) -> (episode, l |> Seq.averageBy(fun l -> (l.Sentiment + 1.0) / 2.0)))
+    |> Seq.sortBy (fun (episode, sentiment) -> episode))
+|> Chart.Line
+|> Chart.WithOptions (options)
+|> Chart.WithLabels ["LISTER"; "RIMMER"; "CAT"; "KRYTEN"; "HOLLY"]
+|> Chart.WithTitle "Character Average Sentiment Per Episode"
+|> Chart.Show
+
+
+sentiment.Rows
+|> Seq.groupBy (fun s -> s.Character)
+|> Seq.sortBy (fun (character, lines) -> characterOrder.[character])
+|> Seq.map (fun (character, lines) -> 
+    lines 
+    |> Seq.groupBy(fun l -> sprintf "S%s" (l.Season.ToString("00"))) 
+    |> Seq.map (fun (episode, l) -> (episode, l |> Seq.averageBy(fun l -> (l.Sentiment + 1.0) / 2.0)))
+    |> Seq.sortBy (fun (episode, sentiment) -> episode))
+|> Chart.Line
+|> Chart.WithOptions (options)
+|> Chart.WithLabels ["LISTER"; "RIMMER"; "CAT"; "KRYTEN"; "HOLLY"]
+|> Chart.WithTitle "Character Average Sentiment Per Season"
+
+sentiment.Rows
+|> Seq.groupBy(fun l -> sprintf "S%s" (l.Season.ToString("00"))) 
+|> Seq.map (fun (episode, l) -> (episode, l |> Seq.averageBy(fun l -> (l.Sentiment + 1.0) / 2.0)))
+|> Seq.sortBy (fun (episode, sentiment) -> episode)
+|> Chart.Line
+|> Chart.WithOptions (options)
+|> Chart.WithLabel "Sentiment"
+|> Chart.WithTitle "Average Sentiment Per Season"
+
+let episodeRating =
+    episodeSources
+    |> Seq.where (fun s -> s.Transcript.IsSome)
+    |> Seq.collect (fun es -> 
+        parseRatings es.Id
+        |> Seq.where (fun r -> r.Category = RatingCategory.``Top 1000 voters``)
+        |> Seq.map (fun r -> ( (sprintf "S%sE%s" (es.Season.ToString("00")) (es.Episode.ToString("00"))), (float) r.Rating / 10.0)))
+    |> Seq.toArray
+
+let ``Average Sentiment Per Season`` = 
+    sentiment.Rows
+    |> Seq.groupBy(fun l -> sprintf "S%s" (l.Season.ToString("00"))) 
+    |> Seq.map (fun (season, l) -> (season, l |> Seq.averageBy(fun l -> (l.Sentiment + 1.0) / 2.0)))
+    |> Seq.sortBy (fun (season, sentiment) -> season)
+    |> Seq.toArray
+
+let ``Top 1000 voters - Average Rating Per Season`` =
+    episodeSources
+    |> Seq.where (fun s -> s.Transcript.IsSome)
+    |> Seq.collect (fun es -> 
+        parseRatings es.Id
+        |> Seq.where (fun r -> r.Category = RatingCategory.``Top 1000 voters``)
+        |> Seq.map (fun r -> (es.Season, es.Episode, (float) r.Rating / 10.0)))
+    |> Seq.groupBy (fun (season, episode, rating) -> sprintf "S%s" (season.ToString("00")))
+    |> Seq.map (fun (season, ratings) -> (season, ratings |> Seq.averageBy (fun (season, episode, rating) -> rating)))
+    |> Seq.sortBy (fun (season, rating) -> season)
+    |> Seq.toArray
+
+[``Average Sentiment Per Season``; ``Top 1000 voters - Average Rating Per Season``]
+|> Chart.Line
+|> Chart.WithOptions (options)
+|> Chart.WithLabels ["Sentiment"; "Rating"]
+|> Chart.WithTitle "Average Sentiment Per Season"
+|> Chart.Show
+
+``Average Sentiment Per Season`` 
+|> Seq.map (fun (season, sentiment) -> sentiment)
+|> Seq.zip (``Top 1000 voters - Average Rating Per Season`` |> Seq.map (fun (season, rating) -> rating))
+|> Chart.Scatter
+|> Chart.WithOptions (Options(trendlines = [| Trendline() |], vAxis = Axis(title = "Sentiment"), hAxis = Axis(title = "Rating")))
+|> Chart.WithTitle "Sentiment vs Rating"
+|> Chart.Show
+
+Correlation.Pearson(
+    ``Average Sentiment Per Season`` |> Seq.map (fun (season, sentiment) -> sentiment), 
+    ``Top 1000 voters - Average Rating Per Season`` |> Seq.map (fun (season, rating) -> rating)
+)
+
+
+let episodeIndex =
+    sentiment.Rows
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00")))
+    |> Seq.map (fun (episode, lines) -> episode)
+    |> Seq.sortBy (fun episode -> episode)
+    |> Seq.mapi(fun index episode -> (episode, index))
+    |> Map.ofSeq
+
+sentiment.Rows
+|> Seq.groupBy (fun s -> s.Character)
+|> Seq.map (fun (character, lines) -> 
+    lines 
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00"))) 
+    |> Seq.map (fun (episode, l) -> (episode, l |> Seq.averageBy(fun l -> (l.Sentiment + 1.0) / 2.0)))
+    |> Seq.sortBy (fun (episode, sentiment) -> episode))
+|> Seq.iter (printfn "%A")
+
+let episodeCharacterSentiment =
+    sentiment.Rows
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00"))) 
+    |> Seq.map (fun (episode, lines) -> 
+        let characterSentiment = 
+            lines 
+            |> Seq.groupBy (fun s -> s.Character)
+            |> Seq.map (fun (character, l) -> (character, l |> Seq.averageBy(fun l -> l.Sentiment)))
+            |> Map.ofSeq
+        (episode, characterSentiment))
+    |> Map.ofSeq
+
+let characterEpisodeSentiment =
+    ["LISTER"; "RIMMER"; "CAT"; "KRYTEN"; "HOLLY" ]
+    |> Seq.collect (fun character -> episodeCharacterSentiment |> Map.toSeq |> Seq.map (fun (episode,episodeCharacters) -> (character, episode, episodeCharacters)))
+    |> Seq.map (fun (character, episode, episodeCharacters) -> 
+        match episodeCharacters.TryFind(character) with
+        | Some sentiment -> (episode, character, Some sentiment)
+        | _ -> (episode, character, None))
+    |> Seq.sortBy(fun (episode, character, sentiment) -> episode)
+    |> Seq.groupBy (fun (episode, character, sentiment) -> character)
+
+let characterEpisodeSentimentLabels = characterEpisodeSentiment |> Seq.map (fun (character, episodes) -> character)
+
+characterEpisodeSentiment
+|> Seq.map (fun (character, episodes) -> episodes |> Seq.where (fun (episode, character, sentiment) -> sentiment.IsSome) |> Seq.map (fun (episode, character, sentiment) -> (episode, sentiment.Value)))
+|> Chart.Line
+|> Chart.WithOptions (Options(vAxis = Axis(format = "0.00")))
+|> Chart.WithLabels characterEpisodeSentimentLabels
+|> Chart.WithTitle "Character Average Sentiment per Episode"
+|> Chart.Show
+
+
+
+sentiment.Rows |> Seq.length
+
+
+sentiment.Rows
+|> Seq.groupBy (fun s -> s.Character)
+|> Seq.map (fun (character, lines) -> 
+    lines 
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00"))) 
+    |> Seq.map (fun (episode, l) -> (episode, l |> Seq.averageBy(fun l -> 2.0 / (l.Sentiment + 1.0)))))
+
 
 let sentimentChart = 
     sentiment.Rows
@@ -443,27 +591,123 @@ let episodeSentiment =
     |> Seq.map (fun (episode, l) -> (episode, ((l |> Seq.averageBy(fun l -> l.Sentiment)) + 1.0) / 2.0))
     |> Seq.toArray
 
-sentiment.Rows |> Seq.maxBy (fun s -> s.Season)
-
-let episodeRating =
-    episodeSources
-    |> Seq.where (fun s -> s.Transcript.IsSome)
-    |> Seq.collect (fun es -> 
-        parseRatings es.Id
-        |> Seq.where (fun r -> r.Category = RatingCategory.``Top 1000 voters``)
-        |> Seq.map (fun r -> ( (sprintf "S%sE%s" (es.Season.ToString("00")) (es.Episode.ToString("00"))), (float) r.Rating / 10.0)))
-    |> Seq.toArray
-
 [ episodeSentiment; episodeRating ]
 |> Chart.Combo
 |> Chart.WithOptions (Options(series = [| Series("lines"); Series("lines") |]))
 |> Chart.WithLabels ["Sentiment"; "Rating"]
+|> Chart.WithTitle "Sentiment and Rating per Episode"
 |> Chart.Show
 
+// Is there a relation between the overall sentiment of the episode and it's rating?
+let sentimentRatingCorrelation =
+    let ratingMap = episodeRating |> Map.ofSeq
+    episodeSentiment
+    |> Seq.map (fun (episode, sentiment) -> (sentiment, ratingMap.[episode]))
 
+Correlation.Pearson(sentimentRatingCorrelation |> Seq.map (fun (x, y) -> x), sentimentRatingCorrelation |> Seq.map (fun (x, y) -> y))
+// = 0.2431042798 - Slight preference for slightly higher sentiment
+
+// Is there a relation between the number of lines spoken in the episode and it's rating?
+let episodeLines =
+    sentiment.Rows
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00"))) 
+    |> Seq.map (fun (episode, l) -> (episode, l |> Seq.length))
+
+let linesRatingCorrelation =
+    let ratingMap = episodeRating |> Map.ofSeq
+    episodeLines
+    |> Seq.map (fun (episode, lines) -> ((float)lines, ratingMap.[episode]))
+
+linesRatingCorrelation
+|> Chart.Scatter
+|> Chart.Show
     
-lineSentiment
+Correlation.Pearson(linesRatingCorrelation |> Seq.map (fun (x, y) -> x), linesRatingCorrelation |> Seq.map (fun (x, y) -> y))
+// = 0.3495885281 - Slight preference for more lines spoken by main characters
+
+// Is there a relation between the number of lines spoken by a specific character in the episode and it's rating?
+let characterEpisodeLines =
+    let ratingMap = episodeRating |> Map.ofSeq
+    sentiment.Rows
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00")))
+    |> Seq.collect (fun (episode, lines) -> 
+        lines 
+        |> Seq.groupBy (fun l -> l.Character) 
+        |> Seq.map (fun (character, l) -> (episode, character, (float) (l |> Seq.length) / (float) (lines |> Seq.length), ratingMap.[episode])))
+
+let characterLinesRatingCorrelation =
+    characterEpisodeLines
+    |> Seq.groupBy (fun (episode, character, lines, rating) -> character)
+    |> Seq.map (fun (character, lines) -> (character, Correlation.Pearson(lines |> Seq.map (fun (episode, character, lines, rating) -> lines), lines |> Seq.map (fun (episode, character, lines, rating) -> rating))))
+
+characterLinesRatingCorrelation
 |> Seq.iter (printfn "%A")
 
-lineSentiment
-|> Chart.Combo
+//("RIMMER", 0.0196026356)
+//("LISTER", -0.4264463093)
+//("HOLLY", 0.1802471242)
+//("CAT", 0.05041982047)
+//("KRYTEN", -0.1199299379)
+
+// Strong preference for Lister to have fewer lines
+
+let characterEpisodeLabels = 
+    characterEpisodeLines
+    |> Seq.groupBy (fun (episode, character, lines, rating) -> character)
+    |> Seq.map (fun (character, rows) -> character)
+
+characterEpisodeLines
+|> Seq.groupBy (fun (episode, character, lines, rating) -> character)
+|> Seq.map (fun (character, rows) -> rows |> Seq.map (fun (episode, character, lines, rating) -> (lines, rating)))
+|> Chart.Scatter
+|> Chart.WithLabels characterEpisodeLabels
+|> Chart.Show
+
+sentiment.Rows
+|> Seq.iter (printfn "%A")
+
+// Is there a relation between the average sentiment expressed by a specific character in the episode and it's rating?
+let characterEpisodeSentiment =
+    let ratingMap = episodeRating |> Map.ofSeq
+    sentiment.Rows
+    |> Seq.groupBy(fun l -> sprintf "S%sE%s" (l.Season.ToString("00")) (l.Episode.ToString("00")))
+    |> Seq.collect (fun (episode, lines) -> 
+        lines 
+        |> Seq.groupBy (fun l -> l.Character) 
+        |> Seq.map (fun (character, l) -> (episode, character, (l |> Seq.averageBy(fun r -> (r.Sentiment + 1.0) / 2.0)) / (float) (lines |> Seq.length), ratingMap.[episode])))
+
+let characterSentimentRatingCorrelation =
+    characterEpisodeLines
+    |> Seq.groupBy (fun (episode, character, lines, rating) -> character)
+    |> Seq.map (fun (character, lines) -> (character, Correlation.Pearson(lines |> Seq.map (fun (episode, character, lines, rating) -> lines), lines |> Seq.map (fun (episode, character, lines, rating) -> rating))))
+
+characterLinesRatingCorrelation
+|> Seq.iter (printfn "%A")
+
+//("RIMMER", 0.0196026356)
+//("LISTER", -0.4264463093)
+//("HOLLY", 0.1802471242)
+//("CAT", 0.05041982047)
+//("KRYTEN", -0.1199299379)
+
+// Strong preference for Lister to be relatively negative
+// Slight preference for Holly to be positive
+// Slight preference for Kryten to be negative
+
+let characterEpisodeSentimentLabels = 
+    characterEpisodeSentiment
+    |> Seq.groupBy (fun (episode, character, lines, rating) -> character)
+    |> Seq.map (fun (character, rows) -> character)
+
+characterEpisodeSentiment
+|> Seq.groupBy (fun (episode, character, sentiment, rating) -> character)
+|> Seq.where (fun (character, rows) -> character = "LISTER")
+|> Seq.map (fun (character, rows) -> rows |> Seq.map (fun (episode, character, sentiment, rating) -> (sentiment, rating)))
+|> Chart.Scatter
+|> Chart.WithLabel "LISTER"
+|> Chart.Show
+
+characterEpisodeSentiment
+|> Seq.where (fun (episode, character, sentiment, rating) -> character = "LISTER")
+|> Seq.sortByDescending (fun (episode, character, sentiment, rating) -> sentiment)
+|> Seq.iter (printfn "%A")
